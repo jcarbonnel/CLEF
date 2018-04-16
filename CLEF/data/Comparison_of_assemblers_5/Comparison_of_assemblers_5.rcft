@@ -1,0 +1,30 @@
+FormalContext ctx
+algo fca
+| |open source|x86-64|active development|os:windows|os:dos|os:linux|os:minix|os:unix-like|os:os/2|os:unix system v|os:cp/m-86|os:isis|os:irmx|os:freebsd|os:mac os x|os:pc/ix|os:windows mobile|os:*|os:xenix|license:proprietary|license:bsd|license:free|license:gpl|license:sybase open watcom public license|license:microsoft eula|license:*|
+|a86/a386||||x|x|||||||||||||||x|||||||
+|ack|x||x|||x|x|x|||||||||||||x||||||
+|arrowsoft assembler|||||x|||||||||||||||||x|||||
+|ibm alp|||||||||x|||||||||||x|||||||
+|at&t|||x|||||||x||||||||||x|||||||
+|bruce d. evans' as86|x|||||x|x||||||||||||||||x||||
+|digital research asm86|||||x||||||x|x|x|||||||x|||||||
+|develsoftware assembler||||x||x||x||||||||||||||x|||||
+|fasm|x|x|x|x|x|x||x|||||||||||||x||||||
+|gas|x|x|x|x|x|||x|x||||||||||||||x||||
+|goasm||x|x|x||||||||||||||||||x|||||
+|hla|x||x|x||x||||||||x|x|||||||x|||||
+|jwasm|x|x|x|x|x|x|||x|||||x||||||||||x|||
+|lzasm||||x|x|||||||||||||||||x|||||
+|masm||x|x|x|x||||x||||||||||||||||x||
+|mical a86|x||||x|||x||||||||x||||||||||x|
+|nasm|x|x|x|x|x|x|||x||||||x||||||x||||||
+|tim paterson's asm|||||x|||||||||||||||x|||||||
+|poasm||x|x|x|||||||||||||x|||||x|||||
+|rosasm|x|||x|||||||||||||||||||x||||
+|slr's optasm|||||x|||||||||||||||x|||||||
+|tasm||||x|x|||||||||||||||x|||||||
+|wasm|x|||x|x||||x|||||||||||||||x|||
+|tccasm|x|x|x|x||||x|||||||||||||||x||||
+|vasm|x||x|||||||||||||||x||||x|||||
+|xenix|||||||||||||||||||x|x|||||||
+|yasm|x|x|x|x|x|x||x|||||||||||||x||||||

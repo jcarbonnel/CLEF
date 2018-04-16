@@ -1,0 +1,135 @@
+(0.2391304347826087)	linux ->! first public release:[2004-2008]
+(0.1956521739130435)	mac os x ->! first public release:[2004-2008]
+(0.17391304347826086)	open source ->! cost:non-free
+(0.17391304347826086)	mac os x ->! framework:.net
+(0.17391304347826086)	linux ->! framework:.net
+(0.17391304347826086)	first public release:[1999-2006] ->! framework:.net
+(0.17391304347826086)	cost:non-free ->! license:gpl
+(0.15217391304347827)	first public release:[2008-2011] ->! cost:non-free
+(0.13043478260869565)	open source ->! license:shareware
+(0.13043478260869565)	mac os x ->! first public release:[2010-2012]
+(0.13043478260869565)	first public release:[2008-2011] ->! license:shareware
+(0.13043478260869565)	first public release:* ->! license:shareware
+(0.10869565217391304)	open source ->! first public release:[2013-2014]
+(0.10869565217391304)	first public release:[2013-2014] ->! license:gpl
+(0.10869565217391304)	first public release:[2009-2011] ->! framework:*
+(0.10869565217391304)	first public release:[2003-2006] ->! framework:java
+(0.10869565217391304)	first public release:* ->! framework:java
+(0.08695652173913043)	open source ->! license:proprietary
+(0.08695652173913043)	license:proprietary ->! framework:.net
+(0.08695652173913043)	first public release:[2004-2012] ->! license:proprietary
+(0.08695652173913043)	first public release:[2004-2006] ->! license:shareware
+(0.08695652173913043)	first public release:[2004-2006] ->! cost:non-free
+(0.08695652173913043)	first public release:[1999-2002] ->! license:shareware
+(0.08695652173913043)	first public release:[1999-2002] ->! license:proprietary
+(0.08695652173913043)	first public release:[1999-2002] ->! cost:non-free
+(0.08695652173913043)	first public release:2012 ->! framework:.net
+(0.08695652173913043)	cost:free ->! license:proprietary
+(0.06521739130434782)	open source ->! framework:vcl
+(0.06521739130434782)	mac os x ->! framework:vcl
+(0.06521739130434782)	linux ->! framework:vcl
+(0.06521739130434782)	license:shareware ->! framework:vcl
+(0.06521739130434782)	license:proprietary ->! framework:vcl
+(0.06521739130434782)	license:gpl ->! framework:vcl
+(0.06521739130434782)	license:* ->! framework:vcl
+(0.06521739130434782)	license:* ->! framework:java
+(0.06521739130434782)	license:* ->! framework:.net
+(0.06521739130434782)	first public release:[2011-2014] ->! framework:vcl
+(0.06521739130434782)	first public release:[2007-2008] ->! framework:vcl
+(0.06521739130434782)	first public release:[1999-2014] ->! license:*
+(0.06521739130434782)	first public release:[1999-2004] ->! framework:vcl
+(0.06521739130434782)	first public release:2013 ->! framework:*
+(0.06521739130434782)	first public release:* ->! framework:vcl
+(0.06521739130434782)	cost:non-free ->! license:*
+(0.06521739130434782)	cost:non-free ->! framework:vcl
+(0.043478260869565216)	open source ->! first public release:[2010-2011]
+(0.043478260869565216)	mac os x ->! first public release:[1999-2000]
+(0.043478260869565216)	linux ->! first public release:[2010-2011]
+(0.043478260869565216)	license:shareware ->! framework:c
+(0.043478260869565216)	license:proprietary ->! framework:c
+(0.043478260869565216)	license:gpl ->! framework:c
+(0.043478260869565216)	first public release:[2010-2011] ->! license:gpl
+(0.043478260869565216)	first public release:[2010-2011] ->! framework:java
+(0.043478260869565216)	first public release:[1999-2014] ->! framework:c
+(0.043478260869565216)	first public release:[1999-2000] ->! framework:java
+(0.043478260869565216)	first public release:2014 ->! license:proprietary
+(0.043478260869565216)	first public release:2014 ->! framework:java
+(0.043478260869565216)	first public release:2014 ->! cost:non-free
+(0.043478260869565216)	first public release:2008 ->! license:gpl
+(0.043478260869565216)	first public release:2008 ->! framework:java
+(0.043478260869565216)	cost:non-free ->! framework:c
+(0.021739130434782608)	windows ->! framework:qt
+(0.021739130434782608)	open source ->! license:donationware
+(0.021739130434782608)	open source ->! first public release:1999
+(0.021739130434782608)	mac os x ->! license:donationware
+(0.021739130434782608)	mac os x ->! license:bsd
+(0.021739130434782608)	mac os x ->! framework:qt
+(0.021739130434782608)	mac os x ->! framework:python
+(0.021739130434782608)	mac os x ->! framework:gtk
+(0.021739130434782608)	mac os x ->! framework:delphi
+(0.021739130434782608)	linux ->! license:donationware
+(0.021739130434782608)	linux ->! license:bsd
+(0.021739130434782608)	linux ->! framework:delphi
+(0.021739130434782608)	license:public domain ->! framework:vcl
+(0.021739130434782608)	license:public domain ->! framework:qt
+(0.021739130434782608)	license:public domain ->! framework:python
+(0.021739130434782608)	license:public domain ->! framework:java
+(0.021739130434782608)	license:public domain ->! framework:gtk
+(0.021739130434782608)	license:public domain ->! framework:delphi
+(0.021739130434782608)	license:public domain ->! framework:c
+(0.021739130434782608)	license:public domain ->! framework:.net
+(0.021739130434782608)	license:proprietary ->! framework:qt
+(0.021739130434782608)	license:proprietary ->! framework:python
+(0.021739130434782608)	license:proprietary ->! framework:gtk
+(0.021739130434782608)	license:proprietary ->! framework:delphi
+(0.021739130434782608)	license:freeware ->! framework:qt
+(0.021739130434782608)	license:freeware ->! framework:python
+(0.021739130434782608)	license:freeware ->! framework:gtk
+(0.021739130434782608)	license:freeware ->! framework:delphi
+(0.021739130434782608)	license:donationware ->! framework:vcl
+(0.021739130434782608)	license:donationware ->! framework:java
+(0.021739130434782608)	license:donationware ->! framework:c
+(0.021739130434782608)	license:donationware ->! framework:.net
+(0.021739130434782608)	license:bsd ->! framework:vcl
+(0.021739130434782608)	license:bsd ->! framework:qt
+(0.021739130434782608)	license:bsd ->! framework:python
+(0.021739130434782608)	license:bsd ->! framework:java
+(0.021739130434782608)	license:bsd ->! framework:gtk
+(0.021739130434782608)	license:bsd ->! framework:delphi
+(0.021739130434782608)	license:bsd ->! framework:c
+(0.021739130434782608)	license:bsd ->! framework:.net
+(0.021739130434782608)	license:* ->! framework:qt
+(0.021739130434782608)	license:* ->! framework:python
+(0.021739130434782608)	license:* ->! framework:gtk
+(0.021739130434782608)	license:* ->! framework:delphi
+(0.021739130434782608)	first public release:[2013-2014] ->! framework:qt
+(0.021739130434782608)	first public release:[2009-2014] ->! license:bsd
+(0.021739130434782608)	first public release:[2008-2014] ->! license:donationware
+(0.021739130434782608)	first public release:[2004-2014] ->! license:public domain
+(0.021739130434782608)	first public release:[2004-2014] ->! framework:gtk
+(0.021739130434782608)	first public release:[2002-2014] ->! framework:python
+(0.021739130434782608)	first public release:[1999-2014] ->! framework:delphi
+(0.021739130434782608)	first public release:[1999-2011] ->! framework:qt
+(0.021739130434782608)	first public release:[1999-2007] ->! license:bsd
+(0.021739130434782608)	first public release:[1999-2006] ->! license:donationware
+(0.021739130434782608)	first public release:[1999-2002] ->! license:public domain
+(0.021739130434782608)	first public release:[1999-2002] ->! framework:gtk
+(0.021739130434782608)	first public release:2010 ->! framework:.net
+(0.021739130434782608)	first public release:2004 ->! license:freeware
+(0.021739130434782608)	first public release:2000 ->! license:freeware
+(0.021739130434782608)	first public release:2000 ->! framework:*
+(0.021739130434782608)	first public release:1999 ->! license:gpl
+(0.021739130434782608)	first public release:1999 ->! framework:python
+(0.021739130434782608)	first public release:* ->! license:public domain
+(0.021739130434782608)	first public release:* ->! license:donationware
+(0.021739130434782608)	first public release:* ->! license:bsd
+(0.021739130434782608)	first public release:* ->! framework:qt
+(0.021739130434782608)	first public release:* ->! framework:python
+(0.021739130434782608)	first public release:* ->! framework:gtk
+(0.021739130434782608)	cost:non-free ->! license:public domain
+(0.021739130434782608)	cost:non-free ->! license:donationware
+(0.021739130434782608)	cost:non-free ->! license:bsd
+(0.021739130434782608)	cost:non-free ->! framework:qt
+(0.021739130434782608)	cost:non-free ->! framework:python
+(0.021739130434782608)	cost:non-free ->! framework:gtk
+(0.021739130434782608)	cost:non-free ->! framework:delphi

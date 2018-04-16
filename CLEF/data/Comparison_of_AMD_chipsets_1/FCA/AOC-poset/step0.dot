@@ -1,0 +1,215 @@
+digraph G { 
+	rankdir=BT;
+subgraph ctx { 
+label="ctx";
+1 [shape=record,label="{Concept_ctx_0|codename:*\nfabrication process (nanometer):[110-55]\nfabrication process (nanometer):[110-65]\nfabrication process (nanometer):[110-80]\nhyper transport (MHz):[2600-800]\nhyper transport (MHz):[2200-800]\nhyper transport (MHz):[1000-800]\nhyper transport (MHz):*\nsouthbridge:*\n|}"];
+2 [shape=record,label="{Concept_ctx_22|codename:rd480\ncpu support:athlon 64\nfabrication process (nanometer):110\nsouthbridge:uli-m1575\n|amd 480x chipset\n}"];
+3 [shape=record,label="{Concept_ctx_12|codename:rs740\ngrahic processing unit:radeon 2100\n|amd 740g chipset\n}"];
+4 [shape=record,label="{Concept_ctx_11|codename:rs780l\ngrahic processing unit:radeon 3000\n|amd 760g chipset\n}"];
+5 [shape=record,label="{Concept_ctx_10|codename:rx780\n|amd 770 chipset\n}"];
+6 [shape=record,label="{Concept_ctx_9|codename:rs780c\n|amd 780v chipset\n}"];
+7 [shape=record,label="{Concept_ctx_8|codename:rs780i\n|amd 780g chipset\n}"];
+8 [shape=record,label="{Concept_ctx_7|codename:rs780mc\n|amd m780v chipset\n}"];
+9 [shape=record,label="{Concept_ctx_6|codename:rs780m\n|amd m780g chipset\n}"];
+10 [shape=record,label="{Concept_ctx_5|codename:rs880\n|amd 785g chipset\n}"];
+11 [shape=record,label="{Concept_ctx_4|codename:rs785e\nreleased:*\ncpu support:*\nhyper transport (MHz):2200\nsouthbridge:sb820m\n|785e\n}"];
+12 [shape=record,label="{Concept_ctx_3|codename:rs780d\ngrahic processing unit:radeon hd 3300\n|amd 790gx chipset\n}"];
+13 [shape=record,label="{Concept_ctx_21|codename:rd570\n|amd 570x/550x chipset\n}"];
+14 [shape=record,label="{Concept_ctx_2|codename:rd780\n|amd 790x chipset\n}"];
+15 [shape=record,label="{Concept_ctx_1|codename:rd790\n|amd 790fx chipset\n}"];
+16 [shape=record,label="{Concept_ctx_20|codename:rd580\n|amd 580x chipset\n}"];
+17 [shape=record,label="{Concept_ctx_14|grahic processing unit:radeon x1270 (400mhz)\n|amd m690t chipset\n}"];
+18 [shape=record,label="{Concept_ctx_15|cpu support:mobile sempron\ngrahic processing unit:radeon x1250 (350mhz)\n|amd m690e chipset\n}"];
+19 [shape=record,label="{Concept_ctx_19|codename:rs690c\ngrahic processing unit:radeon x1200 (350mhz)\n|amd 690v chipset\n}"];
+20 [shape=record,label="{Concept_ctx_18|codename:rs690\ngrahic processing unit:radeon x1250 (400mhz)\n|amd 690g chipset\n}"];
+21 [shape=record,label="{Concept_ctx_17|codename:rs690mc\ngrahic processing unit:radeon x1200 (350 mhz)\n|amd m690v chipset\n}"];
+22 [shape=record,label="{Concept_ctx_16|codename:rs690m\ngrahic processing unit:radeon x1250 (350 mhz)\n|amd m690 chipset\n}"];
+23 [shape=record,label="{Concept_ctx_13|codename:rx740\n|amd 740 chipset\n}"];
+24 [shape=record,label="{Concept_ctx_30|released:2006\n|}"];
+25 [shape=record,label="{Concept_ctx_27|released:2009\n|}"];
+26 [shape=record,label="{Concept_ctx_24|cpu support:mobile turion\ncpu support:mobile athlon\n|}"];
+27 [shape=record,label="{Concept_ctx_29|fabrication process (nanometer):*\n|}"];
+28 [shape=record,label="{Concept_ctx_26|grahic processing unit:radeon 3100\n|}"];
+29 [shape=record,label="{Concept_ctx_25|grahic processing unit:radeon hd 3200\n|}"];
+30 [shape=record,label="{Concept_ctx_23|grahic processing unit:radeon hd 4200\nsouthbridge:sb810\n|}"];
+31 [shape=record,label="{Concept_ctx_28|codename:rs690t\n|}"];
+32 [shape=record,label="{Concept_ctx_33|cpu support:turion 64 x2\ncpu support:athlon 64 x2 mobile\n|}"];
+33 [shape=record,label="{Concept_ctx_32|cpu support:athlon neo\n|}"];
+34 [shape=record,label="{Concept_ctx_31|fabrication process (nanometer):65\n|}"];
+35 [shape=record,label="{Concept_ctx_35|hyper transport (MHz):800\n|}"];
+36 [shape=record,label="{Concept_ctx_34|southbridge:sb850\n|}"];
+37 [shape=record,label="{Concept_ctx_36|fabrication process (nanometer):80\n|}"];
+38 [shape=record,label="{Concept_ctx_39|hyper transport (MHz):1000\n|}"];
+39 [shape=record,label="{Concept_ctx_38|grahic processing unit:*\n|}"];
+40 [shape=record,label="{Concept_ctx_37|southbridge:sb710\n|}"];
+41 [shape=record,label="{Concept_ctx_41|released:2007\n|}"];
+42 [shape=record,label="{Concept_ctx_42|hyper transport (MHz):[1000-2200]\n|}"];
+43 [shape=record,label="{Concept_ctx_40|southbridge:sb700\n|}"];
+44 [shape=record,label="{Concept_ctx_44|released:2008\n|}"];
+45 [shape=record,label="{Concept_ctx_45|fabrication process (nanometer):[65-80]\n|}"];
+46 [shape=record,label="{Concept_ctx_43|southbridge:sb750\n|}"];
+47 [shape=record,label="{Concept_ctx_48|released:[2006-2007]\n|}"];
+48 [shape=record,label="{Concept_ctx_47|fabrication process (nanometer):55\n|}"];
+49 [shape=record,label="{Concept_ctx_46|hyper transport (MHz):2600\n|}"];
+50 [shape=record,label="{Concept_ctx_50|released:[2008-2009]\n|}"];
+51 [shape=record,label="{Concept_ctx_49|hyper transport (MHz):[2200-2600]\n|}"];
+52 [shape=record,label="{Concept_ctx_52|cpu support:phenom\n|}"];
+53 [shape=record,label="{Concept_ctx_51|fabrication process (nanometer):[55-65]\n|}"];
+54 [shape=record,label="{Concept_ctx_53|cpu support:athlon 64\n|}"];
+55 [shape=record,label="{Concept_ctx_54|cpu support:sempron\n|}"];
+56 [shape=record,label="{Concept_ctx_55|southbridge:sb600\n|}"];
+57 [shape=record,label="{Concept_ctx_56|released:[2007-2008]\n|}"];
+58 [shape=record,label="{Concept_ctx_57|hyper transport (MHz):[1000-2600]\n|}"];
+59 [shape=record,label="{Concept_ctx_60|released:[2006-2008]\n|}"];
+60 [shape=record,label="{Concept_ctx_59|released:[2007-2009]\n|}"];
+61 [shape=record,label="{Concept_ctx_58|fabrication process (nanometer):[55-80]\n|}"];
+62 [shape=record,label="{Concept_ctx_61|released:[2006-2009]\n|}"];
+	1 -> 2
+	1 -> 3
+	1 -> 4
+	1 -> 5
+	1 -> 6
+	1 -> 7
+	1 -> 8
+	1 -> 9
+	1 -> 10
+	1 -> 11
+	1 -> 12
+	1 -> 13
+	1 -> 14
+	1 -> 15
+	1 -> 16
+	1 -> 17
+	1 -> 18
+	1 -> 19
+	1 -> 20
+	1 -> 21
+	1 -> 22
+	1 -> 23
+	2 -> 24
+	16 -> 24
+	4 -> 25
+	10 -> 25
+	8 -> 26
+	9 -> 26
+	16 -> 27
+	13 -> 27
+	6 -> 28
+	8 -> 28
+	7 -> 29
+	9 -> 29
+	11 -> 30
+	10 -> 30
+	17 -> 31
+	18 -> 31
+	21 -> 32
+	17 -> 32
+	22 -> 32
+	26 -> 33
+	18 -> 33
+	15 -> 34
+	5 -> 34
+	14 -> 34
+	31 -> 35
+	32 -> 35
+	15 -> 36
+	30 -> 36
+	14 -> 36
+	20 -> 37
+	19 -> 37
+	35 -> 37
+	27 -> 38
+	20 -> 38
+	23 -> 38
+	19 -> 38
+	3 -> 38
+	24 -> 38
+	27 -> 39
+	23 -> 39
+	24 -> 39
+	34 -> 39
+	26 -> 40
+	25 -> 40
+	29 -> 40
+	28 -> 40
+	5 -> 40
+	37 -> 41
+	15 -> 41
+	13 -> 41
+	11 -> 42
+	38 -> 42
+	23 -> 43
+	26 -> 43
+	29 -> 43
+	5 -> 43
+	3 -> 43
+	28 -> 43
+	14 -> 43
+	43 -> 44
+	12 -> 44
+	34 -> 45
+	37 -> 45
+	23 -> 46
+	7 -> 46
+	10 -> 46
+	6 -> 46
+	3 -> 46
+	12 -> 46
+	34 -> 46
+	27 -> 47
+	41 -> 47
+	24 -> 47
+	23 -> 48
+	26 -> 48
+	29 -> 48
+	30 -> 48
+	25 -> 48
+	3 -> 48
+	28 -> 48
+	12 -> 48
+	40 -> 49
+	12 -> 49
+	34 -> 49
+	40 -> 50
+	44 -> 50
+	49 -> 51
+	36 -> 51
+	20 -> 52
+	46 -> 52
+	27 -> 52
+	25 -> 52
+	48 -> 53
+	51 -> 53
+	50 -> 53
+	46 -> 53
+	19 -> 54
+	52 -> 54
+	54 -> 55
+	38 -> 55
+	39 -> 55
+	47 -> 56
+	45 -> 56
+	33 -> 56
+	38 -> 56
+	39 -> 56
+	44 -> 57
+	33 -> 57
+	45 -> 57
+	41 -> 57
+	42 -> 58
+	55 -> 58
+	53 -> 58
+	56 -> 59
+	57 -> 59
+	57 -> 60
+	50 -> 60
+	49 -> 60
+	46 -> 60
+	45 -> 61
+	33 -> 61
+	53 -> 61
+	60 -> 62
+	59 -> 62
+	55 -> 62
+}
+}

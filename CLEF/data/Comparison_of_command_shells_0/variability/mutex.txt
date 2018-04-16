@@ -1,0 +1,760 @@
+(0.25)	usually invoked:sh ->! introduced:[1993-2006]
+(0.25)	usually invoked:sh ->! introduced:[1978-1988]
+(0.25)	iso 8601 support ->! introduced:[1975-1980]
+(0.25)	console redirection ->! introduced:[1993-2006]
+(0.20833333333333334)	introduced:[1990-1993] ->! license:bsd
+(0.16666666666666666)	usually invoked:sh ->! user interface:*
+(0.16666666666666666)	usual environment:posix ->! introduced:[1975-1977]
+(0.16666666666666666)	platform-independent ->! introduced:[1992-1993]
+(0.16666666666666666)	mouse support ->! usually invoked:sh
+(0.16666666666666666)	mouse support ->! user interface:*
+(0.16666666666666666)	mouse support ->! license:bsd
+(0.16666666666666666)	mouse support ->! introduced:[1975-1988]
+(0.16666666666666666)	logging ->! user interface:*
+(0.16666666666666666)	iso 8601 support ->! user interface:*
+(0.16666666666666666)	introduced:[1994-2006] ->! user interface:text-based cli
+(0.16666666666666666)	introduced:[1990-1993] ->! user interface:*
+(0.16666666666666666)	introduced:[1975-1988] ->! user interface:*
+(0.16666666666666666)	introduced:[1975-1977] ->! license:bsd
+(0.16666666666666666)	console redirection ->! user interface:*
+(0.16666666666666666)	configurability ->! user interface:*
+(0.16666666666666666)	batch scripts ->! user interface:*
+(0.125)	usually invoked:sh ->! license:ms-eula
+(0.125)	usually invoked:csh ->! user interface:*
+(0.125)	usually invoked:csh ->! license:ms-eula
+(0.125)	usually invoked:csh ->! license:gpl
+(0.125)	usually invoked:csh ->! license:free
+(0.125)	usually invoked:csh ->! introduced:[1989-2006]
+(0.125)	usually invoked:csh ->! introduced:[1975-1977]
+(0.125)	usually invoked:cmd ->! user interface:*
+(0.125)	usually invoked:cmd ->! license:free
+(0.125)	usually invoked:cmd ->! introduced:[1994-2006]
+(0.125)	usually invoked:cmd ->! introduced:[1988-1992]
+(0.125)	usually invoked:cmd ->! introduced:[1975-1978]
+(0.125)	usual environment:win32 ->! usually invoked:sh
+(0.125)	usual environment:win32 ->! user interface:*
+(0.125)	usual environment:win32 ->! license:gpl
+(0.125)	usual environment:win32 ->! license:free
+(0.125)	usual environment:win32 ->! license:bsd
+(0.125)	usual environment:win32 ->! introduced:[1994-2006]
+(0.125)	usual environment:win32 ->! introduced:[1989-1992]
+(0.125)	usual environment:win32 ->! introduced:[1975-1987]
+(0.125)	usual environment:posix ->! usually invoked:cmd
+(0.125)	usual environment:posix ->! license:ms-eula
+(0.125)	usual environment:posix ->! license:free
+(0.125)	usual environment:os/2 ->! usually invoked:sh
+(0.125)	usual environment:os/2 ->! user interface:*
+(0.125)	usual environment:os/2 ->! license:ms-eula
+(0.125)	usual environment:os/2 ->! license:gpl
+(0.125)	usual environment:os/2 ->! license:bsd
+(0.125)	usual environment:os/2 ->! introduced:[1993-2006]
+(0.125)	usual environment:os/2 ->! introduced:[1989-1990]
+(0.125)	usual environment:os/2 ->! introduced:[1975-1983]
+(0.125)	unicode support ->! usually invoked:cmd
+(0.125)	unicode support ->! usual environment:os/2
+(0.125)	source code availability ->! usually invoked:cmd
+(0.125)	source code availability ->! usual environment:win32
+(0.125)	source code availability ->! license:ms-eula
+(0.125)	platform-independent ->! usually invoked:cmd
+(0.125)	platform-independent ->! license:ms-eula
+(0.125)	mouse support ->! usually invoked:csh
+(0.125)	mouse support ->! usually invoked:cmd
+(0.125)	mouse support ->! usual environment:os/2
+(0.125)	mouse support ->! license:gpl
+(0.125)	mouse support ->! license:free
+(0.125)	mouse support ->! introduced:[1994-2005]
+(0.125)	logging ->! usually invoked:cmd
+(0.125)	logging ->! introduced:[1994-2005]
+(0.125)	license:ms-eula ->! user interface:*
+(0.125)	license:free ->! user interface:*
+(0.125)	iso 8601 support ->! usually invoked:cmd
+(0.125)	iso 8601 support ->! license:free
+(0.125)	iso 8601 support ->! introduced:[1994-2005]
+(0.125)	introduced:[2005-2006] ->! license:bsd
+(0.125)	introduced:[1994-2005] ->! license:ms-eula
+(0.125)	introduced:[1993-2006] ->! license:free
+(0.125)	introduced:[1990-1994] ->! license:gpl
+(0.125)	introduced:[1983-1992] ->! license:ms-eula
+(0.125)	introduced:[1983-1988] ->! license:gpl
+(0.125)	introduced:[1978-1990] ->! license:free
+(0.125)	introduced:[1975-1978] ->! license:ms-eula
+(0.125)	introduced:[1975-1978] ->! license:gpl
+(0.125)	configurability ->! introduced:[1994-2005]
+(0.125)	batch scripts ->! introduced:[1994-2005]
+(0.08333333333333333)	usually invoked:sh ->! license:mit
+(0.08333333333333333)	usually invoked:ksh ->! user interface:*
+(0.08333333333333333)	usually invoked:ksh ->! license:proprietary
+(0.08333333333333333)	usually invoked:ksh ->! license:ms-eula
+(0.08333333333333333)	usually invoked:ksh ->! license:mit
+(0.08333333333333333)	usually invoked:ksh ->! license:gpl
+(0.08333333333333333)	usually invoked:ksh ->! license:free
+(0.08333333333333333)	usually invoked:ksh ->! license:bsd
+(0.08333333333333333)	usually invoked:ksh ->! license:*
+(0.08333333333333333)	usually invoked:ksh ->! introduced:[1990-2006]
+(0.08333333333333333)	usually invoked:ksh ->! introduced:[1987-1988]
+(0.08333333333333333)	usually invoked:ksh ->! introduced:[1975-1980]
+(0.08333333333333333)	usually invoked:csh ->! license:mit
+(0.08333333333333333)	usually invoked:csh ->! license:common public license
+(0.08333333333333333)	usually invoked:csh ->! license:*
+(0.08333333333333333)	usually invoked:cmd ->! license:proprietary
+(0.08333333333333333)	usually invoked:cmd ->! license:mit
+(0.08333333333333333)	usually invoked:cmd ->! license:common public license
+(0.08333333333333333)	usually invoked:cmd ->! license:*
+(0.08333333333333333)	usually invoked:cmd ->! introduced:1983
+(0.08333333333333333)	usually invoked:* ->! license:proprietary
+(0.08333333333333333)	usually invoked:* ->! license:ms-eula
+(0.08333333333333333)	usually invoked:* ->! license:mit
+(0.08333333333333333)	usually invoked:* ->! license:gpl
+(0.08333333333333333)	usually invoked:* ->! license:free
+(0.08333333333333333)	usually invoked:* ->! license:common public license
+(0.08333333333333333)	usually invoked:* ->! license:bsd
+(0.08333333333333333)	usually invoked:* ->! introduced:[1978-1994]
+(0.08333333333333333)	usual environment:win32 ->! usually invoked:ksh
+(0.08333333333333333)	usual environment:win32 ->! usually invoked:*
+(0.08333333333333333)	usual environment:win32 ->! license:mit
+(0.08333333333333333)	usual environment:win32 ->! license:common public license
+(0.08333333333333333)	usual environment:win32 ->! license:*
+(0.08333333333333333)	usual environment:unix ->! usually invoked:ksh
+(0.08333333333333333)	usual environment:unix ->! usually invoked:csh
+(0.08333333333333333)	usual environment:unix ->! usually invoked:cmd
+(0.08333333333333333)	usual environment:unix ->! usually invoked:*
+(0.08333333333333333)	usual environment:unix ->! user interface:*
+(0.08333333333333333)	usual environment:unix ->! license:ms-eula
+(0.08333333333333333)	usual environment:unix ->! license:mit
+(0.08333333333333333)	usual environment:unix ->! license:gpl
+(0.08333333333333333)	usual environment:unix ->! license:common public license
+(0.08333333333333333)	usual environment:unix ->! license:bsd
+(0.08333333333333333)	usual environment:unix ->! license:*
+(0.08333333333333333)	usual environment:unix ->! introduced:[1978-2006]
+(0.08333333333333333)	usual environment:posix ->! usually invoked:*
+(0.08333333333333333)	usual environment:posix ->! license:proprietary
+(0.08333333333333333)	usual environment:posix ->! introduced:[1987-1988]
+(0.08333333333333333)	usual environment:posix ->! introduced:1993
+(0.08333333333333333)	usual environment:os/2 ->! usually invoked:ksh
+(0.08333333333333333)	usual environment:os/2 ->! usually invoked:*
+(0.08333333333333333)	usual environment:os/2 ->! license:mit
+(0.08333333333333333)	usual environment:os/2 ->! license:common public license
+(0.08333333333333333)	usual environment:os/2 ->! license:*
+(0.08333333333333333)	usual environment:dos ->! usually invoked:sh
+(0.08333333333333333)	usual environment:dos ->! usually invoked:ksh
+(0.08333333333333333)	usual environment:dos ->! usually invoked:csh
+(0.08333333333333333)	usual environment:dos ->! usually invoked:*
+(0.08333333333333333)	usual environment:dos ->! user interface:*
+(0.08333333333333333)	usual environment:dos ->! license:proprietary
+(0.08333333333333333)	usual environment:dos ->! license:free
+(0.08333333333333333)	usual environment:dos ->! license:common public license
+(0.08333333333333333)	usual environment:dos ->! license:*
+(0.08333333333333333)	usual environment:dos ->! introduced:[1990-2006]
+(0.08333333333333333)	usual environment:dos ->! introduced:[1983-1988]
+(0.08333333333333333)	usual environment:dos ->! introduced:[1975-1978]
+(0.08333333333333333)	unicode support ->! usual environment:dos
+(0.08333333333333333)	unicode support ->! license:proprietary
+(0.08333333333333333)	unicode support ->! introduced:[1987-1988]
+(0.08333333333333333)	unicode support ->! introduced:[1978-1980]
+(0.08333333333333333)	source code availability ->! usually invoked:*
+(0.08333333333333333)	source code availability ->! license:*
+(0.08333333333333333)	source code availability ->! introduced:[1987-1988]
+(0.08333333333333333)	source code availability ->! introduced:1993
+(0.08333333333333333)	single file executable ->! license:*
+(0.08333333333333333)	single file executable ->! introduced:1992
+(0.08333333333333333)	platform-independent ->! usual environment:dos
+(0.08333333333333333)	mouse support ->! usually invoked:ksh
+(0.08333333333333333)	mouse support ->! usually invoked:*
+(0.08333333333333333)	mouse support ->! usual environment:unix
+(0.08333333333333333)	mouse support ->! license:proprietary
+(0.08333333333333333)	mouse support ->! license:common public license
+(0.08333333333333333)	mouse support ->! license:*
+(0.08333333333333333)	mouse support ->! introduced:1992
+(0.08333333333333333)	license:proprietary ->! user interface:*
+(0.08333333333333333)	license:mit ->! user interface:*
+(0.08333333333333333)	license:common public license ->! user interface:*
+(0.08333333333333333)	license:* ->! user interface:*
+(0.08333333333333333)	iso 8601 support ->! usually invoked:*
+(0.08333333333333333)	iso 8601 support ->! usual environment:unix
+(0.08333333333333333)	introduced:[1993-2006] ->! license:*
+(0.08333333333333333)	introduced:[1992-2006] ->! license:mit
+(0.08333333333333333)	introduced:[1990-2006] ->! license:common public license
+(0.08333333333333333)	introduced:[1989-2006] ->! license:proprietary
+(0.08333333333333333)	introduced:[1987-1988] ->! license:common public license
+(0.08333333333333333)	introduced:[1987-1988] ->! license:bsd
+(0.08333333333333333)	introduced:[1978-1990] ->! license:*
+(0.08333333333333333)	introduced:[1978-1987] ->! license:proprietary
+(0.08333333333333333)	introduced:[1975-1988] ->! license:mit
+(0.08333333333333333)	introduced:[1975-1980] ->! license:common public license
+(0.08333333333333333)	console redirection ->! usually invoked:*
+(0.08333333333333333)	configurability ->! usually invoked:*
+(0.041666666666666664)	usually invoked:zsh ->! user interface:graphical cli
+(0.041666666666666664)	usually invoked:zsh ->! user interface:*
+(0.041666666666666664)	usually invoked:zsh ->! license:shareware
+(0.041666666666666664)	usually invoked:zsh ->! license:proprietary
+(0.041666666666666664)	usually invoked:zsh ->! license:ms-eula
+(0.041666666666666664)	usually invoked:zsh ->! license:lpl
+(0.041666666666666664)	usually invoked:zsh ->! license:lgpl
+(0.041666666666666664)	usually invoked:zsh ->! license:ibm-eula
+(0.041666666666666664)	usually invoked:zsh ->! license:gpl
+(0.041666666666666664)	usually invoked:zsh ->! license:free
+(0.041666666666666664)	usually invoked:zsh ->! license:common public license
+(0.041666666666666664)	usually invoked:zsh ->! license:bsd
+(0.041666666666666664)	usually invoked:zsh ->! license:*
+(0.041666666666666664)	usually invoked:zsh ->! introduced:[1992-2006]
+(0.041666666666666664)	usually invoked:zsh ->! introduced:[1975-1989]
+(0.041666666666666664)	usually invoked:tcsh ->! license:proprietary
+(0.041666666666666664)	usually invoked:tcsh ->! introduced:[1987-2006]
+(0.041666666666666664)	usually invoked:tcsh ->! introduced:[1975-1980]
+(0.041666666666666664)	usually invoked:tcc ->! user interface:graphical cli
+(0.041666666666666664)	usually invoked:tcc ->! user interface:*
+(0.041666666666666664)	usually invoked:tcc ->! license:proprietary
+(0.041666666666666664)	usually invoked:tcc ->! license:ms-eula
+(0.041666666666666664)	usually invoked:tcc ->! license:mit
+(0.041666666666666664)	usually invoked:tcc ->! license:lpl
+(0.041666666666666664)	usually invoked:tcc ->! license:lgpl
+(0.041666666666666664)	usually invoked:tcc ->! license:ibm-eula
+(0.041666666666666664)	usually invoked:tcc ->! license:gpl
+(0.041666666666666664)	usually invoked:tcc ->! license:free
+(0.041666666666666664)	usually invoked:tcc ->! license:common public license
+(0.041666666666666664)	usually invoked:tcc ->! license:bsd
+(0.041666666666666664)	usually invoked:tcc ->! license:*
+(0.041666666666666664)	usually invoked:tcc ->! introduced:[1994-2006]
+(0.041666666666666664)	usually invoked:tcc ->! introduced:[1975-1992]
+(0.041666666666666664)	usually invoked:sh ->! user interface:graphical cli
+(0.041666666666666664)	usually invoked:sh ->! license:shareware
+(0.041666666666666664)	usually invoked:sh ->! license:lpl
+(0.041666666666666664)	usually invoked:sh ->! license:lgpl
+(0.041666666666666664)	usually invoked:sh ->! license:ibm-eula
+(0.041666666666666664)	usually invoked:sh ->! introduced:1990
+(0.041666666666666664)	usually invoked:sh ->! introduced:1975
+(0.041666666666666664)	usually invoked:scsh ->! user interface:text-based cli
+(0.041666666666666664)	usually invoked:scsh ->! user interface:graphical cli
+(0.041666666666666664)	usually invoked:scsh ->! license:shareware
+(0.041666666666666664)	usually invoked:scsh ->! license:proprietary
+(0.041666666666666664)	usually invoked:scsh ->! license:ms-eula
+(0.041666666666666664)	usually invoked:scsh ->! license:mit
+(0.041666666666666664)	usually invoked:scsh ->! license:lpl
+(0.041666666666666664)	usually invoked:scsh ->! license:lgpl
+(0.041666666666666664)	usually invoked:scsh ->! license:ibm-eula
+(0.041666666666666664)	usually invoked:scsh ->! license:gpl
+(0.041666666666666664)	usually invoked:scsh ->! license:free
+(0.041666666666666664)	usually invoked:scsh ->! license:common public license
+(0.041666666666666664)	usually invoked:scsh ->! license:*
+(0.041666666666666664)	usually invoked:scsh ->! introduced:[2005-2006]
+(0.041666666666666664)	usually invoked:scsh ->! introduced:[1975-1993]
+(0.041666666666666664)	usually invoked:rc ->! user interface:text-based cli
+(0.041666666666666664)	usually invoked:rc ->! user interface:graphical cli
+(0.041666666666666664)	usually invoked:rc ->! license:shareware
+(0.041666666666666664)	usually invoked:rc ->! license:proprietary
+(0.041666666666666664)	usually invoked:rc ->! license:ms-eula
+(0.041666666666666664)	usually invoked:rc ->! license:mit
+(0.041666666666666664)	usually invoked:rc ->! license:lgpl
+(0.041666666666666664)	usually invoked:rc ->! license:ibm-eula
+(0.041666666666666664)	usually invoked:rc ->! license:gpl
+(0.041666666666666664)	usually invoked:rc ->! license:free
+(0.041666666666666664)	usually invoked:rc ->! license:common public license
+(0.041666666666666664)	usually invoked:rc ->! license:bsd
+(0.041666666666666664)	usually invoked:rc ->! license:*
+(0.041666666666666664)	usually invoked:rc ->! introduced:[1990-2006]
+(0.041666666666666664)	usually invoked:rc ->! introduced:[1975-1988]
+(0.041666666666666664)	usually invoked:powershell ->! user interface:text-based cli
+(0.041666666666666664)	usually invoked:powershell ->! user interface:*
+(0.041666666666666664)	usually invoked:powershell ->! license:shareware
+(0.041666666666666664)	usually invoked:powershell ->! license:proprietary
+(0.041666666666666664)	usually invoked:powershell ->! license:mit
+(0.041666666666666664)	usually invoked:powershell ->! license:lpl
+(0.041666666666666664)	usually invoked:powershell ->! license:lgpl
+(0.041666666666666664)	usually invoked:powershell ->! license:ibm-eula
+(0.041666666666666664)	usually invoked:powershell ->! license:gpl
+(0.041666666666666664)	usually invoked:powershell ->! license:free
+(0.041666666666666664)	usually invoked:powershell ->! license:common public license
+(0.041666666666666664)	usually invoked:powershell ->! license:bsd
+(0.041666666666666664)	usually invoked:powershell ->! license:*
+(0.041666666666666664)	usually invoked:powershell ->! introduced:[1975-2005]
+(0.041666666666666664)	usually invoked:ksh ->! user interface:graphical cli
+(0.041666666666666664)	usually invoked:ksh ->! license:shareware
+(0.041666666666666664)	usually invoked:ksh ->! license:lpl
+(0.041666666666666664)	usually invoked:ksh ->! license:lgpl
+(0.041666666666666664)	usually invoked:ksh ->! license:ibm-eula
+(0.041666666666666664)	usually invoked:fish ->! user interface:text-based cli
+(0.041666666666666664)	usually invoked:fish ->! user interface:graphical cli
+(0.041666666666666664)	usually invoked:fish ->! license:shareware
+(0.041666666666666664)	usually invoked:fish ->! license:proprietary
+(0.041666666666666664)	usually invoked:fish ->! license:ms-eula
+(0.041666666666666664)	usually invoked:fish ->! license:mit
+(0.041666666666666664)	usually invoked:fish ->! license:lpl
+(0.041666666666666664)	usually invoked:fish ->! license:lgpl
+(0.041666666666666664)	usually invoked:fish ->! license:ibm-eula
+(0.041666666666666664)	usually invoked:fish ->! license:free
+(0.041666666666666664)	usually invoked:fish ->! license:common public license
+(0.041666666666666664)	usually invoked:fish ->! license:bsd
+(0.041666666666666664)	usually invoked:fish ->! license:*
+(0.041666666666666664)	usually invoked:fish ->! introduced:[1975-1994]
+(0.041666666666666664)	usually invoked:fish ->! introduced:2006
+(0.041666666666666664)	usually invoked:csh ->! user interface:graphical cli
+(0.041666666666666664)	usually invoked:csh ->! license:shareware
+(0.041666666666666664)	usually invoked:csh ->! license:lpl
+(0.041666666666666664)	usually invoked:csh ->! license:lgpl
+(0.041666666666666664)	usually invoked:csh ->! license:ibm-eula
+(0.041666666666666664)	usually invoked:csh ->! introduced:1987
+(0.041666666666666664)	usually invoked:csh ->! introduced:1980
+(0.041666666666666664)	usually invoked:cmd ->! user interface:graphical cli
+(0.041666666666666664)	usually invoked:cmd ->! license:shareware
+(0.041666666666666664)	usually invoked:cmd ->! license:lpl
+(0.041666666666666664)	usually invoked:cmd ->! license:lgpl
+(0.041666666666666664)	usually invoked:ccp ->! user interface:graphical cli
+(0.041666666666666664)	usually invoked:ccp ->! user interface:*
+(0.041666666666666664)	usually invoked:ccp ->! license:shareware
+(0.041666666666666664)	usually invoked:ccp ->! license:proprietary
+(0.041666666666666664)	usually invoked:ccp ->! license:ms-eula
+(0.041666666666666664)	usually invoked:ccp ->! license:mit
+(0.041666666666666664)	usually invoked:ccp ->! license:lpl
+(0.041666666666666664)	usually invoked:ccp ->! license:lgpl
+(0.041666666666666664)	usually invoked:ccp ->! license:ibm-eula
+(0.041666666666666664)	usually invoked:ccp ->! license:gpl
+(0.041666666666666664)	usually invoked:ccp ->! license:common public license
+(0.041666666666666664)	usually invoked:ccp ->! license:bsd
+(0.041666666666666664)	usually invoked:ccp ->! license:*
+(0.041666666666666664)	usually invoked:ccp ->! introduced:[1977-2006]
+(0.041666666666666664)	usually invoked:bash ->! license:proprietary
+(0.041666666666666664)	usually invoked:bash ->! license:free
+(0.041666666666666664)	usually invoked:bash ->! license:common public license
+(0.041666666666666664)	usually invoked:bash ->! license:bsd
+(0.041666666666666664)	usually invoked:bash ->! license:*
+(0.041666666666666664)	usually invoked:bash ->! introduced:[1990-2006]
+(0.041666666666666664)	usually invoked:bash ->! introduced:[1975-1988]
+(0.041666666666666664)	usually invoked:4os2 ->! user interface:graphical cli
+(0.041666666666666664)	usually invoked:4os2 ->! user interface:*
+(0.041666666666666664)	usually invoked:4os2 ->! license:shareware
+(0.041666666666666664)	usually invoked:4os2 ->! license:proprietary
+(0.041666666666666664)	usually invoked:4os2 ->! license:ms-eula
+(0.041666666666666664)	usually invoked:4os2 ->! license:mit
+(0.041666666666666664)	usually invoked:4os2 ->! license:lpl
+(0.041666666666666664)	usually invoked:4os2 ->! license:lgpl
+(0.041666666666666664)	usually invoked:4os2 ->! license:ibm-eula
+(0.041666666666666664)	usually invoked:4os2 ->! license:gpl
+(0.041666666666666664)	usually invoked:4os2 ->! license:common public license
+(0.041666666666666664)	usually invoked:4os2 ->! license:bsd
+(0.041666666666666664)	usually invoked:4os2 ->! license:*
+(0.041666666666666664)	usually invoked:4os2 ->! introduced:[1993-2006]
+(0.041666666666666664)	usually invoked:4os2 ->! introduced:[1975-1990]
+(0.041666666666666664)	usually invoked:4dos ->! user interface:graphical cli
+(0.041666666666666664)	usually invoked:4dos ->! user interface:*
+(0.041666666666666664)	usually invoked:4dos ->! license:shareware
+(0.041666666666666664)	usually invoked:4dos ->! license:proprietary
+(0.041666666666666664)	usually invoked:4dos ->! license:ms-eula
+(0.041666666666666664)	usually invoked:4dos ->! license:lpl
+(0.041666666666666664)	usually invoked:4dos ->! license:lgpl
+(0.041666666666666664)	usually invoked:4dos ->! license:ibm-eula
+(0.041666666666666664)	usually invoked:4dos ->! license:gpl
+(0.041666666666666664)	usually invoked:4dos ->! license:free
+(0.041666666666666664)	usually invoked:4dos ->! license:common public license
+(0.041666666666666664)	usually invoked:4dos ->! license:bsd
+(0.041666666666666664)	usually invoked:4dos ->! license:*
+(0.041666666666666664)	usually invoked:4dos ->! introduced:[1990-2006]
+(0.041666666666666664)	usually invoked:4dos ->! introduced:[1975-1988]
+(0.041666666666666664)	usually invoked:* ->! user interface:graphical cli
+(0.041666666666666664)	usually invoked:* ->! license:shareware
+(0.041666666666666664)	usually invoked:* ->! license:lpl
+(0.041666666666666664)	usually invoked:* ->! license:ibm-eula
+(0.041666666666666664)	usually invoked:* ->! introduced:2006
+(0.041666666666666664)	usually invoked:* ->! introduced:1975
+(0.041666666666666664)	usual environment:windows 95 ->! usually invoked:cmd
+(0.041666666666666664)	usual environment:windows 95 ->! license:ms-eula
+(0.041666666666666664)	usual environment:windows 95 ->! license:gpl
+(0.041666666666666664)	usual environment:windows 95 ->! license:bsd
+(0.041666666666666664)	usual environment:windows 95 ->! introduced:[1975-1988]
+(0.041666666666666664)	usual environment:win32 ->! usually invoked:zsh
+(0.041666666666666664)	usual environment:win32 ->! usually invoked:tcsh
+(0.041666666666666664)	usual environment:win32 ->! usually invoked:scsh
+(0.041666666666666664)	usual environment:win32 ->! usually invoked:rc
+(0.041666666666666664)	usual environment:win32 ->! usually invoked:powershell
+(0.041666666666666664)	usual environment:win32 ->! usually invoked:fish
+(0.041666666666666664)	usual environment:win32 ->! usually invoked:ccp
+(0.041666666666666664)	usual environment:win32 ->! usually invoked:4os2
+(0.041666666666666664)	usual environment:win32 ->! usually invoked:4dos
+(0.041666666666666664)	usual environment:win32 ->! user interface:graphical cli
+(0.041666666666666664)	usual environment:win32 ->! license:lpl
+(0.041666666666666664)	usual environment:win32 ->! license:lgpl
+(0.041666666666666664)	usual environment:win32 ->! license:ibm-eula
+(0.041666666666666664)	usual environment:unix ->! usually invoked:zsh
+(0.041666666666666664)	usual environment:unix ->! usually invoked:tcc
+(0.041666666666666664)	usual environment:unix ->! usually invoked:scsh
+(0.041666666666666664)	usual environment:unix ->! usually invoked:rc
+(0.041666666666666664)	usual environment:unix ->! usually invoked:powershell
+(0.041666666666666664)	usual environment:unix ->! usually invoked:fish
+(0.041666666666666664)	usual environment:unix ->! usually invoked:ccp
+(0.041666666666666664)	usual environment:unix ->! usually invoked:bash
+(0.041666666666666664)	usual environment:unix ->! usually invoked:4os2
+(0.041666666666666664)	usual environment:unix ->! usually invoked:4dos
+(0.041666666666666664)	usual environment:unix ->! user interface:graphical cli
+(0.041666666666666664)	usual environment:unix ->! license:shareware
+(0.041666666666666664)	usual environment:unix ->! license:lpl
+(0.041666666666666664)	usual environment:unix ->! license:lgpl
+(0.041666666666666664)	usual environment:unix ->! license:ibm-eula
+(0.041666666666666664)	usual environment:unix ->! introduced:1975
+(0.041666666666666664)	usual environment:posix ->! usually invoked:tcc
+(0.041666666666666664)	usual environment:posix ->! usually invoked:powershell
+(0.041666666666666664)	usual environment:posix ->! usually invoked:ccp
+(0.041666666666666664)	usual environment:posix ->! usually invoked:4os2
+(0.041666666666666664)	usual environment:posix ->! usually invoked:4dos
+(0.041666666666666664)	usual environment:posix ->! user interface:graphical cli
+(0.041666666666666664)	usual environment:posix ->! license:shareware
+(0.041666666666666664)	usual environment:posix ->! license:lgpl
+(0.041666666666666664)	usual environment:posix ->! license:ibm-eula
+(0.041666666666666664)	usual environment:posix ->! introduced:2006
+(0.041666666666666664)	usual environment:posix ->! introduced:1980
+(0.041666666666666664)	usual environment:plan 9 ->! usually invoked:zsh
+(0.041666666666666664)	usual environment:plan 9 ->! usually invoked:sh
+(0.041666666666666664)	usual environment:plan 9 ->! usually invoked:scsh
+(0.041666666666666664)	usual environment:plan 9 ->! usually invoked:ksh
+(0.041666666666666664)	usual environment:plan 9 ->! usually invoked:fish
+(0.041666666666666664)	usual environment:plan 9 ->! usually invoked:csh
+(0.041666666666666664)	usual environment:plan 9 ->! user interface:text-based cli
+(0.041666666666666664)	usual environment:plan 9 ->! license:mit
+(0.041666666666666664)	usual environment:plan 9 ->! license:gpl
+(0.041666666666666664)	usual environment:plan 9 ->! license:common public license
+(0.041666666666666664)	usual environment:plan 9 ->! license:bsd
+(0.041666666666666664)	usual environment:plan 9 ->! license:*
+(0.041666666666666664)	usual environment:plan 9 ->! introduced:[1990-2006]
+(0.041666666666666664)	usual environment:plan 9 ->! introduced:[1975-1988]
+(0.041666666666666664)	usual environment:os/2 ->! usually invoked:zsh
+(0.041666666666666664)	usual environment:os/2 ->! usually invoked:tcsh
+(0.041666666666666664)	usual environment:os/2 ->! usually invoked:tcc
+(0.041666666666666664)	usual environment:os/2 ->! usually invoked:scsh
+(0.041666666666666664)	usual environment:os/2 ->! usually invoked:rc
+(0.041666666666666664)	usual environment:os/2 ->! usually invoked:powershell
+(0.041666666666666664)	usual environment:os/2 ->! usually invoked:fish
+(0.041666666666666664)	usual environment:os/2 ->! usually invoked:ccp
+(0.041666666666666664)	usual environment:os/2 ->! usually invoked:4dos
+(0.041666666666666664)	usual environment:os/2 ->! user interface:graphical cli
+(0.041666666666666664)	usual environment:os/2 ->! license:shareware
+(0.041666666666666664)	usual environment:os/2 ->! license:lpl
+(0.041666666666666664)	usual environment:os/2 ->! license:lgpl
+(0.041666666666666664)	usual environment:openvms ->! usually invoked:zsh
+(0.041666666666666664)	usual environment:openvms ->! usually invoked:tcc
+(0.041666666666666664)	usual environment:openvms ->! usually invoked:sh
+(0.041666666666666664)	usual environment:openvms ->! usually invoked:scsh
+(0.041666666666666664)	usual environment:openvms ->! usually invoked:rc
+(0.041666666666666664)	usual environment:openvms ->! usually invoked:powershell
+(0.041666666666666664)	usual environment:openvms ->! usually invoked:ksh
+(0.041666666666666664)	usual environment:openvms ->! usually invoked:fish
+(0.041666666666666664)	usual environment:openvms ->! usually invoked:csh
+(0.041666666666666664)	usual environment:openvms ->! usually invoked:cmd
+(0.041666666666666664)	usual environment:openvms ->! usually invoked:ccp
+(0.041666666666666664)	usual environment:openvms ->! usually invoked:4os2
+(0.041666666666666664)	usual environment:openvms ->! usually invoked:4dos
+(0.041666666666666664)	usual environment:openvms ->! user interface:graphical cli
+(0.041666666666666664)	usual environment:openvms ->! user interface:*
+(0.041666666666666664)	usual environment:openvms ->! license:shareware
+(0.041666666666666664)	usual environment:openvms ->! license:proprietary
+(0.041666666666666664)	usual environment:openvms ->! license:ms-eula
+(0.041666666666666664)	usual environment:openvms ->! license:mit
+(0.041666666666666664)	usual environment:openvms ->! license:lpl
+(0.041666666666666664)	usual environment:openvms ->! license:lgpl
+(0.041666666666666664)	usual environment:openvms ->! license:ibm-eula
+(0.041666666666666664)	usual environment:openvms ->! license:gpl
+(0.041666666666666664)	usual environment:openvms ->! license:free
+(0.041666666666666664)	usual environment:openvms ->! license:common public license
+(0.041666666666666664)	usual environment:openvms ->! license:bsd
+(0.041666666666666664)	usual environment:openvms ->! introduced:[1978-2006]
+(0.041666666666666664)	usual environment:openvms ->! introduced:1975
+(0.041666666666666664)	usual environment:java ->! usually invoked:zsh
+(0.041666666666666664)	usual environment:java ->! usually invoked:tcc
+(0.041666666666666664)	usual environment:java ->! usually invoked:sh
+(0.041666666666666664)	usual environment:java ->! usually invoked:scsh
+(0.041666666666666664)	usual environment:java ->! usually invoked:rc
+(0.041666666666666664)	usual environment:java ->! usually invoked:powershell
+(0.041666666666666664)	usual environment:java ->! usually invoked:ksh
+(0.041666666666666664)	usual environment:java ->! usually invoked:fish
+(0.041666666666666664)	usual environment:java ->! usually invoked:csh
+(0.041666666666666664)	usual environment:java ->! usually invoked:cmd
+(0.041666666666666664)	usual environment:java ->! usually invoked:ccp
+(0.041666666666666664)	usual environment:java ->! usually invoked:4os2
+(0.041666666666666664)	usual environment:java ->! usually invoked:4dos
+(0.041666666666666664)	usual environment:java ->! user interface:text-based cli
+(0.041666666666666664)	usual environment:java ->! user interface:graphical cli
+(0.041666666666666664)	usual environment:java ->! license:shareware
+(0.041666666666666664)	usual environment:java ->! license:proprietary
+(0.041666666666666664)	usual environment:java ->! license:ms-eula
+(0.041666666666666664)	usual environment:java ->! license:mit
+(0.041666666666666664)	usual environment:java ->! license:lpl
+(0.041666666666666664)	usual environment:java ->! license:ibm-eula
+(0.041666666666666664)	usual environment:java ->! license:gpl
+(0.041666666666666664)	usual environment:java ->! license:free
+(0.041666666666666664)	usual environment:java ->! license:common public license
+(0.041666666666666664)	usual environment:java ->! license:bsd
+(0.041666666666666664)	usual environment:java ->! license:*
+(0.041666666666666664)	usual environment:java ->! introduced:[1975-1994]
+(0.041666666666666664)	usual environment:java ->! introduced:2006
+(0.041666666666666664)	usual environment:dos ->! usually invoked:zsh
+(0.041666666666666664)	usual environment:dos ->! usually invoked:tcc
+(0.041666666666666664)	usual environment:dos ->! usually invoked:scsh
+(0.041666666666666664)	usual environment:dos ->! usually invoked:rc
+(0.041666666666666664)	usual environment:dos ->! usually invoked:powershell
+(0.041666666666666664)	usual environment:dos ->! usually invoked:fish
+(0.041666666666666664)	usual environment:dos ->! usually invoked:ccp
+(0.041666666666666664)	usual environment:dos ->! usually invoked:4os2
+(0.041666666666666664)	usual environment:dos ->! user interface:graphical cli
+(0.041666666666666664)	usual environment:dos ->! license:shareware
+(0.041666666666666664)	usual environment:dos ->! license:lpl
+(0.041666666666666664)	usual environment:dos ->! license:lgpl
+(0.041666666666666664)	usual environment:dos ->! license:ibm-eula
+(0.041666666666666664)	usual environment:cp/m ->! usually invoked:zsh
+(0.041666666666666664)	usual environment:cp/m ->! usually invoked:tcc
+(0.041666666666666664)	usual environment:cp/m ->! usually invoked:sh
+(0.041666666666666664)	usual environment:cp/m ->! usually invoked:scsh
+(0.041666666666666664)	usual environment:cp/m ->! usually invoked:rc
+(0.041666666666666664)	usual environment:cp/m ->! usually invoked:powershell
+(0.041666666666666664)	usual environment:cp/m ->! usually invoked:ksh
+(0.041666666666666664)	usual environment:cp/m ->! usually invoked:fish
+(0.041666666666666664)	usual environment:cp/m ->! usually invoked:csh
+(0.041666666666666664)	usual environment:cp/m ->! usually invoked:cmd
+(0.041666666666666664)	usual environment:cp/m ->! usually invoked:4os2
+(0.041666666666666664)	usual environment:cp/m ->! usually invoked:4dos
+(0.041666666666666664)	usual environment:cp/m ->! usually invoked:*
+(0.041666666666666664)	usual environment:cp/m ->! user interface:graphical cli
+(0.041666666666666664)	usual environment:cp/m ->! user interface:*
+(0.041666666666666664)	usual environment:cp/m ->! license:shareware
+(0.041666666666666664)	usual environment:cp/m ->! license:proprietary
+(0.041666666666666664)	usual environment:cp/m ->! license:ms-eula
+(0.041666666666666664)	usual environment:cp/m ->! license:mit
+(0.041666666666666664)	usual environment:cp/m ->! license:lpl
+(0.041666666666666664)	usual environment:cp/m ->! license:lgpl
+(0.041666666666666664)	usual environment:cp/m ->! license:ibm-eula
+(0.041666666666666664)	usual environment:cp/m ->! license:gpl
+(0.041666666666666664)	usual environment:cp/m ->! license:common public license
+(0.041666666666666664)	usual environment:cp/m ->! license:bsd
+(0.041666666666666664)	usual environment:cp/m ->! license:*
+(0.041666666666666664)	usual environment:cp/m ->! introduced:[1977-2006]
+(0.041666666666666664)	usual environment:.net ->! usually invoked:zsh
+(0.041666666666666664)	usual environment:.net ->! usually invoked:tcc
+(0.041666666666666664)	usual environment:.net ->! usually invoked:sh
+(0.041666666666666664)	usual environment:.net ->! usually invoked:scsh
+(0.041666666666666664)	usual environment:.net ->! usually invoked:rc
+(0.041666666666666664)	usual environment:.net ->! usually invoked:ksh
+(0.041666666666666664)	usual environment:.net ->! usually invoked:fish
+(0.041666666666666664)	usual environment:.net ->! usually invoked:csh
+(0.041666666666666664)	usual environment:.net ->! usually invoked:cmd
+(0.041666666666666664)	usual environment:.net ->! usually invoked:ccp
+(0.041666666666666664)	usual environment:.net ->! usually invoked:4os2
+(0.041666666666666664)	usual environment:.net ->! usually invoked:4dos
+(0.041666666666666664)	usual environment:.net ->! usually invoked:*
+(0.041666666666666664)	usual environment:.net ->! user interface:text-based cli
+(0.041666666666666664)	usual environment:.net ->! user interface:*
+(0.041666666666666664)	usual environment:.net ->! license:shareware
+(0.041666666666666664)	usual environment:.net ->! license:proprietary
+(0.041666666666666664)	usual environment:.net ->! license:mit
+(0.041666666666666664)	usual environment:.net ->! license:lpl
+(0.041666666666666664)	usual environment:.net ->! license:lgpl
+(0.041666666666666664)	usual environment:.net ->! license:ibm-eula
+(0.041666666666666664)	usual environment:.net ->! license:gpl
+(0.041666666666666664)	usual environment:.net ->! license:free
+(0.041666666666666664)	usual environment:.net ->! license:common public license
+(0.041666666666666664)	usual environment:.net ->! license:bsd
+(0.041666666666666664)	usual environment:.net ->! license:*
+(0.041666666666666664)	usual environment:.net ->! introduced:[1975-2005]
+(0.041666666666666664)	unicode support ->! usually invoked:scsh
+(0.041666666666666664)	unicode support ->! usually invoked:ccp
+(0.041666666666666664)	unicode support ->! usually invoked:4os2
+(0.041666666666666664)	unicode support ->! usually invoked:4dos
+(0.041666666666666664)	unicode support ->! usual environment:openvms
+(0.041666666666666664)	unicode support ->! usual environment:cp/m
+(0.041666666666666664)	unicode support ->! license:ibm-eula
+(0.041666666666666664)	unicode support ->! introduced:1994
+(0.041666666666666664)	unicode support ->! introduced:1975
+(0.041666666666666664)	stream redirection ->! usually invoked:ccp
+(0.041666666666666664)	stream redirection ->! usual environment:cp/m
+(0.041666666666666664)	stream redirection ->! introduced:1975
+(0.041666666666666664)	startup/shutdown scripts ->! usually invoked:scsh
+(0.041666666666666664)	startup/shutdown scripts ->! usually invoked:rc
+(0.041666666666666664)	startup/shutdown scripts ->! usual environment:plan 9
+(0.041666666666666664)	startup/shutdown scripts ->! usual environment:java
+(0.041666666666666664)	startup/shutdown scripts ->! license:lpl
+(0.041666666666666664)	startup/shutdown scripts ->! license:lgpl
+(0.041666666666666664)	startup/shutdown scripts ->! license:ibm-eula
+(0.041666666666666664)	startup/shutdown scripts ->! introduced:1994
+(0.041666666666666664)	startup/shutdown scripts ->! introduced:1987
+(0.041666666666666664)	source code availability ->! usually invoked:tcc
+(0.041666666666666664)	source code availability ->! usually invoked:rc
+(0.041666666666666664)	source code availability ->! usually invoked:powershell
+(0.041666666666666664)	source code availability ->! usual environment:plan 9
+(0.041666666666666664)	source code availability ->! usual environment:openvms
+(0.041666666666666664)	source code availability ->! usual environment:java
+(0.041666666666666664)	source code availability ->! usual environment:.net
+(0.041666666666666664)	source code availability ->! user interface:graphical cli
+(0.041666666666666664)	source code availability ->! native cim/wbem support
+(0.041666666666666664)	source code availability ->! license:shareware
+(0.041666666666666664)	source code availability ->! license:lpl
+(0.041666666666666664)	source code availability ->! license:lgpl
+(0.041666666666666664)	source code availability ->! license:ibm-eula
+(0.041666666666666664)	source code availability ->! introduced:2006
+(0.041666666666666664)	source code availability ->! introduced:1980
+(0.041666666666666664)	single file executable ->! usually invoked:tcc
+(0.041666666666666664)	single file executable ->! usually invoked:powershell
+(0.041666666666666664)	single file executable ->! usually invoked:fish
+(0.041666666666666664)	single file executable ->! usually invoked:4os2
+(0.041666666666666664)	single file executable ->! usual environment:openvms
+(0.041666666666666664)	single file executable ->! usual environment:.net
+(0.041666666666666664)	single file executable ->! user interface:graphical cli
+(0.041666666666666664)	single file executable ->! license:shareware
+(0.041666666666666664)	single file executable ->! license:ibm-eula
+(0.041666666666666664)	single file executable ->! introduced:2006
+(0.041666666666666664)	single file executable ->! introduced:1987
+(0.041666666666666664)	platform-independent ->! usually invoked:tcc
+(0.041666666666666664)	platform-independent ->! usually invoked:powershell
+(0.041666666666666664)	platform-independent ->! usually invoked:ccp
+(0.041666666666666664)	platform-independent ->! usually invoked:4os2
+(0.041666666666666664)	platform-independent ->! usually invoked:4dos
+(0.041666666666666664)	platform-independent ->! usual environment:cp/m
+(0.041666666666666664)	platform-independent ->! usual environment:.net
+(0.041666666666666664)	platform-independent ->! user interface:graphical cli
+(0.041666666666666664)	platform-independent ->! native cim/wbem support
+(0.041666666666666664)	platform-independent ->! license:shareware
+(0.041666666666666664)	platform-independent ->! license:ibm-eula
+(0.041666666666666664)	platform-independent ->! introduced:2006
+(0.041666666666666664)	platform-independent ->! introduced:1987
+(0.041666666666666664)	platform-independent ->! introduced:1980
+(0.041666666666666664)	platform-independent ->! introduced:1975
+(0.041666666666666664)	native cim/wbem support ->! usually invoked:zsh
+(0.041666666666666664)	native cim/wbem support ->! usually invoked:tcc
+(0.041666666666666664)	native cim/wbem support ->! usually invoked:sh
+(0.041666666666666664)	native cim/wbem support ->! usually invoked:scsh
+(0.041666666666666664)	native cim/wbem support ->! usually invoked:rc
+(0.041666666666666664)	native cim/wbem support ->! usually invoked:ksh
+(0.041666666666666664)	native cim/wbem support ->! usually invoked:fish
+(0.041666666666666664)	native cim/wbem support ->! usually invoked:csh
+(0.041666666666666664)	native cim/wbem support ->! usually invoked:cmd
+(0.041666666666666664)	native cim/wbem support ->! usually invoked:ccp
+(0.041666666666666664)	native cim/wbem support ->! usually invoked:4os2
+(0.041666666666666664)	native cim/wbem support ->! usually invoked:4dos
+(0.041666666666666664)	native cim/wbem support ->! usually invoked:*
+(0.041666666666666664)	native cim/wbem support ->! usual environment:win32
+(0.041666666666666664)	native cim/wbem support ->! usual environment:unix
+(0.041666666666666664)	native cim/wbem support ->! usual environment:posix
+(0.041666666666666664)	native cim/wbem support ->! usual environment:os/2
+(0.041666666666666664)	native cim/wbem support ->! usual environment:openvms
+(0.041666666666666664)	native cim/wbem support ->! usual environment:java
+(0.041666666666666664)	native cim/wbem support ->! usual environment:dos
+(0.041666666666666664)	native cim/wbem support ->! usual environment:cp/m
+(0.041666666666666664)	native cim/wbem support ->! user interface:text-based cli
+(0.041666666666666664)	native cim/wbem support ->! user interface:*
+(0.041666666666666664)	native cim/wbem support ->! single file executable
+(0.041666666666666664)	native cim/wbem support ->! license:shareware
+(0.041666666666666664)	native cim/wbem support ->! license:proprietary
+(0.041666666666666664)	native cim/wbem support ->! license:mit
+(0.041666666666666664)	native cim/wbem support ->! license:lpl
+(0.041666666666666664)	native cim/wbem support ->! license:lgpl
+(0.041666666666666664)	native cim/wbem support ->! license:ibm-eula
+(0.041666666666666664)	native cim/wbem support ->! license:gpl
+(0.041666666666666664)	native cim/wbem support ->! license:free
+(0.041666666666666664)	native cim/wbem support ->! license:common public license
+(0.041666666666666664)	native cim/wbem support ->! license:bsd
+(0.041666666666666664)	native cim/wbem support ->! license:*
+(0.041666666666666664)	native cim/wbem support ->! introduced:[1975-2005]
+(0.041666666666666664)	mouse support ->! usually invoked:scsh
+(0.041666666666666664)	mouse support ->! usually invoked:rc
+(0.041666666666666664)	mouse support ->! usually invoked:fish
+(0.041666666666666664)	mouse support ->! usually invoked:ccp
+(0.041666666666666664)	mouse support ->! usually invoked:4os2
+(0.041666666666666664)	mouse support ->! usual environment:plan 9
+(0.041666666666666664)	mouse support ->! usual environment:openvms
+(0.041666666666666664)	mouse support ->! usual environment:java
+(0.041666666666666664)	mouse support ->! usual environment:cp/m
+(0.041666666666666664)	mouse support ->! license:lpl
+(0.041666666666666664)	mouse support ->! license:lgpl
+(0.041666666666666664)	mouse support ->! license:ibm-eula
+(0.041666666666666664)	logging ->! usually invoked:scsh
+(0.041666666666666664)	logging ->! usually invoked:rc
+(0.041666666666666664)	logging ->! usually invoked:fish
+(0.041666666666666664)	logging ->! usually invoked:ccp
+(0.041666666666666664)	logging ->! usual environment:plan 9
+(0.041666666666666664)	logging ->! usual environment:java
+(0.041666666666666664)	logging ->! usual environment:cp/m
+(0.041666666666666664)	logging ->! license:lpl
+(0.041666666666666664)	logging ->! license:lgpl
+(0.041666666666666664)	logging ->! license:ibm-eula
+(0.041666666666666664)	logging ->! introduced:1987
+(0.041666666666666664)	logging ->! introduced:1980
+(0.041666666666666664)	logging ->! introduced:1975
+(0.041666666666666664)	license:shareware ->! user interface:graphical cli
+(0.041666666666666664)	license:shareware ->! user interface:*
+(0.041666666666666664)	license:proprietary ->! user interface:graphical cli
+(0.041666666666666664)	license:mit ->! user interface:graphical cli
+(0.041666666666666664)	license:lpl ->! user interface:text-based cli
+(0.041666666666666664)	license:lpl ->! user interface:graphical cli
+(0.041666666666666664)	license:lgpl ->! user interface:text-based cli
+(0.041666666666666664)	license:lgpl ->! user interface:graphical cli
+(0.041666666666666664)	license:ibm-eula ->! user interface:graphical cli
+(0.041666666666666664)	license:ibm-eula ->! user interface:*
+(0.041666666666666664)	license:gpl ->! user interface:graphical cli
+(0.041666666666666664)	license:free ->! user interface:graphical cli
+(0.041666666666666664)	license:common public license ->! user interface:graphical cli
+(0.041666666666666664)	license:bsd ->! user interface:graphical cli
+(0.041666666666666664)	license:* ->! user interface:graphical cli
+(0.041666666666666664)	iso 8601 support ->! usually invoked:tcsh
+(0.041666666666666664)	iso 8601 support ->! usually invoked:scsh
+(0.041666666666666664)	iso 8601 support ->! usually invoked:rc
+(0.041666666666666664)	iso 8601 support ->! usually invoked:fish
+(0.041666666666666664)	iso 8601 support ->! usually invoked:ccp
+(0.041666666666666664)	iso 8601 support ->! usually invoked:4os2
+(0.041666666666666664)	iso 8601 support ->! usual environment:plan 9
+(0.041666666666666664)	iso 8601 support ->! usual environment:openvms
+(0.041666666666666664)	iso 8601 support ->! usual environment:java
+(0.041666666666666664)	iso 8601 support ->! usual environment:cp/m
+(0.041666666666666664)	iso 8601 support ->! license:lpl
+(0.041666666666666664)	iso 8601 support ->! license:lgpl
+(0.041666666666666664)	iso 8601 support ->! license:ibm-eula
+(0.041666666666666664)	iso 8601 support ->! introduced:1987
+(0.041666666666666664)	introduced:[1994-2006] ->! license:shareware
+(0.041666666666666664)	introduced:[1990-2006] ->! license:lpl
+(0.041666666666666664)	introduced:[1988-2006] ->! license:ibm-eula
+(0.041666666666666664)	introduced:[1975-2005] ->! user interface:graphical cli
+(0.041666666666666664)	introduced:[1975-1994] ->! license:lgpl
+(0.041666666666666664)	introduced:[1975-1992] ->! license:shareware
+(0.041666666666666664)	introduced:[1975-1988] ->! license:lpl
+(0.041666666666666664)	introduced:[1975-1983] ->! license:ibm-eula
+(0.041666666666666664)	introduced:2006 ->! user interface:*
+(0.041666666666666664)	introduced:2006 ->! license:lgpl
+(0.041666666666666664)	introduced:2006 ->! license:gpl
+(0.041666666666666664)	introduced:1975 ->! license:proprietary
+(0.041666666666666664)	introduced:1975 ->! license:*
+(0.041666666666666664)	console redirection ->! usually invoked:tcc
+(0.041666666666666664)	console redirection ->! usually invoked:scsh
+(0.041666666666666664)	console redirection ->! usually invoked:rc
+(0.041666666666666664)	console redirection ->! usually invoked:powershell
+(0.041666666666666664)	console redirection ->! usually invoked:fish
+(0.041666666666666664)	console redirection ->! usually invoked:ccp
+(0.041666666666666664)	console redirection ->! usually invoked:4os2
+(0.041666666666666664)	console redirection ->! usual environment:plan 9
+(0.041666666666666664)	console redirection ->! usual environment:openvms
+(0.041666666666666664)	console redirection ->! usual environment:java
+(0.041666666666666664)	console redirection ->! usual environment:cp/m
+(0.041666666666666664)	console redirection ->! usual environment:.net
+(0.041666666666666664)	console redirection ->! user interface:graphical cli
+(0.041666666666666664)	console redirection ->! native cim/wbem support
+(0.041666666666666664)	console redirection ->! license:shareware
+(0.041666666666666664)	console redirection ->! license:lpl
+(0.041666666666666664)	console redirection ->! license:lgpl
+(0.041666666666666664)	console redirection ->! license:ibm-eula
+(0.041666666666666664)	console redirection ->! introduced:1987
+(0.041666666666666664)	console redirection ->! introduced:1975
+(0.041666666666666664)	configurability ->! usually invoked:scsh
+(0.041666666666666664)	configurability ->! usually invoked:rc
+(0.041666666666666664)	configurability ->! usually invoked:fish
+(0.041666666666666664)	configurability ->! usually invoked:ccp
+(0.041666666666666664)	configurability ->! usual environment:plan 9
+(0.041666666666666664)	configurability ->! usual environment:openvms
+(0.041666666666666664)	configurability ->! usual environment:java
+(0.041666666666666664)	configurability ->! usual environment:cp/m
+(0.041666666666666664)	configurability ->! license:lpl
+(0.041666666666666664)	configurability ->! license:lgpl
+(0.041666666666666664)	configurability ->! license:ibm-eula
+(0.041666666666666664)	configurability ->! introduced:1987
+(0.041666666666666664)	configurability ->! introduced:1975
+(0.041666666666666664)	batch scripts ->! usually invoked:scsh
+(0.041666666666666664)	batch scripts ->! usually invoked:rc
+(0.041666666666666664)	batch scripts ->! usually invoked:fish
+(0.041666666666666664)	batch scripts ->! usually invoked:ccp
+(0.041666666666666664)	batch scripts ->! usual environment:plan 9
+(0.041666666666666664)	batch scripts ->! usual environment:java
+(0.041666666666666664)	batch scripts ->! usual environment:cp/m
+(0.041666666666666664)	batch scripts ->! license:lpl
+(0.041666666666666664)	batch scripts ->! license:lgpl
+(0.041666666666666664)	batch scripts ->! introduced:1975

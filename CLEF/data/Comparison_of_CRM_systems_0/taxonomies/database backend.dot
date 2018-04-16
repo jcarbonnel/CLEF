@@ -1,0 +1,43 @@
+digraph G { 
+ rankdir=BT;
+ subgraph ba { 
+1 [shape=record,label="{sql server}"];
+2 [shape=record,label="{*}"];
+3 [shape=record,label="{mysql}"];
+4 [shape=record,label="{ms sql}"];
+5 [shape=record,label="{postgresql}"];
+6 [shape=record,label="{adodb}"];
+7 [shape=record,label="{firebird}"];
+8 [shape=record,label="{interbase}"];
+9 [shape=record,label="{maxdb}"];
+10 [shape=record,label="{ms sql server}"];
+11 [shape=record,label="{oracle}"];
+12 [shape=record,label="{sqlite}"];
+13 [shape=record,label="{sqlite3}"];
+14 [shape=record,label="{csv files}"];
+15 [shape=record,label="{dbf files}"];
+16 [shape=record,label="{db2}"];
+17 [shape=record,label="{proprietary}"];
+18 [shape=record,label="{google app engine}"];
+19 [shape=record,label="{mariadb}"];
+20 [shape=record,label="{amazon server}"];
+1 -> 2
+3 -> 2
+4 -> 2
+5 -> 2
+6 -> 2
+7 -> 2
+8 -> 2
+9 -> 2
+10 -> 2
+11 -> 2
+12 -> 2
+13 -> 2
+14 -> 2
+15 -> 2
+16 -> 2
+17 -> 2
+18 -> 2
+19 -> 2
+20 -> 2
+}}

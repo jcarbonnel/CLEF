@@ -1,0 +1,97 @@
+digraph G { 
+ rankdir=BT; 
+ subgraph ba { 
+1 [shape=record,label="{01}"]; 
+2 [shape=record,label="{02}"]; 
+3 [shape=record,label="{04}"]; 
+4 [shape=record,label="{05}"]; 
+5 [shape=record,label="{07}"]; 
+6 [shape=record,label="{08}"]; 
+7 [shape=record,label="{09}"]; 
+8 [shape=record,label="{11}"]; 
+9 [shape=record,label="{[01-02]}"];
+10 [shape=record,label="{[02-04]}"];
+11 [shape=record,label="{[04-05]}"];
+12 [shape=record,label="{[05-07]}"];
+13 [shape=record,label="{[07-08]}"];
+14 [shape=record,label="{[08-09]}"];
+15 [shape=record,label="{[09-11]}"];
+1 -> 9
+2 -> 9
+2 -> 10
+3 -> 10
+3 -> 11
+4 -> 11
+4 -> 12
+5 -> 12
+5 -> 13
+6 -> 13
+6 -> 14
+7 -> 14
+7 -> 15
+8 -> 15
+16 [shape=record,label="{[01-04]}"];
+17 [shape=record,label="{[02-05]}"];
+18 [shape=record,label="{[04-07]}"];
+19 [shape=record,label="{[05-08]}"];
+20 [shape=record,label="{[07-09]}"];
+21 [shape=record,label="{[08-11]}"];
+9 -> 16
+10 -> 16
+10 -> 17
+11 -> 17
+11 -> 18
+12 -> 18
+12 -> 19
+13 -> 19
+13 -> 20
+14 -> 20
+14 -> 21
+15 -> 21
+22 [shape=record,label="{[01-05]}"];
+23 [shape=record,label="{[02-07]}"];
+24 [shape=record,label="{[04-08]}"];
+25 [shape=record,label="{[05-09]}"];
+26 [shape=record,label="{[07-11]}"];
+16 -> 22
+17 -> 22
+17 -> 23
+18 -> 23
+18 -> 24
+19 -> 24
+19 -> 25
+20 -> 25
+20 -> 26
+21 -> 26
+27 [shape=record,label="{[01-07]}"];
+28 [shape=record,label="{[02-08]}"];
+29 [shape=record,label="{[04-09]}"];
+30 [shape=record,label="{[05-11]}"];
+22 -> 27
+23 -> 27
+23 -> 28
+24 -> 28
+24 -> 29
+25 -> 29
+25 -> 30
+26 -> 30
+31 [shape=record,label="{[01-08]}"];
+32 [shape=record,label="{[02-09]}"];
+33 [shape=record,label="{[04-11]}"];
+27 -> 31
+28 -> 31
+28 -> 32
+29 -> 32
+29 -> 33
+30 -> 33
+34 [shape=record,label="{[01-09]}"];
+35 [shape=record,label="{[02-11]}"];
+31 -> 34
+32 -> 34
+32 -> 35
+33 -> 35
+36 [shape=record,label="{[01-11]}"];
+34 -> 36
+35 -> 36
+37 [shape=record,label="{*}"];
+36 -> 37}}

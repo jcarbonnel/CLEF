@@ -1,0 +1,6 @@
+(0.15789473684210525)	.doc <-> .pdb
+(0.05263157894736842)	developer:unidocs inc. <-> formats total:04
+(0.05263157894736842)	developer:moon+ <-> formats total:08
+(0.05263157894736842)	developer:gigamarket ltd. <-> formats total:01
+(0.05263157894736842)	developer:fbreader.org limited <-> formats total:11
+(0.05263157894736842)	developer:alan.neverland <-> formats total:09

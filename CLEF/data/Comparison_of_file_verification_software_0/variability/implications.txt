@@ -1,0 +1,8 @@
+(0.5217391304347826)	license:freeware -> windows
+(0.43478260869565216)	open source -> cost:free
+(0.2826086956521739)	license:gpl -> open source
+(0.17391304347826086)	framework:.net -> windows
+(0.17391304347826086)	cost:non-free -> windows
+(0.10869565217391304)	framework:java -> first public release:[2002-2013]
+(0.08695652173913043)	license:proprietary -> cost:non-free
+(0.021739130434782608)	license:bsd -> first public release:2008

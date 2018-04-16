@@ -1,0 +1,47 @@
+digraph G { 
+ rankdir=BT;
+ subgraph ba { 
+1 [shape=record,label="{rd480}"];
+2 [shape=record,label="{rd570}"];
+3 [shape=record,label="{rd580}"];
+4 [shape=record,label="{rs690c}"];
+5 [shape=record,label="{rs690}"];
+6 [shape=record,label="{rs690mc}"];
+7 [shape=record,label="{rs690m}"];
+8 [shape=record,label="{rs690t}"];
+9 [shape=record,label="{rx740}"];
+10 [shape=record,label="{rs740}"];
+11 [shape=record,label="{rs780l}"];
+12 [shape=record,label="{rx780}"];
+13 [shape=record,label="{rs780c}"];
+14 [shape=record,label="{rs780i}"];
+15 [shape=record,label="{rs780mc}"];
+16 [shape=record,label="{rs780m}"];
+17 [shape=record,label="{rs880}"];
+18 [shape=record,label="{rs785e}"];
+19 [shape=record,label="{rs780d}"];
+20 [shape=record,label="{rd780}"];
+21 [shape=record,label="{rd790}"];
+22 [shape=record,label="{*}"];
+1 -> 22
+2 -> 22
+3 -> 22
+4 -> 22
+5 -> 22
+6 -> 22
+7 -> 22
+8 -> 22
+9 -> 22
+10 -> 22
+11 -> 22
+12 -> 22
+13 -> 22
+14 -> 22
+15 -> 22
+16 -> 22
+17 -> 22
+18 -> 22
+19 -> 22
+20 -> 22
+21 -> 22
+}}

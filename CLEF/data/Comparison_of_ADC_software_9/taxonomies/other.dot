@@ -1,0 +1,13 @@
+digraph G { 
+ rankdir=BT;
+ subgraph ba { 
+1 [shape=record,label="{.net4 enabled platform}"];
+2 [shape=record,label="{*}"];
+3 [shape=record,label="{java enabled platform}"];
+4 [shape=record,label="{c# enabled platform}"];
+5 [shape=record,label="{wine}"];
+1 -> 2
+3 -> 2
+4 -> 2
+5 -> 2
+}}

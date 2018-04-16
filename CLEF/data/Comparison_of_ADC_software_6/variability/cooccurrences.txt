@@ -1,0 +1,1 @@
+(0.08333333333333333)	based on:airdc++ <-> based on:nanodc

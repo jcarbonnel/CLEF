@@ -1,0 +1,11 @@
+name,free and open source,active,software type:general library,software type:relay,software type:hub linker,software type:hub operator helper,software type:announce new releases,software type:manage ssl certificates,software type:seriebot,software type:*,software license:gnu gpl,software license:*
+adccore,X,X,X,,,,,,,,X,
+dcbouncer,X,X,,X,,,,,,,X,
+dc-hublink,X,,,,X,,,,,,X,
+dcwatch,X,,,,,X,,,,,X,
+embla,X,,X,,,,,,,,X,
+flowlib,X,X,X,,,,,,,,X,
+netchatlink,X,X,,,X,,,,,,X,
+announcer bot,X,X,,,,,X,,,,X,
+certmanager,X,X,,,,,,X,,,X,
+seriebot,X,X,,,,,,,X,,X,

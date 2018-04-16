@@ -1,0 +1,419 @@
+(0.2857142857142857)	last release date:[2013-2014] ->! server operating system:mac os
+(0.2857142857142857)	last release date:[2013-2014] ->! server operating system:linux
+(0.2857142857142857)	last release date:[2009-2013] ->! first release date:[2004-2008]
+(0.25)	implementation language(s):php ->! first release date:[2008-2009]
+(0.21428571428571427)	server operating system:mac os ->! first release date:[1981-2001]
+(0.21428571428571427)	server operating system:cross-platform ->! first release date:[2009-2012]
+(0.21428571428571427)	server operating system:cross-platform ->! first release date:[1981-2001]
+(0.21428571428571427)	license:proprietary ->! first release date:[2005-2008]
+(0.21428571428571427)	last release date:[2006-2013] ->! server operating system:cross-platform
+(0.21428571428571427)	last release date:2015 ->! first release date:[1981-2001]
+(0.21428571428571427)	last release date:2014 ->! database backend:ms sql server
+(0.21428571428571427)	implementation language(s):php ->! first release date:[1981-2001]
+(0.17857142857142858)	server operating system:mac os ->! database backend:ms sql
+(0.17857142857142858)	server operating system:linux ->! first release date:[2010-2013]
+(0.17857142857142858)	server operating system:linux ->! first release date:[1981-1999]
+(0.17857142857142858)	server operating system:cross-platform ->! database backend:ms sql
+(0.17857142857142858)	last release date:[2014-2015] ->! first release date:[1990-2001]
+(0.17857142857142858)	last release date:2015 ->! implementation language(s):asp.net
+(0.17857142857142858)	last release date:2015 ->! database backend:ms sql
+(0.17857142857142858)	last release date:2014 ->! first release date:2009
+(0.17857142857142858)	last release date:2012 ->! first release date:[2010-2013]
+(0.17857142857142858)	last release date:2012 ->! database backend:ms sql server
+(0.17857142857142858)	implementation language(s):php ->! database backend:ms sql
+(0.17857142857142858)	implementation language(s):asp.net ->! server operating system:mac os
+(0.17857142857142858)	implementation language(s):asp.net ->! server operating system:linux
+(0.17857142857142858)	implementation language(s):asp.net ->! first release date:[2004-2009]
+(0.17857142857142858)	implementation language(s):asp.net ->! database backend:mysql
+(0.17857142857142858)	database backend:postgresql ->! first release date:[2009-2013]
+(0.17857142857142858)	database backend:postgresql ->! first release date:[1981-1999]
+(0.17857142857142858)	database backend:mysql ->! first release date:[1981-1999]
+(0.17857142857142858)	database backend:ms sql ->! first release date:[2004-2013]
+(0.14285714285714285)	server operating system:cross-platform ->! database backend:oracle
+(0.14285714285714285)	server operating system:cloud computing ->! first release date:[2001-2005]
+(0.14285714285714285)	server operating system:cloud computing ->! first release date:[1981-1998]
+(0.14285714285714285)	server operating system:cloud computing ->! database backend:postgresql
+(0.14285714285714285)	server operating system:cloud computing ->! database backend:oracle
+(0.14285714285714285)	server operating system:cloud computing ->! database backend:ms sql
+(0.14285714285714285)	license:proprietary ->! implementation language(s):python
+(0.14285714285714285)	license:gpl ->! server operating system:cloud computing
+(0.14285714285714285)	license:gpl ->! implementation language(s):php
+(0.14285714285714285)	license:gpl ->! first release date:[1981-2001]
+(0.14285714285714285)	license:gpl ->! first release date:2009
+(0.14285714285714285)	license:gpl ->! database backend:ms sql
+(0.14285714285714285)	license:agpl3 ->! server operating system:cloud computing
+(0.14285714285714285)	license:agpl3 ->! implementation language(s):java
+(0.14285714285714285)	license:agpl3 ->! first release date:[2006-2012]
+(0.14285714285714285)	license:agpl3 ->! first release date:[1981-2001]
+(0.14285714285714285)	license:agpl3 ->! database backend:oracle
+(0.14285714285714285)	license:agpl3 ->! database backend:ms sql
+(0.14285714285714285)	last release date:[2014-2015] ->! server operating system:cloud computing
+(0.14285714285714285)	last release date:[2013-2015] ->! first release date:[1996-2001]
+(0.14285714285714285)	last release date:[2012-2013] ->! license:gpl
+(0.14285714285714285)	last release date:[2011-2013] ->! implementation language(s):python
+(0.14285714285714285)	last release date:[2011-2012] ->! server operating system:cloud computing
+(0.14285714285714285)	last release date:[2006-2011] ->! server operating system:mac os
+(0.14285714285714285)	last release date:[2006-2011] ->! server operating system:linux
+(0.14285714285714285)	last release date:[2006-2011] ->! license:agpl3
+(0.14285714285714285)	last release date:[2006-2011] ->! implementation language(s):php
+(0.14285714285714285)	last release date:[2006-2011] ->! implementation language(s):java
+(0.14285714285714285)	last release date:[2006-2011] ->! first release date:[1981-2005]
+(0.14285714285714285)	last release date:[2006-2011] ->! database backend:postgresql
+(0.14285714285714285)	last release date:[2006-2011] ->! database backend:oracle
+(0.14285714285714285)	last release date:[2006-2011] ->! database backend:ms sql
+(0.14285714285714285)	last release date:2015 ->! license:gpl
+(0.14285714285714285)	last release date:2015 ->! first release date:[2010-2012]
+(0.14285714285714285)	last release date:2015 ->! database backend:oracle
+(0.14285714285714285)	last release date:* ->! server operating system:cross-platform
+(0.14285714285714285)	last release date:* ->! license:saas
+(0.14285714285714285)	last release date:* ->! license:agpl3
+(0.14285714285714285)	last release date:* ->! implementation language(s):php
+(0.14285714285714285)	last release date:* ->! first release date:[2008-2010]
+(0.14285714285714285)	last release date:* ->! first release date:[1981-1998]
+(0.14285714285714285)	last release date:* ->! database backend:ms sql
+(0.14285714285714285)	implementation language(s):python ->! first release date:[2010-2013]
+(0.14285714285714285)	implementation language(s):python ->! first release date:[1981-2001]
+(0.14285714285714285)	implementation language(s):python ->! database backend:ms sql
+(0.14285714285714285)	implementation language(s):php ->! server operating system:cloud computing
+(0.14285714285714285)	implementation language(s):php ->! database backend:oracle
+(0.14285714285714285)	implementation language(s):java ->! server operating system:cross-platform
+(0.14285714285714285)	implementation language(s):java ->! first release date:[1981-2005]
+(0.14285714285714285)	implementation language(s):java ->! database backend:postgresql
+(0.14285714285714285)	implementation language(s):java ->! database backend:oracle
+(0.14285714285714285)	implementation language(s):java ->! database backend:ms sql
+(0.14285714285714285)	implementation language(s):asp.net ->! server operating system:cloud computing
+(0.14285714285714285)	database backend:oracle ->! first release date:[2004-2013]
+(0.14285714285714285)	database backend:ms sql server ->! first release date:[1996-2001]
+(0.10714285714285714)	license:gpl ->! implementation language(s):javascript
+(0.10714285714285714)	license:gpl ->! implementation language(s):c++
+(0.10714285714285714)	license:gpl ->! implementation language(s):asp
+(0.10714285714285714)	license:gpl ->! implementation language(s):.net
+(0.10714285714285714)	license:gpl ->! first release date:[2012-2013]
+(0.10714285714285714)	license:gpl ->! first release date:[2004-2005]
+(0.10714285714285714)	license:agpl3 ->! implementation language(s):c++
+(0.10714285714285714)	license:agpl3 ->! implementation language(s):asp
+(0.10714285714285714)	license:agpl3 ->! implementation language(s):.net
+(0.10714285714285714)	last release date:[2014-2015] ->! implementation language(s):c++
+(0.10714285714285714)	last release date:[2013-2015] ->! implementation language(s):javascript
+(0.10714285714285714)	last release date:[2009-2013] ->! implementation language(s):asp
+(0.10714285714285714)	last release date:[2009-2011] ->! first release date:[1981-2008]
+(0.10714285714285714)	last release date:[2006-2013] ->! first release date:[2004-2005]
+(0.10714285714285714)	last release date:[2006-2012] ->! first release date:[2012-2013]
+(0.10714285714285714)	last release date:[2006-2011] ->! implementation language(s):.net
+(0.10714285714285714)	last release date:2015 ->! implementation language(s):.net
+(0.10714285714285714)	last release date:2015 ->! first release date:2006
+(0.10714285714285714)	last release date:2014 ->! first release date:[2012-2013]
+(0.10714285714285714)	last release date:2013 ->! license:agpl3
+(0.10714285714285714)	last release date:2013 ->! implementation language(s):php
+(0.10714285714285714)	last release date:2013 ->! first release date:[1996-2008]
+(0.10714285714285714)	last release date:2013 ->! database backend:postgresql
+(0.10714285714285714)	last release date:2013 ->! database backend:oracle
+(0.10714285714285714)	last release date:2013 ->! database backend:ms sql
+(0.10714285714285714)	last release date:* ->! implementation language(s):javascript
+(0.10714285714285714)	last release date:* ->! implementation language(s):c++
+(0.10714285714285714)	last release date:* ->! implementation language(s):asp
+(0.10714285714285714)	last release date:* ->! implementation language(s):.net
+(0.10714285714285714)	last release date:* ->! first release date:[2004-2005]
+(0.10714285714285714)	implementation language(s):python ->! first release date:2006
+(0.10714285714285714)	implementation language(s):javascript ->! first release date:[2008-2013]
+(0.10714285714285714)	implementation language(s):c++ ->! server operating system:mac os
+(0.10714285714285714)	implementation language(s):c++ ->! server operating system:cross-platform
+(0.10714285714285714)	implementation language(s):c++ ->! server operating system:cloud computing
+(0.10714285714285714)	implementation language(s):c++ ->! first release date:[2010-2013]
+(0.10714285714285714)	implementation language(s):c++ ->! first release date:[2003-2008]
+(0.10714285714285714)	implementation language(s):c++ ->! first release date:[1996-1999]
+(0.10714285714285714)	implementation language(s):asp ->! server operating system:cross-platform
+(0.10714285714285714)	implementation language(s):asp ->! first release date:[2009-2013]
+(0.10714285714285714)	implementation language(s):asp ->! first release date:[1990-2005]
+(0.10714285714285714)	implementation language(s):asp ->! database backend:postgresql
+(0.10714285714285714)	implementation language(s):asp ->! database backend:ms sql server
+(0.10714285714285714)	implementation language(s):.net ->! server operating system:mac os
+(0.10714285714285714)	implementation language(s):.net ->! server operating system:linux
+(0.10714285714285714)	implementation language(s):.net ->! server operating system:cross-platform
+(0.10714285714285714)	implementation language(s):.net ->! server operating system:cloud computing
+(0.10714285714285714)	implementation language(s):.net ->! first release date:[2010-2013]
+(0.10714285714285714)	implementation language(s):.net ->! first release date:[2004-2008]
+(0.10714285714285714)	implementation language(s):.net ->! first release date:[1998-2001]
+(0.10714285714285714)	implementation language(s):.net ->! database backend:postgresql
+(0.10714285714285714)	implementation language(s):.net ->! database backend:mysql
+(0.07142857142857142)	server operating system:mac os ->! first release date:2010
+(0.07142857142857142)	server operating system:mac os ->! database backend:db2
+(0.07142857142857142)	server operating system:mac os ->! database backend:amazon server
+(0.07142857142857142)	server operating system:linux ->! database backend:db2
+(0.07142857142857142)	server operating system:linux ->! database backend:amazon server
+(0.07142857142857142)	server operating system:ios ->! first release date:[2012-2013]
+(0.07142857142857142)	server operating system:ios ->! first release date:[1981-2008]
+(0.07142857142857142)	server operating system:ios ->! database backend:proprietary
+(0.07142857142857142)	server operating system:ios ->! database backend:postgresql
+(0.07142857142857142)	server operating system:ios ->! database backend:oracle
+(0.07142857142857142)	server operating system:ios ->! database backend:ms sql
+(0.07142857142857142)	server operating system:ios ->! database backend:firebird
+(0.07142857142857142)	server operating system:ios ->! database backend:db2
+(0.07142857142857142)	server operating system:cross-platform ->! database backend:proprietary
+(0.07142857142857142)	server operating system:cross-platform ->! database backend:firebird
+(0.07142857142857142)	server operating system:cross-platform ->! database backend:amazon server
+(0.07142857142857142)	server operating system:cloud computing ->! first release date:2010
+(0.07142857142857142)	server operating system:cloud computing ->! first release date:2008
+(0.07142857142857142)	server operating system:cloud computing ->! database backend:firebird
+(0.07142857142857142)	server operating system:cloud computing ->! database backend:db2
+(0.07142857142857142)	license:saas ->! first release date:[1990-1996]
+(0.07142857142857142)	license:saas ->! database backend:sqlite
+(0.07142857142857142)	license:proprietary ->! server operating system:ios
+(0.07142857142857142)	license:proprietary ->! implementation language(s):vbscript
+(0.07142857142857142)	license:proprietary ->! implementation language(s):ruby on rails
+(0.07142857142857142)	license:proprietary ->! first release date:2010
+(0.07142857142857142)	license:proprietary ->! database backend:sqlite
+(0.07142857142857142)	license:proprietary ->! database backend:amazon server
+(0.07142857142857142)	license:gpl ->! server operating system:ios
+(0.07142857142857142)	license:gpl ->! implementation language(s):ruby on rails
+(0.07142857142857142)	license:gpl ->! implementation language(s):c#
+(0.07142857142857142)	license:gpl ->! database backend:proprietary
+(0.07142857142857142)	license:gpl ->! database backend:db2
+(0.07142857142857142)	license:agpl3 ->! server operating system:ios
+(0.07142857142857142)	license:agpl3 ->! implementation language(s):ruby on rails
+(0.07142857142857142)	license:agpl3 ->! implementation language(s):c#
+(0.07142857142857142)	license:agpl3 ->! database backend:sqlite
+(0.07142857142857142)	license:agpl3 ->! database backend:proprietary
+(0.07142857142857142)	license:agpl3 ->! database backend:firebird
+(0.07142857142857142)	license:agpl3 ->! database backend:db2
+(0.07142857142857142)	license:agpl3 ->! database backend:amazon server
+(0.07142857142857142)	last release date:[2014-2015] ->! implementation language(s):c#
+(0.07142857142857142)	last release date:[2014-2015] ->! first release date:2012
+(0.07142857142857142)	last release date:[2014-2015] ->! database backend:amazon server
+(0.07142857142857142)	last release date:[2013-2015] ->! database backend:proprietary
+(0.07142857142857142)	last release date:[2012-2015] ->! database backend:firebird
+(0.07142857142857142)	last release date:[2012-2013] ->! first release date:2010
+(0.07142857142857142)	last release date:[2011-2014] ->! implementation language(s):ruby on rails
+(0.07142857142857142)	last release date:[2011-2013] ->! server operating system:ios
+(0.07142857142857142)	last release date:[2009-2014] ->! implementation language(s):vbscript
+(0.07142857142857142)	last release date:[2006-2013] ->! first release date:2008
+(0.07142857142857142)	last release date:[2006-2013] ->! database backend:db2
+(0.07142857142857142)	last release date:[2006-2012] ->! implementation language(s):c#
+(0.07142857142857142)	last release date:[2006-2012] ->! first release date:[1981-1990]
+(0.07142857142857142)	last release date:[2006-2011] ->! database backend:proprietary
+(0.07142857142857142)	last release date:[2006-2009] ->! server operating system:windows
+(0.07142857142857142)	last release date:[2006-2009] ->! license:proprietary
+(0.07142857142857142)	last release date:[2006-2009] ->! license:gpl
+(0.07142857142857142)	last release date:[2006-2009] ->! implementation language(s):c++
+(0.07142857142857142)	last release date:[2006-2009] ->! implementation language(s):asp.net
+(0.07142857142857142)	last release date:[2006-2009] ->! first release date:[2010-2013]
+(0.07142857142857142)	last release date:[2006-2009] ->! database backend:firebird
+(0.07142857142857142)	last release date:2015 ->! server operating system:ios
+(0.07142857142857142)	last release date:2011 ->! database backend:mysql
+(0.07142857142857142)	last release date:* ->! server operating system:ios
+(0.07142857142857142)	last release date:* ->! implementation language(s):ruby on rails
+(0.07142857142857142)	last release date:* ->! implementation language(s):c#
+(0.07142857142857142)	last release date:* ->! database backend:db2
+(0.07142857142857142)	last release date:* ->! database backend:amazon server
+(0.07142857142857142)	implementation language(s):vbscript ->! first release date:[1981-2005]
+(0.07142857142857142)	implementation language(s):vbscript ->! database backend:oracle
+(0.07142857142857142)	implementation language(s):vbscript ->! database backend:ms sql
+(0.07142857142857142)	implementation language(s):vbscript ->! database backend:db2
+(0.07142857142857142)	implementation language(s):ruby on rails ->! server operating system:cross-platform
+(0.07142857142857142)	implementation language(s):ruby on rails ->! first release date:[2010-2013]
+(0.07142857142857142)	implementation language(s):ruby on rails ->! first release date:[1981-2008]
+(0.07142857142857142)	implementation language(s):ruby on rails ->! database backend:proprietary
+(0.07142857142857142)	implementation language(s):ruby on rails ->! database backend:postgresql
+(0.07142857142857142)	implementation language(s):ruby on rails ->! database backend:oracle
+(0.07142857142857142)	implementation language(s):ruby on rails ->! database backend:ms sql
+(0.07142857142857142)	implementation language(s):ruby on rails ->! database backend:firebird
+(0.07142857142857142)	implementation language(s):ruby on rails ->! database backend:db2
+(0.07142857142857142)	implementation language(s):python ->! first release date:2004
+(0.07142857142857142)	implementation language(s):python ->! database backend:proprietary
+(0.07142857142857142)	implementation language(s):python ->! database backend:db2
+(0.07142857142857142)	implementation language(s):python ->! database backend:amazon server
+(0.07142857142857142)	implementation language(s):php ->! first release date:2012
+(0.07142857142857142)	implementation language(s):php ->! database backend:sqlite
+(0.07142857142857142)	implementation language(s):php ->! database backend:proprietary
+(0.07142857142857142)	implementation language(s):php ->! database backend:firebird
+(0.07142857142857142)	implementation language(s):php ->! database backend:amazon server
+(0.07142857142857142)	implementation language(s):javascript ->! database backend:proprietary
+(0.07142857142857142)	implementation language(s):java ->! server operating system:ios
+(0.07142857142857142)	implementation language(s):java ->! database backend:firebird
+(0.07142857142857142)	implementation language(s):java ->! database backend:db2
+(0.07142857142857142)	implementation language(s):c++ ->! server operating system:ios
+(0.07142857142857142)	implementation language(s):c++ ->! database backend:sqlite
+(0.07142857142857142)	implementation language(s):c++ ->! database backend:proprietary
+(0.07142857142857142)	implementation language(s):c++ ->! database backend:db2
+(0.07142857142857142)	implementation language(s):c++ ->! database backend:amazon server
+(0.07142857142857142)	implementation language(s):c# ->! server operating system:mac os
+(0.07142857142857142)	implementation language(s):c# ->! server operating system:linux
+(0.07142857142857142)	implementation language(s):c# ->! server operating system:ios
+(0.07142857142857142)	implementation language(s):c# ->! server operating system:cross-platform
+(0.07142857142857142)	implementation language(s):c# ->! server operating system:cloud computing
+(0.07142857142857142)	implementation language(s):c# ->! first release date:[2010-2013]
+(0.07142857142857142)	implementation language(s):c# ->! first release date:[1996-2008]
+(0.07142857142857142)	implementation language(s):c# ->! database backend:proprietary
+(0.07142857142857142)	implementation language(s):c# ->! database backend:postgresql
+(0.07142857142857142)	implementation language(s):c# ->! database backend:oracle
+(0.07142857142857142)	implementation language(s):c# ->! database backend:mysql
+(0.07142857142857142)	implementation language(s):c# ->! database backend:ms sql
+(0.07142857142857142)	implementation language(s):c# ->! database backend:firebird
+(0.07142857142857142)	implementation language(s):c# ->! database backend:db2
+(0.07142857142857142)	implementation language(s):asp ->! server operating system:ios
+(0.07142857142857142)	implementation language(s):asp ->! database backend:proprietary
+(0.07142857142857142)	implementation language(s):asp ->! database backend:firebird
+(0.07142857142857142)	implementation language(s):.net ->! server operating system:ios
+(0.07142857142857142)	implementation language(s):.net ->! first release date:[1981-1990]
+(0.07142857142857142)	implementation language(s):.net ->! database backend:proprietary
+(0.07142857142857142)	implementation language(s):.net ->! database backend:firebird
+(0.07142857142857142)	implementation language(s):.net ->! database backend:db2
+(0.07142857142857142)	database backend:sqlite ->! first release date:[1981-2001]
+(0.07142857142857142)	database backend:proprietary ->! first release date:[2010-2013]
+(0.07142857142857142)	database backend:proprietary ->! first release date:[2001-2008]
+(0.07142857142857142)	database backend:proprietary ->! first release date:[1981-1998]
+(0.07142857142857142)	database backend:postgresql ->! first release date:2004
+(0.07142857142857142)	database backend:oracle ->! first release date:[1998-1999]
+(0.07142857142857142)	database backend:firebird ->! first release date:[2010-2013]
+(0.07142857142857142)	database backend:firebird ->! first release date:[2004-2008]
+(0.07142857142857142)	database backend:firebird ->! first release date:[1981-2001]
+(0.07142857142857142)	database backend:db2 ->! first release date:[2005-2013]
+(0.07142857142857142)	database backend:db2 ->! first release date:[1990-2003]
+(0.07142857142857142)	database backend:amazon server ->! first release date:[2012-2013]
+(0.07142857142857142)	database backend:amazon server ->! first release date:[1981-2008]
+(0.03571428571428571)	server operating system:windows phone ->! first release date:[2010-2013]
+(0.03571428571428571)	server operating system:web ->! first release date:[1981-2009]
+(0.03571428571428571)	server operating system:linux ->! database backend:google app engine
+(0.03571428571428571)	server operating system:ios ->! database backend:sql server
+(0.03571428571428571)	server operating system:ios ->! database backend:google app engine
+(0.03571428571428571)	server operating system:ios ->! database backend:*
+(0.03571428571428571)	server operating system:cross-platform ->! first release date:2005
+(0.03571428571428571)	server operating system:cross-platform ->! database backend:sql server
+(0.03571428571428571)	server operating system:cross-platform ->! database backend:google app engine
+(0.03571428571428571)	server operating system:cross-platform ->! database backend:*
+(0.03571428571428571)	server operating system:cloud computing ->! first release date:2013
+(0.03571428571428571)	server operating system:cloud computing ->! database backend:sql server
+(0.03571428571428571)	server operating system:cloud computing ->! database backend:google app engine
+(0.03571428571428571)	server operating system:cloud computing ->! database backend:*
+(0.03571428571428571)	license:saas ->! implementation language(s):apex
+(0.03571428571428571)	license:saas ->! first release date:2013
+(0.03571428571428571)	license:saas ->! first release date:2005
+(0.03571428571428571)	license:saas ->! first release date:1999
+(0.03571428571428571)	license:saas ->! database backend:mariadb
+(0.03571428571428571)	license:saas ->! database backend:google app engine
+(0.03571428571428571)	license:saas ->! database backend:adodb
+(0.03571428571428571)	license:saas ->! database backend:*
+(0.03571428571428571)	license:proprietary ->! first release date:2013
+(0.03571428571428571)	license:proprietary ->! first release date:1998
+(0.03571428571428571)	license:proprietary ->! database backend:sql server
+(0.03571428571428571)	license:proprietary ->! database backend:mariadb
+(0.03571428571428571)	license:proprietary ->! database backend:adodb
+(0.03571428571428571)	license:proprietary ->! database backend:*
+(0.03571428571428571)	license:mit ->! server operating system:windows
+(0.03571428571428571)	license:mit ->! server operating system:ios
+(0.03571428571428571)	license:mit ->! server operating system:cloud computing
+(0.03571428571428571)	license:mit ->! implementation language(s):ruby on rails
+(0.03571428571428571)	license:mit ->! implementation language(s):python
+(0.03571428571428571)	license:mit ->! implementation language(s):java
+(0.03571428571428571)	license:mit ->! implementation language(s):c++
+(0.03571428571428571)	license:mit ->! implementation language(s):c#
+(0.03571428571428571)	license:mit ->! implementation language(s):asp
+(0.03571428571428571)	license:mit ->! implementation language(s):apex
+(0.03571428571428571)	license:mit ->! implementation language(s):.net
+(0.03571428571428571)	license:mit ->! first release date:[2008-2013]
+(0.03571428571428571)	license:mit ->! first release date:[1981-2005]
+(0.03571428571428571)	license:mit ->! database backend:sqlite
+(0.03571428571428571)	license:mit ->! database backend:sql server
+(0.03571428571428571)	license:mit ->! database backend:proprietary
+(0.03571428571428571)	license:mit ->! database backend:oracle
+(0.03571428571428571)	license:mit ->! database backend:ms sql
+(0.03571428571428571)	license:mit ->! database backend:google app engine
+(0.03571428571428571)	license:mit ->! database backend:firebird
+(0.03571428571428571)	license:mit ->! database backend:db2
+(0.03571428571428571)	license:mit ->! database backend:*
+(0.03571428571428571)	license:gpl ->! implementation language(s):apex
+(0.03571428571428571)	license:gpl ->! database backend:sql server
+(0.03571428571428571)	license:gpl ->! database backend:mariadb
+(0.03571428571428571)	license:gpl ->! database backend:google app engine
+(0.03571428571428571)	license:gpl ->! database backend:adodb
+(0.03571428571428571)	license:agpl3 ->! implementation language(s):apex
+(0.03571428571428571)	license:agpl3 ->! database backend:sql server
+(0.03571428571428571)	license:agpl3 ->! database backend:google app engine
+(0.03571428571428571)	license:agpl3 ->! database backend:adodb
+(0.03571428571428571)	license:agpl3 ->! database backend:*
+(0.03571428571428571)	last release date:[2011-2015] ->! server operating system:windows phone
+(0.03571428571428571)	last release date:[2006-2015] ->! implementation language(s):apex
+(0.03571428571428571)	last release date:[2006-2015] ->! first release date:1999
+(0.03571428571428571)	last release date:[2006-2015] ->! database backend:interbase
+(0.03571428571428571)	last release date:[2006-2015] ->! database backend:google app engine
+(0.03571428571428571)	last release date:[2006-2015] ->! database backend:*
+(0.03571428571428571)	last release date:[2006-2014] ->! first release date:2013
+(0.03571428571428571)	last release date:[2006-2014] ->! first release date:2005
+(0.03571428571428571)	last release date:[2006-2014] ->! database backend:sql server
+(0.03571428571428571)	last release date:[2006-2014] ->! database backend:mariadb
+(0.03571428571428571)	last release date:[2006-2013] ->! server operating system:web
+(0.03571428571428571)	last release date:[2006-2013] ->! license:mit
+(0.03571428571428571)	last release date:[2006-2013] ->! first release date:1981
+(0.03571428571428571)	last release date:[2006-2013] ->! database backend:adodb
+(0.03571428571428571)	last release date:2015 ->! license:mit
+(0.03571428571428571)	last release date:2015 ->! database backend:adodb
+(0.03571428571428571)	last release date:2006 ->! server operating system:ios
+(0.03571428571428571)	last release date:2006 ->! implementation language(s):ruby on rails
+(0.03571428571428571)	last release date:2006 ->! implementation language(s):python
+(0.03571428571428571)	last release date:2006 ->! first release date:[2008-2013]
+(0.03571428571428571)	last release date:* ->! license:mit
+(0.03571428571428571)	last release date:* ->! first release date:2013
+(0.03571428571428571)	last release date:* ->! first release date:2001
+(0.03571428571428571)	last release date:* ->! database backend:sql server
+(0.03571428571428571)	last release date:* ->! database backend:mariadb
+(0.03571428571428571)	last release date:* ->! database backend:adodb
+(0.03571428571428571)	implementation language(s):ruby on rails ->! server operating system:web
+(0.03571428571428571)	implementation language(s):ruby on rails ->! database backend:sql server
+(0.03571428571428571)	implementation language(s):ruby on rails ->! database backend:google app engine
+(0.03571428571428571)	implementation language(s):ruby on rails ->! database backend:*
+(0.03571428571428571)	implementation language(s):python ->! server operating system:web
+(0.03571428571428571)	implementation language(s):python ->! database backend:sql server
+(0.03571428571428571)	implementation language(s):python ->! database backend:mariadb
+(0.03571428571428571)	implementation language(s):python ->! database backend:google app engine
+(0.03571428571428571)	implementation language(s):python ->! database backend:adodb
+(0.03571428571428571)	implementation language(s):python ->! database backend:*
+(0.03571428571428571)	implementation language(s):php ->! first release date:2005
+(0.03571428571428571)	implementation language(s):php ->! database backend:sql server
+(0.03571428571428571)	implementation language(s):php ->! database backend:google app engine
+(0.03571428571428571)	implementation language(s):php ->! database backend:*
+(0.03571428571428571)	implementation language(s):javascript ->! database backend:google app engine
+(0.03571428571428571)	implementation language(s):javascript ->! database backend:*
+(0.03571428571428571)	implementation language(s):java ->! database backend:sql server
+(0.03571428571428571)	implementation language(s):c++ ->! first release date:1981
+(0.03571428571428571)	implementation language(s):c++ ->! database backend:sql server
+(0.03571428571428571)	implementation language(s):c++ ->! database backend:mariadb
+(0.03571428571428571)	implementation language(s):c++ ->! database backend:google app engine
+(0.03571428571428571)	implementation language(s):c++ ->! database backend:adodb
+(0.03571428571428571)	implementation language(s):c++ ->! database backend:*
+(0.03571428571428571)	implementation language(s):c# ->! first release date:1981
+(0.03571428571428571)	implementation language(s):c# ->! database backend:sql server
+(0.03571428571428571)	implementation language(s):c# ->! database backend:google app engine
+(0.03571428571428571)	implementation language(s):c# ->! database backend:*
+(0.03571428571428571)	implementation language(s):asp.net ->! database backend:sql server
+(0.03571428571428571)	implementation language(s):asp ->! database backend:google app engine
+(0.03571428571428571)	implementation language(s):asp ->! database backend:*
+(0.03571428571428571)	implementation language(s):apex ->! server operating system:windows
+(0.03571428571428571)	implementation language(s):apex ->! server operating system:ios
+(0.03571428571428571)	implementation language(s):apex ->! server operating system:cross-platform
+(0.03571428571428571)	implementation language(s):apex ->! first release date:[2001-2013]
+(0.03571428571428571)	implementation language(s):apex ->! first release date:[1981-1998]
+(0.03571428571428571)	implementation language(s):apex ->! database backend:sql server
+(0.03571428571428571)	implementation language(s):apex ->! database backend:postgresql
+(0.03571428571428571)	implementation language(s):apex ->! database backend:oracle
+(0.03571428571428571)	implementation language(s):apex ->! database backend:mysql
+(0.03571428571428571)	implementation language(s):apex ->! database backend:ms sql
+(0.03571428571428571)	implementation language(s):apex ->! database backend:google app engine
+(0.03571428571428571)	implementation language(s):apex ->! database backend:firebird
+(0.03571428571428571)	implementation language(s):apex ->! database backend:db2
+(0.03571428571428571)	implementation language(s):apex ->! database backend:*
+(0.03571428571428571)	implementation language(s):.net ->! database backend:sql server
+(0.03571428571428571)	implementation language(s):.net ->! database backend:google app engine
+(0.03571428571428571)	implementation language(s):.net ->! database backend:*
+(0.03571428571428571)	database backend:sql server ->! first release date:[2009-2013]
+(0.03571428571428571)	database backend:sql server ->! first release date:[1981-2006]
+(0.03571428571428571)	database backend:oracle ->! first release date:1990
+(0.03571428571428571)	database backend:mysql ->! first release date:2005
+(0.03571428571428571)	database backend:ms sql server ->! first release date:1981
+(0.03571428571428571)	database backend:ms sql ->! first release date:1990
+(0.03571428571428571)	database backend:mariadb ->! first release date:[1981-2012]
+(0.03571428571428571)	database backend:google app engine ->! first release date:[1981-2010]
+(0.03571428571428571)	database backend:google app engine ->! first release date:2013
+(0.03571428571428571)	database backend:adodb ->! first release date:[2008-2013]
+(0.03571428571428571)	database backend:adodb ->! first release date:[1981-2005]
+(0.03571428571428571)	database backend:* ->! first release date:[2008-2013]
+(0.03571428571428571)	database backend:* ->! first release date:[1981-2005]

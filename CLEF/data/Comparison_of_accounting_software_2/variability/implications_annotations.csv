@@ -1,0 +1,81 @@
+support,pertinence,implication
+0.8888888888888888,,	development status:5 - production / stable -> stable release date:[2008-2015]
+0.7222222222222222,,	first public release date:[1982-2008] -> development status:5 - production / stable
+0.6666666666666666,,	database:postgresql -> stable release date:[2008-2015]
+0.2777777777777778,,	first public release date:* -> stable release date:[2010-2015]
+0.2222222222222222,,	programming language:jboss -> stable release date:[2008-2013]
+0.2222222222222222,,	programming language:j2ee -> stable release date:[2008-2013]
+0.16666666666666666,,	programming language:c -> first public release date:[1982-1999]
+0.16666666666666666,,	database:xml -> first public release date:[1998-2000]
+0.16666666666666666,,	database:ms sql -> stable release date:[2008-2014]
+0.1111111111111111,,	programming language:php -> database:mysql
+0.1111111111111111,,	database:* -> first public release date:[1985-1999]
+0.05555555555555555,,	stable release date:2014 -> database:derby
+0.05555555555555555,,	stable release date:2009 -> programming language:java
+0.05555555555555555,,	programming language:scheme -> first public release date:1999
+0.05555555555555555,,	programming language:objective-c -> first public release date:1999
+0.05555555555555555,,	programming language:objective-c -> database:*
+0.05555555555555555,,	programming language:lisp -> first public release date:1999
+0.05555555555555555,,	programming language:jdo -> stable release date:2010
+0.05555555555555555,,	programming language:jdo -> development status:*
+0.05555555555555555,,	programming language:jdo -> database:derby
+0.05555555555555555,,	programming language:groovy -> database:derby
+0.05555555555555555,,	programming language:freemarker -> database:derby
+0.05555555555555555,,	programming language:eclipse rcp -> stable release date:2010
+0.05555555555555555,,	programming language:eclipse rcp -> development status:*
+0.05555555555555555,,	programming language:eclipse rcp -> database:derby
+0.05555555555555555,,	latest stable release:7.0 -> programming language:xml
+0.05555555555555555,,	latest stable release:7.0 -> programming language:javascript
+0.05555555555555555,,	latest stable release:6.1 -> first public release date:1999
+0.05555555555555555,,	latest stable release:6.1 -> database:*
+0.05555555555555555,,	latest stable release:5.0.0 -> programming language:java
+0.05555555555555555,,	latest stable release:4.7.2 -> programming language:c++
+0.05555555555555555,,	latest stable release:4.07.10 -> programming language:php
+0.05555555555555555,,	latest stable release:3.6 -> stable release date:2010
+0.05555555555555555,,	latest stable release:3.2 -> stable release date:2008
+0.05555555555555555,,	latest stable release:3.0.2 -> programming language:perl
+0.05555555555555555,,	latest stable release:3.0.2 -> development status:*
+0.05555555555555555,,	latest stable release:2.6.6 -> first public release date:1999
+0.05555555555555555,,	latest stable release:2.3.24 -> programming language:php
+0.05555555555555555,,	latest stable release:2.28.1 -> programming language:c++
+0.05555555555555555,,	latest stable release:2.28.1 -> database:*
+0.05555555555555555,,	latest stable release:12.04.03 -> database:derby
+0.05555555555555555,,	latest stable release:1.4 -> stable release date:2008
+0.05555555555555555,,	latest stable release:1.0.1 -> stable release date:2010
+0.05555555555555555,,	latest stable release:1.0.1 -> development status:*
+0.05555555555555555,,	latest stable release:1.0.1 -> database:derby
+0.05555555555555555,,	first public release date:2008 -> stable release date:2013
+0.05555555555555555,,	first public release date:2008 -> latest stable release:3.0
+0.05555555555555555,,	first public release date:2003 -> programming language:php
+0.05555555555555555,,	first public release date:2000 -> programming language:c++
+0.05555555555555555,,	first public release date:1985 -> programming language:c++
+0.05555555555555555,,	first public release date:1985 -> database:*
+0.05555555555555555,,	first public release date:1982 -> programming language:java
+0.05555555555555555,,	database:sql -> programming language:c++
+0.05555555555555555,,	database:innodb -> programming language:php
+0.05555555555555555,,	database:ibm db2 -> programming language:c++
+0.05555555555555555,,	database:advance server -> stable release date:2008
+0.0,,	stable release date:* -> first public release date:2008
+0.0,,	stable release date:* -> first public release date:2003
+0.0,,	stable release date:* -> first public release date:2002
+0.0,,	stable release date:* -> first public release date:2001
+0.0,,	stable release date:* -> first public release date:2000
+0.0,,	stable release date:* -> first public release date:1998
+0.0,,	stable release date:* -> first public release date:1985
+0.0,,	stable release date:* -> database:sql
+0.0,,	stable release date:* -> database:innodb
+0.0,,	stable release date:* -> database:ibm db2
+0.0,,	stable release date:* -> database:advance server
+0.0,,	programming language:* -> first public release date:2008
+0.0,,	programming language:* -> first public release date:2003
+0.0,,	programming language:* -> first public release date:2002
+0.0,,	programming language:* -> first public release date:2001
+0.0,,	programming language:* -> first public release date:2000
+0.0,,	programming language:* -> first public release date:1998
+0.0,,	programming language:* -> first public release date:1985
+0.0,,	programming language:* -> first public release date:1982
+0.0,,	programming language:* -> database:sql
+0.0,,	programming language:* -> database:innodb
+0.0,,	programming language:* -> database:ibm db2
+0.0,,	programming language:* -> database:advance server
+0.0,,	latest stable release:* -> first public release date:2008

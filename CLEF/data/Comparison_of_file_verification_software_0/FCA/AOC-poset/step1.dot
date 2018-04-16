@@ -1,0 +1,514 @@
+digraph G { 
+	rankdir=BT;
+subgraph ctx { 
+label="ctx";
+1 [shape=record,label="{Concept_ctx_30||data digester\n}"];
+2 [shape=record,label="{Concept_ctx_9|first public release:1999\n|quicksfv\n}"];
+3 [shape=record,label="{Concept_ctx_34|first public release:2000\nframework:python\n|cfv\n}"];
+4 [shape=record,label="{Concept_ctx_15||jacksum\n}"];
+5 [shape=record,label="{Concept_ctx_12|license:public domain\n|md5deep\n}"];
+6 [shape=record,label="{Concept_ctx_8|first public release:2004\n|rapidcrc\n}"];
+7 [shape=record,label="{Concept_ctx_23||fileverifier++\n}"];
+8 [shape=record,label="{Concept_ctx_3||teracopy\n}"];
+9 [shape=record,label="{Concept_ctx_20|license:bsd\n|hashcheck\n}"];
+10 [shape=record,label="{Concept_ctx_17||jdigest\n}"];
+11 [shape=record,label="{Concept_ctx_33|first public release:2010\n|chk\n}"];
+12 [shape=record,label="{Concept_ctx_31|first public release:2011\n|cobynsoft's hash calculator\n}"];
+13 [shape=record,label="{Concept_ctx_5||safefilemanager\n}"];
+14 [shape=record,label="{Concept_ctx_29|framework:qt\n|deepdigest\n}"];
+15 [shape=record,label="{Concept_ctx_18||intactfile\n}"];
+16 [shape=record,label="{Concept_ctx_2||toolsley hash validate\n}"];
+17 [shape=record,label="{Concept_ctx_35||cdcheck\n}"];
+18 [shape=record,label="{Concept_ctx_26||express checksum calculator\n}"];
+19 [shape=record,label="{Concept_ctx_25||fastsum\n}"];
+20 [shape=record,label="{Concept_ctx_36||beaversfv\n}"];
+21 [shape=record,label="{Concept_ctx_19||ilsfv\n}"];
+22 [shape=record,label="{Concept_ctx_13||md5  sha checksum utility\n}"];
+23 [shape=record,label="{Concept_ctx_22|license:donationware\n|flashsfv\n}"];
+24 [shape=record,label="{Concept_ctx_6||rhash\n}"];
+25 [shape=record,label="{Concept_ctx_0|framework:gtk\n|wxchecksums\n}"];
+26 [shape=record,label="{Concept_ctx_4||supersfv\n}"];
+27 [shape=record,label="{Concept_ctx_14||md5 file hasher\n}"];
+28 [shape=record,label="{Concept_ctx_21||fsum frontend\n}"];
+29 [shape=record,label="{Concept_ctx_24||febooti hash crc\n}"];
+30 [shape=record,label="{Concept_ctx_28||dysfv\n}"];
+31 [shape=record,label="{Concept_ctx_10||md5 win verifier\n}"];
+32 [shape=record,label="{Concept_ctx_1||winhasher\n}"];
+33 [shape=record,label="{Concept_ctx_7||reksfv\n}"];
+34 [shape=record,label="{Concept_ctx_27||exactfile\n}"];
+35 [shape=record,label="{Concept_ctx_32||cksum\n}"];
+36 [shape=record,label="{Concept_ctx_16||jhashcalc\n}"];
+37 [shape=record,label="{Concept_ctx_11|framework:delphi\n|md5summer\n}"];
+38 [shape=record,label="{Concept_ctx_39|first public release:2002\n|}"];
+39 [shape=record,label="{Concept_ctx_44|first public release:2008\n|}"];
+40 [shape=record,label="{Concept_ctx_43||checksum compare\n}"];
+41 [shape=record,label="{Concept_ctx_37|first public release:2014\n|}"];
+42 [shape=record,label="{Concept_ctx_42|first public release:[1999-2000]\n|}"];
+43 [shape=record,label="{Concept_ctx_41|first public release:[2010-2011]\n|}"];
+44 [shape=record,label="{Concept_ctx_38||md5sum\nsha1sum\n}"];
+45 [shape=record,label="{Concept_ctx_45||accuhash\nsfv checker\n}"];
+46 [shape=record,label="{Concept_ctx_40|framework:c\n|}"];
+47 [shape=record,label="{Concept_ctx_46|first public release:2006\n|}"];
+48 [shape=record,label="{Concept_ctx_47|first public release:2009\n|}"];
+49 [shape=record,label="{Concept_ctx_48|first public release:2013\n|}"];
+50 [shape=record,label="{Concept_ctx_51|first public release:[2000-2002]\n|}"];
+51 [shape=record,label="{Concept_ctx_49|license:*\n|}"];
+52 [shape=record,label="{Concept_ctx_50|framework:vcl\n|}"];
+53 [shape=record,label="{Concept_ctx_57|first public release:2003\n|}"];
+54 [shape=record,label="{Concept_ctx_56|first public release:2012\n|}"];
+55 [shape=record,label="{Concept_ctx_52|first public release:[2004-2006]\n|}"];
+56 [shape=record,label="{Concept_ctx_54|first public release:[2009-2010]\n|}"];
+57 [shape=record,label="{Concept_ctx_55|first public release:[1999-2002]\n|}"];
+58 [shape=record,label="{Concept_ctx_58|license:proprietary\n|}"];
+59 [shape=record,label="{Concept_ctx_53||fciv\nfsum\nget-filehash\nhashcalc\n}"];
+60 [shape=record,label="{Concept_ctx_59|first public release:2007\n|}"];
+61 [shape=record,label="{Concept_ctx_64|first public release:[2003-2004]\n|}"];
+62 [shape=record,label="{Concept_ctx_65|first public release:[2008-2009]\n|}"];
+63 [shape=record,label="{Concept_ctx_63|first public release:[2011-2012]\n|}"];
+64 [shape=record,label="{Concept_ctx_61|first public release:[2013-2014]\n|}"];
+65 [shape=record,label="{Concept_ctx_62|first public release:[2009-2011]\n|}"];
+66 [shape=record,label="{Concept_ctx_60|framework:java\n|}"];
+67 [shape=record,label="{Concept_ctx_68|first public release:[2002-2003]\n|}"];
+68 [shape=record,label="{Concept_ctx_69|first public release:[2008-2010]\n|}"];
+69 [shape=record,label="{Concept_ctx_67|first public release:[2010-2012]\n|}"];
+70 [shape=record,label="{Concept_ctx_66|license:shareware\n|}"];
+71 [shape=record,label="{Concept_ctx_73|first public release:[2007-2008]\n|}"];
+72 [shape=record,label="{Concept_ctx_70|first public release:[2012-2013]\n|}"];
+73 [shape=record,label="{Concept_ctx_72|first public release:[2000-2003]\n|}"];
+74 [shape=record,label="{Concept_ctx_71|first public release:[2002-2004]\n|}"];
+75 [shape=record,label="{Concept_ctx_74|first public release:[2008-2011]\n|}"];
+76 [shape=record,label="{Concept_ctx_81|non-free\n|}"];
+77 [shape=record,label="{Concept_ctx_75|first public release:[2006-2007]\n|}"];
+78 [shape=record,label="{Concept_ctx_77|first public release:[2003-2006]\n|}"];
+79 [shape=record,label="{Concept_ctx_76|first public release:[2011-2013]\n|}"];
+80 [shape=record,label="{Concept_ctx_79|first public release:[1999-2003]\n|}"];
+81 [shape=record,label="{Concept_ctx_78|first public release:[2000-2004]\n|}"];
+82 [shape=record,label="{Concept_ctx_80|framework:.net\n|}"];
+83 [shape=record,label="{Concept_ctx_83|mac os x\n|}"];
+84 [shape=record,label="{Concept_ctx_82|first public release:[2004-2007]\n|}"];
+85 [shape=record,label="{Concept_ctx_84|first public release:[2012-2014]\n|}"];
+86 [shape=record,label="{Concept_ctx_85|first public release:[2009-2012]\n|}"];
+87 [shape=record,label="{Concept_ctx_86|first public release:[2010-2013]\n|}"];
+88 [shape=record,label="{Concept_ctx_87|first public release:[1999-2004]\n|}"];
+89 [shape=record,label="{Concept_ctx_90|first public release:[2006-2008]\n|}"];
+90 [shape=record,label="{Concept_ctx_91|first public release:[2007-2009]\n|}"];
+91 [shape=record,label="{Concept_ctx_89|first public release:[2002-2006]\n|}"];
+92 [shape=record,label="{Concept_ctx_88|first public release:[2011-2014]\n|}"];
+93 [shape=record,label="{Concept_ctx_94|first public release:[2004-2008]\n|}"];
+94 [shape=record,label="{Concept_ctx_95|first public release:[2007-2010]\n|}"];
+95 [shape=record,label="{Concept_ctx_93|first public release:[2000-2006]\n|}"];
+96 [shape=record,label="{Concept_ctx_96|first public release:[2008-2012]\n|}"];
+97 [shape=record,label="{Concept_ctx_92|first public release:[2010-2014]\n|}"];
+98 [shape=record,label="{Concept_ctx_99|first public release:[2007-2011]\n|}"];
+99 [shape=record,label="{Concept_ctx_97|first public release:[2009-2013]\n|}"];
+100 [shape=record,label="{Concept_ctx_98|first public release:[1999-2006]\n|}"];
+101 [shape=record,label="{Concept_ctx_101|first public release:[2003-2007]\n|}"];
+102 [shape=record,label="{Concept_ctx_102|first public release:[2006-2009]\n|}"];
+103 [shape=record,label="{Concept_ctx_103|first public release:*\n|}"];
+104 [shape=record,label="{Concept_ctx_100|license:gpl\n|}"];
+105 [shape=record,label="{Concept_ctx_104|linux\n|}"];
+106 [shape=record,label="{Concept_ctx_106|first public release:[2004-2009]\n|}"];
+107 [shape=record,label="{Concept_ctx_107|first public release:[2006-2010]\n|}"];
+108 [shape=record,label="{Concept_ctx_108|first public release:[2008-2013]\n|}"];
+109 [shape=record,label="{Concept_ctx_105|first public release:[2009-2014]\n|}"];
+110 [shape=record,label="{Concept_ctx_109|first public release:[2002-2007]\n|}"];
+111 [shape=record,label="{Concept_ctx_112|first public release:[2003-2008]\n|}"];
+112 [shape=record,label="{Concept_ctx_110|first public release:[2004-2010]\n|}"];
+113 [shape=record,label="{Concept_ctx_111|first public release:[2006-2011]\n|}"];
+114 [shape=record,label="{Concept_ctx_113|first public release:[2000-2007]\n|}"];
+115 [shape=record,label="{Concept_ctx_115|first public release:[2007-2012]\n|}"];
+116 [shape=record,label="{Concept_ctx_114|first public release:[2004-2011]\n|}"];
+117 [shape=record,label="{Concept_ctx_116|first public release:[2008-2014]\n|}"];
+118 [shape=record,label="{Concept_ctx_118|first public release:[2002-2008]\n|}"];
+119 [shape=record,label="{Concept_ctx_117|first public release:[1999-2007]\n|}"];
+120 [shape=record,label="{Concept_ctx_119|first public release:[2003-2009]\n|}"];
+121 [shape=record,label="{Concept_ctx_120|first public release:[2000-2008]\n|}"];
+122 [shape=record,label="{Concept_ctx_123|first public release:[2003-2010]\n|}"];
+123 [shape=record,label="{Concept_ctx_121|first public release:[2006-2012]\n|}"];
+124 [shape=record,label="{Concept_ctx_122|first public release:[2007-2013]\n|}"];
+125 [shape=record,label="{Concept_ctx_124|first public release:[1999-2008]\n|}"];
+126 [shape=record,label="{Concept_ctx_125|open source\n|}"];
+127 [shape=record,label="{Concept_ctx_127|first public release:[2002-2009]\n|}"];
+128 [shape=record,label="{Concept_ctx_128|first public release:[2003-2011]\n|}"];
+129 [shape=record,label="{Concept_ctx_126|first public release:[2004-2012]\n|}"];
+130 [shape=record,label="{Concept_ctx_131|first public release:[2000-2009]\n|}"];
+131 [shape=record,label="{Concept_ctx_130|first public release:[2002-2010]\n|}"];
+132 [shape=record,label="{Concept_ctx_129|first public release:[2007-2014]\n|}"];
+133 [shape=record,label="{Concept_ctx_132|first public release:[2006-2013]\n|}"];
+134 [shape=record,label="{Concept_ctx_134|first public release:[1999-2009]\n|}"];
+135 [shape=record,label="{Concept_ctx_135|first public release:[2000-2010]\n|}"];
+136 [shape=record,label="{Concept_ctx_133|first public release:[2002-2011]\n|}"];
+137 [shape=record,label="{Concept_ctx_136|first public release:[2004-2013]\n|}"];
+138 [shape=record,label="{Concept_ctx_137|first public release:[1999-2010]\n|}"];
+139 [shape=record,label="{Concept_ctx_138|first public release:[2000-2011]\n|}"];
+140 [shape=record,label="{Concept_ctx_142|first public release:[2003-2012]\n|}"];
+141 [shape=record,label="{Concept_ctx_140|first public release:[2006-2014]\n|}"];
+142 [shape=record,label="{Concept_ctx_141|first public release:[1999-2011]\n|}"];
+143 [shape=record,label="{Concept_ctx_139|license:freeware\n|}"];
+144 [shape=record,label="{Concept_ctx_143|framework:*\n|}"];
+145 [shape=record,label="{Concept_ctx_144|first public release:[2004-2014]\n|}"];
+146 [shape=record,label="{Concept_ctx_145|first public release:[2002-2012]\n|}"];
+147 [shape=record,label="{Concept_ctx_146|first public release:[2003-2013]\n|}"];
+148 [shape=record,label="{Concept_ctx_147|first public release:[2000-2012]\n|}"];
+149 [shape=record,label="{Concept_ctx_148|first public release:[1999-2012]\n|}"];
+150 [shape=record,label="{Concept_ctx_150|first public release:[2002-2013]\n|}"];
+151 [shape=record,label="{Concept_ctx_149|first public release:[2003-2014]\n|}"];
+152 [shape=record,label="{Concept_ctx_151|first public release:[2000-2013]\n|}"];
+153 [shape=record,label="{Concept_ctx_152|first public release:[2002-2014]\n|}"];
+154 [shape=record,label="{Concept_ctx_153|first public release:[1999-2013]\n|}"];
+155 [shape=record,label="{Concept_ctx_154|first public release:[2000-2014]\n|}"];
+156 [shape=record,label="{Concept_ctx_155|first public release:[1999-2014]\n|}"];
+157 [shape=record,label="{Concept_ctx_156|free\n|}"];
+158 [shape=record,label="{Concept_ctx_157|windows\n|}"];
+159 [shape=record,label="{Concept_ctx_158|cost\n|}"];
+	4 -> 38
+	18 -> 38
+	20 -> 39
+	9 -> 39
+	27 -> 40
+	31 -> 41
+	16 -> 41
+	2 -> 42
+	3 -> 42
+	11 -> 43
+	12 -> 43
+	24 -> 46
+	35 -> 46
+	7 -> 47
+	29 -> 47
+	33 -> 47
+	10 -> 48
+	21 -> 48
+	34 -> 48
+	15 -> 49
+	1 -> 49
+	22 -> 49
+	3 -> 50
+	38 -> 50
+	44 -> 51
+	35 -> 51
+	11 -> 52
+	33 -> 52
+	34 -> 52
+	19 -> 53
+	5 -> 53
+	25 -> 53
+	17 -> 53
+	13 -> 54
+	14 -> 54
+	40 -> 54
+	6 -> 55
+	47 -> 55
+	11 -> 56
+	48 -> 56
+	50 -> 57
+	42 -> 57
+	45 -> 58
+	1 -> 58
+	17 -> 58
+	23 -> 60
+	8 -> 60
+	28 -> 60
+	30 -> 60
+	36 -> 60
+	53 -> 61
+	6 -> 61
+	48 -> 62
+	39 -> 62
+	12 -> 63
+	54 -> 63
+	41 -> 64
+	49 -> 64
+	56 -> 65
+	43 -> 65
+	1 -> 66
+	4 -> 66
+	10 -> 66
+	13 -> 66
+	36 -> 66
+	53 -> 67
+	38 -> 67
+	56 -> 68
+	62 -> 68
+	43 -> 69
+	63 -> 69
+	8 -> 70
+	13 -> 70
+	16 -> 70
+	19 -> 70
+	22 -> 70
+	27 -> 70
+	60 -> 71
+	39 -> 71
+	54 -> 72
+	49 -> 72
+	50 -> 73
+	67 -> 73
+	67 -> 74
+	61 -> 74
+	65 -> 75
+	68 -> 75
+	8 -> 76
+	13 -> 76
+	22 -> 76
+	19 -> 76
+	58 -> 76
+	47 -> 77
+	60 -> 77
+	55 -> 78
+	61 -> 78
+	72 -> 79
+	63 -> 79
+	73 -> 80
+	57 -> 80
+	74 -> 81
+	73 -> 81
+	20 -> 82
+	31 -> 82
+	15 -> 82
+	21 -> 82
+	22 -> 82
+	30 -> 82
+	32 -> 82
+	12 -> 82
+	1 -> 83
+	16 -> 83
+	4 -> 83
+	5 -> 83
+	10 -> 83
+	51 -> 83
+	26 -> 83
+	77 -> 84
+	55 -> 84
+	72 -> 85
+	64 -> 85
+	69 -> 86
+	65 -> 86
+	69 -> 87
+	79 -> 87
+	80 -> 88
+	81 -> 88
+	77 -> 89
+	71 -> 89
+	62 -> 90
+	71 -> 90
+	74 -> 91
+	78 -> 91
+	85 -> 92
+	79 -> 92
+	89 -> 93
+	84 -> 93
+	68 -> 94
+	90 -> 94
+	91 -> 95
+	81 -> 95
+	75 -> 96
+	86 -> 96
+	87 -> 97
+	92 -> 97
+	94 -> 98
+	75 -> 98
+	87 -> 99
+	86 -> 99
+	88 -> 100
+	95 -> 100
+	84 -> 101
+	78 -> 101
+	89 -> 102
+	90 -> 102
+	46 -> 103
+	51 -> 103
+	26 -> 103
+	32 -> 103
+	45 -> 103
+	59 -> 103
+	37 -> 103
+	6 -> 104
+	3 -> 104
+	7 -> 104
+	4 -> 104
+	10 -> 104
+	14 -> 104
+	25 -> 104
+	26 -> 104
+	30 -> 104
+	36 -> 104
+	32 -> 104
+	28 -> 104
+	37 -> 104
+	16 -> 105
+	1 -> 105
+	13 -> 105
+	14 -> 105
+	51 -> 105
+	4 -> 105
+	10 -> 105
+	5 -> 105
+	25 -> 105
+	42 -> 105
+	46 -> 105
+	102 -> 106
+	93 -> 106
+	102 -> 107
+	52 -> 107
+	94 -> 107
+	96 -> 108
+	99 -> 108
+	97 -> 109
+	99 -> 109
+	101 -> 110
+	91 -> 110
+	101 -> 111
+	93 -> 111
+	107 -> 112
+	106 -> 112
+	98 -> 113
+	107 -> 113
+	110 -> 114
+	95 -> 114
+	96 -> 115
+	98 -> 115
+	112 -> 116
+	113 -> 116
+	108 -> 117
+	109 -> 117
+	111 -> 118
+	110 -> 118
+	100 -> 119
+	114 -> 119
+	111 -> 120
+	106 -> 120
+	114 -> 121
+	118 -> 121
+	120 -> 122
+	112 -> 122
+	113 -> 123
+	115 -> 123
+	108 -> 124
+	115 -> 124
+	119 -> 125
+	121 -> 125
+	46 -> 126
+	9 -> 126
+	21 -> 126
+	104 -> 126
+	5 -> 126
+	51 -> 126
+	120 -> 127
+	118 -> 127
+	116 -> 128
+	122 -> 128
+	116 -> 129
+	123 -> 129
+	127 -> 130
+	121 -> 130
+	127 -> 131
+	122 -> 131
+	124 -> 132
+	117 -> 132
+	124 -> 133
+	123 -> 133
+	130 -> 134
+	125 -> 134
+	130 -> 135
+	131 -> 135
+	128 -> 136
+	131 -> 136
+	133 -> 137
+	129 -> 137
+	134 -> 138
+	135 -> 138
+	135 -> 139
+	136 -> 139
+	128 -> 140
+	129 -> 140
+	133 -> 141
+	132 -> 141
+	138 -> 142
+	139 -> 142
+	70 -> 143
+	52 -> 143
+	2 -> 143
+	59 -> 143
+	20 -> 143
+	23 -> 143
+	15 -> 143
+	18 -> 143
+	24 -> 143
+	29 -> 143
+	21 -> 143
+	43 -> 143
+	40 -> 143
+	41 -> 143
+	6 -> 144
+	2 -> 144
+	59 -> 144
+	23 -> 144
+	7 -> 144
+	9 -> 144
+	5 -> 144
+	8 -> 144
+	16 -> 144
+	18 -> 144
+	19 -> 144
+	26 -> 144
+	44 -> 144
+	29 -> 144
+	45 -> 144
+	17 -> 144
+	28 -> 144
+	40 -> 144
+	141 -> 145
+	137 -> 145
+	140 -> 146
+	136 -> 146
+	140 -> 147
+	137 -> 147
+	146 -> 148
+	139 -> 148
+	148 -> 149
+	142 -> 149
+	146 -> 150
+	66 -> 150
+	147 -> 150
+	70 -> 151
+	147 -> 151
+	145 -> 151
+	148 -> 152
+	150 -> 152
+	151 -> 153
+	150 -> 153
+	149 -> 154
+	152 -> 154
+	152 -> 155
+	153 -> 155
+	155 -> 156
+	154 -> 156
+	52 -> 157
+	23 -> 157
+	15 -> 157
+	126 -> 157
+	55 -> 157
+	59 -> 157
+	57 -> 157
+	40 -> 157
+	75 -> 157
+	41 -> 157
+	44 -> 158
+	76 -> 158
+	64 -> 158
+	100 -> 158
+	82 -> 158
+	28 -> 158
+	75 -> 158
+	143 -> 158
+	37 -> 158
+	103 -> 159
+	156 -> 159
+	144 -> 159
+	105 -> 159
+	158 -> 159
+	83 -> 159
+	157 -> 159
+}
+}

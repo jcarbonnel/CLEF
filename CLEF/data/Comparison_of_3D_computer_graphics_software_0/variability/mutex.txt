@@ -1,0 +1,143 @@
+(0.2857142857142857)	latest release date:[2008-2012] ->! platforms:linux
+(0.19047619047619047)	latest release date:[2010-2013] ->! mainly used for:visual 3d effects
+(0.19047619047619047)	latest release date:[2010-2013] ->! mainly used for:computer aided design
+(0.11904761904761904)	platforms:amiga os ->! mainly used for:computer aided design
+(0.11904761904761904)	latest release date:[2012-2013] ->! mainly used for:sculpting
+(0.11904761904761904)	latest release date:[2010-2013] ->! platforms:amiga os
+(0.11904761904761904)	latest release date:[2010-2012] ->! mainly used for:rendering
+(0.11904761904761904)	latest release date:[2004-2013] ->! mainly used for:video game creation
+(0.11904761904761904)	latest release date:[2004-2010] ->! mainly used for:sculpting
+(0.09523809523809523)	latest release date:[2010-2011] ->! mainly used for:lighting
+(0.09523809523809523)	latest release date:* ->! mainly used for:sculpting
+(0.07142857142857142)	platforms:linux ->! mainly used for:film
+(0.07142857142857142)	platforms:bsd ->! mainly used for:computer aided design
+(0.07142857142857142)	platforms:amiga os ->! mainly used for:texturing
+(0.07142857142857142)	mainly used for:texturing ->! license:gnu gpl
+(0.07142857142857142)	mainly used for:film ->! license:gnu gpl
+(0.07142857142857142)	mainly used for:computer aided design ->! license:gnu gpl
+(0.07142857142857142)	latest release date:[2013-2014] ->! mainly used for:texturing
+(0.07142857142857142)	latest release date:[2011-2012] ->! mainly used for:animation
+(0.07142857142857142)	latest release date:[2010-2013] ->! mainly used for:film
+(0.07142857142857142)	latest release date:[2008-2012] ->! license:gnu gpl
+(0.07142857142857142)	latest release date:[2004-2013] ->! platforms:bsd
+(0.07142857142857142)	latest release date:[2004-2010] ->! mainly used for:texturing
+(0.07142857142857142)	latest release date:[2004-2008] ->! mainly used for:rendering
+(0.07142857142857142)	latest release date:[2004-2008] ->! mainly used for:computer aided design
+(0.07142857142857142)	latest release date:[2004-2008] ->! mainly used for:animation
+(0.07142857142857142)	latest release date:2015 ->! mainly used for:film
+(0.07142857142857142)	latest release date:2014 ->! license:gnu gpl
+(0.07142857142857142)	latest release date:* ->! platforms:bsd
+(0.07142857142857142)	latest release date:* ->! mainly used for:texturing
+(0.07142857142857142)	latest release date:* ->! mainly used for:film
+(0.07142857142857142)	latest release date:* ->! license:gnu gpl
+(0.047619047619047616)	platforms:linux ->! mainly used for:landscape modeling
+(0.047619047619047616)	platforms:amiga os ->! mainly used for:uv mapping
+(0.047619047619047616)	platforms:amiga os ->! mainly used for:landscape modeling
+(0.047619047619047616)	mainly used for:uv mapping ->! license:gnu gpl
+(0.047619047619047616)	mainly used for:landscape modeling ->! license:gnu gpl
+(0.047619047619047616)	latest release date:[2011-2013] ->! mainly used for:landscape modeling
+(0.047619047619047616)	latest release date:[2009-2013] ->! mainly used for:uv mapping
+(0.047619047619047616)	latest release date:[2004-2009] ->! mainly used for:landscape modeling
+(0.047619047619047616)	latest release date:2015 ->! mainly used for:uv mapping
+(0.047619047619047616)	latest release date:2015 ->! mainly used for:landscape modeling
+(0.047619047619047616)	latest release date:2008 ->! platforms:amiga os
+(0.047619047619047616)	latest release date:2008 ->! mainly used for:lighting
+(0.047619047619047616)	latest release date:* ->! mainly used for:uv mapping
+(0.047619047619047616)	latest release date:* ->! mainly used for:landscape modeling
+(0.023809523809523808)	platforms:solaris ->! license:proprietary
+(0.023809523809523808)	platforms:mozilla firefox ->! mainly used for:video game creation
+(0.023809523809523808)	platforms:mozilla firefox ->! mainly used for:uv mapping
+(0.023809523809523808)	platforms:mozilla firefox ->! mainly used for:texturing
+(0.023809523809523808)	platforms:mozilla firefox ->! mainly used for:sculpting
+(0.023809523809523808)	platforms:mozilla firefox ->! mainly used for:lighting
+(0.023809523809523808)	platforms:mozilla firefox ->! mainly used for:landscape modeling
+(0.023809523809523808)	platforms:mozilla firefox ->! mainly used for:computer aided design
+(0.023809523809523808)	platforms:mozilla firefox ->! mainly used for:artificial intelligence in models
+(0.023809523809523808)	platforms:mozilla firefox ->! license:gnu gpl
+(0.023809523809523808)	platforms:mozilla firefox ->! license:bsd
+(0.023809523809523808)	platforms:microsoft windows ->! mainly used for:mobile modeling
+(0.023809523809523808)	platforms:mac os x ->! mainly used for:virtual reality
+(0.023809523809523808)	platforms:mac os x ->! mainly used for:artificial intelligence in models
+(0.023809523809523808)	platforms:linux ->! mainly used for:subdivision modeling
+(0.023809523809523808)	platforms:linux ->! mainly used for:simulation
+(0.023809523809523808)	platforms:linux ->! mainly used for:fabrication
+(0.023809523809523808)	platforms:java virtual machine ->! mainly used for:visual 3d effects
+(0.023809523809523808)	platforms:java virtual machine ->! mainly used for:video game creation
+(0.023809523809523808)	platforms:java virtual machine ->! mainly used for:uv mapping
+(0.023809523809523808)	platforms:java virtual machine ->! mainly used for:texturing
+(0.023809523809523808)	platforms:java virtual machine ->! mainly used for:sculpting
+(0.023809523809523808)	platforms:java virtual machine ->! mainly used for:landscape modeling
+(0.023809523809523808)	platforms:java virtual machine ->! mainly used for:film
+(0.023809523809523808)	platforms:java virtual machine ->! mainly used for:fabrication
+(0.023809523809523808)	platforms:java virtual machine ->! mainly used for:computer aided design
+(0.023809523809523808)	platforms:java virtual machine ->! mainly used for:artificial intelligence in models
+(0.023809523809523808)	platforms:java virtual machine ->! license:proprietary
+(0.023809523809523808)	platforms:java virtual machine ->! license:bsd
+(0.023809523809523808)	platforms:ios ->! mainly used for:visual 3d effects
+(0.023809523809523808)	platforms:ios ->! mainly used for:video game creation
+(0.023809523809523808)	platforms:ios ->! mainly used for:uv mapping
+(0.023809523809523808)	platforms:ios ->! mainly used for:sculpting
+(0.023809523809523808)	platforms:ios ->! mainly used for:rendering
+(0.023809523809523808)	platforms:ios ->! mainly used for:modeling
+(0.023809523809523808)	platforms:ios ->! mainly used for:computer aided design
+(0.023809523809523808)	platforms:ios ->! mainly used for:animation
+(0.023809523809523808)	platforms:ios ->! license:gnu gpl
+(0.023809523809523808)	platforms:ios ->! license:bsd
+(0.023809523809523808)	platforms:hp-ux ->! mainly used for:video game creation
+(0.023809523809523808)	platforms:hp-ux ->! mainly used for:uv mapping
+(0.023809523809523808)	platforms:hp-ux ->! mainly used for:texturing
+(0.023809523809523808)	platforms:hp-ux ->! mainly used for:sculpting
+(0.023809523809523808)	platforms:hp-ux ->! mainly used for:rendering
+(0.023809523809523808)	platforms:hp-ux ->! mainly used for:lighting
+(0.023809523809523808)	platforms:hp-ux ->! mainly used for:computer aided design
+(0.023809523809523808)	platforms:hp-ux ->! mainly used for:artificial intelligence in models
+(0.023809523809523808)	platforms:hp-ux ->! mainly used for:animation
+(0.023809523809523808)	platforms:hp-ux ->! license:gnu gpl
+(0.023809523809523808)	platforms:hp-ux ->! license:bsd
+(0.023809523809523808)	platforms:amiga os ->! mainly used for:fabrication
+(0.023809523809523808)	platforms:amiga os ->! mainly used for:artificial intelligence in models
+(0.023809523809523808)	platforms:amiga os ->! license:bsd
+(0.023809523809523808)	mainly used for:video game creation ->! license:bsd
+(0.023809523809523808)	mainly used for:texturing ->! license:bsd
+(0.023809523809523808)	mainly used for:subdivision modeling ->! license:bsd
+(0.023809523809523808)	mainly used for:simulation ->! license:gnu gpl
+(0.023809523809523808)	mainly used for:rendering ->! license:bsd
+(0.023809523809523808)	mainly used for:lighting ->! license:bsd
+(0.023809523809523808)	mainly used for:fabrication ->! license:gnu gpl
+(0.023809523809523808)	mainly used for:computer aided design ->! license:bsd
+(0.023809523809523808)	mainly used for:basic post-production video editing ->! license:proprietary
+(0.023809523809523808)	mainly used for:artificial intelligence in models ->! license:gnu gpl
+(0.023809523809523808)	mainly used for:artificial intelligence in models ->! license:bsd
+(0.023809523809523808)	mainly used for:animation ->! license:bsd
+(0.023809523809523808)	latest release date:[2014-2015] ->! platforms:mozilla firefox
+(0.023809523809523808)	latest release date:[2014-2015] ->! platforms:java virtual machine
+(0.023809523809523808)	latest release date:[2014-2015] ->! mainly used for:fabrication
+(0.023809523809523808)	latest release date:[2013-2015] ->! platforms:ios
+(0.023809523809523808)	latest release date:[2013-2015] ->! mainly used for:mobile modeling
+(0.023809523809523808)	latest release date:[2011-2015] ->! mainly used for:fractal geometry
+(0.023809523809523808)	latest release date:[2010-2015] ->! platforms:hp-ux
+(0.023809523809523808)	latest release date:[2009-2015] ->! mainly used for:subdivision modeling
+(0.023809523809523808)	latest release date:[2004-2015] ->! mainly used for:virtual reality
+(0.023809523809523808)	latest release date:[2004-2015] ->! mainly used for:simulation
+(0.023809523809523808)	latest release date:[2004-2015] ->! mainly used for:artificial intelligence in models
+(0.023809523809523808)	latest release date:[2004-2014] ->! platforms:solaris
+(0.023809523809523808)	latest release date:[2004-2014] ->! mainly used for:basic post-production video editing
+(0.023809523809523808)	latest release date:[2004-2013] ->! license:bsd
+(0.023809523809523808)	latest release date:[2004-2012] ->! platforms:mozilla firefox
+(0.023809523809523808)	latest release date:[2004-2012] ->! platforms:java virtual machine
+(0.023809523809523808)	latest release date:[2004-2012] ->! mainly used for:fabrication
+(0.023809523809523808)	latest release date:[2004-2011] ->! platforms:ios
+(0.023809523809523808)	latest release date:[2004-2011] ->! mainly used for:mobile modeling
+(0.023809523809523808)	latest release date:[2004-2008] ->! platforms:hp-ux
+(0.023809523809523808)	latest release date:2015 ->! license:bsd
+(0.023809523809523808)	latest release date:2012 ->! platforms:microsoft windows
+(0.023809523809523808)	latest release date:2012 ->! mainly used for:modeling
+(0.023809523809523808)	latest release date:2004 ->! mainly used for:uv mapping
+(0.023809523809523808)	latest release date:2004 ->! mainly used for:modeling
+(0.023809523809523808)	latest release date:2004 ->! license:proprietary
+(0.023809523809523808)	latest release date:* ->! platforms:mozilla firefox
+(0.023809523809523808)	latest release date:* ->! platforms:java virtual machine
+(0.023809523809523808)	latest release date:* ->! platforms:ios
+(0.023809523809523808)	latest release date:* ->! platforms:hp-ux
+(0.023809523809523808)	latest release date:* ->! mainly used for:fabrication
+(0.023809523809523808)	latest release date:* ->! license:bsd

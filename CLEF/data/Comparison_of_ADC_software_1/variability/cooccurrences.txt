@@ -1,0 +1,6 @@
+(0.09090909090909091)	other:synology nas <-> other:gcc enabled platform
+(0.09090909090909091)	other:raspberry pi <-> other:synology nas
+(0.09090909090909091)	other:raspberry pi <-> other:gcc enabled platform
+(0.09090909090909091)	other:haiku <-> other:openwrt
+(0.09090909090909091)	other:bsd <-> other:openwrt
+(0.09090909090909091)	other:bsd <-> other:haiku

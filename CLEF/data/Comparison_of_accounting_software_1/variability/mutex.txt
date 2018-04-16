@@ -1,0 +1,30 @@
+(0.11594202898550725)	market focus:personal ->! structure:web access
+(0.11594202898550725)	market focus:high-market ->! structure:web access
+(0.11594202898550725)	license:software as a service ->! structure:web access
+(0.08695652173913043)	os x ->! structure:multi-user
+(0.08695652173913043)	market focus:personal ->! structure:multi-user
+(0.08695652173913043)	linux ->! structure:multi-user
+(0.08695652173913043)	license:software as a service ->! structure:multi-user
+(0.07246376811594203)	os x ->! structure:remote access
+(0.07246376811594203)	market focus:personal ->! structure:remote access
+(0.07246376811594203)	license:software as a service ->! structure:remote access
+(0.057971014492753624)	license:freeware ->! structure:web access
+(0.057971014492753624)	license:freeware ->! structure:remote access
+(0.057971014492753624)	license:freeware ->! structure:multi-user
+(0.057971014492753624)	license:freeware ->! market focus:personal
+(0.028985507246376812)	windows ->! structure:mobile
+(0.028985507246376812)	os x ->! market focus:*
+(0.028985507246376812)	market focus:mid-market ->! structure:mobile
+(0.028985507246376812)	market focus:low-market ->! structure:mobile
+(0.028985507246376812)	market focus:high-market ->! structure:mobile
+(0.028985507246376812)	market focus:* ->! structure:web based
+(0.028985507246376812)	market focus:* ->! structure:web access
+(0.028985507246376812)	market focus:* ->! structure:remote access
+(0.028985507246376812)	market focus:* ->! structure:multi-user
+(0.028985507246376812)	market focus:* ->! structure:mobile
+(0.028985507246376812)	linux ->! structure:mobile
+(0.028985507246376812)	linux ->! market focus:*
+(0.028985507246376812)	license:software as a service ->! structure:mobile
+(0.028985507246376812)	license:software as a service ->! market focus:*
+(0.028985507246376812)	license:freeware ->! structure:mobile
+(0.028985507246376812)	license:freeware ->! market focus:*

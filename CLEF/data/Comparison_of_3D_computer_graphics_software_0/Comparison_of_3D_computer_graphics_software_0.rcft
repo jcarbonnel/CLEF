@@ -1,0 +1,45 @@
+FormalContext ctx
+algo fca
+| |latest release date:2004|latest release date:2008|latest release date:2009|latest release date:2010|latest release date:2011|latest release date:2012|latest release date:2013|latest release date:2014|latest release date:2015|latest release date:[2004-2008]|latest release date:[2008-2009]|latest release date:[2009-2010]|latest release date:[2010-2011]|latest release date:[2011-2012]|latest release date:[2012-2013]|latest release date:[2013-2014]|latest release date:[2014-2015]|latest release date:[2004-2009]|latest release date:[2008-2010]|latest release date:[2009-2011]|latest release date:[2010-2012]|latest release date:[2011-2013]|latest release date:[2012-2014]|latest release date:[2013-2015]|latest release date:[2004-2010]|latest release date:[2008-2011]|latest release date:[2009-2012]|latest release date:[2010-2013]|latest release date:[2011-2014]|latest release date:[2012-2015]|latest release date:[2004-2011]|latest release date:[2008-2012]|latest release date:[2009-2013]|latest release date:[2010-2014]|latest release date:[2011-2015]|latest release date:[2004-2012]|latest release date:[2008-2013]|latest release date:[2009-2014]|latest release date:[2010-2015]|latest release date:[2004-2013]|latest release date:[2008-2014]|latest release date:[2009-2015]|latest release date:[2004-2014]|latest release date:[2008-2015]|latest release date:[2004-2015]|latest release date:*|platforms:microsoft windows|platforms:linux|platforms:mac os x|platforms:java virtual machine|platforms:bsd|platforms:solaris|platforms:amiga os|platforms:morphos|platforms:mozilla firefox|platforms:google chrome|platforms:microsoft internet explorer|platforms:hp-ux|platforms:unix|platforms:ios|platforms:*|mainly used for:modeling|mainly used for:animation|mainly used for:lighting|mainly used for:rendering|mainly used for:video game creation|mainly used for:visual 3d effects|mainly used for:sculpting|mainly used for:basic post-production video editing|mainly used for:landscape modeling|mainly used for:fractal geometry|mainly used for:simulation|mainly used for:computer aided design|mainly used for:film|mainly used for:television|mainly used for:fabrication|mainly used for:set design|mainly used for:subdivision modeling|mainly used for:uv mapping|mainly used for:artificial intelligence in models|mainly used for:virtual reality|mainly used for:real-time modeling|mainly used for:texturing|mainly used for:mobile modeling|mainly used for:*|license:proprietary|license:gnu gpl|license:bsd|license:*|
+|3ds max|||||||||x||||||||x|||||||x||||||x|||||x||||x|||x||x|x||x|||||||||||||||x|x|x|x|||||||||||||||||||||x||||
+|ac3d||||||||x||||||||x|x||||||x|x|||||x|x||||x|x|||x|x||x|x|x|x|x||x|x|x|||||||||||||x||||||||||||||||||||||||x||||
+|aoi|||||||x||||||||x|x||||||x|x|x||||x|x|x|||x|x|x||x|x|x|x|x|x|x|x|x|||||x||||||||||||x|x|x|x||||||||||||||||||||||x|||
+|blender|||||||||x||||||||x|||||||x||||||x|||||x||||x|||x||x|x||x|x|x||x|x|x|x||||||||x|x|x|x|x|x|x|x||||||||||||||||||x|||
+|bryce||||x||||||||x|x||||||x|x|x||||x|x|x|x|||x|x|x|x||x|x|x|x|x|x|x|x|x|x||x||x||||||||||||||x|||||||x|x|||||||||||||||x||||
+|carrara||||x||||||||x|x||||||x|x|x||||x|x|x|x|||x|x|x|x||x|x|x|x|x|x|x|x|x|x||x||x|||||||||||||x|x|||||||||||||||||||||||x||||
+|cheetah 3d|||||||x||||||||x|x||||||x|x|x||||x|x|x|||x|x|x||x|x|x|x|x|x|x|x|x||||x|||||||||||||x|x|||||||||||||||||||||||x||||
+|cinema 4d||||||||||||||||||||||||||||||||||||||||||||||x|x||x||||x|||||||||x|x|x|x||x|||||x||||||||||||||x||||
+|cityengine|||||||x||||||||x|x||||||x|x|x||||x|x|x|||x|x|x||x|x|x|x|x|x|x|x|x||x|x|x|||||||||||||x||||||||||||||||||||||||x||||
+|clara.io|||||||x||||||||x|x||||||x|x|x||||x|x|x|||x|x|x||x|x|x|x|x|x|x|x|x||||||||||x|x|x|||||x|x||x|||||||||||||||||||||x||||
+|cobalt|||x||||||||x|x||||||x|x|x|||||x|x|x||||x|x|x|||x|x|x||x|x|x|x|x|x||x||x|||||||||||||x|x||||||||||x|||||||||||||x||||
+|electric image animation system|||x||||||||x|x||||||x|x|x|||||x|x|x||||x|x|x|||x|x|x||x|x|x|x|x|x||x||x||||||||||||||x|x|x||x|||||||x|x|||||||||||x||||
+|Form-z|||||||x||||||||x|x||||||x|x|x||||x|x|x|||x|x|x||x|x|x|x|x|x|x|x|x||x||x|||||||||||||x|x|x|x|||||||||||x|x|||||||||x||||
+|hexagon||x||||||||x|x|||||||x|x||||||x|x|||||x|x||||x|x|||x|x||x|x|x||x||x|||||||||||||||||||||||||||||x|x|||||||x||||
+|houdini|||||||||x||||||||x|||||||x||||||x|||||x||||x|||x||x|x||x|x|x|||||||||||||x|x|x|||x|||||||||||||||||||x||||
+|iclone||||||||x||||||||x|x||||||x|x|||||x|x||||x|x|||x|x||x|x|x|x|x||x||||||||||||||||x|x||x|x|||||||x|x|||||||||||x||||
+|lightwave 3d||||||||x||||||||x|x||||||x|x|||||x|x||||x|x|||x|x||x|x|x|x|x||x||x||||x|||||||||x|x|x|x|x||||||||x|x|||||||||||x||||
+|massive||||||||||||||||||||||||||||||||||||||||||||||x|x|x||||||||||||||||||||||||||||||||x||||||x||||
+|maya||||||||x||||||||x|x||||||x|x|||||x|x||||x|x|||x|x||x|x|x|x|x||x|x|x|||||||||||||x|x|x|x||x|||||||||||||||||||x||||
+|metasequoia|||||x||||||||x|x||||||x|x|x||||x|x|x|x||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x||x|||||||||||||||x||||||||||||||||||||||||x||||
+|modo||||||||x||||||||x|x||||||x|x|||||x|x||||x|x|||x|x||x|x|x|x|x||x|x|x|||||||||||||x|x||x|||||||||||||||||||||x||||
+|mudbox|||||||||x||||||||x|||||||x||||||x|||||x||||x|||x||x|x||x|x|x|||||||||||||||x||||x||||||||||||||||||x||||
+|pov-ray|x|||||||||x||||||||x|||||||x||||||x|||||x||||x|||x||x||x|x|x||||x|||||||||||x|||x||||||||||||||||||||x|||
+|pro/engineer|||x||||||||x|x||||||x|x|x|||||x|x|x||||x|x|x|||x|x|x||x|x|x|x|x|x||x|||||||||||x|x|||x||||||||||||||||||||||||x||||
+|remo 3d||||||||||||||||||||||||||||||||||||||||||||||x|x|x||||||||||||||x||||x|||||||x||||||||x|x||||x||||
+|rhinoceros 3d||||||||||||||||||||||||||||||||||||||||||||||x|x||x|||||||||||||x|||||||||||x|||||||||||||x||||
+|sculptris|||||x||||||||x|x||||||x|x|x||||x|x|x|x||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x||x||x|||||||||||||||||||x|||||||||||||||x|||x||||
+|shade 3d||||||||x||||||||x|x||||||x|x|||||x|x||||x|x|||x|x||x|x|x|x|x||x||x|||||||||||||x|x||x|||||||||||||||||||||x||||
+|silo||x||||||||x|x|||||||x|x||||||x|x|||||x|x||||x|x|||x|x||x|x|x||x||x|||||||||||||x||||||||||||||||||||||||x||||
+|sketchup|||||||||x||||||||x|||||||x||||||x|||||x||||x|||x||x|x||x||x||||||||||||||||||||||||x|||||||||||||x||||
+|softimage|||||||||x||||||||x|||||||x||||||x|||||x||||x|||x||x|x||x|x||||||||||||||x|x|x|x|x|x|||||||||||||||||||x||||
+|solid edge||||||||x||||||||x|x||||||x|x|||||x|x||||x|x|||x|x||x|x|x|x|x||x||||||||||||||||||||||||||x|||||||||||||x||||
+|solidthinking||||||||x||||||||x|x||||||x|x|||||x|x||||x|x|||x|x||x|x|x|x|x||x||x|||||||||||||x||||||||||||||||||||||||x||||
+|solidworks|||||||||x||||||||x|||||||x||||||x|||||x||||x|||x||x|x||x||||||||||||||||||||||||||x|||||||||||||x||||
+|spaceclaim|||||||||x||||||||x|||||||x||||||x|||||x||||x|||x||x|x||x||||||||||||||||||||||||||x|||||||||||||x||||
+|swift 3d|||x||||||||x|x||||||x|x|x|||||x|x|x||||x|x|x|||x|x|x||x|x|x|x|x|x||x||x|||||||||||||x|x|||||||||||||||||||||||x||||
+|topsolid||||||||x||||||||x|x||||||x|x|||||x|x||||x|x|||x|x||x|x|x|x|x||x||||||||||||||||||||||||||x|||||||||||||x||||
+|truespace|||x||||||||x|x||||||x|x|x|||||x|x|x||||x|x|x|||x|x|x||x|x|x|x|x|x||x||||||x|||||||||x|x|||||||||||||||||||||||x||||
+|e-on vue||||||||x||||||||x|x||||||x|x|||||x|x||||x|x|||x|x||x|x|x|x|x||x||x||||||||||||||x|x||||||x||||||||||||||||x||||
+|verto studio 3d||||||x||||||||x|x||||||x|x|x||||x|x|x|x||x|x|x|x|x|x|x|x|x|x|x|x|x|x||||x|||||||||||x||||x|||||||||||||||||||x|x||x||||
+|zbrush|||||||||x||||||||x|||||||x||||||x|||||x||||x|||x||x|x||x|x|x||x|||||||||||x||x|x|||x|||||||||||||||x|||x||||
+|wings3d||||||||x||||||||x|x||||||x|x|||||x|x||||x|x|||x|x||x|x|x|x|x||x|x|x||x|||||||||||x||||||x|||||||||||x|||||||||x||

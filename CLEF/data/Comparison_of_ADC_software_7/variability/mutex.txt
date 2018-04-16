@@ -1,0 +1,23 @@
+(0.4166666666666667)	dht ->! ipv6
+(0.3333333333333333)	plugin:c++ ->! protocol support:keyp
+(0.25)	plugin:lua ->! protocol support:sudp
+(0.25)	ipv6 ->! protocol support:inherits from strongdc++
+(0.25)	dht ->! protocol support:sudp
+(0.16666666666666666)	plugin:lua ->! protocol support:qp
+(0.08333333333333333)	plugin:qtscript ->! protocol support:inherits from strongdc++
+(0.08333333333333333)	plugin:lua ->! protocol support:inherits from dc++
+(0.08333333333333333)	plugin:lua ->! protocol support:inherits from airdc++
+(0.08333333333333333)	plugin:eclipse rcp ->! protocol support:natt
+(0.08333333333333333)	plugin:eclipse rcp ->! protocol support:inherits from strongdc++
+(0.08333333333333333)	plugin:eclipse rcp ->! protocol support:inherits from dc++
+(0.08333333333333333)	plugin:eclipse rcp ->! protocol support:inherits from airdc++
+(0.08333333333333333)	plugin:* ->! protocol support:fs
+(0.08333333333333333)	nat traversal ->! protocol support:inherits from dc++
+(0.08333333333333333)	nat traversal ->! plugin:eclipse rcp
+(0.08333333333333333)	magnet uri ->! protocol support:inherits from airdc++
+(0.08333333333333333)	ipv6 ->! protocol support:inherits from dc++
+(0.08333333333333333)	ipv6 ->! protocol support:fs
+(0.08333333333333333)	ipv6 ->! plugin:qtscript
+(0.08333333333333333)	dht ->! protocol support:inherits from dc++
+(0.08333333333333333)	dht ->! protocol support:inherits from airdc++
+(0.08333333333333333)	dht ->! plugin:eclipse rcp

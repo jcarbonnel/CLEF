@@ -1,0 +1,95 @@
+digraph G { 
+ rankdir=BT;
+ subgraph ba { 
+1 [shape=record,label="{agnitum}"];
+2 [shape=record,label="{ahnlab}"];
+3 [shape=record,label="{avast}"];
+4 [shape=record,label="{avetix}"];
+5 [shape=record,label="{avg technologies (grisoft)}"];
+6 [shape=record,label="{avira}"];
+7 [shape=record,label="{bitdefender}"];
+8 [shape=record,label="{bullguard}"];
+9 [shape=record,label="{check point}"];
+10 [shape=record,label="{clamwin}"];
+11 [shape=record,label="{comodo group}"];
+12 [shape=record,label="{cysec}"];
+13 [shape=record,label="{dr. web}"];
+14 [shape=record,label="{eset}"];
+15 [shape=record,label="{f-secure}"];
+16 [shape=record,label="{frisk software}"];
+17 [shape=record,label="{fortinet}"];
+18 [shape=record,label="{g data software}"];
+19 [shape=record,label="{gfi software}"];
+20 [shape=record,label="{ikarus}"];
+21 [shape=record,label="{iobit}"];
+22 [shape=record,label="{iolo technologies}"];
+23 [shape=record,label="{is3}"];
+24 [shape=record,label="{k7 computing}"];
+25 [shape=record,label="{kaspersky lab}"];
+26 [shape=record,label="{kingsoft}"];
+27 [shape=record,label="{mcafee}"];
+28 [shape=record,label="{microsoft}"];
+29 [shape=record,label="{nano security}"];
+30 [shape=record,label="{panda security}"];
+31 [shape=record,label="{psafe}"];
+32 [shape=record,label="{qihoo 360}"];
+33 [shape=record,label="{quick heal}"];
+34 [shape=record,label="{scandium security}"];
+35 [shape=record,label="{sophos}"];
+36 [shape=record,label="{cisco (originally immunet)}"];
+37 [shape=record,label="{strayspark computing}"];
+38 [shape=record,label="{symantec}"];
+39 [shape=record,label="{symantec (originally pc tools)}"];
+40 [shape=record,label="{tg soft}"];
+41 [shape=record,label="{trend micro}"];
+42 [shape=record,label="{trustport}"];
+43 [shape=record,label="{virusblokada}"];
+44 [shape=record,label="{webroot}"];
+45 [shape=record,label="{zemana}"];
+46 [shape=record,label="{*}"];
+1 -> 46
+2 -> 46
+3 -> 46
+4 -> 46
+5 -> 46
+6 -> 46
+7 -> 46
+8 -> 46
+9 -> 46
+10 -> 46
+11 -> 46
+12 -> 46
+13 -> 46
+14 -> 46
+15 -> 46
+16 -> 46
+17 -> 46
+18 -> 46
+19 -> 46
+20 -> 46
+21 -> 46
+22 -> 46
+23 -> 46
+24 -> 46
+25 -> 46
+26 -> 46
+27 -> 46
+28 -> 46
+29 -> 46
+30 -> 46
+31 -> 46
+32 -> 46
+33 -> 46
+34 -> 46
+35 -> 46
+36 -> 46
+37 -> 46
+38 -> 46
+39 -> 46
+40 -> 46
+41 -> 46
+42 -> 46
+43 -> 46
+44 -> 46
+45 -> 46
+}}

@@ -1,0 +1,292 @@
+digraph G { 
+ rankdir=BT; 
+ subgraph ba { 
+1 [shape=record,label="{1999}"]; 
+2 [shape=record,label="{2000}"]; 
+3 [shape=record,label="{2002}"]; 
+4 [shape=record,label="{2003}"]; 
+5 [shape=record,label="{2004}"]; 
+6 [shape=record,label="{2006}"]; 
+7 [shape=record,label="{2007}"]; 
+8 [shape=record,label="{2008}"]; 
+9 [shape=record,label="{2009}"]; 
+10 [shape=record,label="{2010}"]; 
+11 [shape=record,label="{2011}"]; 
+12 [shape=record,label="{2012}"]; 
+13 [shape=record,label="{2013}"]; 
+14 [shape=record,label="{2014}"]; 
+15 [shape=record,label="{[1999-2000]}"];
+16 [shape=record,label="{[2000-2002]}"];
+17 [shape=record,label="{[2002-2003]}"];
+18 [shape=record,label="{[2003-2004]}"];
+19 [shape=record,label="{[2004-2006]}"];
+20 [shape=record,label="{[2006-2007]}"];
+21 [shape=record,label="{[2007-2008]}"];
+22 [shape=record,label="{[2008-2009]}"];
+23 [shape=record,label="{[2009-2010]}"];
+24 [shape=record,label="{[2010-2011]}"];
+25 [shape=record,label="{[2011-2012]}"];
+26 [shape=record,label="{[2012-2013]}"];
+27 [shape=record,label="{[2013-2014]}"];
+1 -> 15
+2 -> 15
+2 -> 16
+3 -> 16
+3 -> 17
+4 -> 17
+4 -> 18
+5 -> 18
+5 -> 19
+6 -> 19
+6 -> 20
+7 -> 20
+7 -> 21
+8 -> 21
+8 -> 22
+9 -> 22
+9 -> 23
+10 -> 23
+10 -> 24
+11 -> 24
+11 -> 25
+12 -> 25
+12 -> 26
+13 -> 26
+13 -> 27
+14 -> 27
+28 [shape=record,label="{[1999-2002]}"];
+29 [shape=record,label="{[2000-2003]}"];
+30 [shape=record,label="{[2002-2004]}"];
+31 [shape=record,label="{[2003-2006]}"];
+32 [shape=record,label="{[2004-2007]}"];
+33 [shape=record,label="{[2006-2008]}"];
+34 [shape=record,label="{[2007-2009]}"];
+35 [shape=record,label="{[2008-2010]}"];
+36 [shape=record,label="{[2009-2011]}"];
+37 [shape=record,label="{[2010-2012]}"];
+38 [shape=record,label="{[2011-2013]}"];
+39 [shape=record,label="{[2012-2014]}"];
+15 -> 28
+16 -> 28
+16 -> 29
+17 -> 29
+17 -> 30
+18 -> 30
+18 -> 31
+19 -> 31
+19 -> 32
+20 -> 32
+20 -> 33
+21 -> 33
+21 -> 34
+22 -> 34
+22 -> 35
+23 -> 35
+23 -> 36
+24 -> 36
+24 -> 37
+25 -> 37
+25 -> 38
+26 -> 38
+26 -> 39
+27 -> 39
+40 [shape=record,label="{[1999-2003]}"];
+41 [shape=record,label="{[2000-2004]}"];
+42 [shape=record,label="{[2002-2006]}"];
+43 [shape=record,label="{[2003-2007]}"];
+44 [shape=record,label="{[2004-2008]}"];
+45 [shape=record,label="{[2006-2009]}"];
+46 [shape=record,label="{[2007-2010]}"];
+47 [shape=record,label="{[2008-2011]}"];
+48 [shape=record,label="{[2009-2012]}"];
+49 [shape=record,label="{[2010-2013]}"];
+50 [shape=record,label="{[2011-2014]}"];
+28 -> 40
+29 -> 40
+29 -> 41
+30 -> 41
+30 -> 42
+31 -> 42
+31 -> 43
+32 -> 43
+32 -> 44
+33 -> 44
+33 -> 45
+34 -> 45
+34 -> 46
+35 -> 46
+35 -> 47
+36 -> 47
+36 -> 48
+37 -> 48
+37 -> 49
+38 -> 49
+38 -> 50
+39 -> 50
+51 [shape=record,label="{[1999-2004]}"];
+52 [shape=record,label="{[2000-2006]}"];
+53 [shape=record,label="{[2002-2007]}"];
+54 [shape=record,label="{[2003-2008]}"];
+55 [shape=record,label="{[2004-2009]}"];
+56 [shape=record,label="{[2006-2010]}"];
+57 [shape=record,label="{[2007-2011]}"];
+58 [shape=record,label="{[2008-2012]}"];
+59 [shape=record,label="{[2009-2013]}"];
+60 [shape=record,label="{[2010-2014]}"];
+40 -> 51
+41 -> 51
+41 -> 52
+42 -> 52
+42 -> 53
+43 -> 53
+43 -> 54
+44 -> 54
+44 -> 55
+45 -> 55
+45 -> 56
+46 -> 56
+46 -> 57
+47 -> 57
+47 -> 58
+48 -> 58
+48 -> 59
+49 -> 59
+49 -> 60
+50 -> 60
+61 [shape=record,label="{[1999-2006]}"];
+62 [shape=record,label="{[2000-2007]}"];
+63 [shape=record,label="{[2002-2008]}"];
+64 [shape=record,label="{[2003-2009]}"];
+65 [shape=record,label="{[2004-2010]}"];
+66 [shape=record,label="{[2006-2011]}"];
+67 [shape=record,label="{[2007-2012]}"];
+68 [shape=record,label="{[2008-2013]}"];
+69 [shape=record,label="{[2009-2014]}"];
+51 -> 61
+52 -> 61
+52 -> 62
+53 -> 62
+53 -> 63
+54 -> 63
+54 -> 64
+55 -> 64
+55 -> 65
+56 -> 65
+56 -> 66
+57 -> 66
+57 -> 67
+58 -> 67
+58 -> 68
+59 -> 68
+59 -> 69
+60 -> 69
+70 [shape=record,label="{[1999-2007]}"];
+71 [shape=record,label="{[2000-2008]}"];
+72 [shape=record,label="{[2002-2009]}"];
+73 [shape=record,label="{[2003-2010]}"];
+74 [shape=record,label="{[2004-2011]}"];
+75 [shape=record,label="{[2006-2012]}"];
+76 [shape=record,label="{[2007-2013]}"];
+77 [shape=record,label="{[2008-2014]}"];
+61 -> 70
+62 -> 70
+62 -> 71
+63 -> 71
+63 -> 72
+64 -> 72
+64 -> 73
+65 -> 73
+65 -> 74
+66 -> 74
+66 -> 75
+67 -> 75
+67 -> 76
+68 -> 76
+68 -> 77
+69 -> 77
+78 [shape=record,label="{[1999-2008]}"];
+79 [shape=record,label="{[2000-2009]}"];
+80 [shape=record,label="{[2002-2010]}"];
+81 [shape=record,label="{[2003-2011]}"];
+82 [shape=record,label="{[2004-2012]}"];
+83 [shape=record,label="{[2006-2013]}"];
+84 [shape=record,label="{[2007-2014]}"];
+70 -> 78
+71 -> 78
+71 -> 79
+72 -> 79
+72 -> 80
+73 -> 80
+73 -> 81
+74 -> 81
+74 -> 82
+75 -> 82
+75 -> 83
+76 -> 83
+76 -> 84
+77 -> 84
+85 [shape=record,label="{[1999-2009]}"];
+86 [shape=record,label="{[2000-2010]}"];
+87 [shape=record,label="{[2002-2011]}"];
+88 [shape=record,label="{[2003-2012]}"];
+89 [shape=record,label="{[2004-2013]}"];
+90 [shape=record,label="{[2006-2014]}"];
+78 -> 85
+79 -> 85
+79 -> 86
+80 -> 86
+80 -> 87
+81 -> 87
+81 -> 88
+82 -> 88
+82 -> 89
+83 -> 89
+83 -> 90
+84 -> 90
+91 [shape=record,label="{[1999-2010]}"];
+92 [shape=record,label="{[2000-2011]}"];
+93 [shape=record,label="{[2002-2012]}"];
+94 [shape=record,label="{[2003-2013]}"];
+95 [shape=record,label="{[2004-2014]}"];
+85 -> 91
+86 -> 91
+86 -> 92
+87 -> 92
+87 -> 93
+88 -> 93
+88 -> 94
+89 -> 94
+89 -> 95
+90 -> 95
+96 [shape=record,label="{[1999-2011]}"];
+97 [shape=record,label="{[2000-2012]}"];
+98 [shape=record,label="{[2002-2013]}"];
+99 [shape=record,label="{[2003-2014]}"];
+91 -> 96
+92 -> 96
+92 -> 97
+93 -> 97
+93 -> 98
+94 -> 98
+94 -> 99
+95 -> 99
+100 [shape=record,label="{[1999-2012]}"];
+101 [shape=record,label="{[2000-2013]}"];
+102 [shape=record,label="{[2002-2014]}"];
+96 -> 100
+97 -> 100
+97 -> 101
+98 -> 101
+98 -> 102
+99 -> 102
+103 [shape=record,label="{[1999-2013]}"];
+104 [shape=record,label="{[2000-2014]}"];
+100 -> 103
+101 -> 103
+101 -> 104
+102 -> 104
+105 [shape=record,label="{[1999-2014]}"];
+103 -> 105
+104 -> 105
+106 [shape=record,label="{*}"];
+105 -> 106}}

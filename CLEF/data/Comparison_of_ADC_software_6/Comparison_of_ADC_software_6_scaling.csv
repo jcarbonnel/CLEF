@@ -1,0 +1,13 @@
+name,gui,cli,webui,programming language:c++,programming language:lua,programming language:java,programming language:c,programming language:*,based on:strongdc++,based on:airdc++,based on:nanodc,based on:*,based on:dc++,based on:apexdc speed mode
+airdc++,X,,,X,,,,,X,,,,,
+airdc++ nano,,X,,X,,,,,,X,X,,,
+apexdc++,X,,,X,X,,,,X,,,,,
+dc++,X,,,X,,,,,,,,X,,
+jucy,X,,,,,X,,,,,,X,,
+linuxdc++,X,,,X,,,,,,,,,X,
+eiskaltdc++,X,X,X,X,X,,,,,,,,X,
+flylinkdc++,X,,X,X,,,,,X,,,,X,X
+rsx++,X,,,X,X,,,,X,,,,,
+tkdc++,X,,,X,X,,,,X,,,,X,
+strongdc++,X,,,X,,,,,,,,,X,
+ncdc,,X,,,,,X,,,,,X,,

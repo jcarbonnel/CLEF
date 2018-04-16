@@ -1,0 +1,45 @@
+digraph G { 
+ rankdir=BT;
+ subgraph ba { 
+1 [shape=record,label="{tigr}"];
+2 [shape=record,label="{adcs}"];
+3 [shape=record,label="{ucmd}"];
+4 [shape=record,label="{natt}"];
+5 [shape=record,label="{sega}"];
+6 [shape=record,label="{pfsr}"];
+7 [shape=record,label="{keyp}"];
+8 [shape=record,label="{pbd1}"];
+9 [shape=record,label="{ubn1}"];
+10 [shape=record,label="{mcn1}"];
+11 [shape=record,label="{blom}"];
+12 [shape=record,label="{sudp}"];
+13 [shape=record,label="{fo}"];
+14 [shape=record,label="{qp}"];
+15 [shape=record,label="{hbri}"];
+16 [shape=record,label="{asch}"];
+17 [shape=record,label="{inherits from airdc++}"];
+18 [shape=record,label="{inherits from strongdc++}"];
+19 [shape=record,label="{inherits from dc++}"];
+20 [shape=record,label="{fs}"];
+21 [shape=record,label="{*}"];
+1 -> 21
+2 -> 21
+3 -> 21
+4 -> 21
+5 -> 21
+6 -> 21
+7 -> 21
+8 -> 21
+9 -> 21
+10 -> 21
+11 -> 21
+12 -> 21
+13 -> 21
+14 -> 21
+15 -> 21
+16 -> 21
+17 -> 21
+18 -> 21
+19 -> 21
+20 -> 21
+}}

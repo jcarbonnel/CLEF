@@ -1,0 +1,339 @@
+digraph G { 
+	rankdir=BT;
+subgraph ctx { 
+label="ctx";
+1 [shape=record,label="{Concept_ctx_0|creator:*\nsoftware license:*\n|}"];
+2 [shape=record,label="{Concept_ctx_11|creator:openlink software\nrelease date:2001\n|openlink virtuoso\n}"];
+3 [shape=record,label="{Concept_ctx_31|creator:adeptia\n|adeptia integration suite\n}"];
+4 [shape=record,label="{Concept_ctx_30|creator:adroitlogic\nsoftware license:agpl\n|adroitlogic ultraesb\n}"];
+5 [shape=record,label="{Concept_ctx_27|creator:astera software\n|astera software centerprise data integrator\n}"];
+6 [shape=record,label="{Concept_ctx_26|creator:automation anywhere\n|automation anywhere integration pack\n}"];
+7 [shape=record,label="{Concept_ctx_24|software license:saas\n|sharepoint server\n}"];
+8 [shape=record,label="{Concept_ctx_25||biztalk server\n}"];
+9 [shape=record,label="{Concept_ctx_23|creator:flow software ltd\n|flow software\n}"];
+10 [shape=record,label="{Concept_ctx_22|creator:fusesource\n|fuse esb - enterprise servicemix\n}"];
+11 [shape=record,label="{Concept_ctx_21|creator:informatica\n|informatica power center\n}"];
+12 [shape=record,label="{Concept_ctx_18|creator:jitterbit\nsoftware license:jpl\n|jitterbit\n}"];
+13 [shape=record,label="{Concept_ctx_17|creator:magic software enterprises\n|magic xpi integration platform\n}"];
+14 [shape=record,label="{Concept_ctx_16|creator:twenty57.com\n|linx 5\n}"];
+15 [shape=record,label="{Concept_ctx_15|creator:the software conservancy\nsoftware license:mit\n|openadaptor\n}"];
+16 [shape=record,label="{Concept_ctx_14|creator:mulesoft\nsoftware license:cpal\n|mule esb\n}"];
+17 [shape=record,label="{Concept_ctx_13|creator:openesb community\nsoftware license:cddl\n|openesb\n}"];
+18 [shape=record,label="{Concept_ctx_12|creator:seeburger ag\n|seeburger business integration server\n}"];
+19 [shape=record,label="{Concept_ctx_10|creator:ow2 consortium\n|petals esb\n}"];
+20 [shape=record,label="{Concept_ctx_8|creator:sap ag\n|sap netweaver process integration (short sap pi)\n}"];
+21 [shape=record,label="{Concept_ctx_7|creator:engineering group\n|spagic\n}"];
+22 [shape=record,label="{Concept_ctx_6|creator:sun microsystems\n|sun java composite application platform suite\n}"];
+23 [shape=record,label="{Concept_ctx_5|creator:talend\n|talend esb\n}"];
+24 [shape=record,label="{Concept_ctx_4|creator:automation centre\n|trackersuite.net\n}"];
+25 [shape=record,label="{Concept_ctx_3|creator:unify corporation\nrelease date:*\n|unify nxj\n}"];
+26 [shape=record,label="{Concept_ctx_2|creator:software ag\n|webmethods integration server\n}"];
+27 [shape=record,label="{Concept_ctx_1|creator:wso2\n|wso2 enterprise service bus (esb)\n}"];
+28 [shape=record,label="{Concept_ctx_28|release date:2003\n|artix esb\n}"];
+29 [shape=record,label="{Concept_ctx_29||apache synapse\n}"];
+30 [shape=record,label="{Concept_ctx_9||sonic esb\n}"];
+31 [shape=record,label="{Concept_ctx_19||jboss enterprise soa platform\n}"];
+32 [shape=record,label="{Concept_ctx_20||jboss enterprise service bus (esb)\n}"];
+33 [shape=record,label="{Concept_ctx_39|creator:progress software\n|}"];
+34 [shape=record,label="{Concept_ctx_38|creator:microsoft\n|}"];
+35 [shape=record,label="{Concept_ctx_36|creator:jboss\n|}"];
+36 [shape=record,label="{Concept_ctx_32|creator:oracle corporation\n|oracle bpel process manager\noracle enterprise service bus\n}"];
+37 [shape=record,label="{Concept_ctx_37|release date:2007\n|}"];
+38 [shape=record,label="{Concept_ctx_35|release date:2008\n|}"];
+39 [shape=record,label="{Concept_ctx_41||apache camel\nservicemix\n}"];
+40 [shape=record,label="{Concept_ctx_34|release date:2015\n|}"];
+41 [shape=record,label="{Concept_ctx_40|release date:[2001-2003]\n|}"];
+42 [shape=record,label="{Concept_ctx_33|software license:gpl\n|}"];
+43 [shape=record,label="{Concept_ctx_44|creator:apache software foundation\n|}"];
+44 [shape=record,label="{Concept_ctx_42|creator:ibm\n|websphere enterprise service bus\nwebsphere message broker\nwebsphere process server\n}"];
+45 [shape=record,label="{Concept_ctx_45|release date:2012\n|}"];
+46 [shape=record,label="{Concept_ctx_43|release date:[2003-2007]\n|}"];
+47 [shape=record,label="{Concept_ctx_47|release date:[2007-2008]\n|}"];
+48 [shape=record,label="{Concept_ctx_48|release date:[2001-2007]\n|}"];
+49 [shape=record,label="{Concept_ctx_46|software license:lgpl\n|}"];
+50 [shape=record,label="{Concept_ctx_49|release date:[2003-2008]\n|}"];
+51 [shape=record,label="{Concept_ctx_52|release date:2010\n|}"];
+52 [shape=record,label="{Concept_ctx_50|release date:2013\n|}"];
+53 [shape=record,label="{Concept_ctx_51|release date:[2001-2008]\n|}"];
+54 [shape=record,label="{Concept_ctx_53|software license:apache software license\n|}"];
+55 [shape=record,label="{Concept_ctx_55|release date:2011\n|}"];
+56 [shape=record,label="{Concept_ctx_54|release date:2014\n|}"];
+57 [shape=record,label="{Concept_ctx_56|release date:[2008-2010]\n|}"];
+58 [shape=record,label="{Concept_ctx_57|*\n|}"];
+59 [shape=record,label="{Concept_ctx_59|release date:[2012-2013]\n|}"];
+60 [shape=record,label="{Concept_ctx_58|release date:[2014-2015]\n|}"];
+61 [shape=record,label="{Concept_ctx_61|commercial support available\n|}"];
+62 [shape=record,label="{Concept_ctx_62|release date:[2011-2012]\n|}"];
+63 [shape=record,label="{Concept_ctx_60|release date:[2007-2010]\n|}"];
+64 [shape=record,label="{Concept_ctx_63|release date:[2003-2010]\n|}"];
+65 [shape=record,label="{Concept_ctx_64|release date:[2001-2010]\n|}"];
+66 [shape=record,label="{Concept_ctx_67|free\n|}"];
+67 [shape=record,label="{Concept_ctx_66|release date:[2010-2011]\n|}"];
+68 [shape=record,label="{Concept_ctx_65|release date:[2013-2014]\n|}"];
+69 [shape=record,label="{Concept_ctx_69|release date:[2008-2011]\n|}"];
+70 [shape=record,label="{Concept_ctx_68|release date:[2013-2015]\n|}"];
+71 [shape=record,label="{Concept_ctx_70|open source\n|}"];
+72 [shape=record,label="{Concept_ctx_73|release date:[2010-2012]\n|}"];
+73 [shape=record,label="{Concept_ctx_72|release date:[2011-2013]\n|}"];
+74 [shape=record,label="{Concept_ctx_71|release date:[2012-2014]\n|}"];
+75 [shape=record,label="{Concept_ctx_74|release date:[2007-2011]\n|}"];
+76 [shape=record,label="{Concept_ctx_76|non-free\n|}"];
+77 [shape=record,label="{Concept_ctx_78|release date:[2008-2012]\n|}"];
+78 [shape=record,label="{Concept_ctx_77|release date:[2012-2015]\n|}"];
+79 [shape=record,label="{Concept_ctx_75|release date:[2003-2011]\n|}"];
+80 [shape=record,label="{Concept_ctx_79|release date:[2001-2011]\n|}"];
+81 [shape=record,label="{Concept_ctx_80|release date:[2007-2012]\n|}"];
+82 [shape=record,label="{Concept_ctx_81|release date:[2003-2012]\n|}"];
+83 [shape=record,label="{Concept_ctx_82|release date:[2010-2013]\n|}"];
+84 [shape=record,label="{Concept_ctx_83|release date:[2001-2012]\n|}"];
+85 [shape=record,label="{Concept_ctx_85|release date:[2011-2014]\n|}"];
+86 [shape=record,label="{Concept_ctx_84|software license:proprietary\n|}"];
+87 [shape=record,label="{Concept_ctx_86|release date:[2008-2013]\n|}"];
+88 [shape=record,label="{Concept_ctx_87|release date:[2011-2015]\n|}"];
+89 [shape=record,label="{Concept_ctx_88|release date:[2007-2013]\n|}"];
+90 [shape=record,label="{Concept_ctx_89|release date:[2003-2013]\n|}"];
+91 [shape=record,label="{Concept_ctx_90|release date:[2001-2013]\n|}"];
+92 [shape=record,label="{Concept_ctx_91|cost\n|}"];
+93 [shape=record,label="{Concept_ctx_92|release date:[2010-2014]\n|}"];
+94 [shape=record,label="{Concept_ctx_94|release date:[2008-2014]\n|}"];
+95 [shape=record,label="{Concept_ctx_93|release date:[2010-2015]\n|}"];
+96 [shape=record,label="{Concept_ctx_96|release date:[2007-2014]\n|}"];
+97 [shape=record,label="{Concept_ctx_95|release date:[2008-2015]\n|}"];
+98 [shape=record,label="{Concept_ctx_97|release date:[2003-2014]\n|}"];
+99 [shape=record,label="{Concept_ctx_98|release date:[2007-2015]\n|}"];
+100 [shape=record,label="{Concept_ctx_99|release date:[2001-2014]\n|}"];
+101 [shape=record,label="{Concept_ctx_100|release date:[2003-2015]\n|}"];
+102 [shape=record,label="{Concept_ctx_101|release date:[2001-2015]\n|}"];
+	1 -> 2
+	1 -> 3
+	1 -> 4
+	1 -> 5
+	1 -> 6
+	1 -> 7
+	1 -> 8
+	1 -> 9
+	1 -> 10
+	1 -> 11
+	1 -> 12
+	1 -> 13
+	1 -> 14
+	1 -> 15
+	1 -> 16
+	1 -> 17
+	1 -> 18
+	1 -> 19
+	1 -> 20
+	1 -> 21
+	1 -> 22
+	1 -> 23
+	1 -> 24
+	1 -> 25
+	1 -> 26
+	1 -> 27
+	1 -> 28
+	1 -> 29
+	1 -> 30
+	1 -> 31
+	1 -> 32
+	28 -> 33
+	30 -> 33
+	7 -> 34
+	8 -> 34
+	31 -> 35
+	32 -> 35
+	1 -> 36
+	10 -> 37
+	11 -> 37
+	12 -> 38
+	22 -> 38
+	1 -> 39
+	23 -> 40
+	18 -> 40
+	28 -> 41
+	2 -> 41
+	23 -> 42
+	2 -> 42
+	29 -> 43
+	39 -> 43
+	1 -> 44
+	3 -> 45
+	13 -> 45
+	24 -> 45
+	28 -> 46
+	37 -> 46
+	37 -> 47
+	38 -> 47
+	41 -> 48
+	46 -> 48
+	21 -> 49
+	19 -> 49
+	35 -> 49
+	47 -> 50
+	46 -> 50
+	29 -> 51
+	44 -> 51
+	9 -> 51
+	21 -> 51
+	27 -> 52
+	7 -> 52
+	32 -> 52
+	5 -> 52
+	26 -> 52
+	17 -> 52
+	48 -> 53
+	50 -> 53
+	23 -> 54
+	27 -> 54
+	10 -> 54
+	43 -> 54
+	6 -> 55
+	30 -> 55
+	31 -> 55
+	15 -> 55
+	20 -> 55
+	4 -> 55
+	19 -> 55
+	8 -> 56
+	16 -> 56
+	14 -> 56
+	36 -> 56
+	39 -> 56
+	51 -> 57
+	38 -> 57
+	7 -> 58
+	16 -> 58
+	17 -> 58
+	12 -> 58
+	33 -> 58
+	10 -> 58
+	13 -> 58
+	25 -> 58
+	45 -> 59
+	52 -> 59
+	56 -> 60
+	40 -> 60
+	23 -> 61
+	27 -> 61
+	49 -> 61
+	4 -> 61
+	43 -> 61
+	45 -> 62
+	55 -> 62
+	47 -> 63
+	57 -> 63
+	63 -> 64
+	50 -> 64
+	53 -> 65
+	64 -> 65
+	9 -> 66
+	14 -> 66
+	61 -> 66
+	15 -> 66
+	51 -> 67
+	55 -> 67
+	56 -> 68
+	52 -> 68
+	34 -> 68
+	57 -> 69
+	67 -> 69
+	60 -> 70
+	68 -> 70
+	42 -> 71
+	61 -> 71
+	15 -> 71
+	16 -> 71
+	17 -> 71
+	12 -> 71
+	54 -> 71
+	67 -> 72
+	62 -> 72
+	62 -> 73
+	59 -> 73
+	35 -> 73
+	59 -> 74
+	68 -> 74
+	63 -> 75
+	69 -> 75
+	6 -> 76
+	22 -> 76
+	24 -> 76
+	20 -> 76
+	44 -> 76
+	11 -> 76
+	14 -> 76
+	2 -> 76
+	8 -> 76
+	26 -> 76
+	18 -> 76
+	3 -> 76
+	5 -> 76
+	9 -> 76
+	36 -> 76
+	72 -> 77
+	69 -> 77
+	70 -> 78
+	74 -> 78
+	75 -> 79
+	33 -> 79
+	64 -> 79
+	65 -> 80
+	79 -> 80
+	75 -> 81
+	77 -> 81
+	81 -> 82
+	79 -> 82
+	49 -> 83
+	73 -> 83
+	72 -> 83
+	80 -> 84
+	82 -> 84
+	74 -> 85
+	73 -> 85
+	33 -> 86
+	41 -> 86
+	34 -> 86
+	25 -> 86
+	76 -> 86
+	45 -> 86
+	77 -> 87
+	83 -> 87
+	85 -> 88
+	78 -> 88
+	81 -> 89
+	87 -> 89
+	89 -> 90
+	82 -> 90
+	84 -> 91
+	90 -> 91
+	66 -> 92
+	42 -> 92
+	76 -> 92
+	51 -> 92
+	40 -> 92
+	85 -> 93
+	83 -> 93
+	43 -> 93
+	87 -> 94
+	93 -> 94
+	66 -> 95
+	88 -> 95
+	93 -> 95
+	94 -> 96
+	89 -> 96
+	95 -> 97
+	94 -> 97
+	96 -> 98
+	90 -> 98
+	97 -> 99
+	96 -> 99
+	54 -> 99
+	91 -> 100
+	98 -> 100
+	98 -> 101
+	99 -> 101
+	101 -> 102
+	100 -> 102
+	92 -> 102
+	71 -> 102
+}
+}

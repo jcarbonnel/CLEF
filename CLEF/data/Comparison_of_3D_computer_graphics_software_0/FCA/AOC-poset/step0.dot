@@ -1,0 +1,395 @@
+digraph G { 
+	rankdir=BT;
+subgraph ctx { 
+label="ctx";
+1 [shape=record,label="{Concept_ctx_0|platforms:*\nmainly used for:*\nlicense:*\n|}"];
+2 [shape=record,label="{Concept_ctx_13|latest release date:2004\n|pov-ray\n}"];
+3 [shape=record,label="{Concept_ctx_18||iclone\n}"];
+4 [shape=record,label="{Concept_ctx_28|mainly used for:fractal geometry\n|bryce\n}"];
+5 [shape=record,label="{Concept_ctx_4||e-on vue\n}"];
+6 [shape=record,label="{Concept_ctx_10||rhinoceros 3d\n}"];
+7 [shape=record,label="{Concept_ctx_23||cobalt\n}"];
+8 [shape=record,label="{Concept_ctx_7||sketchup\n}"];
+9 [shape=record,label="{Concept_ctx_20|mainly used for:subdivision modeling\n|hexagon\n}"];
+10 [shape=record,label="{Concept_ctx_16|mainly used for:artificial intelligence in models\n|massive\n}"];
+11 [shape=record,label="{Concept_ctx_2||zbrush\n}"];
+12 [shape=record,label="{Concept_ctx_19||houdini\n}"];
+13 [shape=record,label="{Concept_ctx_6||softimage\n}"];
+14 [shape=record,label="{Concept_ctx_25||cityengine\n}"];
+15 [shape=record,label="{Concept_ctx_9||sculptris\n}"];
+16 [shape=record,label="{Concept_ctx_3|latest release date:2012\nplatforms:ios\nmainly used for:mobile modeling\n|verto studio 3d\n}"];
+17 [shape=record,label="{Concept_ctx_30|platforms:java virtual machine\n|aoi\n}"];
+18 [shape=record,label="{Concept_ctx_1|license:bsd\n|wings3d\n}"];
+19 [shape=record,label="{Concept_ctx_29|platforms:solaris\nplatforms:morphos\nmainly used for:basic post-production video editing\n|blender\n}"];
+20 [shape=record,label="{Concept_ctx_26|mainly used for:simulation\n|cinema 4d\n}"];
+21 [shape=record,label="{Concept_ctx_5||truespace\n}"];
+22 [shape=record,label="{Concept_ctx_17||lightwave 3d\n}"];
+23 [shape=record,label="{Concept_ctx_24|platforms:mozilla firefox\nplatforms:google chrome\nplatforms:microsoft internet explorer\n|clara.io\n}"];
+24 [shape=record,label="{Concept_ctx_12|platforms:hp-ux\nplatforms:unix\n|pro/engineer\n}"];
+25 [shape=record,label="{Concept_ctx_8||silo\n}"];
+26 [shape=record,label="{Concept_ctx_27||carrara\n}"];
+27 [shape=record,label="{Concept_ctx_14||metasequoia\n}"];
+28 [shape=record,label="{Concept_ctx_11|mainly used for:virtual reality\nmainly used for:real-time modeling\n|remo 3d\n}"];
+29 [shape=record,label="{Concept_ctx_21|mainly used for:fabrication\nmainly used for:set design\n|Form-z\n}"];
+30 [shape=record,label="{Concept_ctx_15||maya\n}"];
+31 [shape=record,label="{Concept_ctx_22||electric image animation system\n}"];
+32 [shape=record,label="{Concept_ctx_39|mainly used for:landscape modeling\n|}"];
+33 [shape=record,label="{Concept_ctx_31||solid edge\ntopsolid\n}"];
+34 [shape=record,label="{Concept_ctx_35|mainly used for:uv mapping\n|}"];
+35 [shape=record,label="{Concept_ctx_41||3ds max\n}"];
+36 [shape=record,label="{Concept_ctx_32||mudbox\n}"];
+37 [shape=record,label="{Concept_ctx_36|latest release date:2008\n|}"];
+38 [shape=record,label="{Concept_ctx_40|latest release date:2010\n|}"];
+39 [shape=record,label="{Concept_ctx_33|latest release date:2011\n|}"];
+40 [shape=record,label="{Concept_ctx_37||swift 3d\n}"];
+41 [shape=record,label="{Concept_ctx_38||cheetah 3d\n}"];
+42 [shape=record,label="{Concept_ctx_34||modo\n}"];
+43 [shape=record,label="{Concept_ctx_45|latest release date:[2004-2008]\n|}"];
+44 [shape=record,label="{Concept_ctx_42||solidworks\nspaceclaim\n}"];
+45 [shape=record,label="{Concept_ctx_46|mainly used for:film\nmainly used for:television\n|}"];
+46 [shape=record,label="{Concept_ctx_43|mainly used for:texturing\n|}"];
+47 [shape=record,label="{Concept_ctx_49||ac3d\n}"];
+48 [shape=record,label="{Concept_ctx_48|license:gnu gpl\n|}"];
+49 [shape=record,label="{Concept_ctx_44|latest release date:[2011-2012]\n|}"];
+50 [shape=record,label="{Concept_ctx_47|platforms:bsd\n|}"];
+51 [shape=record,label="{Concept_ctx_52|latest release date:[2010-2011]\n|}"];
+52 [shape=record,label="{Concept_ctx_51|latest release date:*\n|}"];
+53 [shape=record,label="{Concept_ctx_50||shade 3d\n}"];
+54 [shape=record,label="{Concept_ctx_56|mainly used for:video game creation\n|}"];
+55 [shape=record,label="{Concept_ctx_55|mainly used for:sculpting\n|}"];
+56 [shape=record,label="{Concept_ctx_54|latest release date:[2010-2012]\n|}"];
+57 [shape=record,label="{Concept_ctx_53|latest release date:2009\n|}"];
+58 [shape=record,label="{Concept_ctx_58|latest release date:2013\n|}"];
+59 [shape=record,label="{Concept_ctx_57|platforms:amiga os\n|}"];
+60 [shape=record,label="{Concept_ctx_60||solidthinking\n}"];
+61 [shape=record,label="{Concept_ctx_59|latest release date:[2012-2013]\n|}"];
+62 [shape=record,label="{Concept_ctx_61|latest release date:[2008-2009]\n|}"];
+63 [shape=record,label="{Concept_ctx_62|latest release date:[2009-2010]\n|}"];
+64 [shape=record,label="{Concept_ctx_65|mainly used for:visual 3d effects\n|}"];
+65 [shape=record,label="{Concept_ctx_63|mainly used for:computer aided design\n|}"];
+66 [shape=record,label="{Concept_ctx_64|latest release date:[2004-2009]\n|}"];
+67 [shape=record,label="{Concept_ctx_66|latest release date:[2011-2013]\n|}"];
+68 [shape=record,label="{Concept_ctx_68|latest release date:[2008-2010]\n|}"];
+69 [shape=record,label="{Concept_ctx_67|latest release date:[2009-2011]\n|}"];
+70 [shape=record,label="{Concept_ctx_69|latest release date:2015\n|}"];
+71 [shape=record,label="{Concept_ctx_71|latest release date:[2004-2010]\n|}"];
+72 [shape=record,label="{Concept_ctx_70|latest release date:[2009-2012]\n|}"];
+73 [shape=record,label="{Concept_ctx_72|latest release date:[2010-2013]\n|}"];
+74 [shape=record,label="{Concept_ctx_73|latest release date:[2008-2011]\n|}"];
+75 [shape=record,label="{Concept_ctx_74|latest release date:2014\n|}"];
+76 [shape=record,label="{Concept_ctx_76|latest release date:[2004-2011]\n|}"];
+77 [shape=record,label="{Concept_ctx_75|latest release date:[2008-2012]\n|}"];
+78 [shape=record,label="{Concept_ctx_79|mainly used for:rendering\n|}"];
+79 [shape=record,label="{Concept_ctx_77|latest release date:[2004-2012]\n|}"];
+80 [shape=record,label="{Concept_ctx_78|platforms:linux\n|}"];
+81 [shape=record,label="{Concept_ctx_80|latest release date:[2009-2013]\n|}"];
+82 [shape=record,label="{Concept_ctx_81|latest release date:[2013-2014]\n|}"];
+83 [shape=record,label="{Concept_ctx_82|mainly used for:lighting\n|}"];
+84 [shape=record,label="{Concept_ctx_84|latest release date:[2012-2014]\n|}"];
+85 [shape=record,label="{Concept_ctx_83|latest release date:[2008-2013]\n|}"];
+86 [shape=record,label="{Concept_ctx_85|latest release date:[2004-2013]\n|}"];
+87 [shape=record,label="{Concept_ctx_86|latest release date:[2011-2014]\n|}"];
+88 [shape=record,label="{Concept_ctx_87|latest release date:[2014-2015]\n|}"];
+89 [shape=record,label="{Concept_ctx_88|latest release date:[2010-2014]\n|}"];
+90 [shape=record,label="{Concept_ctx_89|mainly used for:animation\n|}"];
+91 [shape=record,label="{Concept_ctx_90|latest release date:[2013-2015]\n|}"];
+92 [shape=record,label="{Concept_ctx_92|latest release date:[2012-2015]\n|}"];
+93 [shape=record,label="{Concept_ctx_91|latest release date:[2009-2014]\n|}"];
+94 [shape=record,label="{Concept_ctx_93|mainly used for:modeling\n|}"];
+95 [shape=record,label="{Concept_ctx_96|latest release date:[2011-2015]\n|}"];
+96 [shape=record,label="{Concept_ctx_95|latest release date:[2008-2014]\n|}"];
+97 [shape=record,label="{Concept_ctx_94|platforms:mac os x\n|}"];
+98 [shape=record,label="{Concept_ctx_97|latest release date:[2004-2014]\n|}"];
+99 [shape=record,label="{Concept_ctx_98|latest release date:[2010-2015]\n|}"];
+100 [shape=record,label="{Concept_ctx_99|latest release date:[2009-2015]\n|}"];
+101 [shape=record,label="{Concept_ctx_100|latest release date:[2008-2015]\n|}"];
+102 [shape=record,label="{Concept_ctx_101|license:proprietary\n|}"];
+103 [shape=record,label="{Concept_ctx_103|latest release date:[2004-2015]\n|}"];
+104 [shape=record,label="{Concept_ctx_102|platforms:microsoft windows\n|}"];
+	1 -> 2
+	1 -> 3
+	1 -> 4
+	1 -> 5
+	1 -> 6
+	1 -> 7
+	1 -> 8
+	1 -> 9
+	1 -> 10
+	1 -> 11
+	1 -> 12
+	1 -> 13
+	1 -> 14
+	1 -> 15
+	1 -> 16
+	1 -> 17
+	1 -> 18
+	1 -> 19
+	1 -> 20
+	1 -> 21
+	1 -> 22
+	1 -> 23
+	1 -> 24
+	1 -> 25
+	1 -> 26
+	1 -> 27
+	1 -> 28
+	1 -> 29
+	1 -> 30
+	1 -> 31
+	4 -> 32
+	5 -> 32
+	1 -> 33
+	9 -> 34
+	18 -> 34
+	13 -> 35
+	11 -> 36
+	9 -> 37
+	25 -> 37
+	26 -> 38
+	4 -> 38
+	15 -> 39
+	27 -> 39
+	7 -> 40
+	29 -> 41
+	30 -> 42
+	2 -> 43
+	37 -> 43
+	8 -> 44
+	22 -> 45
+	3 -> 45
+	31 -> 45
+	15 -> 46
+	16 -> 46
+	11 -> 46
+	42 -> 47
+	2 -> 48
+	19 -> 48
+	17 -> 48
+	39 -> 49
+	16 -> 49
+	18 -> 50
+	19 -> 50
+	11 -> 50
+	39 -> 51
+	38 -> 51
+	20 -> 52
+	6 -> 52
+	28 -> 52
+	10 -> 52
+	22 -> 53
+	42 -> 53
+	22 -> 54
+	28 -> 54
+	3 -> 54
+	13 -> 54
+	19 -> 54
+	15 -> 55
+	50 -> 55
+	36 -> 55
+	51 -> 56
+	49 -> 56
+	24 -> 57
+	21 -> 57
+	40 -> 57
+	31 -> 57
+	23 -> 58
+	41 -> 58
+	14 -> 58
+	17 -> 58
+	22 -> 59
+	20 -> 59
+	21 -> 59
+	2 -> 59
+	19 -> 59
+	47 -> 60
+	53 -> 60
+	58 -> 61
+	16 -> 61
+	37 -> 62
+	57 -> 62
+	38 -> 63
+	57 -> 63
+	20 -> 64
+	31 -> 64
+	3 -> 64
+	12 -> 64
+	13 -> 64
+	2 -> 64
+	30 -> 64
+	19 -> 64
+	28 -> 65
+	6 -> 65
+	7 -> 65
+	33 -> 65
+	44 -> 65
+	62 -> 66
+	43 -> 66
+	61 -> 67
+	49 -> 67
+	62 -> 68
+	63 -> 68
+	51 -> 69
+	63 -> 69
+	12 -> 70
+	36 -> 70
+	35 -> 70
+	44 -> 70
+	19 -> 70
+	66 -> 71
+	68 -> 71
+	69 -> 72
+	56 -> 72
+	56 -> 73
+	67 -> 73
+	69 -> 74
+	68 -> 74
+	3 -> 75
+	5 -> 75
+	33 -> 75
+	18 -> 75
+	60 -> 75
+	74 -> 76
+	71 -> 76
+	72 -> 77
+	74 -> 77
+	23 -> 78
+	20 -> 78
+	29 -> 78
+	31 -> 78
+	11 -> 78
+	35 -> 78
+	53 -> 78
+	19 -> 78
+	17 -> 78
+	77 -> 79
+	76 -> 79
+	14 -> 80
+	50 -> 80
+	28 -> 80
+	12 -> 80
+	13 -> 80
+	36 -> 80
+	2 -> 80
+	47 -> 80
+	10 -> 80
+	72 -> 81
+	73 -> 81
+	75 -> 82
+	58 -> 82
+	16 -> 83
+	29 -> 83
+	5 -> 83
+	36 -> 83
+	35 -> 83
+	64 -> 83
+	48 -> 83
+	45 -> 83
+	82 -> 84
+	61 -> 84
+	77 -> 85
+	81 -> 85
+	85 -> 86
+	79 -> 86
+	84 -> 87
+	67 -> 87
+	70 -> 88
+	75 -> 88
+	50 -> 88
+	87 -> 89
+	73 -> 89
+	32 -> 89
+	32 -> 90
+	53 -> 90
+	19 -> 90
+	45 -> 90
+	17 -> 90
+	23 -> 90
+	38 -> 90
+	20 -> 90
+	21 -> 90
+	41 -> 90
+	12 -> 90
+	35 -> 90
+	40 -> 90
+	82 -> 91
+	88 -> 91
+	91 -> 92
+	84 -> 92
+	89 -> 93
+	81 -> 93
+	45 -> 93
+	50 -> 94
+	58 -> 94
+	60 -> 94
+	24 -> 94
+	25 -> 94
+	28 -> 94
+	21 -> 94
+	26 -> 94
+	20 -> 94
+	6 -> 94
+	12 -> 94
+	35 -> 94
+	27 -> 94
+	40 -> 94
+	92 -> 95
+	87 -> 95
+	55 -> 95
+	46 -> 95
+	34 -> 96
+	85 -> 96
+	93 -> 96
+	32 -> 97
+	60 -> 97
+	34 -> 97
+	38 -> 97
+	43 -> 97
+	41 -> 97
+	14 -> 97
+	31 -> 97
+	20 -> 97
+	6 -> 97
+	8 -> 97
+	12 -> 97
+	55 -> 97
+	40 -> 97
+	46 -> 97
+	96 -> 98
+	86 -> 98
+	89 -> 99
+	95 -> 99
+	99 -> 100
+	93 -> 100
+	96 -> 101
+	100 -> 101
+	32 -> 102
+	60 -> 102
+	77 -> 102
+	45 -> 102
+	65 -> 102
+	23 -> 102
+	41 -> 102
+	14 -> 102
+	12 -> 102
+	36 -> 102
+	35 -> 102
+	52 -> 102
+	46 -> 102
+	101 -> 103
+	48 -> 103
+	98 -> 103
+	32 -> 104
+	76 -> 104
+	34 -> 104
+	65 -> 104
+	45 -> 104
+	29 -> 104
+	54 -> 104
+	80 -> 104
+	59 -> 104
+	52 -> 104
+	64 -> 104
+	55 -> 104
+	88 -> 104
+}
+}

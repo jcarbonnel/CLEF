@@ -1,0 +1,16 @@
+(0.42105263157894735)	open source -> release date:[2001-2015]
+(0.34210526315789475)	cost:free -> release date:[2010-2015]
+(0.05263157894736842)	software license:gpl -> open source
+(0.02631578947368421)	software license:saas -> creator:microsoft
+(0.02631578947368421)	software license:jpl -> release date:2008
+(0.02631578947368421)	release date:2003 -> creator:progress software
+(0.02631578947368421)	release date:2001 -> software license:gpl
+(0.02631578947368421)	creator:talend -> software license:gpl
+(0.02631578947368421)	creator:talend -> release date:2015
+(0.02631578947368421)	creator:sun microsystems -> release date:2008
+(0.02631578947368421)	creator:seeburger ag -> release date:2015
+(0.02631578947368421)	creator:openlink software -> software license:gpl
+(0.02631578947368421)	creator:magic software enterprises -> release date:2012
+(0.02631578947368421)	creator:jitterbit -> release date:2008
+(0.02631578947368421)	creator:informatica -> release date:2007
+(0.02631578947368421)	creator:fusesource -> release date:2007

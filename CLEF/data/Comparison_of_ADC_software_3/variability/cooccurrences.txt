@@ -1,0 +1,5 @@
+(1.0)	hash algorithms:tiger tree hash <-> adc support:tigr
+(0.6363636363636364)	encryption <-> adc support:adcs
+(0.09090909090909091)	adc support:keyp <-> adc support:sudp
+(0.09090909090909091)	adc support:keyp <-> adc support:asch
+(0.09090909090909091)	adc support:asch <-> adc support:sudp

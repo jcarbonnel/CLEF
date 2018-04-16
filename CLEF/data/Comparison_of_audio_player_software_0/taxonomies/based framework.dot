@@ -1,0 +1,29 @@
+digraph G { 
+ rankdir=BT;
+ subgraph ba { 
+1 [shape=record,label="{bass audio library}"];
+2 [shape=record,label="{gstreamer}"];
+3 [shape=record,label="{xine}"];
+4 [shape=record,label="{mplayer}"];
+5 [shape=record,label="{vlc}"];
+6 [shape=record,label="{directshow}"];
+7 [shape=record,label="{quicktime}"];
+8 [shape=record,label="{*}"];
+9 [shape=record,label="{xmms based}"];
+10 [shape=record,label="{av foundation}"];
+11 [shape=record,label="{core audio}"];
+12 [shape=record,label="{wasabi}"];
+13 [shape=record,label="{original}"];
+1 -> 8
+2 -> 8
+3 -> 8
+4 -> 8
+5 -> 8
+6 -> 8
+7 -> 8
+9 -> 8
+10 -> 8
+11 -> 8
+12 -> 8
+13 -> 8
+}}

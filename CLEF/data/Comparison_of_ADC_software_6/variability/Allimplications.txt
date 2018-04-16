@@ -1,0 +1,19 @@
+webui -> programming language:c++
+webui -> gui
+webui -> based on:dc++
+programming language:lua -> gui
+programming language:java -> gui
+programming language:java -> based on:*
+programming language:c -> cli
+programming language:c -> based on:*
+based on:strongdc++ -> programming language:c++
+based on:strongdc++ -> gui
+based on:nanodc -> programming language:c++
+based on:nanodc -> cli
+based on:dc++ -> programming language:c++
+based on:dc++ -> gui
+based on:apexdc speed mode -> webui
+based on:apexdc speed mode -> programming language:c++
+based on:apexdc speed mode -> gui
+based on:airdc++ -> programming language:c++
+based on:airdc++ -> cli

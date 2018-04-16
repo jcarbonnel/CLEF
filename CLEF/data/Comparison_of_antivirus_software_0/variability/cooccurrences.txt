@@ -1,0 +1,23 @@
+(1.0)	on-demand scan <-> on-access scan
+(0.04)	company:bitdefender <-> country of origin:romania
+(0.02666666666666667)	company:trend micro <-> country of origin:japan
+(0.02666666666666667)	company:scandium security <-> country of origin:cyprus
+(0.02666666666666667)	company:panda security <-> country of origin:spain
+(0.02666666666666667)	company:gfi software <-> country of origin:malta
+(0.02666666666666667)	company:f-secure <-> country of origin:finland
+(0.02666666666666667)	company:eset <-> country of origin:slovakia
+(0.013333333333333334)	first release:2011 <-> country of origin:brazil
+(0.013333333333333334)	first release:1989 <-> country of origin:iceland
+(0.013333333333333334)	first release:* <-> country of origin:turkey
+(0.013333333333333334)	company:zemana <-> first release:*
+(0.013333333333333334)	company:zemana <-> country of origin:turkey
+(0.013333333333333334)	company:virusblokada <-> country of origin:belarus
+(0.013333333333333334)	company:quick heal <-> first release:1995
+(0.013333333333333334)	company:psafe <-> first release:2011
+(0.013333333333333334)	company:psafe <-> country of origin:brazil
+(0.013333333333333334)	company:kingsoft <-> price:shareware
+(0.013333333333333334)	company:ikarus <-> first release:1998
+(0.013333333333333334)	company:frisk software <-> first release:1989
+(0.013333333333333334)	company:frisk software <-> country of origin:iceland
+(0.013333333333333334)	company:clamwin <-> license:gnu gpl
+(0.013333333333333334)	company:ahnlab <-> country of origin:south korea

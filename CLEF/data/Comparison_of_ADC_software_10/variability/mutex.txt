@@ -1,0 +1,19 @@
+(0.2222222222222222)	gui ->! programming language:java
+(0.2222222222222222)	gui ->! programming language:c#
+(0.2222222222222222)	gui ->! cli
+(0.2222222222222222)	cli ->! programming language:c#
+(0.1111111111111111)	programming language:visual basic ->! based on:embla
+(0.1111111111111111)	programming language:visual basic ->! based on:coredc
+(0.1111111111111111)	programming language:lua ->! based on:coredc
+(0.1111111111111111)	programming language:java ->! based on:coredc
+(0.1111111111111111)	programming language:delphi ->! based on:embla
+(0.1111111111111111)	programming language:delphi ->! based on:coredc
+(0.1111111111111111)	programming language:c++ ->! based on:embla
+(0.1111111111111111)	programming language:c++ ->! based on:coredc
+(0.1111111111111111)	programming language:c# ->! based on:embla
+(0.1111111111111111)	gui ->! programming language:c++
+(0.1111111111111111)	gui ->! based on:embla
+(0.1111111111111111)	gui ->! based on:coredc
+(0.1111111111111111)	cli ->! programming language:visual basic
+(0.1111111111111111)	cli ->! programming language:delphi
+(0.1111111111111111)	cli ->! based on:coredc

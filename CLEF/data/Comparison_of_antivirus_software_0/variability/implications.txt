@@ -1,0 +1,29 @@
+(0.9866666666666667)	license:proprietary -> on-demand scan
+(0.9866666666666667)	license:proprietary -> on-access scan
+(0.9866666666666667)	first release:[1987-2013] -> on-demand scan
+(0.9866666666666667)	first release:[1987-2013] -> on-access scan
+(0.9733333333333334)	live update -> on-demand scan
+(0.9733333333333334)	live update -> on-access scan
+(0.5066666666666667)	boot-time scans -> heuristics
+(0.4533333333333333)	av comparatives -> av test
+(0.21333333333333335)	price:free -> first release:[1988-2013]
+(0.16)	price:trialware -> support
+(0.02666666666666667)	company:tg soft -> country of origin:italy
+(0.02666666666666667)	company:k7 computing -> country of origin:india
+(0.013333333333333334)	price:shareware -> country of origin:china
+(0.013333333333333334)	license:gnu gpl -> country of origin:australia
+(0.013333333333333334)	first release:1998 -> country of origin:australia
+(0.013333333333333334)	first release:1994 -> country of origin:malta
+(0.013333333333333334)	first release:1994 -> company:gfi software
+(0.013333333333333334)	first release:* -> price:trialware
+(0.013333333333333334)	country of origin:turkey -> price:trialware
+(0.013333333333333334)	company:zemana -> price:trialware
+(0.013333333333333334)	company:symantec (originally pc tools) -> first release:2003
+(0.013333333333333334)	company:qihoo 360 -> country of origin:china
+(0.013333333333333334)	company:nano security -> first release:2009
+(0.013333333333333334)	company:kingsoft -> country of origin:china
+(0.013333333333333334)	company:is3 -> first release:2003
+(0.013333333333333334)	company:ikarus -> country of origin:australia
+(0.013333333333333334)	company:fortinet -> first release:2004
+(0.013333333333333334)	company:cysec -> first release:2007
+(0.013333333333333334)	company:clamwin -> country of origin:australia

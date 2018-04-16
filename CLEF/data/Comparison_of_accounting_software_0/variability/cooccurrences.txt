@@ -1,0 +1,13 @@
+(0.5)	multiuser <-> multico
+(0.05555555555555555)	structure:web access <-> structure:cloud hostable
+(0.05555555555555555)	structure:saas <-> structure:on demand
+(0.05555555555555555)	structure:on-premise <-> structure:saas
+(0.05555555555555555)	structure:on-premise <-> structure:on demand
+(0.05555555555555555)	structure:multi-user <-> structure:web access
+(0.05555555555555555)	structure:multi-user <-> structure:cloud hostable
+(0.05555555555555555)	license:mpl <-> structure:saas
+(0.05555555555555555)	license:mpl <-> structure:on-premise
+(0.05555555555555555)	license:mpl <-> structure:on demand
+(0.05555555555555555)	license:apache <-> structure:web access
+(0.05555555555555555)	license:apache <-> structure:multi-user
+(0.05555555555555555)	license:apache <-> structure:cloud hostable

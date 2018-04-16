@@ -1,0 +1,39 @@
+(0.7916666666666666)	user interface:text-based cli -> introduced:[1975-1993]
+(0.7916666666666666)	startup/shutdown scripts -> introduced:[1975-2006]
+(0.7916666666666666)	batch scripts -> stream redirection
+(0.7916666666666666)	batch scripts -> introduced:[1977-2006]
+(0.7083333333333334)	single file executable -> introduced:[1975-2005]
+(0.7083333333333334)	configurability -> batch scripts
+(0.625)	platform-independent -> introduced:[1977-2005]
+(0.625)	logging -> batch scripts
+(0.5833333333333334)	source code availability -> introduced:[1975-2005]
+(0.4583333333333333)	usual environment:posix -> introduced:[1978-2005]
+(0.4583333333333333)	unicode support -> stream redirection
+(0.4583333333333333)	unicode support -> introduced:[1977-2006]
+(0.25)	usually invoked:sh -> console redirection
+(0.125)	introduced:[1994-2005] -> user interface:*
+(0.08333333333333333)	usually invoked:* -> platform-independent
+(0.08333333333333333)	usual environment:unix -> introduced:1977
+(0.08333333333333333)	introduced:[1987-1988] -> usual environment:os/2
+(0.08333333333333333)	introduced:1993 -> usual environment:win32
+(0.041666666666666664)	usually invoked:zsh -> license:mit
+(0.041666666666666664)	usually invoked:tcsh -> introduced:1983
+(0.041666666666666664)	usually invoked:tcc -> introduced:1993
+(0.041666666666666664)	usually invoked:ndos -> license:mit
+(0.041666666666666664)	usually invoked:fish -> introduced:2005
+(0.041666666666666664)	usually invoked:4os2 -> introduced:1992
+(0.041666666666666664)	usually invoked:4dos -> license:mit
+(0.041666666666666664)	usual environment:windows 98 -> license:mit
+(0.041666666666666664)	usual environment:windows 95 -> license:mit
+(0.041666666666666664)	usual environment:se -> license:mit
+(0.041666666666666664)	usual environment:openvms -> usually invoked:*
+(0.041666666666666664)	usual environment:openvms -> license:*
+(0.041666666666666664)	usual environment:me -> license:mit
+(0.041666666666666664)	usual environment:java -> usually invoked:*
+(0.041666666666666664)	usual environment:java -> introduced:2005
+(0.041666666666666664)	license:shareware -> introduced:1993
+(0.041666666666666664)	license:lgpl -> usually invoked:*
+(0.041666666666666664)	license:lgpl -> introduced:2005
+(0.041666666666666664)	introduced:1990 -> license:mit
+(0.041666666666666664)	introduced:1988 -> license:proprietary
+(0.041666666666666664)	introduced:1980 -> usual environment:dos

@@ -1,0 +1,255 @@
+digraph G { 
+	rankdir=BT;
+subgraph ctx { 
+label="ctx";
+1 [shape=record,label="{Concept_ctx_0|first release:*\ncountry of origin:*\n|}"];
+2 [shape=record,label="{Concept_ctx_12||eset cyber security pro\n}"];
+3 [shape=record,label="{Concept_ctx_3|ips\n|sophos anti-virus for mac\n}"];
+4 [shape=record,label="{Concept_ctx_16|gnu gpl\n|clam antivirus\n}"];
+5 [shape=record,label="{Concept_ctx_19|country of origin:czech republic\n|avast mac security\n}"];
+6 [shape=record,label="{Concept_ctx_5|country of origin:brazil\n|psafe total mac\n}"];
+7 [shape=record,label="{Concept_ctx_10|first release:1997\n|virusbarrier\n}"];
+8 [shape=record,label="{Concept_ctx_9||mac internet security\n}"];
+9 [shape=record,label="{Concept_ctx_6|first release:2007\n|protectmac antivirus\n}"];
+10 [shape=record,label="{Concept_ctx_8||kaspersky internet security\n}"];
+11 [shape=record,label="{Concept_ctx_18|country of origin:germany\n|avira free mac security\n}"];
+12 [shape=record,label="{Concept_ctx_13||eset cyber security\n}"];
+13 [shape=record,label="{Concept_ctx_2||symantec endpoint protection\n}"];
+14 [shape=record,label="{Concept_ctx_17|country of origin:romania\n|bitdefender antivirus for mac\n}"];
+15 [shape=record,label="{Concept_ctx_15||comodo mac security\n}"];
+16 [shape=record,label="{Concept_ctx_14||dr. web anti-virus for mac os x\n}"];
+17 [shape=record,label="{Concept_ctx_11|country of origin:finland\n|f-secure anti-virus for mac\n}"];
+18 [shape=record,label="{Concept_ctx_7|country of origin:spain\n|panda antivirus for mac\n}"];
+19 [shape=record,label="{Concept_ctx_4|country of origin:india\n|quick heal total security for mac\n}"];
+20 [shape=record,label="{Concept_ctx_1|country of origin:japan\n|titanium internet security for mac\n}"];
+21 [shape=record,label="{Concept_ctx_26|firewall\n|}"];
+22 [shape=record,label="{Concept_ctx_24|first release:2008\n|}"];
+23 [shape=record,label="{Concept_ctx_20||secureanywhere antivirus\nsecureanywhere internet security plus\n}"];
+24 [shape=record,label="{Concept_ctx_29|first release:2000\n|}"];
+25 [shape=record,label="{Concept_ctx_23|first release:2010\n|}"];
+26 [shape=record,label="{Concept_ctx_21||norton antivirus for mac\n}"];
+27 [shape=record,label="{Concept_ctx_25|first release:2013\n|}"];
+28 [shape=record,label="{Concept_ctx_28|country of origin:russia\n|}"];
+29 [shape=record,label="{Concept_ctx_27|country of origin:slovakia\n|}"];
+30 [shape=record,label="{Concept_ctx_22|country of origin:united kingdom\n|}"];
+31 [shape=record,label="{Concept_ctx_31|ids\n|}"];
+32 [shape=record,label="{Concept_ctx_30|antispam\n|}"];
+33 [shape=record,label="{Concept_ctx_33|trialware\n|}"];
+34 [shape=record,label="{Concept_ctx_35|first release:[1997-2000]\n|}"];
+35 [shape=record,label="{Concept_ctx_34|first release:[2000-2007]\n|}"];
+36 [shape=record,label="{Concept_ctx_32|first release:[2007-2008]\n|}"];
+37 [shape=record,label="{Concept_ctx_38|first release:2011\n|}"];
+38 [shape=record,label="{Concept_ctx_36|first release:[2008-2010]\n|}"];
+39 [shape=record,label="{Concept_ctx_37|first release:[1997-2007]\n|}"];
+40 [shape=record,label="{Concept_ctx_40|first release:[2000-2008]\n|}"];
+41 [shape=record,label="{Concept_ctx_39|first release:[2007-2010]\n|}"];
+42 [shape=record,label="{Concept_ctx_43|free\n|}"];
+43 [shape=record,label="{Concept_ctx_42|first release:[2010-2011]\n|}"];
+44 [shape=record,label="{Concept_ctx_41|first release:[1997-2008]\n|}"];
+45 [shape=record,label="{Concept_ctx_44|first release:[2000-2010]\n|}"];
+46 [shape=record,label="{Concept_ctx_45|cloudav\n|}"];
+47 [shape=record,label="{Concept_ctx_49|first release:2012\n|}"];
+48 [shape=record,label="{Concept_ctx_48|first release:[2008-2011]\n|}"];
+49 [shape=record,label="{Concept_ctx_46|first release:[1997-2010]\n|}"];
+50 [shape=record,label="{Concept_ctx_47|country of origin:united states\n|}"];
+51 [shape=record,label="{Concept_ctx_51|email security\n|}"];
+52 [shape=record,label="{Concept_ctx_50|first release:[2007-2011]\n|}"];
+53 [shape=record,label="{Concept_ctx_52|first release:[2012-2013]\n|}"];
+54 [shape=record,label="{Concept_ctx_53|first release:[2000-2011]\n|}"];
+55 [shape=record,label="{Concept_ctx_55|first release:[2011-2012]\n|}"];
+56 [shape=record,label="{Concept_ctx_54|first release:[1997-2011]\n|}"];
+57 [shape=record,label="{Concept_ctx_57|av comparatives\n|}"];
+58 [shape=record,label="{Concept_ctx_56|non-free\n|}"];
+59 [shape=record,label="{Concept_ctx_58|heuristics\n|}"];
+60 [shape=record,label="{Concept_ctx_59|first release:[2010-2012]\n|}"];
+61 [shape=record,label="{Concept_ctx_60|first release:[2011-2013]\n|}"];
+62 [shape=record,label="{Concept_ctx_61|support\n|}"];
+63 [shape=record,label="{Concept_ctx_62|web protection\n|}"];
+64 [shape=record,label="{Concept_ctx_63|first release:[2008-2012]\n|}"];
+65 [shape=record,label="{Concept_ctx_64|first release:[2010-2013]\n|}"];
+66 [shape=record,label="{Concept_ctx_65|first release:[2007-2012]\n|}"];
+67 [shape=record,label="{Concept_ctx_66|first release:[2008-2013]\n|}"];
+68 [shape=record,label="{Concept_ctx_68|first release:[2000-2012]\n|}"];
+69 [shape=record,label="{Concept_ctx_67|first release:[2007-2013]\n|}"];
+70 [shape=record,label="{Concept_ctx_69|first release:[1997-2012]\n|}"];
+71 [shape=record,label="{Concept_ctx_70|proprietary\n|}"];
+72 [shape=record,label="{Concept_ctx_71|first release:[2000-2013]\n|}"];
+73 [shape=record,label="{Concept_ctx_72|on-demand scan\non-access scan\nlive-update\nlicense\nprice\nfirst release:[1997-2013]\n|}"];
+	1 -> 2
+	1 -> 3
+	1 -> 4
+	1 -> 5
+	1 -> 6
+	1 -> 7
+	1 -> 8
+	1 -> 9
+	1 -> 10
+	1 -> 11
+	1 -> 12
+	1 -> 13
+	1 -> 14
+	1 -> 15
+	1 -> 16
+	1 -> 17
+	1 -> 18
+	1 -> 19
+	1 -> 20
+	2 -> 21
+	8 -> 21
+	18 -> 22
+	17 -> 22
+	1 -> 23
+	4 -> 24
+	8 -> 24
+	10 -> 25
+	3 -> 25
+	13 -> 26
+	2 -> 27
+	6 -> 27
+	10 -> 28
+	16 -> 28
+	2 -> 29
+	12 -> 29
+	9 -> 30
+	3 -> 30
+	3 -> 31
+	22 -> 31
+	13 -> 32
+	22 -> 32
+	23 -> 33
+	16 -> 33
+	7 -> 34
+	24 -> 34
+	9 -> 35
+	24 -> 35
+	9 -> 36
+	22 -> 36
+	11 -> 37
+	20 -> 37
+	12 -> 37
+	14 -> 37
+	25 -> 38
+	31 -> 38
+	34 -> 39
+	35 -> 39
+	36 -> 40
+	35 -> 40
+	36 -> 41
+	38 -> 41
+	30 -> 41
+	11 -> 42
+	6 -> 42
+	15 -> 42
+	5 -> 42
+	4 -> 42
+	3 -> 42
+	25 -> 43
+	37 -> 43
+	40 -> 44
+	39 -> 44
+	41 -> 45
+	40 -> 45
+	27 -> 46
+	29 -> 46
+	32 -> 46
+	38 -> 46
+	19 -> 47
+	33 -> 47
+	15 -> 47
+	5 -> 47
+	26 -> 47
+	43 -> 48
+	38 -> 48
+	44 -> 49
+	45 -> 49
+	34 -> 50
+	23 -> 50
+	15 -> 50
+	26 -> 50
+	11 -> 51
+	2 -> 51
+	5 -> 51
+	4 -> 51
+	32 -> 51
+	38 -> 51
+	48 -> 52
+	41 -> 52
+	27 -> 53
+	47 -> 53
+	52 -> 54
+	45 -> 54
+	37 -> 55
+	47 -> 55
+	49 -> 56
+	54 -> 56
+	27 -> 57
+	11 -> 57
+	20 -> 57
+	5 -> 57
+	14 -> 57
+	26 -> 57
+	41 -> 57
+	32 -> 57
+	36 -> 58
+	29 -> 58
+	19 -> 58
+	20 -> 58
+	10 -> 58
+	21 -> 58
+	14 -> 58
+	26 -> 58
+	32 -> 58
+	7 -> 58
+	29 -> 59
+	15 -> 59
+	48 -> 59
+	5 -> 59
+	26 -> 59
+	32 -> 59
+	43 -> 60
+	28 -> 60
+	55 -> 60
+	29 -> 61
+	53 -> 61
+	55 -> 61
+	27 -> 62
+	58 -> 62
+	5 -> 62
+	19 -> 63
+	46 -> 63
+	23 -> 63
+	5 -> 63
+	21 -> 63
+	48 -> 63
+	48 -> 64
+	32 -> 64
+	60 -> 64
+	61 -> 65
+	60 -> 65
+	64 -> 66
+	52 -> 66
+	59 -> 67
+	46 -> 67
+	65 -> 67
+	64 -> 67
+	66 -> 68
+	54 -> 68
+	67 -> 69
+	66 -> 69
+	57 -> 69
+	56 -> 70
+	50 -> 70
+	68 -> 70
+	62 -> 71
+	63 -> 71
+	69 -> 71
+	69 -> 72
+	63 -> 72
+	51 -> 72
+	42 -> 72
+	68 -> 72
+	71 -> 73
+	70 -> 73
+	72 -> 73
+}
+}

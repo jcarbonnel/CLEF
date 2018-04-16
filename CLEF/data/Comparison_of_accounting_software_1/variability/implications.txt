@@ -1,0 +1,7 @@
+(0.6956521739130435)	market focus:mid-market -> windows
+(0.6376811594202898)	market focus:low-market -> windows
+(0.463768115942029)	linux -> windows
+(0.42028985507246375)	structure:web based -> windows
+(0.2898550724637681)	license:software as a service -> windows
+(0.17391304347826086)	market focus:high-market -> windows
+(0.057971014492753624)	license:freeware -> market focus:low-market

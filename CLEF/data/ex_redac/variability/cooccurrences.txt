@@ -1,0 +1,5 @@
+(0.4)	FirstRelease:2005 <-> ProgrammingLanguage:shell scripts
+(0.4)	Distributed <-> ProgrammingLanguage:shell scripts
+(0.4)	Distributed <-> FirstRelease:2005
+(0.2)	FirstRelease:1998 <-> ProgrammingLanguage:C++
+(0.2)	FirstRelease:* <-> ProgrammingLanguage:java

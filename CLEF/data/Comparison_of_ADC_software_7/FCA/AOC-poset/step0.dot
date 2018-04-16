@@ -1,0 +1,95 @@
+digraph G { 
+	rankdir=BT;
+subgraph ctx { 
+label="ctx";
+1 [shape=record,label="{Concept_ctx_0|hash algorithms:*\nprotocol support:*\n|}"];
+2 [shape=record,label="{Concept_ctx_10|protocol support:pbd1\nprotocol support:ubn1\nprotocol support:mcn1\nprotocol support:fo\nprotocol support:hbri\nprotocol support:asch\n|airdc++\n}"];
+3 [shape=record,label="{Concept_ctx_7||dc++\n}"];
+4 [shape=record,label="{Concept_ctx_8||apexdc++\n}"];
+5 [shape=record,label="{Concept_ctx_6|plugin:eclipse rcp\n|jucy\n}"];
+6 [shape=record,label="{Concept_ctx_4|plugin:qtscript\nplugin:qml\nprotocol support:fs\n|eiskaltdc++\n}"];
+7 [shape=record,label="{Concept_ctx_1||strongdc++\n}"];
+8 [shape=record,label="{Concept_ctx_2||tkdc++\n}"];
+9 [shape=record,label="{Concept_ctx_9|protocol support:inherits from airdc++\n|airdc++ nano\n}"];
+10 [shape=record,label="{Concept_ctx_3||flylinkdc++\n}"];
+11 [shape=record,label="{Concept_ctx_5|protocol support:inherits from dc++\n|linuxdc++\n}"];
+12 [shape=record,label="{Concept_ctx_11||rsx++\n}"];
+13 [shape=record,label="{Concept_ctx_12||ncdc\n}"];
+14 [shape=record,label="{Concept_ctx_13|protocol support:qp\n|}"];
+15 [shape=record,label="{Concept_ctx_15|protocol support:sudp\n|}"];
+16 [shape=record,label="{Concept_ctx_14|protocol support:inherits from strongdc++\n|}"];
+17 [shape=record,label="{Concept_ctx_16|plugin:c++\n|}"];
+18 [shape=record,label="{Concept_ctx_17|protocol support:pfsr\n|}"];
+19 [shape=record,label="{Concept_ctx_18|protocol support:keyp\n|}"];
+20 [shape=record,label="{Concept_ctx_22|ipv6\n|}"];
+21 [shape=record,label="{Concept_ctx_20|plugin:lua\n|}"];
+22 [shape=record,label="{Concept_ctx_21|protocol support:natt\nprotocol support:sega\n|}"];
+23 [shape=record,label="{Concept_ctx_19|dht\n|}"];
+24 [shape=record,label="{Concept_ctx_24|plugin:*\n|}"];
+25 [shape=record,label="{Concept_ctx_23|protocol support:ucmd\nprotocol support:blom\n|}"];
+26 [shape=record,label="{Concept_ctx_25|protocol support:tigr\nprotocol support:adcs\n|}"];
+27 [shape=record,label="{Concept_ctx_26|nat traversal\n|}"];
+28 [shape=record,label="{Concept_ctx_27|magnet uri\n|}"];
+29 [shape=record,label="{Concept_ctx_28|upnp\nproxy\n|}"];
+30 [shape=record,label="{Concept_ctx_29|encryption\nnmdc compatible\nhash algorithms:tiger tree hash\n|}"];
+	1 -> 2
+	1 -> 3
+	1 -> 4
+	1 -> 5
+	1 -> 6
+	1 -> 7
+	1 -> 8
+	1 -> 9
+	1 -> 10
+	1 -> 11
+	4 -> 12
+	2 -> 13
+	2 -> 14
+	7 -> 14
+	5 -> 15
+	13 -> 15
+	10 -> 16
+	12 -> 16
+	12 -> 17
+	3 -> 17
+	8 -> 17
+	6 -> 18
+	8 -> 18
+	14 -> 18
+	6 -> 19
+	15 -> 19
+	9 -> 20
+	3 -> 20
+	15 -> 20
+	17 -> 21
+	6 -> 21
+	18 -> 22
+	3 -> 22
+	16 -> 23
+	6 -> 23
+	7 -> 23
+	11 -> 24
+	9 -> 24
+	10 -> 24
+	13 -> 24
+	14 -> 24
+	22 -> 25
+	5 -> 25
+	25 -> 26
+	19 -> 26
+	22 -> 27
+	9 -> 27
+	10 -> 27
+	4 -> 27
+	11 -> 28
+	23 -> 28
+	21 -> 28
+	25 -> 28
+	28 -> 29
+	27 -> 29
+	26 -> 30
+	24 -> 30
+	20 -> 30
+	29 -> 30
+}
+}

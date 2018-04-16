@@ -1,0 +1,24 @@
+digraph G { 
+	rankdir=BT;
+subgraph ctx { 
+label="ctx";
+1 [shape=record,label="{Concept_ctx_2|other:.net4 enabled platform\n|adccore\n}"];
+2 [shape=record,label="{Concept_ctx_1|other:java enabled platform\n|embla\n}"];
+3 [shape=record,label="{Concept_ctx_4||dcbouncer\ndcwatch\n}"];
+4 [shape=record,label="{Concept_ctx_3|other:c# enabled platform\n|flowlib\nseriebot\n}"];
+5 [shape=record,label="{Concept_ctx_5|os x\n|}"];
+6 [shape=record,label="{Concept_ctx_6|linux\n|}"];
+7 [shape=record,label="{Concept_ctx_7|other:*\n|dc-hublink\nannouncer bot\ncertmanager\n}"];
+8 [shape=record,label="{Concept_ctx_8|windows\n|}"];
+9 [shape=record,label="{Concept_ctx_0|other:wine\n|netchatlink\n}"];
+	2 -> 5
+	4 -> 5
+	5 -> 6
+	3 -> 6
+	3 -> 7
+	6 -> 8
+	7 -> 8
+	1 -> 8
+	9 -> 8
+}
+}

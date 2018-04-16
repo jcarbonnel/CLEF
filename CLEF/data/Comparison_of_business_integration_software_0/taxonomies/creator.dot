@@ -1,0 +1,65 @@
+digraph G { 
+ rankdir=BT;
+ subgraph ba { 
+1 [shape=record,label="{adeptia}"];
+2 [shape=record,label="{adroitlogic}"];
+3 [shape=record,label="{apache software foundation}"];
+4 [shape=record,label="{progress software}"];
+5 [shape=record,label="{astera software}"];
+6 [shape=record,label="{automation anywhere}"];
+7 [shape=record,label="{microsoft}"];
+8 [shape=record,label="{flow software ltd}"];
+9 [shape=record,label="{fusesource}"];
+10 [shape=record,label="{informatica}"];
+11 [shape=record,label="{jboss}"];
+12 [shape=record,label="{jitterbit}"];
+13 [shape=record,label="{magic software enterprises}"];
+14 [shape=record,label="{twenty57.com}"];
+15 [shape=record,label="{the software conservancy}"];
+16 [shape=record,label="{mulesoft}"];
+17 [shape=record,label="{openesb community}"];
+18 [shape=record,label="{seeburger ag}"];
+19 [shape=record,label="{openlink software}"];
+20 [shape=record,label="{oracle corporation}"];
+21 [shape=record,label="{ow2 consortium}"];
+22 [shape=record,label="{sap ag}"];
+23 [shape=record,label="{engineering group}"];
+24 [shape=record,label="{sun microsystems}"];
+25 [shape=record,label="{talend}"];
+26 [shape=record,label="{automation centre}"];
+27 [shape=record,label="{unify corporation}"];
+28 [shape=record,label="{software ag}"];
+29 [shape=record,label="{ibm}"];
+30 [shape=record,label="{wso2}"];
+31 [shape=record,label="{*}"];
+1 -> 31
+2 -> 31
+3 -> 31
+4 -> 31
+5 -> 31
+6 -> 31
+7 -> 31
+8 -> 31
+9 -> 31
+10 -> 31
+11 -> 31
+12 -> 31
+13 -> 31
+14 -> 31
+15 -> 31
+16 -> 31
+17 -> 31
+18 -> 31
+19 -> 31
+20 -> 31
+21 -> 31
+22 -> 31
+23 -> 31
+24 -> 31
+25 -> 31
+26 -> 31
+27 -> 31
+28 -> 31
+29 -> 31
+30 -> 31
+}}

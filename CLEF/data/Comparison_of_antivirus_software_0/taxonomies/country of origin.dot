@@ -1,0 +1,47 @@
+digraph G { 
+ rankdir=BT;
+ subgraph ba { 
+1 [shape=record,label="{russia}"];
+2 [shape=record,label="{south korea}"];
+3 [shape=record,label="{czech republic}"];
+4 [shape=record,label="{italy}"];
+5 [shape=record,label="{germany}"];
+6 [shape=record,label="{romania}"];
+7 [shape=record,label="{united kingdom}"];
+8 [shape=record,label="{united states}"];
+9 [shape=record,label="{australia}"];
+10 [shape=record,label="{slovakia}"];
+11 [shape=record,label="{finland}"];
+12 [shape=record,label="{iceland}"];
+13 [shape=record,label="{malta}"];
+14 [shape=record,label="{india}"];
+15 [shape=record,label="{china}"];
+16 [shape=record,label="{spain}"];
+17 [shape=record,label="{brazil}"];
+18 [shape=record,label="{cyprus}"];
+19 [shape=record,label="{japan}"];
+20 [shape=record,label="{belarus}"];
+21 [shape=record,label="{turkey}"];
+22 [shape=record,label="{*}"];
+1 -> 22
+2 -> 22
+3 -> 22
+4 -> 22
+5 -> 22
+6 -> 22
+7 -> 22
+8 -> 22
+9 -> 22
+10 -> 22
+11 -> 22
+12 -> 22
+13 -> 22
+14 -> 22
+15 -> 22
+16 -> 22
+17 -> 22
+18 -> 22
+19 -> 22
+20 -> 22
+21 -> 22
+}}

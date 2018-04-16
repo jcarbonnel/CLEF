@@ -1,0 +1,17 @@
+(0.25)	programming language:lua ->! based on:*
+(0.25)	cli ->! based on:strongdc++
+(0.16666666666666666)	webui ->! based on:*
+(0.08333333333333333)	webui ->! programming language:java
+(0.08333333333333333)	webui ->! programming language:c
+(0.08333333333333333)	webui ->! based on:airdc++
+(0.08333333333333333)	programming language:lua ->! based on:apexdc speed mode
+(0.08333333333333333)	programming language:lua ->! based on:airdc++
+(0.08333333333333333)	programming language:java ->! based on:strongdc++
+(0.08333333333333333)	programming language:java ->! based on:dc++
+(0.08333333333333333)	programming language:java ->! based on:airdc++
+(0.08333333333333333)	programming language:c ->! based on:strongdc++
+(0.08333333333333333)	programming language:c ->! based on:dc++
+(0.08333333333333333)	programming language:c ->! based on:airdc++
+(0.08333333333333333)	gui ->! programming language:c
+(0.08333333333333333)	gui ->! based on:airdc++
+(0.08333333333333333)	cli ->! programming language:java

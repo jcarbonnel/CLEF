@@ -1,0 +1,12 @@
+other:wine -> windows
+other:java enabled platform -> windows
+other:java enabled platform -> os x
+other:java enabled platform -> linux
+other:c# enabled platform -> windows
+other:c# enabled platform -> os x
+other:c# enabled platform -> linux
+other:.net4 enabled platform -> windows
+other:* -> windows
+os x -> windows
+os x -> linux
+linux -> windows

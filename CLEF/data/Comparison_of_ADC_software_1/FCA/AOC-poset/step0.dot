@@ -1,0 +1,35 @@
+digraph G { 
+	rankdir=BT;
+subgraph ctx { 
+label="ctx";
+1 [shape=record,label="{Concept_ctx_5|raspberry pi\nsynology nas\ngcc enabled platform\n|luadch\n}"];
+2 [shape=record,label="{Concept_ctx_4|c# enabled platform\n|nexthub\n}"];
+3 [shape=record,label="{Concept_ctx_3|bsd\nhaiku\nopenwrt\n|uhub\n}"];
+4 [shape=record,label="{Concept_ctx_2|erlang enabled platform\n|erlhub\n}"];
+5 [shape=record,label="{Concept_ctx_1|openvms\n|starlet adc hub\n}"];
+6 [shape=record,label="{Concept_ctx_6|python enabled platform\n|adch++ gui\n}"];
+7 [shape=record,label="{Concept_ctx_7|solaris\n|}"];
+8 [shape=record,label="{Concept_ctx_9|*\n|adch++\nflexhub\n}"];
+9 [shape=record,label="{Concept_ctx_8|java enabled platform\n|dshub\nstarhub\n}"];
+10 [shape=record,label="{Concept_ctx_10|os x\n|}"];
+11 [shape=record,label="{Concept_ctx_12|linux\n|}"];
+12 [shape=record,label="{Concept_ctx_11|other\n|}"];
+13 [shape=record,label="{Concept_ctx_13|windows\n|}"];
+14 [shape=record,label="{Concept_ctx_0|freebsd\n|rushub\n}"];
+	3 -> 7
+	14 -> 7
+	1 -> 10
+	4 -> 10
+	7 -> 10
+	9 -> 10
+	8 -> 11
+	10 -> 11
+	6 -> 11
+	6 -> 12
+	2 -> 12
+	10 -> 12
+	5 -> 12
+	2 -> 13
+	11 -> 13
+}
+}

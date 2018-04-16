@@ -1,0 +1,122 @@
+digraph G { 
+ rankdir=BT; 
+ subgraph ba { 
+1 [shape=record,label="{2004}"]; 
+2 [shape=record,label="{2008}"]; 
+3 [shape=record,label="{2009}"]; 
+4 [shape=record,label="{2010}"]; 
+5 [shape=record,label="{2011}"]; 
+6 [shape=record,label="{2012}"]; 
+7 [shape=record,label="{2013}"]; 
+8 [shape=record,label="{2014}"]; 
+9 [shape=record,label="{2015}"]; 
+10 [shape=record,label="{[2004-2008]}"];
+11 [shape=record,label="{[2008-2009]}"];
+12 [shape=record,label="{[2009-2010]}"];
+13 [shape=record,label="{[2010-2011]}"];
+14 [shape=record,label="{[2011-2012]}"];
+15 [shape=record,label="{[2012-2013]}"];
+16 [shape=record,label="{[2013-2014]}"];
+17 [shape=record,label="{[2014-2015]}"];
+1 -> 10
+2 -> 10
+2 -> 11
+3 -> 11
+3 -> 12
+4 -> 12
+4 -> 13
+5 -> 13
+5 -> 14
+6 -> 14
+6 -> 15
+7 -> 15
+7 -> 16
+8 -> 16
+8 -> 17
+9 -> 17
+18 [shape=record,label="{[2004-2009]}"];
+19 [shape=record,label="{[2008-2010]}"];
+20 [shape=record,label="{[2009-2011]}"];
+21 [shape=record,label="{[2010-2012]}"];
+22 [shape=record,label="{[2011-2013]}"];
+23 [shape=record,label="{[2012-2014]}"];
+24 [shape=record,label="{[2013-2015]}"];
+10 -> 18
+11 -> 18
+11 -> 19
+12 -> 19
+12 -> 20
+13 -> 20
+13 -> 21
+14 -> 21
+14 -> 22
+15 -> 22
+15 -> 23
+16 -> 23
+16 -> 24
+17 -> 24
+25 [shape=record,label="{[2004-2010]}"];
+26 [shape=record,label="{[2008-2011]}"];
+27 [shape=record,label="{[2009-2012]}"];
+28 [shape=record,label="{[2010-2013]}"];
+29 [shape=record,label="{[2011-2014]}"];
+30 [shape=record,label="{[2012-2015]}"];
+18 -> 25
+19 -> 25
+19 -> 26
+20 -> 26
+20 -> 27
+21 -> 27
+21 -> 28
+22 -> 28
+22 -> 29
+23 -> 29
+23 -> 30
+24 -> 30
+31 [shape=record,label="{[2004-2011]}"];
+32 [shape=record,label="{[2008-2012]}"];
+33 [shape=record,label="{[2009-2013]}"];
+34 [shape=record,label="{[2010-2014]}"];
+35 [shape=record,label="{[2011-2015]}"];
+25 -> 31
+26 -> 31
+26 -> 32
+27 -> 32
+27 -> 33
+28 -> 33
+28 -> 34
+29 -> 34
+29 -> 35
+30 -> 35
+36 [shape=record,label="{[2004-2012]}"];
+37 [shape=record,label="{[2008-2013]}"];
+38 [shape=record,label="{[2009-2014]}"];
+39 [shape=record,label="{[2010-2015]}"];
+31 -> 36
+32 -> 36
+32 -> 37
+33 -> 37
+33 -> 38
+34 -> 38
+34 -> 39
+35 -> 39
+40 [shape=record,label="{[2004-2013]}"];
+41 [shape=record,label="{[2008-2014]}"];
+42 [shape=record,label="{[2009-2015]}"];
+36 -> 40
+37 -> 40
+37 -> 41
+38 -> 41
+38 -> 42
+39 -> 42
+43 [shape=record,label="{[2004-2014]}"];
+44 [shape=record,label="{[2008-2015]}"];
+40 -> 43
+41 -> 43
+41 -> 44
+42 -> 44
+45 [shape=record,label="{[2004-2015]}"];
+43 -> 45
+44 -> 45
+46 [shape=record,label="{*}"];
+45 -> 46}}

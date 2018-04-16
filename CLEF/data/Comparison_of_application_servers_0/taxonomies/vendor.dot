@@ -1,0 +1,41 @@
+digraph G { 
+ rankdir=BT;
+ subgraph ba { 
+1 [shape=record,label="{adobe systems}"];
+2 [shape=record,label="{atg}"];
+3 [shape=record,label="{lutris}"];
+4 [shape=record,label="{borland}"];
+5 [shape=record,label="{asf}"];
+6 [shape=record,label="{glassfish community}"];
+7 [shape=record,label="{oracle corporation}"];
+8 [shape=record,label="{red hat}"];
+9 [shape=record,label="{eclipse foundation}"];
+10 [shape=record,label="{tmaxsoft}"];
+11 [shape=record,label="{ow2 consortium}"];
+12 [shape=record,label="{sap ag}"];
+13 [shape=record,label="{ironflare}"];
+14 [shape=record,label="{caucho technology}"];
+15 [shape=record,label="{ruby}"];
+16 [shape=record,label="{mechsoft}"];
+17 [shape=record,label="{apple inc.}"];
+18 [shape=record,label="{ibm}"];
+19 [shape=record,label="{*}"];
+1 -> 19
+2 -> 19
+3 -> 19
+4 -> 19
+5 -> 19
+6 -> 19
+7 -> 19
+8 -> 19
+9 -> 19
+10 -> 19
+11 -> 19
+12 -> 19
+13 -> 19
+14 -> 19
+15 -> 19
+16 -> 19
+17 -> 19
+18 -> 19
+}}

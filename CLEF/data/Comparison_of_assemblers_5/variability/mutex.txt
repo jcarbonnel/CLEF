@@ -1,0 +1,65 @@
+(0.2962962962962963)	x86-64 ->! license:proprietary
+(0.2962962962962963)	os:linux ->! license:proprietary
+(0.2962962962962963)	open source ->! license:proprietary
+(0.25925925925925924)	os:unix-like ->! license:proprietary
+(0.2222222222222222)	os:os/2 ->! license:free
+(0.07407407407407407)	x86-64 ->! os:minix
+(0.07407407407407407)	os:unix-like ->! license:sybase open watcom public license
+(0.07407407407407407)	os:minix ->! license:sybase open watcom public license
+(0.07407407407407407)	os:minix ->! license:free
+(0.07407407407407407)	os:mac os x ->! license:sybase open watcom public license
+(0.07407407407407407)	os:mac os x ->! license:gpl
+(0.07407407407407407)	os:freebsd ->! license:gpl
+(0.07407407407407407)	os:freebsd ->! license:bsd
+(0.037037037037037035)	x86-64 ->! os:xenix
+(0.037037037037037035)	x86-64 ->! os:unix system v
+(0.037037037037037035)	x86-64 ->! os:pc/ix
+(0.037037037037037035)	x86-64 ->! os:cp/m-86
+(0.037037037037037035)	x86-64 ->! os:*
+(0.037037037037037035)	x86-64 ->! license:*
+(0.037037037037037035)	os:xenix ->! license:sybase open watcom public license
+(0.037037037037037035)	os:xenix ->! license:microsoft eula
+(0.037037037037037035)	os:xenix ->! license:gpl
+(0.037037037037037035)	os:xenix ->! license:free
+(0.037037037037037035)	os:xenix ->! license:bsd
+(0.037037037037037035)	os:xenix ->! license:*
+(0.037037037037037035)	os:windows mobile ->! license:sybase open watcom public license
+(0.037037037037037035)	os:windows mobile ->! license:proprietary
+(0.037037037037037035)	os:windows mobile ->! license:microsoft eula
+(0.037037037037037035)	os:windows mobile ->! license:gpl
+(0.037037037037037035)	os:windows mobile ->! license:bsd
+(0.037037037037037035)	os:windows ->! license:*
+(0.037037037037037035)	os:unix-like ->! license:microsoft eula
+(0.037037037037037035)	os:unix system v ->! license:sybase open watcom public license
+(0.037037037037037035)	os:unix system v ->! license:microsoft eula
+(0.037037037037037035)	os:unix system v ->! license:gpl
+(0.037037037037037035)	os:unix system v ->! license:free
+(0.037037037037037035)	os:unix system v ->! license:bsd
+(0.037037037037037035)	os:unix system v ->! license:*
+(0.037037037037037035)	os:pc/ix ->! license:gpl
+(0.037037037037037035)	os:pc/ix ->! license:free
+(0.037037037037037035)	os:pc/ix ->! license:bsd
+(0.037037037037037035)	os:os/2 ->! license:*
+(0.037037037037037035)	os:linux ->! license:microsoft eula
+(0.037037037037037035)	os:linux ->! license:*
+(0.037037037037037035)	os:cp/m-86 ->! license:sybase open watcom public license
+(0.037037037037037035)	os:cp/m-86 ->! license:microsoft eula
+(0.037037037037037035)	os:cp/m-86 ->! license:gpl
+(0.037037037037037035)	os:cp/m-86 ->! license:free
+(0.037037037037037035)	os:cp/m-86 ->! license:bsd
+(0.037037037037037035)	os:cp/m-86 ->! license:*
+(0.037037037037037035)	os:* ->! license:sybase open watcom public license
+(0.037037037037037035)	os:* ->! license:proprietary
+(0.037037037037037035)	os:* ->! license:microsoft eula
+(0.037037037037037035)	os:* ->! license:gpl
+(0.037037037037037035)	os:* ->! license:bsd
+(0.037037037037037035)	os:* ->! license:*
+(0.037037037037037035)	open source ->! os:xenix
+(0.037037037037037035)	open source ->! os:windows mobile
+(0.037037037037037035)	open source ->! os:unix system v
+(0.037037037037037035)	open source ->! os:cp/m-86
+(0.037037037037037035)	open source ->! license:microsoft eula
+(0.037037037037037035)	active development ->! os:xenix
+(0.037037037037037035)	active development ->! os:pc/ix
+(0.037037037037037035)	active development ->! os:cp/m-86
+(0.037037037037037035)	active development ->! license:*

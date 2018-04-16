@@ -1,0 +1,308 @@
+digraph G { 
+	rankdir=BT;
+subgraph ctx { 
+label="ctx";
+1 [shape=record,label="{Concept_ctx_0|vendor:*\nlast release date:*\njava ee compatibility:[3.2-5.1]\nServlet spec:[2.7-2.9000000000000004]\nJsp spec:[1.5-1.8]\nlicense:*\n|}"];
+2 [shape=record,label="{Concept_ctx_16|vendor:tmaxsoft\n|jeus\n}"];
+3 [shape=record,label="{Concept_ctx_15|vendor:ow2 consortium\n|jonas\n}"];
+4 [shape=record,label="{Concept_ctx_13|vendor:sap ag\n|netweaver application server\n}"];
+5 [shape=record,label="{Concept_ctx_11|vendor:ironflare\nlast release date:2006\n|orion application server\n}"];
+6 [shape=record,label="{Concept_ctx_8|vendor:ruby\n|ruby\n}"];
+7 [shape=record,label="{Concept_ctx_7|vendor:mechsoft\nlast release date:2011\n|siwpas\n}"];
+8 [shape=record,label="{Concept_ctx_4|vendor:apple inc.\nlast release date:2008\n|webobjects\n}"];
+9 [shape=record,label="{Concept_ctx_23|vendor:atg\n|dynamo as\n}"];
+10 [shape=record,label="{Concept_ctx_14||jrun\n}"];
+11 [shape=record,label="{Concept_ctx_12|last release date:2009\n|oracle containers for j2ee\n}"];
+12 [shape=record,label="{Concept_ctx_2||ibm websphere application server liberty core\n}"];
+13 [shape=record,label="{Concept_ctx_24||coldfusion\n}"];
+14 [shape=record,label="{Concept_ctx_20||geronimo\n}"];
+15 [shape=record,label="{Concept_ctx_1||websphere as community edition\n}"];
+16 [shape=record,label="{Concept_ctx_22|vendor:lutris\n|enhydra\n}"];
+17 [shape=record,label="{Concept_ctx_6||tomee\n}"];
+18 [shape=record,label="{Concept_ctx_3||ibm websphere application server\n}"];
+19 [shape=record,label="{Concept_ctx_5||weblogic server\n}"];
+20 [shape=record,label="{Concept_ctx_18||iplanet web server\n}"];
+21 [shape=record,label="{Concept_ctx_21|vendor:borland\n|enterprise server\n}"];
+22 [shape=record,label="{Concept_ctx_19|vendor:glassfish community\nlicense:cddl\n|glassfish\n}"];
+23 [shape=record,label="{Concept_ctx_17|vendor:eclipse foundation\nlicense:epl\n|jetty\n}"];
+24 [shape=record,label="{Concept_ctx_9||resin professional application server\n}"];
+25 [shape=record,label="{Concept_ctx_10||resin servlet container (open source)\n}"];
+26 [shape=record,label="{Concept_ctx_34|vendor:adobe systems\n|}"];
+27 [shape=record,label="{Concept_ctx_25|vendor:caucho technology\n|}"];
+28 [shape=record,label="{Concept_ctx_33|last release date:2005\n|}"];
+29 [shape=record,label="{Concept_ctx_32|last release date:2007\n|}"];
+30 [shape=record,label="{Concept_ctx_28|last release date:2012\n|}"];
+31 [shape=record,label="{Concept_ctx_30|last release date:2015\n|}"];
+32 [shape=record,label="{Concept_ctx_26|last release date:[2008-2009]\n|}"];
+33 [shape=record,label="{Concept_ctx_27|last release date:[2009-2011]\n|}"];
+34 [shape=record,label="{Concept_ctx_31|vendor:asf\n|}"];
+35 [shape=record,label="{Concept_ctx_29|vendor:red hat\n|jboss enterprise application platform\nwildfly\n}"];
+36 [shape=record,label="{Concept_ctx_35|vendor:ibm\n|}"];
+37 [shape=record,label="{Concept_ctx_45|last release date:[2005-2006]\n|}"];
+38 [shape=record,label="{Concept_ctx_41|last release date:[2006-2007]\n|}"];
+39 [shape=record,label="{Concept_ctx_40|last release date:[2007-2008]\n|}"];
+40 [shape=record,label="{Concept_ctx_37|last release date:[2011-2012]\n|}"];
+41 [shape=record,label="{Concept_ctx_36|last release date:[2008-2011]\n|}"];
+42 [shape=record,label="{Concept_ctx_38|vendor:oracle corporation\n|}"];
+43 [shape=record,label="{Concept_ctx_42|java ee compatibility:*\nServlet spec:*\nJsp spec:*\n|}"];
+44 [shape=record,label="{Concept_ctx_46|Servlet spec:[2.5-2.7]\nServlet spec:[2.5-2.9000000000000004]\n|}"];
+45 [shape=record,label="{Concept_ctx_44|Jsp spec:[1.2-1.5]\nJsp spec:[1.2-1.8]\n|}"];
+46 [shape=record,label="{Concept_ctx_43|license:gpl\n|}"];
+47 [shape=record,label="{Concept_ctx_39|license:apache\n|}"];
+48 [shape=record,label="{Concept_ctx_49|last release date:[2006-2008]\n|}"];
+49 [shape=record,label="{Concept_ctx_50|last release date:[2007-2009]\n|}"];
+50 [shape=record,label="{Concept_ctx_47|last release date:[2009-2012]\n|}"];
+51 [shape=record,label="{Concept_ctx_48|license:lgpl\n|}"];
+52 [shape=record,label="{Concept_ctx_55|last release date:[2005-2007]\n|}"];
+53 [shape=record,label="{Concept_ctx_53|last release date:[2006-2009]\n|}"];
+54 [shape=record,label="{Concept_ctx_52|last release date:[2007-2011]\n|}"];
+55 [shape=record,label="{Concept_ctx_51|last release date:[2008-2012]\n|}"];
+56 [shape=record,label="{Concept_ctx_54|java ee compatibility:[1.3-3.2]\njava ee compatibility:[1.3-5.1]\n|}"];
+57 [shape=record,label="{Concept_ctx_56|Jsp spec:[1.8-2.1]\nJsp spec:[1.5-2.1]\n|}"];
+58 [shape=record,label="{Concept_ctx_58|last release date:[2005-2008]\n|}"];
+59 [shape=record,label="{Concept_ctx_57|last release date:[2006-2011]\n|}"];
+60 [shape=record,label="{Concept_ctx_62|last release date:2013\n|}"];
+61 [shape=record,label="{Concept_ctx_59|last release date:2014\n|}"];
+62 [shape=record,label="{Concept_ctx_61|last release date:[2005-2009]\n|}"];
+63 [shape=record,label="{Concept_ctx_60|last release date:[2007-2012]\n|}"];
+64 [shape=record,label="{Concept_ctx_64|last release date:[2005-2011]\n|}"];
+65 [shape=record,label="{Concept_ctx_63|last release date:[2006-2012]\n|}"];
+66 [shape=record,label="{Concept_ctx_65|Servlet spec:[2.3-2.5]\nServlet spec:[2.3-2.7]\nServlet spec:[2.3-2.9000000000000004]\nJsp spec:[1.2-2.1]\n|}"];
+67 [shape=record,label="{Concept_ctx_67|last release date:[2012-2013]\n|}"];
+68 [shape=record,label="{Concept_ctx_66|last release date:[2014-2015]\n|}"];
+69 [shape=record,label="{Concept_ctx_69|last release date:[2011-2013]\n|}"];
+70 [shape=record,label="{Concept_ctx_68|last release date:[2005-2012]\n|}"];
+71 [shape=record,label="{Concept_ctx_70|last release date:[2009-2013]\n|}"];
+72 [shape=record,label="{Concept_ctx_71|last release date:[2008-2013]\n|}"];
+73 [shape=record,label="{Concept_ctx_72|last release date:[2013-2014]\n|}"];
+74 [shape=record,label="{Concept_ctx_73|last release date:[2007-2013]\n|}"];
+75 [shape=record,label="{Concept_ctx_75|last release date:[2006-2013]\n|}"];
+76 [shape=record,label="{Concept_ctx_74|Servlet spec:[2.9000000000000004-3.1000000000000005]\nServlet spec:[2.7-3.1000000000000005]\n|}"];
+77 [shape=record,label="{Concept_ctx_76|last release date:[2012-2014]\n|}"];
+78 [shape=record,label="{Concept_ctx_77|last release date:[2013-2015]\n|}"];
+79 [shape=record,label="{Concept_ctx_78|license:proprietary\n|}"];
+80 [shape=record,label="{Concept_ctx_79|last release date:[2011-2014]\n|}"];
+81 [shape=record,label="{Concept_ctx_80|last release date:[2005-2013]\n|}"];
+82 [shape=record,label="{Concept_ctx_83|last release date:[2012-2015]\n|}"];
+83 [shape=record,label="{Concept_ctx_81|last release date:[2009-2014]\n|}"];
+84 [shape=record,label="{Concept_ctx_82|java ee compatibility:[5.1-7.0]\njava ee compatibility:[3.2-7.0]\nServlet spec:[2.5-3.1000000000000005]\nJsp spec:[2.1-2.4]\n|}"];
+85 [shape=record,label="{Concept_ctx_85|last release date:[2011-2015]\n|}"];
+86 [shape=record,label="{Concept_ctx_84|last release date:[2008-2014]\n|}"];
+87 [shape=record,label="{Concept_ctx_86|last release date:[2009-2015]\n|}"];
+88 [shape=record,label="{Concept_ctx_87|Jsp spec:[1.8-2.4]\nJsp spec:[1.5-2.4]\n|}"];
+89 [shape=record,label="{Concept_ctx_89|last release date:[2007-2014]\n|}"];
+90 [shape=record,label="{Concept_ctx_88|last release date:[2008-2015]\n|}"];
+91 [shape=record,label="{Concept_ctx_90|last release date:[2006-2014]\n|}"];
+92 [shape=record,label="{Concept_ctx_91|last release date:[2007-2015]\n|}"];
+93 [shape=record,label="{Concept_ctx_92|java ee compatibility:[1.3-7.0]\nServlet spec:[2.3-3.1000000000000005]\nJsp spec:[1.2-2.4]\n|}"];
+94 [shape=record,label="{Concept_ctx_94|last release date:[2005-2014]\n|}"];
+95 [shape=record,label="{Concept_ctx_93|last release date:[2006-2015]\n|}"];
+96 [shape=record,label="{Concept_ctx_95|last release date:[2005-2015]\n|}"];
+	1 -> 2
+	1 -> 3
+	1 -> 4
+	1 -> 5
+	1 -> 6
+	1 -> 7
+	1 -> 8
+	1 -> 9
+	1 -> 10
+	1 -> 11
+	1 -> 12
+	1 -> 13
+	1 -> 14
+	1 -> 15
+	1 -> 16
+	1 -> 17
+	1 -> 18
+	1 -> 19
+	1 -> 20
+	1 -> 21
+	1 -> 22
+	1 -> 23
+	1 -> 24
+	1 -> 25
+	13 -> 26
+	10 -> 26
+	24 -> 27
+	25 -> 27
+	16 -> 28
+	9 -> 28
+	21 -> 29
+	10 -> 29
+	12 -> 30
+	2 -> 30
+	20 -> 31
+	6 -> 31
+	11 -> 32
+	8 -> 32
+	11 -> 33
+	7 -> 33
+	14 -> 34
+	17 -> 34
+	1 -> 35
+	12 -> 36
+	15 -> 36
+	18 -> 36
+	28 -> 37
+	5 -> 37
+	29 -> 38
+	5 -> 38
+	29 -> 39
+	8 -> 39
+	30 -> 40
+	7 -> 40
+	32 -> 41
+	33 -> 41
+	11 -> 42
+	19 -> 42
+	20 -> 42
+	16 -> 43
+	6 -> 43
+	8 -> 43
+	4 -> 44
+	13 -> 44
+	20 -> 44
+	10 -> 45
+	9 -> 45
+	5 -> 45
+	22 -> 46
+	16 -> 46
+	25 -> 46
+	23 -> 47
+	34 -> 47
+	38 -> 48
+	39 -> 48
+	32 -> 49
+	39 -> 49
+	33 -> 50
+	40 -> 50
+	35 -> 51
+	3 -> 51
+	6 -> 51
+	37 -> 52
+	38 -> 52
+	45 -> 52
+	48 -> 53
+	49 -> 53
+	49 -> 54
+	41 -> 54
+	50 -> 55
+	41 -> 55
+	38 -> 56
+	11 -> 56
+	45 -> 56
+	44 -> 57
+	11 -> 57
+	21 -> 57
+	48 -> 58
+	52 -> 58
+	53 -> 59
+	54 -> 59
+	27 -> 60
+	14 -> 60
+	15 -> 60
+	3 -> 60
+	4 -> 60
+	13 -> 60
+	22 -> 61
+	18 -> 61
+	19 -> 61
+	17 -> 61
+	23 -> 61
+	35 -> 61
+	53 -> 62
+	56 -> 62
+	58 -> 62
+	54 -> 63
+	55 -> 63
+	62 -> 64
+	59 -> 64
+	59 -> 65
+	63 -> 65
+	56 -> 66
+	26 -> 66
+	57 -> 66
+	30 -> 67
+	60 -> 67
+	31 -> 68
+	61 -> 68
+	67 -> 69
+	40 -> 69
+	65 -> 70
+	64 -> 70
+	50 -> 71
+	69 -> 71
+	55 -> 72
+	71 -> 72
+	60 -> 73
+	47 -> 73
+	61 -> 73
+	26 -> 74
+	72 -> 74
+	63 -> 74
+	65 -> 75
+	74 -> 75
+	27 -> 76
+	36 -> 76
+	47 -> 76
+	61 -> 76
+	40 -> 76
+	3 -> 76
+	73 -> 77
+	36 -> 77
+	67 -> 77
+	68 -> 78
+	73 -> 78
+	51 -> 78
+	44 -> 78
+	65 -> 79
+	24 -> 79
+	66 -> 79
+	36 -> 79
+	42 -> 79
+	69 -> 80
+	76 -> 80
+	77 -> 80
+	70 -> 81
+	75 -> 81
+	77 -> 82
+	78 -> 82
+	80 -> 83
+	71 -> 83
+	44 -> 84
+	80 -> 84
+	84 -> 85
+	82 -> 85
+	83 -> 86
+	72 -> 86
+	85 -> 87
+	42 -> 87
+	83 -> 87
+	84 -> 88
+	57 -> 88
+	42 -> 88
+	83 -> 88
+	86 -> 89
+	74 -> 89
+	86 -> 90
+	87 -> 90
+	75 -> 91
+	89 -> 91
+	88 -> 92
+	89 -> 92
+	90 -> 92
+	66 -> 93
+	88 -> 93
+	46 -> 94
+	91 -> 94
+	81 -> 94
+	91 -> 95
+	92 -> 95
+	79 -> 96
+	94 -> 96
+	93 -> 96
+	43 -> 96
+	95 -> 96
+}
+}

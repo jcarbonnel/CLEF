@@ -1,0 +1,802 @@
+(0.45454545454545453)	released:[2006-2007] ->! fabrication process (nanometer):55
+(0.36363636363636365)	released:[2006-2007] ->! southbridge:sb700
+(0.3181818181818182)	released:[2006-2007] ->! southbridge:sb710
+(0.3181818181818182)	hyper transport (MHz):[1000-2200] ->! southbridge:sb710
+(0.2727272727272727)	released:[2008-2009] ->! fabrication process (nanometer):80
+(0.2727272727272727)	fabrication process (nanometer):80 ->! southbridge:sb750
+(0.2727272727272727)	fabrication process (nanometer):80 ->! southbridge:sb710
+(0.2727272727272727)	fabrication process (nanometer):80 ->! southbridge:sb700
+(0.2727272727272727)	fabrication process (nanometer):80 ->! hyper transport (MHz):[2200-2600]
+(0.2727272727272727)	fabrication process (nanometer):80 ->! grahic processing unit:*
+(0.18181818181818182)	released:[2008-2009] ->! hyper transport (MHz):800
+(0.18181818181818182)	hyper transport (MHz):800 ->! southbridge:sb850
+(0.18181818181818182)	hyper transport (MHz):800 ->! southbridge:sb750
+(0.18181818181818182)	hyper transport (MHz):800 ->! southbridge:sb710
+(0.18181818181818182)	hyper transport (MHz):800 ->! southbridge:sb700
+(0.18181818181818182)	hyper transport (MHz):800 ->! grahic processing unit:*
+(0.18181818181818182)	hyper transport (MHz):1000 ->! southbridge:sb850
+(0.18181818181818182)	fabrication process (nanometer):[55-65] ->! hyper transport (MHz):800
+(0.18181818181818182)	fabrication process (nanometer):80 ->! southbridge:sb850
+(0.18181818181818182)	cpu support:sempron ->! hyper transport (MHz):800
+(0.13636363636363635)	released:[2008-2009] ->! cpu support:turion 64 x2
+(0.13636363636363635)	fabrication process (nanometer):65 ->! hyper transport (MHz):[1000-2200]
+(0.13636363636363635)	cpu support:turion 64 x2 ->! southbridge:sb850
+(0.13636363636363635)	cpu support:turion 64 x2 ->! southbridge:sb750
+(0.13636363636363635)	cpu support:turion 64 x2 ->! southbridge:sb710
+(0.13636363636363635)	cpu support:turion 64 x2 ->! southbridge:sb700
+(0.13636363636363635)	cpu support:turion 64 x2 ->! hyper transport (MHz):[1000-2600]
+(0.13636363636363635)	cpu support:turion 64 x2 ->! grahic processing unit:*
+(0.13636363636363635)	cpu support:turion 64 x2 ->! fabrication process (nanometer):[55-65]
+(0.13636363636363635)	cpu support:athlon neo ->! southbridge:sb850
+(0.13636363636363635)	cpu support:athlon neo ->! southbridge:sb750
+(0.13636363636363635)	cpu support:athlon neo ->! hyper transport (MHz):[1000-2200]
+(0.13636363636363635)	cpu support:athlon neo ->! grahic processing unit:*
+(0.13636363636363635)	cpu support:athlon neo ->! fabrication process (nanometer):65
+(0.09090909090909091)	released:[2008-2009] ->! fabrication process (nanometer):*
+(0.09090909090909091)	released:[2006-2008] ->! southbridge:sb810
+(0.09090909090909091)	released:[2006-2008] ->! grahic processing unit:radeon hd 4200
+(0.09090909090909091)	released:[2006-2007] ->! grahic processing unit:radeon hd 3200
+(0.09090909090909091)	released:[2006-2007] ->! grahic processing unit:radeon 3100
+(0.09090909090909091)	released:[2006-2007] ->! cpu support:mobile turion
+(0.09090909090909091)	released:2009 ->! southbridge:sb700
+(0.09090909090909091)	released:2009 ->! southbridge:sb600
+(0.09090909090909091)	released:2009 ->! hyper transport (MHz):[1000-2200]
+(0.09090909090909091)	released:2009 ->! grahic processing unit:radeon hd 3200
+(0.09090909090909091)	released:2009 ->! grahic processing unit:radeon 3100
+(0.09090909090909091)	released:2009 ->! grahic processing unit:*
+(0.09090909090909091)	released:2009 ->! fabrication process (nanometer):[65-80]
+(0.09090909090909091)	released:2009 ->! cpu support:athlon neo
+(0.09090909090909091)	released:2006 ->! southbridge:sb850
+(0.09090909090909091)	released:2006 ->! southbridge:sb750
+(0.09090909090909091)	released:2006 ->! hyper transport (MHz):[2200-2600]
+(0.09090909090909091)	released:2006 ->! hyper transport (MHz):800
+(0.09090909090909091)	released:2006 ->! fabrication process (nanometer):[55-80]
+(0.09090909090909091)	released:2006 ->! cpu support:turion 64 x2
+(0.09090909090909091)	released:2006 ->! cpu support:athlon neo
+(0.09090909090909091)	hyper transport (MHz):[1000-2200] ->! grahic processing unit:radeon hd 3200
+(0.09090909090909091)	hyper transport (MHz):[1000-2200] ->! grahic processing unit:radeon 3100
+(0.09090909090909091)	hyper transport (MHz):800 ->! grahic processing unit:radeon hd 4200
+(0.09090909090909091)	hyper transport (MHz):800 ->! grahic processing unit:radeon hd 3200
+(0.09090909090909091)	hyper transport (MHz):800 ->! grahic processing unit:radeon 3100
+(0.09090909090909091)	hyper transport (MHz):1000 ->! grahic processing unit:radeon hd 4200
+(0.09090909090909091)	grahic processing unit:radeon hd 4200 ->! southbridge:sb700
+(0.09090909090909091)	grahic processing unit:radeon hd 4200 ->! southbridge:sb600
+(0.09090909090909091)	grahic processing unit:radeon hd 3200 ->! southbridge:sb850
+(0.09090909090909091)	grahic processing unit:radeon 3100 ->! southbridge:sb850
+(0.09090909090909091)	grahic processing unit:* ->! southbridge:sb810
+(0.09090909090909091)	fabrication process (nanometer):[65-80] ->! southbridge:sb810
+(0.09090909090909091)	fabrication process (nanometer):[65-80] ->! grahic processing unit:radeon hd 4200
+(0.09090909090909091)	fabrication process (nanometer):[65-80] ->! grahic processing unit:radeon hd 3200
+(0.09090909090909091)	fabrication process (nanometer):[65-80] ->! grahic processing unit:radeon 3100
+(0.09090909090909091)	fabrication process (nanometer):* ->! southbridge:sb850
+(0.09090909090909091)	fabrication process (nanometer):* ->! southbridge:sb750
+(0.09090909090909091)	fabrication process (nanometer):* ->! southbridge:sb710
+(0.09090909090909091)	fabrication process (nanometer):* ->! southbridge:sb700
+(0.09090909090909091)	fabrication process (nanometer):* ->! hyper transport (MHz):[2200-2600]
+(0.09090909090909091)	fabrication process (nanometer):* ->! hyper transport (MHz):800
+(0.09090909090909091)	fabrication process (nanometer):* ->! grahic processing unit:radeon hd 4200
+(0.09090909090909091)	fabrication process (nanometer):* ->! grahic processing unit:radeon hd 3200
+(0.09090909090909091)	fabrication process (nanometer):* ->! grahic processing unit:radeon 3100
+(0.09090909090909091)	cpu support:turion 64 x2 ->! grahic processing unit:radeon hd 4200
+(0.09090909090909091)	cpu support:turion 64 x2 ->! grahic processing unit:radeon hd 3200
+(0.09090909090909091)	cpu support:turion 64 x2 ->! grahic processing unit:radeon 3100
+(0.09090909090909091)	cpu support:turion 64 x2 ->! fabrication process (nanometer):*
+(0.09090909090909091)	cpu support:mobile turion ->! hyper transport (MHz):800
+(0.09090909090909091)	cpu support:mobile turion ->! fabrication process (nanometer):[65-80]
+(0.09090909090909091)	cpu support:athlon neo ->! grahic processing unit:radeon hd 4200
+(0.09090909090909091)	cpu support:athlon neo ->! fabrication process (nanometer):*
+(0.045454545454545456)	released:[2008-2009] ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	released:[2008-2009] ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	released:[2008-2009] ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	released:[2008-2009] ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	released:[2008-2009] ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	released:[2008-2009] ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	released:[2008-2009] ->! cpu support:mobile sempron
+(0.045454545454545456)	released:[2007-2009] ->! southbridge:uli-m1575
+(0.045454545454545456)	released:[2007-2009] ->! fabrication process (nanometer):110
+(0.045454545454545456)	released:[2007-2009] ->! cpu support:athlon 64
+(0.045454545454545456)	released:[2006-2009] ->! southbridge:sb820m
+(0.045454545454545456)	released:[2006-2009] ->! hyper transport (MHz):2200
+(0.045454545454545456)	released:[2006-2009] ->! cpu support:*
+(0.045454545454545456)	released:[2006-2008] ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	released:[2006-2007] ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	released:[2006-2007] ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	released:2009 ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	released:2009 ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	released:2006 ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	released:2006 ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	released:2006 ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	released:2006 ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	released:2006 ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	released:2006 ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	released:* ->! southbridge:sb750
+(0.045454545454545456)	released:* ->! southbridge:sb710
+(0.045454545454545456)	released:* ->! southbridge:sb700
+(0.045454545454545456)	released:* ->! southbridge:sb600
+(0.045454545454545456)	released:* ->! hyper transport (MHz):800
+(0.045454545454545456)	released:* ->! hyper transport (MHz):2600
+(0.045454545454545456)	released:* ->! hyper transport (MHz):1000
+(0.045454545454545456)	released:* ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	released:* ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	released:* ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	released:* ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	released:* ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	released:* ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	released:* ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	released:* ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	released:* ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	released:* ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	released:* ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	released:* ->! grahic processing unit:*
+(0.045454545454545456)	released:* ->! fabrication process (nanometer):[65-80]
+(0.045454545454545456)	released:* ->! fabrication process (nanometer):110
+(0.045454545454545456)	released:* ->! fabrication process (nanometer):*
+(0.045454545454545456)	released:* ->! cpu support:turion 64 x2
+(0.045454545454545456)	released:* ->! cpu support:sempron
+(0.045454545454545456)	released:* ->! cpu support:athlon neo
+(0.045454545454545456)	hyper transport (MHz):[2200-2600] ->! southbridge:uli-m1575
+(0.045454545454545456)	hyper transport (MHz):[2200-2600] ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	hyper transport (MHz):[2200-2600] ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	hyper transport (MHz):[2200-2600] ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	hyper transport (MHz):[1000-2600] ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	hyper transport (MHz):[1000-2600] ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	hyper transport (MHz):[1000-2600] ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	hyper transport (MHz):[1000-2600] ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	hyper transport (MHz):[1000-2200] ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	hyper transport (MHz):[1000-2200] ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	hyper transport (MHz):800 ->! southbridge:uli-m1575
+(0.045454545454545456)	hyper transport (MHz):800 ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	hyper transport (MHz):800 ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	hyper transport (MHz):800 ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	hyper transport (MHz):800 ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	hyper transport (MHz):800 ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	hyper transport (MHz):2600 ->! southbridge:sb820m
+(0.045454545454545456)	hyper transport (MHz):2200 ->! southbridge:sb750
+(0.045454545454545456)	hyper transport (MHz):2200 ->! southbridge:sb700
+(0.045454545454545456)	hyper transport (MHz):2200 ->! southbridge:sb600
+(0.045454545454545456)	hyper transport (MHz):2200 ->! grahic processing unit:*
+(0.045454545454545456)	grahic processing unit:radeon x1270 (400mhz) ->! southbridge:uli-m1575
+(0.045454545454545456)	grahic processing unit:radeon x1270 (400mhz) ->! southbridge:sb850
+(0.045454545454545456)	grahic processing unit:radeon x1270 (400mhz) ->! southbridge:sb750
+(0.045454545454545456)	grahic processing unit:radeon x1270 (400mhz) ->! southbridge:sb710
+(0.045454545454545456)	grahic processing unit:radeon x1270 (400mhz) ->! southbridge:sb700
+(0.045454545454545456)	grahic processing unit:radeon x1250 (400mhz) ->! southbridge:uli-m1575
+(0.045454545454545456)	grahic processing unit:radeon x1250 (400mhz) ->! southbridge:sb850
+(0.045454545454545456)	grahic processing unit:radeon x1250 (400mhz) ->! southbridge:sb750
+(0.045454545454545456)	grahic processing unit:radeon x1250 (400mhz) ->! southbridge:sb710
+(0.045454545454545456)	grahic processing unit:radeon x1250 (400mhz) ->! southbridge:sb700
+(0.045454545454545456)	grahic processing unit:radeon x1250 (350mhz) ->! southbridge:uli-m1575
+(0.045454545454545456)	grahic processing unit:radeon x1250 (350mhz) ->! southbridge:sb850
+(0.045454545454545456)	grahic processing unit:radeon x1250 (350mhz) ->! southbridge:sb750
+(0.045454545454545456)	grahic processing unit:radeon x1250 (350mhz) ->! southbridge:sb710
+(0.045454545454545456)	grahic processing unit:radeon x1250 (350mhz) ->! southbridge:sb700
+(0.045454545454545456)	grahic processing unit:radeon x1250 (350 mhz) ->! southbridge:uli-m1575
+(0.045454545454545456)	grahic processing unit:radeon x1250 (350 mhz) ->! southbridge:sb850
+(0.045454545454545456)	grahic processing unit:radeon x1250 (350 mhz) ->! southbridge:sb750
+(0.045454545454545456)	grahic processing unit:radeon x1250 (350 mhz) ->! southbridge:sb710
+(0.045454545454545456)	grahic processing unit:radeon x1250 (350 mhz) ->! southbridge:sb700
+(0.045454545454545456)	grahic processing unit:radeon x1200 (350mhz) ->! southbridge:uli-m1575
+(0.045454545454545456)	grahic processing unit:radeon x1200 (350mhz) ->! southbridge:sb850
+(0.045454545454545456)	grahic processing unit:radeon x1200 (350mhz) ->! southbridge:sb750
+(0.045454545454545456)	grahic processing unit:radeon x1200 (350mhz) ->! southbridge:sb710
+(0.045454545454545456)	grahic processing unit:radeon x1200 (350mhz) ->! southbridge:sb700
+(0.045454545454545456)	grahic processing unit:radeon x1200 (350 mhz) ->! southbridge:uli-m1575
+(0.045454545454545456)	grahic processing unit:radeon x1200 (350 mhz) ->! southbridge:sb850
+(0.045454545454545456)	grahic processing unit:radeon x1200 (350 mhz) ->! southbridge:sb750
+(0.045454545454545456)	grahic processing unit:radeon x1200 (350 mhz) ->! southbridge:sb710
+(0.045454545454545456)	grahic processing unit:radeon x1200 (350 mhz) ->! southbridge:sb700
+(0.045454545454545456)	grahic processing unit:radeon hd 3300 ->! southbridge:sb850
+(0.045454545454545456)	grahic processing unit:radeon hd 3300 ->! southbridge:sb710
+(0.045454545454545456)	grahic processing unit:radeon hd 3300 ->! southbridge:sb700
+(0.045454545454545456)	grahic processing unit:radeon hd 3300 ->! southbridge:sb600
+(0.045454545454545456)	grahic processing unit:radeon hd 3200 ->! southbridge:uli-m1575
+(0.045454545454545456)	grahic processing unit:radeon 3100 ->! southbridge:uli-m1575
+(0.045454545454545456)	grahic processing unit:radeon 3000 ->! southbridge:sb850
+(0.045454545454545456)	grahic processing unit:radeon 3000 ->! southbridge:sb750
+(0.045454545454545456)	grahic processing unit:radeon 3000 ->! southbridge:sb700
+(0.045454545454545456)	grahic processing unit:radeon 3000 ->! southbridge:sb600
+(0.045454545454545456)	grahic processing unit:radeon 2100 ->! southbridge:uli-m1575
+(0.045454545454545456)	grahic processing unit:radeon 2100 ->! southbridge:sb850
+(0.045454545454545456)	grahic processing unit:radeon 2100 ->! southbridge:sb710
+(0.045454545454545456)	fabrication process (nanometer):[65-80] ->! hyper transport (MHz):2200
+(0.045454545454545456)	fabrication process (nanometer):[65-80] ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	fabrication process (nanometer):[65-80] ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	fabrication process (nanometer):[65-80] ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	fabrication process (nanometer):[55-80] ->! southbridge:uli-m1575
+(0.045454545454545456)	fabrication process (nanometer):[55-65] ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	fabrication process (nanometer):[55-65] ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	fabrication process (nanometer):[55-65] ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	fabrication process (nanometer):[55-65] ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	fabrication process (nanometer):[55-65] ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	fabrication process (nanometer):[55-65] ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	fabrication process (nanometer):110 ->! southbridge:sb850
+(0.045454545454545456)	fabrication process (nanometer):110 ->! southbridge:sb750
+(0.045454545454545456)	fabrication process (nanometer):110 ->! southbridge:sb710
+(0.045454545454545456)	fabrication process (nanometer):110 ->! southbridge:sb700
+(0.045454545454545456)	fabrication process (nanometer):110 ->! hyper transport (MHz):[2200-2600]
+(0.045454545454545456)	fabrication process (nanometer):110 ->! hyper transport (MHz):800
+(0.045454545454545456)	fabrication process (nanometer):110 ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	fabrication process (nanometer):110 ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	fabrication process (nanometer):110 ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	fabrication process (nanometer):110 ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	fabrication process (nanometer):110 ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	fabrication process (nanometer):110 ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	fabrication process (nanometer):110 ->! grahic processing unit:radeon hd 4200
+(0.045454545454545456)	fabrication process (nanometer):110 ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	fabrication process (nanometer):110 ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	fabrication process (nanometer):110 ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	fabrication process (nanometer):110 ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	fabrication process (nanometer):110 ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	fabrication process (nanometer):* ->! southbridge:uli-m1575
+(0.045454545454545456)	fabrication process (nanometer):* ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	fabrication process (nanometer):* ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	fabrication process (nanometer):* ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	fabrication process (nanometer):* ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	fabrication process (nanometer):* ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	fabrication process (nanometer):* ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	fabrication process (nanometer):* ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	fabrication process (nanometer):* ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	fabrication process (nanometer):* ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	cpu support:turion 64 x2 ->! southbridge:uli-m1575
+(0.045454545454545456)	cpu support:turion 64 x2 ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	cpu support:turion 64 x2 ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	cpu support:turion 64 x2 ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	cpu support:turion 64 x2 ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	cpu support:turion 64 x2 ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	cpu support:turion 64 x2 ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	cpu support:turion 64 x2 ->! fabrication process (nanometer):110
+(0.045454545454545456)	cpu support:sempron ->! southbridge:sb820m
+(0.045454545454545456)	cpu support:sempron ->! hyper transport (MHz):2200
+(0.045454545454545456)	cpu support:sempron ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	cpu support:sempron ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	cpu support:sempron ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	cpu support:sempron ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	cpu support:phenom ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	cpu support:mobile turion ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	cpu support:mobile sempron ->! southbridge:sb710
+(0.045454545454545456)	cpu support:mobile sempron ->! southbridge:sb700
+(0.045454545454545456)	cpu support:mobile sempron ->! hyper transport (MHz):[1000-2600]
+(0.045454545454545456)	cpu support:mobile sempron ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	cpu support:mobile sempron ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	cpu support:mobile sempron ->! fabrication process (nanometer):[55-65]
+(0.045454545454545456)	cpu support:athlon neo ->! southbridge:uli-m1575
+(0.045454545454545456)	cpu support:athlon neo ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	cpu support:athlon neo ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	cpu support:athlon neo ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	cpu support:athlon neo ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	cpu support:athlon neo ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	cpu support:athlon neo ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	cpu support:athlon neo ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	cpu support:athlon neo ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	cpu support:athlon neo ->! fabrication process (nanometer):110
+(0.045454545454545456)	cpu support:athlon 64 ->! southbridge:uli-m1575
+(0.045454545454545456)	cpu support:athlon 64 ->! fabrication process (nanometer):110
+(0.045454545454545456)	cpu support:athlon 64 ->! southbridge:sb850
+(0.045454545454545456)	cpu support:athlon 64 ->! southbridge:sb750
+(0.045454545454545456)	cpu support:athlon 64 ->! southbridge:sb710
+(0.045454545454545456)	cpu support:athlon 64 ->! southbridge:sb700
+(0.045454545454545456)	cpu support:athlon 64 ->! hyper transport (MHz):[2200-2600]
+(0.045454545454545456)	cpu support:athlon 64 ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	cpu support:athlon 64 ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	cpu support:athlon 64 ->! grahic processing unit:radeon hd 4200
+(0.045454545454545456)	cpu support:athlon 64 ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	cpu support:athlon 64 ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	cpu support:athlon 64 ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	cpu support:athlon 64 ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	cpu support:athlon 64 ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	cpu support:athlon 64 ->! fabrication process (nanometer):[55-80]
+(0.045454545454545456)	cpu support:athlon 64 ->! fabrication process (nanometer):*
+(0.045454545454545456)	cpu support:* ->! southbridge:sb750
+(0.045454545454545456)	cpu support:* ->! southbridge:sb710
+(0.045454545454545456)	cpu support:* ->! southbridge:sb700
+(0.045454545454545456)	cpu support:* ->! southbridge:sb600
+(0.045454545454545456)	cpu support:* ->! hyper transport (MHz):800
+(0.045454545454545456)	cpu support:* ->! hyper transport (MHz):2600
+(0.045454545454545456)	cpu support:* ->! hyper transport (MHz):1000
+(0.045454545454545456)	cpu support:* ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	cpu support:* ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	cpu support:* ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	cpu support:* ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	cpu support:* ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	cpu support:* ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	cpu support:* ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	cpu support:* ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	cpu support:* ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	cpu support:* ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	cpu support:* ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	cpu support:* ->! grahic processing unit:*
+(0.045454545454545456)	cpu support:* ->! fabrication process (nanometer):[65-80]
+(0.045454545454545456)	cpu support:* ->! fabrication process (nanometer):110
+(0.045454545454545456)	cpu support:* ->! fabrication process (nanometer):*
+(0.045454545454545456)	codename:rx780 ->! southbridge:uli-m1575
+(0.045454545454545456)	codename:rx780 ->! southbridge:sb850
+(0.045454545454545456)	codename:rx780 ->! released:[2006-2007]
+(0.045454545454545456)	codename:rx780 ->! released:2009
+(0.045454545454545456)	codename:rx780 ->! released:*
+(0.045454545454545456)	codename:rx780 ->! hyper transport (MHz):[1000-2200]
+(0.045454545454545456)	codename:rx780 ->! hyper transport (MHz):800
+(0.045454545454545456)	codename:rx780 ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	codename:rx780 ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	codename:rx780 ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	codename:rx780 ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	codename:rx780 ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	codename:rx780 ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	codename:rx780 ->! grahic processing unit:radeon hd 4200
+(0.045454545454545456)	codename:rx780 ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	codename:rx780 ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	codename:rx780 ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	codename:rx780 ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	codename:rx780 ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	codename:rx780 ->! fabrication process (nanometer):80
+(0.045454545454545456)	codename:rx780 ->! fabrication process (nanometer):55
+(0.045454545454545456)	codename:rx780 ->! fabrication process (nanometer):110
+(0.045454545454545456)	codename:rx780 ->! fabrication process (nanometer):*
+(0.045454545454545456)	codename:rx780 ->! cpu support:turion 64 x2
+(0.045454545454545456)	codename:rx780 ->! cpu support:athlon neo
+(0.045454545454545456)	codename:rx780 ->! cpu support:athlon 64
+(0.045454545454545456)	codename:rx780 ->! cpu support:*
+(0.045454545454545456)	codename:rx740 ->! southbridge:uli-m1575
+(0.045454545454545456)	codename:rx740 ->! southbridge:sb850
+(0.045454545454545456)	codename:rx740 ->! southbridge:sb710
+(0.045454545454545456)	codename:rx740 ->! released:[2006-2007]
+(0.045454545454545456)	codename:rx740 ->! released:2009
+(0.045454545454545456)	codename:rx740 ->! released:*
+(0.045454545454545456)	codename:rx740 ->! hyper transport (MHz):[2200-2600]
+(0.045454545454545456)	codename:rx740 ->! hyper transport (MHz):800
+(0.045454545454545456)	codename:rx740 ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	codename:rx740 ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	codename:rx740 ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	codename:rx740 ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	codename:rx740 ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	codename:rx740 ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	codename:rx740 ->! grahic processing unit:radeon hd 4200
+(0.045454545454545456)	codename:rx740 ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	codename:rx740 ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	codename:rx740 ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	codename:rx740 ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	codename:rx740 ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	codename:rx740 ->! fabrication process (nanometer):[65-80]
+(0.045454545454545456)	codename:rx740 ->! fabrication process (nanometer):110
+(0.045454545454545456)	codename:rx740 ->! fabrication process (nanometer):*
+(0.045454545454545456)	codename:rx740 ->! cpu support:turion 64 x2
+(0.045454545454545456)	codename:rx740 ->! cpu support:athlon neo
+(0.045454545454545456)	codename:rx740 ->! cpu support:athlon 64
+(0.045454545454545456)	codename:rx740 ->! cpu support:*
+(0.045454545454545456)	codename:rs880 ->! southbridge:sb820m
+(0.045454545454545456)	codename:rs880 ->! southbridge:sb700
+(0.045454545454545456)	codename:rs880 ->! southbridge:sb600
+(0.045454545454545456)	codename:rs880 ->! released:[2006-2008]
+(0.045454545454545456)	codename:rs880 ->! released:*
+(0.045454545454545456)	codename:rs880 ->! hyper transport (MHz):[1000-2200]
+(0.045454545454545456)	codename:rs880 ->! hyper transport (MHz):800
+(0.045454545454545456)	codename:rs880 ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	codename:rs880 ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	codename:rs880 ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	codename:rs880 ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	codename:rs880 ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	codename:rs880 ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	codename:rs880 ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	codename:rs880 ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	codename:rs880 ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	codename:rs880 ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	codename:rs880 ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	codename:rs880 ->! grahic processing unit:*
+(0.045454545454545456)	codename:rs880 ->! fabrication process (nanometer):[65-80]
+(0.045454545454545456)	codename:rs880 ->! fabrication process (nanometer):110
+(0.045454545454545456)	codename:rs880 ->! fabrication process (nanometer):*
+(0.045454545454545456)	codename:rs880 ->! cpu support:turion 64 x2
+(0.045454545454545456)	codename:rs880 ->! cpu support:athlon neo
+(0.045454545454545456)	codename:rs880 ->! cpu support:athlon 64
+(0.045454545454545456)	codename:rs880 ->! cpu support:*
+(0.045454545454545456)	codename:rs785e ->! southbridge:sb750
+(0.045454545454545456)	codename:rs785e ->! southbridge:sb710
+(0.045454545454545456)	codename:rs785e ->! southbridge:sb700
+(0.045454545454545456)	codename:rs785e ->! southbridge:sb600
+(0.045454545454545456)	codename:rs785e ->! released:[2006-2009]
+(0.045454545454545456)	codename:rs785e ->! hyper transport (MHz):800
+(0.045454545454545456)	codename:rs785e ->! hyper transport (MHz):2600
+(0.045454545454545456)	codename:rs785e ->! hyper transport (MHz):1000
+(0.045454545454545456)	codename:rs785e ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	codename:rs785e ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	codename:rs785e ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	codename:rs785e ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	codename:rs785e ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	codename:rs785e ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	codename:rs785e ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	codename:rs785e ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	codename:rs785e ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	codename:rs785e ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	codename:rs785e ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	codename:rs785e ->! grahic processing unit:*
+(0.045454545454545456)	codename:rs785e ->! fabrication process (nanometer):[65-80]
+(0.045454545454545456)	codename:rs785e ->! fabrication process (nanometer):110
+(0.045454545454545456)	codename:rs785e ->! fabrication process (nanometer):*
+(0.045454545454545456)	codename:rs785e ->! cpu support:turion 64 x2
+(0.045454545454545456)	codename:rs785e ->! cpu support:sempron
+(0.045454545454545456)	codename:rs785e ->! cpu support:athlon neo
+(0.045454545454545456)	codename:rs780mc ->! southbridge:uli-m1575
+(0.045454545454545456)	codename:rs780mc ->! southbridge:sb850
+(0.045454545454545456)	codename:rs780mc ->! southbridge:sb750
+(0.045454545454545456)	codename:rs780mc ->! released:[2006-2007]
+(0.045454545454545456)	codename:rs780mc ->! released:2009
+(0.045454545454545456)	codename:rs780mc ->! released:*
+(0.045454545454545456)	codename:rs780mc ->! hyper transport (MHz):[1000-2200]
+(0.045454545454545456)	codename:rs780mc ->! hyper transport (MHz):800
+(0.045454545454545456)	codename:rs780mc ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	codename:rs780mc ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	codename:rs780mc ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	codename:rs780mc ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	codename:rs780mc ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	codename:rs780mc ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	codename:rs780mc ->! grahic processing unit:radeon hd 4200
+(0.045454545454545456)	codename:rs780mc ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	codename:rs780mc ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	codename:rs780mc ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	codename:rs780mc ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	codename:rs780mc ->! grahic processing unit:*
+(0.045454545454545456)	codename:rs780mc ->! fabrication process (nanometer):[65-80]
+(0.045454545454545456)	codename:rs780mc ->! fabrication process (nanometer):110
+(0.045454545454545456)	codename:rs780mc ->! fabrication process (nanometer):*
+(0.045454545454545456)	codename:rs780mc ->! cpu support:turion 64 x2
+(0.045454545454545456)	codename:rs780mc ->! cpu support:sempron
+(0.045454545454545456)	codename:rs780mc ->! cpu support:mobile sempron
+(0.045454545454545456)	codename:rs780mc ->! cpu support:*
+(0.045454545454545456)	codename:rs780m ->! southbridge:uli-m1575
+(0.045454545454545456)	codename:rs780m ->! southbridge:sb850
+(0.045454545454545456)	codename:rs780m ->! southbridge:sb750
+(0.045454545454545456)	codename:rs780m ->! released:[2006-2007]
+(0.045454545454545456)	codename:rs780m ->! released:2009
+(0.045454545454545456)	codename:rs780m ->! released:*
+(0.045454545454545456)	codename:rs780m ->! hyper transport (MHz):[1000-2200]
+(0.045454545454545456)	codename:rs780m ->! hyper transport (MHz):800
+(0.045454545454545456)	codename:rs780m ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	codename:rs780m ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	codename:rs780m ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	codename:rs780m ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	codename:rs780m ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	codename:rs780m ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	codename:rs780m ->! grahic processing unit:radeon hd 4200
+(0.045454545454545456)	codename:rs780m ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	codename:rs780m ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	codename:rs780m ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	codename:rs780m ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	codename:rs780m ->! grahic processing unit:*
+(0.045454545454545456)	codename:rs780m ->! fabrication process (nanometer):[65-80]
+(0.045454545454545456)	codename:rs780m ->! fabrication process (nanometer):110
+(0.045454545454545456)	codename:rs780m ->! fabrication process (nanometer):*
+(0.045454545454545456)	codename:rs780m ->! cpu support:turion 64 x2
+(0.045454545454545456)	codename:rs780m ->! cpu support:sempron
+(0.045454545454545456)	codename:rs780m ->! cpu support:mobile sempron
+(0.045454545454545456)	codename:rs780m ->! cpu support:*
+(0.045454545454545456)	codename:rs780l ->! southbridge:sb850
+(0.045454545454545456)	codename:rs780l ->! southbridge:sb750
+(0.045454545454545456)	codename:rs780l ->! southbridge:sb700
+(0.045454545454545456)	codename:rs780l ->! southbridge:sb600
+(0.045454545454545456)	codename:rs780l ->! released:[2006-2008]
+(0.045454545454545456)	codename:rs780l ->! released:*
+(0.045454545454545456)	codename:rs780l ->! hyper transport (MHz):[1000-2200]
+(0.045454545454545456)	codename:rs780l ->! hyper transport (MHz):800
+(0.045454545454545456)	codename:rs780l ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	codename:rs780l ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	codename:rs780l ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	codename:rs780l ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	codename:rs780l ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	codename:rs780l ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	codename:rs780l ->! grahic processing unit:radeon hd 4200
+(0.045454545454545456)	codename:rs780l ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	codename:rs780l ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	codename:rs780l ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	codename:rs780l ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	codename:rs780l ->! grahic processing unit:*
+(0.045454545454545456)	codename:rs780l ->! fabrication process (nanometer):[65-80]
+(0.045454545454545456)	codename:rs780l ->! fabrication process (nanometer):110
+(0.045454545454545456)	codename:rs780l ->! fabrication process (nanometer):*
+(0.045454545454545456)	codename:rs780l ->! cpu support:turion 64 x2
+(0.045454545454545456)	codename:rs780l ->! cpu support:athlon neo
+(0.045454545454545456)	codename:rs780l ->! cpu support:athlon 64
+(0.045454545454545456)	codename:rs780l ->! cpu support:*
+(0.045454545454545456)	codename:rs780i ->! southbridge:sb850
+(0.045454545454545456)	codename:rs780i ->! southbridge:sb600
+(0.045454545454545456)	codename:rs780i ->! released:[2006-2007]
+(0.045454545454545456)	codename:rs780i ->! released:2009
+(0.045454545454545456)	codename:rs780i ->! released:*
+(0.045454545454545456)	codename:rs780i ->! hyper transport (MHz):[1000-2200]
+(0.045454545454545456)	codename:rs780i ->! hyper transport (MHz):800
+(0.045454545454545456)	codename:rs780i ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	codename:rs780i ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	codename:rs780i ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	codename:rs780i ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	codename:rs780i ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	codename:rs780i ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	codename:rs780i ->! grahic processing unit:radeon hd 4200
+(0.045454545454545456)	codename:rs780i ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	codename:rs780i ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	codename:rs780i ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	codename:rs780i ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	codename:rs780i ->! grahic processing unit:*
+(0.045454545454545456)	codename:rs780i ->! fabrication process (nanometer):[65-80]
+(0.045454545454545456)	codename:rs780i ->! fabrication process (nanometer):110
+(0.045454545454545456)	codename:rs780i ->! fabrication process (nanometer):*
+(0.045454545454545456)	codename:rs780i ->! cpu support:turion 64 x2
+(0.045454545454545456)	codename:rs780i ->! cpu support:athlon neo
+(0.045454545454545456)	codename:rs780i ->! cpu support:athlon 64
+(0.045454545454545456)	codename:rs780i ->! cpu support:*
+(0.045454545454545456)	codename:rs780d ->! southbridge:sb850
+(0.045454545454545456)	codename:rs780d ->! southbridge:sb710
+(0.045454545454545456)	codename:rs780d ->! southbridge:sb700
+(0.045454545454545456)	codename:rs780d ->! southbridge:sb600
+(0.045454545454545456)	codename:rs780d ->! released:[2006-2007]
+(0.045454545454545456)	codename:rs780d ->! released:2009
+(0.045454545454545456)	codename:rs780d ->! released:*
+(0.045454545454545456)	codename:rs780d ->! hyper transport (MHz):[1000-2200]
+(0.045454545454545456)	codename:rs780d ->! hyper transport (MHz):800
+(0.045454545454545456)	codename:rs780d ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	codename:rs780d ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	codename:rs780d ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	codename:rs780d ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	codename:rs780d ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	codename:rs780d ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	codename:rs780d ->! grahic processing unit:radeon hd 4200
+(0.045454545454545456)	codename:rs780d ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	codename:rs780d ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	codename:rs780d ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	codename:rs780d ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	codename:rs780d ->! grahic processing unit:*
+(0.045454545454545456)	codename:rs780d ->! fabrication process (nanometer):[65-80]
+(0.045454545454545456)	codename:rs780d ->! fabrication process (nanometer):110
+(0.045454545454545456)	codename:rs780d ->! fabrication process (nanometer):*
+(0.045454545454545456)	codename:rs780d ->! cpu support:turion 64 x2
+(0.045454545454545456)	codename:rs780d ->! cpu support:athlon neo
+(0.045454545454545456)	codename:rs780d ->! cpu support:athlon 64
+(0.045454545454545456)	codename:rs780d ->! cpu support:*
+(0.045454545454545456)	codename:rs780c ->! southbridge:sb850
+(0.045454545454545456)	codename:rs780c ->! southbridge:sb600
+(0.045454545454545456)	codename:rs780c ->! released:[2006-2007]
+(0.045454545454545456)	codename:rs780c ->! released:2009
+(0.045454545454545456)	codename:rs780c ->! released:*
+(0.045454545454545456)	codename:rs780c ->! hyper transport (MHz):[1000-2200]
+(0.045454545454545456)	codename:rs780c ->! hyper transport (MHz):800
+(0.045454545454545456)	codename:rs780c ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	codename:rs780c ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	codename:rs780c ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	codename:rs780c ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	codename:rs780c ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	codename:rs780c ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	codename:rs780c ->! grahic processing unit:radeon hd 4200
+(0.045454545454545456)	codename:rs780c ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	codename:rs780c ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	codename:rs780c ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	codename:rs780c ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	codename:rs780c ->! grahic processing unit:*
+(0.045454545454545456)	codename:rs780c ->! fabrication process (nanometer):[65-80]
+(0.045454545454545456)	codename:rs780c ->! fabrication process (nanometer):110
+(0.045454545454545456)	codename:rs780c ->! fabrication process (nanometer):*
+(0.045454545454545456)	codename:rs780c ->! cpu support:turion 64 x2
+(0.045454545454545456)	codename:rs780c ->! cpu support:athlon neo
+(0.045454545454545456)	codename:rs780c ->! cpu support:athlon 64
+(0.045454545454545456)	codename:rs780c ->! cpu support:*
+(0.045454545454545456)	codename:rs740 ->! southbridge:uli-m1575
+(0.045454545454545456)	codename:rs740 ->! southbridge:sb850
+(0.045454545454545456)	codename:rs740 ->! southbridge:sb710
+(0.045454545454545456)	codename:rs740 ->! released:[2006-2007]
+(0.045454545454545456)	codename:rs740 ->! released:2009
+(0.045454545454545456)	codename:rs740 ->! released:*
+(0.045454545454545456)	codename:rs740 ->! hyper transport (MHz):[2200-2600]
+(0.045454545454545456)	codename:rs740 ->! hyper transport (MHz):800
+(0.045454545454545456)	codename:rs740 ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	codename:rs740 ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	codename:rs740 ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	codename:rs740 ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	codename:rs740 ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	codename:rs740 ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	codename:rs740 ->! grahic processing unit:radeon hd 4200
+(0.045454545454545456)	codename:rs740 ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	codename:rs740 ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	codename:rs740 ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	codename:rs740 ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	codename:rs740 ->! grahic processing unit:*
+(0.045454545454545456)	codename:rs740 ->! fabrication process (nanometer):[65-80]
+(0.045454545454545456)	codename:rs740 ->! fabrication process (nanometer):110
+(0.045454545454545456)	codename:rs740 ->! fabrication process (nanometer):*
+(0.045454545454545456)	codename:rs740 ->! cpu support:turion 64 x2
+(0.045454545454545456)	codename:rs740 ->! cpu support:athlon neo
+(0.045454545454545456)	codename:rs740 ->! cpu support:athlon 64
+(0.045454545454545456)	codename:rs740 ->! cpu support:*
+(0.045454545454545456)	codename:rs690mc ->! hyper transport (MHz):[1000-2600]
+(0.045454545454545456)	codename:rs690mc ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	codename:rs690mc ->! cpu support:sempron
+(0.045454545454545456)	codename:rs690c ->! southbridge:uli-m1575
+(0.045454545454545456)	codename:rs690c ->! southbridge:sb850
+(0.045454545454545456)	codename:rs690c ->! southbridge:sb750
+(0.045454545454545456)	codename:rs690c ->! southbridge:sb710
+(0.045454545454545456)	codename:rs690c ->! southbridge:sb700
+(0.045454545454545456)	codename:rs690c ->! released:[2008-2009]
+(0.045454545454545456)	codename:rs690c ->! released:2006
+(0.045454545454545456)	codename:rs690c ->! released:*
+(0.045454545454545456)	codename:rs690c ->! hyper transport (MHz):[2200-2600]
+(0.045454545454545456)	codename:rs690c ->! hyper transport (MHz):800
+(0.045454545454545456)	codename:rs690c ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	codename:rs690c ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	codename:rs690c ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	codename:rs690c ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	codename:rs690c ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	codename:rs690c ->! grahic processing unit:radeon hd 4200
+(0.045454545454545456)	codename:rs690c ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	codename:rs690c ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	codename:rs690c ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	codename:rs690c ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	codename:rs690c ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	codename:rs690c ->! grahic processing unit:*
+(0.045454545454545456)	codename:rs690c ->! fabrication process (nanometer):[55-65]
+(0.045454545454545456)	codename:rs690c ->! fabrication process (nanometer):110
+(0.045454545454545456)	codename:rs690c ->! fabrication process (nanometer):*
+(0.045454545454545456)	codename:rs690c ->! cpu support:turion 64 x2
+(0.045454545454545456)	codename:rs690c ->! cpu support:phenom
+(0.045454545454545456)	codename:rs690c ->! cpu support:athlon neo
+(0.045454545454545456)	codename:rs690c ->! cpu support:athlon 64
+(0.045454545454545456)	codename:rs690c ->! cpu support:*
+(0.045454545454545456)	codename:rs690 ->! southbridge:uli-m1575
+(0.045454545454545456)	codename:rs690 ->! southbridge:sb850
+(0.045454545454545456)	codename:rs690 ->! southbridge:sb750
+(0.045454545454545456)	codename:rs690 ->! southbridge:sb710
+(0.045454545454545456)	codename:rs690 ->! southbridge:sb700
+(0.045454545454545456)	codename:rs690 ->! released:[2008-2009]
+(0.045454545454545456)	codename:rs690 ->! released:2006
+(0.045454545454545456)	codename:rs690 ->! released:*
+(0.045454545454545456)	codename:rs690 ->! hyper transport (MHz):800
+(0.045454545454545456)	codename:rs690 ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	codename:rs690 ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	codename:rs690 ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	codename:rs690 ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	codename:rs690 ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	codename:rs690 ->! grahic processing unit:radeon hd 4200
+(0.045454545454545456)	codename:rs690 ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	codename:rs690 ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	codename:rs690 ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	codename:rs690 ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	codename:rs690 ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	codename:rs690 ->! grahic processing unit:*
+(0.045454545454545456)	codename:rs690 ->! fabrication process (nanometer):[55-65]
+(0.045454545454545456)	codename:rs690 ->! fabrication process (nanometer):110
+(0.045454545454545456)	codename:rs690 ->! fabrication process (nanometer):*
+(0.045454545454545456)	codename:rs690 ->! cpu support:turion 64 x2
+(0.045454545454545456)	codename:rs690 ->! cpu support:athlon neo
+(0.045454545454545456)	codename:rs690 ->! cpu support:*
+(0.045454545454545456)	codename:rd790 ->! southbridge:uli-m1575
+(0.045454545454545456)	codename:rd790 ->! southbridge:sb810
+(0.045454545454545456)	codename:rd790 ->! southbridge:sb710
+(0.045454545454545456)	codename:rd790 ->! southbridge:sb700
+(0.045454545454545456)	codename:rd790 ->! released:[2008-2009]
+(0.045454545454545456)	codename:rd790 ->! released:2006
+(0.045454545454545456)	codename:rd790 ->! released:*
+(0.045454545454545456)	codename:rd790 ->! hyper transport (MHz):[1000-2200]
+(0.045454545454545456)	codename:rd790 ->! hyper transport (MHz):800
+(0.045454545454545456)	codename:rd790 ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	codename:rd790 ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	codename:rd790 ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	codename:rd790 ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	codename:rd790 ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	codename:rd790 ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	codename:rd790 ->! grahic processing unit:radeon hd 4200
+(0.045454545454545456)	codename:rd790 ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	codename:rd790 ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	codename:rd790 ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	codename:rd790 ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	codename:rd790 ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	codename:rd790 ->! fabrication process (nanometer):80
+(0.045454545454545456)	codename:rd790 ->! fabrication process (nanometer):55
+(0.045454545454545456)	codename:rd790 ->! fabrication process (nanometer):110
+(0.045454545454545456)	codename:rd790 ->! fabrication process (nanometer):*
+(0.045454545454545456)	codename:rd790 ->! cpu support:turion 64 x2
+(0.045454545454545456)	codename:rd790 ->! cpu support:athlon neo
+(0.045454545454545456)	codename:rd790 ->! cpu support:athlon 64
+(0.045454545454545456)	codename:rd790 ->! cpu support:*
+(0.045454545454545456)	codename:rd780 ->! southbridge:uli-m1575
+(0.045454545454545456)	codename:rd780 ->! southbridge:sb810
+(0.045454545454545456)	codename:rd780 ->! southbridge:sb710
+(0.045454545454545456)	codename:rd780 ->! released:[2006-2007]
+(0.045454545454545456)	codename:rd780 ->! released:2009
+(0.045454545454545456)	codename:rd780 ->! released:*
+(0.045454545454545456)	codename:rd780 ->! hyper transport (MHz):[1000-2200]
+(0.045454545454545456)	codename:rd780 ->! hyper transport (MHz):800
+(0.045454545454545456)	codename:rd780 ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	codename:rd780 ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	codename:rd780 ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	codename:rd780 ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	codename:rd780 ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	codename:rd780 ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	codename:rd780 ->! grahic processing unit:radeon hd 4200
+(0.045454545454545456)	codename:rd780 ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	codename:rd780 ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	codename:rd780 ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	codename:rd780 ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	codename:rd780 ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	codename:rd780 ->! fabrication process (nanometer):80
+(0.045454545454545456)	codename:rd780 ->! fabrication process (nanometer):55
+(0.045454545454545456)	codename:rd780 ->! fabrication process (nanometer):110
+(0.045454545454545456)	codename:rd780 ->! fabrication process (nanometer):*
+(0.045454545454545456)	codename:rd780 ->! cpu support:turion 64 x2
+(0.045454545454545456)	codename:rd780 ->! cpu support:athlon neo
+(0.045454545454545456)	codename:rd780 ->! cpu support:athlon 64
+(0.045454545454545456)	codename:rd780 ->! cpu support:*
+(0.045454545454545456)	codename:rd580 ->! southbridge:uli-m1575
+(0.045454545454545456)	codename:rd580 ->! southbridge:sb850
+(0.045454545454545456)	codename:rd580 ->! southbridge:sb750
+(0.045454545454545456)	codename:rd580 ->! southbridge:sb710
+(0.045454545454545456)	codename:rd580 ->! southbridge:sb700
+(0.045454545454545456)	codename:rd580 ->! released:[2007-2009]
+(0.045454545454545456)	codename:rd580 ->! released:*
+(0.045454545454545456)	codename:rd580 ->! hyper transport (MHz):[2200-2600]
+(0.045454545454545456)	codename:rd580 ->! hyper transport (MHz):800
+(0.045454545454545456)	codename:rd580 ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	codename:rd580 ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	codename:rd580 ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	codename:rd580 ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	codename:rd580 ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	codename:rd580 ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	codename:rd580 ->! grahic processing unit:radeon hd 4200
+(0.045454545454545456)	codename:rd580 ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	codename:rd580 ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	codename:rd580 ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	codename:rd580 ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	codename:rd580 ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	codename:rd580 ->! fabrication process (nanometer):[55-80]
+(0.045454545454545456)	codename:rd580 ->! fabrication process (nanometer):110
+(0.045454545454545456)	codename:rd580 ->! cpu support:turion 64 x2
+(0.045454545454545456)	codename:rd580 ->! cpu support:athlon neo
+(0.045454545454545456)	codename:rd580 ->! cpu support:athlon 64
+(0.045454545454545456)	codename:rd580 ->! cpu support:*
+(0.045454545454545456)	codename:rd570 ->! southbridge:uli-m1575
+(0.045454545454545456)	codename:rd570 ->! southbridge:sb850
+(0.045454545454545456)	codename:rd570 ->! southbridge:sb750
+(0.045454545454545456)	codename:rd570 ->! southbridge:sb710
+(0.045454545454545456)	codename:rd570 ->! southbridge:sb700
+(0.045454545454545456)	codename:rd570 ->! released:[2008-2009]
+(0.045454545454545456)	codename:rd570 ->! released:2006
+(0.045454545454545456)	codename:rd570 ->! released:*
+(0.045454545454545456)	codename:rd570 ->! hyper transport (MHz):[2200-2600]
+(0.045454545454545456)	codename:rd570 ->! hyper transport (MHz):800
+(0.045454545454545456)	codename:rd570 ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	codename:rd570 ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	codename:rd570 ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	codename:rd570 ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	codename:rd570 ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	codename:rd570 ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	codename:rd570 ->! grahic processing unit:radeon hd 4200
+(0.045454545454545456)	codename:rd570 ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	codename:rd570 ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	codename:rd570 ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	codename:rd570 ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	codename:rd570 ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	codename:rd570 ->! fabrication process (nanometer):[55-80]
+(0.045454545454545456)	codename:rd570 ->! fabrication process (nanometer):110
+(0.045454545454545456)	codename:rd570 ->! cpu support:turion 64 x2
+(0.045454545454545456)	codename:rd570 ->! cpu support:athlon neo
+(0.045454545454545456)	codename:rd570 ->! cpu support:athlon 64
+(0.045454545454545456)	codename:rd570 ->! cpu support:*
+(0.045454545454545456)	codename:rd480 ->! southbridge:sb850
+(0.045454545454545456)	codename:rd480 ->! southbridge:sb750
+(0.045454545454545456)	codename:rd480 ->! southbridge:sb710
+(0.045454545454545456)	codename:rd480 ->! southbridge:sb700
+(0.045454545454545456)	codename:rd480 ->! released:[2007-2009]
+(0.045454545454545456)	codename:rd480 ->! released:*
+(0.045454545454545456)	codename:rd480 ->! hyper transport (MHz):[2200-2600]
+(0.045454545454545456)	codename:rd480 ->! hyper transport (MHz):800
+(0.045454545454545456)	codename:rd480 ->! grahic processing unit:radeon x1270 (400mhz)
+(0.045454545454545456)	codename:rd480 ->! grahic processing unit:radeon x1250 (400mhz)
+(0.045454545454545456)	codename:rd480 ->! grahic processing unit:radeon x1250 (350mhz)
+(0.045454545454545456)	codename:rd480 ->! grahic processing unit:radeon x1250 (350 mhz)
+(0.045454545454545456)	codename:rd480 ->! grahic processing unit:radeon x1200 (350mhz)
+(0.045454545454545456)	codename:rd480 ->! grahic processing unit:radeon x1200 (350 mhz)
+(0.045454545454545456)	codename:rd480 ->! grahic processing unit:radeon hd 4200
+(0.045454545454545456)	codename:rd480 ->! grahic processing unit:radeon hd 3300
+(0.045454545454545456)	codename:rd480 ->! grahic processing unit:radeon hd 3200
+(0.045454545454545456)	codename:rd480 ->! grahic processing unit:radeon 3100
+(0.045454545454545456)	codename:rd480 ->! grahic processing unit:radeon 3000
+(0.045454545454545456)	codename:rd480 ->! grahic processing unit:radeon 2100
+(0.045454545454545456)	codename:rd480 ->! fabrication process (nanometer):[55-80]
+(0.045454545454545456)	codename:rd480 ->! fabrication process (nanometer):*
+(0.045454545454545456)	codename:rd480 ->! cpu support:turion 64 x2
+(0.045454545454545456)	codename:rd480 ->! cpu support:athlon neo
+(0.045454545454545456)	codename:rd480 ->! cpu support:athlon 64
+(0.045454545454545456)	codename:rd480 ->! cpu support:*

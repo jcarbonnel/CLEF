@@ -1,0 +1,51 @@
+digraph G { 
+ rankdir=BT;
+ subgraph ba { 
+1 [shape=record,label="{modeling}"];
+2 [shape=record,label="{animation}"];
+3 [shape=record,label="{lighting}"];
+4 [shape=record,label="{rendering}"];
+5 [shape=record,label="{video game creation}"];
+6 [shape=record,label="{visual 3d effects}"];
+7 [shape=record,label="{sculpting}"];
+8 [shape=record,label="{basic post-production video editing}"];
+9 [shape=record,label="{landscape modeling}"];
+10 [shape=record,label="{fractal geometry}"];
+11 [shape=record,label="{simulation}"];
+12 [shape=record,label="{computer aided design}"];
+13 [shape=record,label="{film}"];
+14 [shape=record,label="{television}"];
+15 [shape=record,label="{fabrication}"];
+16 [shape=record,label="{set design}"];
+17 [shape=record,label="{subdivision modeling}"];
+18 [shape=record,label="{uv mapping}"];
+19 [shape=record,label="{artificial intelligence in models}"];
+20 [shape=record,label="{virtual reality}"];
+21 [shape=record,label="{real-time modeling}"];
+22 [shape=record,label="{texturing}"];
+23 [shape=record,label="{mobile modeling}"];
+24 [shape=record,label="{*}"];
+1 -> 24
+2 -> 24
+3 -> 24
+4 -> 24
+5 -> 24
+6 -> 24
+7 -> 24
+8 -> 24
+9 -> 24
+10 -> 24
+11 -> 24
+12 -> 24
+13 -> 24
+14 -> 24
+15 -> 24
+16 -> 24
+17 -> 24
+18 -> 24
+19 -> 24
+20 -> 24
+21 -> 24
+22 -> 24
+23 -> 24
+}}

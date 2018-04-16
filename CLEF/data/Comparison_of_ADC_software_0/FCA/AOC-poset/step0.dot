@@ -1,0 +1,24 @@
+digraph G { 
+	rankdir=BT;
+subgraph ctx { 
+label="ctx";
+1 [shape=record,label="{Concept_ctx_4|software license:agpl\n|flexhub\n}"];
+2 [shape=record,label="{Concept_ctx_3|software license:gplv2\n|luadch\n}"];
+3 [shape=record,label="{Concept_ctx_2|software license:mit license\n|nexthub\n}"];
+4 [shape=record,label="{Concept_ctx_1|software license:proprietary\n|starlet adc hub\n}"];
+5 [shape=record,label="{Concept_ctx_5||adch++\nuhub\nrushub\n}"];
+6 [shape=record,label="{Concept_ctx_6|active\n|}"];
+7 [shape=record,label="{Concept_ctx_7|software license:gpl\n|adch++ gui\ndshub\nerlhub\nqhub\n}"];
+8 [shape=record,label="{Concept_ctx_8|free and open source\n|}"];
+9 [shape=record,label="{Concept_ctx_0|software license:*\n|starhub\n}"];
+	1 -> 6
+	2 -> 6
+	4 -> 6
+	5 -> 6
+	5 -> 7
+	1 -> 8
+	2 -> 8
+	3 -> 8
+	7 -> 8
+}
+}

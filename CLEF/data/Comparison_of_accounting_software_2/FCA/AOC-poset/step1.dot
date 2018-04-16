@@ -1,0 +1,370 @@
+digraph G { 
+	rankdir=BT;
+subgraph ctx { 
+label="ctx";
+1 [shape=record,label="{Concept_ctx_0|programming language:*\nlatest stable release:*\nstable release date:*\n|}"];
+2 [shape=record,label="{Concept_ctx_17|programming language:freemarker\nprogramming language:groovy\nlatest stable release:12.04.03\nstable release date:2014\n|apache ofbiz\n}"];
+3 [shape=record,label="{Concept_ctx_16|first public release date:1982\nlatest stable release:5.0.0\nstable release date:2009\n|cgram software\n}"];
+4 [shape=record,label="{Concept_ctx_13|programming language:scheme\nprogramming language:lisp\nlatest stable release:2.6.6\n|gnucash\n}"];
+5 [shape=record,label="{Concept_ctx_4|latest stable release:7.0\n|odoo\n}"];
+6 [shape=record,label="{Concept_ctx_10|programming language:objective-c\nlatest stable release:6.1\n|intars\n}"];
+7 [shape=record,label="{Concept_ctx_9|programming language:eclipse rcp\nprogramming language:jdo\nlatest stable release:1.0.1\n|jfire\n}"];
+8 [shape=record,label="{Concept_ctx_6|first public release date:1985\nlatest stable release:2.28.1\n|newviews\n}"];
+9 [shape=record,label="{Concept_ctx_11|first public release date:1998\nlatest stable release:5.0.2\n|homebank\n}"];
+10 [shape=record,label="{Concept_ctx_8|first public release date:2000\nlatest stable release:4.7.2\ndatabase:sql\ndatabase:ibm db2\n|kmymoney\n}"];
+11 [shape=record,label="{Concept_ctx_15|first public release date:2001\nlatest stable release:3.2\ndatabase:advance server\n|compiere\n}"];
+12 [shape=record,label="{Concept_ctx_12|first public release date:2002\nlatest stable release:1.4\n|gnu enterprise\n}"];
+13 [shape=record,label="{Concept_ctx_1|first public release date:2003\nlatest stable release:4.07.10\ndatabase:innodb\n|weberp\n}"];
+14 [shape=record,label="{Concept_ctx_7|latest stable release:1.4.11\n|ledgersmb\n}"];
+15 [shape=record,label="{Concept_ctx_2|first public release date:2008\n|tryton\n}"];
+16 [shape=record,label="{Concept_ctx_14|latest stable release:2.3.24\n|frontaccounting\n}"];
+17 [shape=record,label="{Concept_ctx_3|latest stable release:3.0.2\n|sql-ledger\n}"];
+18 [shape=record,label="{Concept_ctx_18|latest stable release:3.6\n|adempiere\n}"];
+19 [shape=record,label="{Concept_ctx_5||openbravo\n}"];
+20 [shape=record,label="{Concept_ctx_32|programming language:java\n|}"];
+21 [shape=record,label="{Concept_ctx_30|programming language:xml\nprogramming language:javascript\n|}"];
+22 [shape=record,label="{Concept_ctx_26|programming language:php\n|}"];
+23 [shape=record,label="{Concept_ctx_20|programming language:c++\n|}"];
+24 [shape=record,label="{Concept_ctx_25|first public release date:1999\n|}"];
+25 [shape=record,label="{Concept_ctx_29|first public release date:[1982-1985]\n|}"];
+26 [shape=record,label="{Concept_ctx_23|first public release date:[1985-1998]\n|}"];
+27 [shape=record,label="{Concept_ctx_27|first public release date:[2000-2001]\n|}"];
+28 [shape=record,label="{Concept_ctx_28|first public release date:[2001-2002]\nstable release date:2008\n|}"];
+29 [shape=record,label="{Concept_ctx_24|first public release date:[2002-2003]\n|}"];
+30 [shape=record,label="{Concept_ctx_19|latest stable release:3.0\nstable release date:2013\n|}"];
+31 [shape=record,label="{Concept_ctx_33|stable release date:2010\n|}"];
+32 [shape=record,label="{Concept_ctx_21|development status:*\n|}"];
+33 [shape=record,label="{Concept_ctx_31|database:derby\n|}"];
+34 [shape=record,label="{Concept_ctx_22|database:*\n|}"];
+35 [shape=record,label="{Concept_ctx_43|programming language:c\n|}"];
+36 [shape=record,label="{Concept_ctx_35|programming language:perl\n|}"];
+37 [shape=record,label="{Concept_ctx_34|programming language:python\n|}"];
+38 [shape=record,label="{Concept_ctx_47|first public release date:2006\n|}"];
+39 [shape=record,label="{Concept_ctx_39|first public release date:[1998-1999]\n|}"];
+40 [shape=record,label="{Concept_ctx_37|first public release date:[1999-2000]\n|}"];
+41 [shape=record,label="{Concept_ctx_42|first public release date:[1982-1998]\n|}"];
+42 [shape=record,label="{Concept_ctx_41|first public release date:[2000-2002]\n|}"];
+43 [shape=record,label="{Concept_ctx_40|first public release date:[2001-2003]\n|}"];
+44 [shape=record,label="{Concept_ctx_44|stable release date:[2008-2009]\n|}"];
+45 [shape=record,label="{Concept_ctx_48|stable release date:[2009-2010]\n|}"];
+46 [shape=record,label="{Concept_ctx_45|stable release date:[2013-2014]\n|}"];
+47 [shape=record,label="{Concept_ctx_46|database:ms sql\n|}"];
+48 [shape=record,label="{Concept_ctx_38|database:xml\n|}"];
+49 [shape=record,label="{Concept_ctx_36|database:sqlite\n|}"];
+50 [shape=record,label="{Concept_ctx_56|programming language:j2ee\nprogramming language:jboss\n|}"];
+51 [shape=record,label="{Concept_ctx_54|first public release date:[2003-2006]\n|}"];
+52 [shape=record,label="{Concept_ctx_55|first public release date:[2006-2008]\n|}"];
+53 [shape=record,label="{Concept_ctx_50|first public release date:[1985-1999]\n|}"];
+54 [shape=record,label="{Concept_ctx_51|first public release date:[1998-2000]\n|}"];
+55 [shape=record,label="{Concept_ctx_53|first public release date:[1999-2001]\n|}"];
+56 [shape=record,label="{Concept_ctx_52|first public release date:[2000-2003]\n|}"];
+57 [shape=record,label="{Concept_ctx_49|stable release date:2012\n|}"];
+58 [shape=record,label="{Concept_ctx_64|first public release date:[2002-2006]\n|}"];
+59 [shape=record,label="{Concept_ctx_63|first public release date:[2003-2008]\n|}"];
+60 [shape=record,label="{Concept_ctx_60|first public release date:[1982-1999]\n|}"];
+61 [shape=record,label="{Concept_ctx_57|first public release date:[1985-2000]\n|}"];
+62 [shape=record,label="{Concept_ctx_58|first public release date:[1998-2001]\n|}"];
+63 [shape=record,label="{Concept_ctx_59|first public release date:[1999-2002]\n|}"];
+64 [shape=record,label="{Concept_ctx_61|first public release date:*\n|}"];
+65 [shape=record,label="{Concept_ctx_65|stable release date:[2008-2010]\n|}"];
+66 [shape=record,label="{Concept_ctx_66|database:oracle\n|}"];
+67 [shape=record,label="{Concept_ctx_62|database:mysql\n|}"];
+68 [shape=record,label="{Concept_ctx_75|first public release date:[2001-2006]\n|}"];
+69 [shape=record,label="{Concept_ctx_74|first public release date:[2002-2008]\n|}"];
+70 [shape=record,label="{Concept_ctx_72|first public release date:[1982-2000]\n|}"];
+71 [shape=record,label="{Concept_ctx_69|first public release date:[1985-2001]\n|}"];
+72 [shape=record,label="{Concept_ctx_71|first public release date:[1998-2002]\n|}"];
+73 [shape=record,label="{Concept_ctx_70|first public release date:[1999-2003]\n|}"];
+74 [shape=record,label="{Concept_ctx_68|stable release date:2015\n|}"];
+75 [shape=record,label="{Concept_ctx_73|stable release date:[2010-2012]\n|}"];
+76 [shape=record,label="{Concept_ctx_67|stable release date:[2012-2013]\n|}"];
+77 [shape=record,label="{Concept_ctx_82|first public release date:[2000-2006]\n|}"];
+78 [shape=record,label="{Concept_ctx_81|first public release date:[2001-2008]\n|}"];
+79 [shape=record,label="{Concept_ctx_78|first public release date:[1982-2001]\n|}"];
+80 [shape=record,label="{Concept_ctx_77|first public release date:[1985-2002]\n|}"];
+81 [shape=record,label="{Concept_ctx_76|first public release date:[1998-2003]\n|}"];
+82 [shape=record,label="{Concept_ctx_80|stable release date:[2014-2015]\n|}"];
+83 [shape=record,label="{Concept_ctx_83|stable release date:[2009-2012]\n|}"];
+84 [shape=record,label="{Concept_ctx_79|stable release date:[2012-2014]\n|}"];
+85 [shape=record,label="{Concept_ctx_87|first public release date:[2000-2008]\n|}"];
+86 [shape=record,label="{Concept_ctx_85|first public release date:[1982-2002]\n|}"];
+87 [shape=record,label="{Concept_ctx_84|first public release date:[1985-2003]\n|}"];
+88 [shape=record,label="{Concept_ctx_86|stable release date:[2010-2013]\n|}"];
+89 [shape=record,label="{Concept_ctx_90|first public release date:[1999-2006]\n|}"];
+90 [shape=record,label="{Concept_ctx_88|first public release date:[1982-2003]\n|}"];
+91 [shape=record,label="{Concept_ctx_89|stable release date:[2013-2015]\n|}"];
+92 [shape=record,label="{Concept_ctx_92|stable release date:[2008-2012]\n|}"];
+93 [shape=record,label="{Concept_ctx_91|stable release date:[2009-2013]\n|}"];
+94 [shape=record,label="{Concept_ctx_93|stable release date:[2010-2014]\n|}"];
+95 [shape=record,label="{Concept_ctx_95|first public release date:[1998-2006]\n|}"];
+96 [shape=record,label="{Concept_ctx_94|first public release date:[1999-2008]\n|}"];
+97 [shape=record,label="{Concept_ctx_96|stable release date:[2009-2014]\n|}"];
+98 [shape=record,label="{Concept_ctx_98|first public release date:[1985-2006]\n|}"];
+99 [shape=record,label="{Concept_ctx_97|first public release date:[1998-2008]\n|}"];
+100 [shape=record,label="{Concept_ctx_99|stable release date:[2008-2013]\n|}"];
+101 [shape=record,label="{Concept_ctx_101|first public release date:[1982-2006]\n|}"];
+102 [shape=record,label="{Concept_ctx_100|first public release date:[1985-2008]\n|}"];
+103 [shape=record,label="{Concept_ctx_102|stable release date:[2008-2014]\n|}"];
+104 [shape=record,label="{Concept_ctx_103|database:postgresql\n|}"];
+105 [shape=record,label="{Concept_ctx_105|first public release date:[1982-2008]\n|}"];
+106 [shape=record,label="{Concept_ctx_104|stable release date:[2012-2015]\n|}"];
+107 [shape=record,label="{Concept_ctx_106|stable release date:[2010-2015]\n|}"];
+108 [shape=record,label="{Concept_ctx_107|stable release date:[2009-2015]\n|}"];
+109 [shape=record,label="{Concept_ctx_108|development status:5 - production / stable\n|}"];
+110 [shape=record,label="{Concept_ctx_109|stable release date:[2008-2015]\n|}"];
+	1 -> 2
+	1 -> 3
+	1 -> 4
+	1 -> 5
+	1 -> 6
+	1 -> 7
+	1 -> 8
+	1 -> 9
+	1 -> 10
+	1 -> 11
+	1 -> 12
+	1 -> 13
+	1 -> 14
+	1 -> 15
+	1 -> 16
+	1 -> 17
+	1 -> 18
+	1 -> 19
+	2 -> 20
+	3 -> 20
+	2 -> 21
+	5 -> 21
+	13 -> 22
+	16 -> 22
+	8 -> 23
+	10 -> 23
+	4 -> 24
+	6 -> 24
+	8 -> 25
+	3 -> 25
+	9 -> 26
+	8 -> 26
+	11 -> 27
+	10 -> 27
+	11 -> 28
+	12 -> 28
+	13 -> 29
+	12 -> 29
+	15 -> 30
+	19 -> 30
+	7 -> 31
+	18 -> 31
+	7 -> 32
+	17 -> 32
+	7 -> 33
+	2 -> 33
+	6 -> 34
+	8 -> 34
+	9 -> 35
+	4 -> 35
+	3 -> 35
+	4 -> 36
+	14 -> 36
+	17 -> 36
+	12 -> 37
+	15 -> 37
+	5 -> 37
+	18 -> 38
+	14 -> 38
+	19 -> 38
+	9 -> 39
+	24 -> 39
+	24 -> 40
+	10 -> 40
+	26 -> 41
+	25 -> 41
+	27 -> 42
+	28 -> 42
+	29 -> 43
+	28 -> 43
+	28 -> 44
+	3 -> 44
+	3 -> 45
+	31 -> 45
+	30 -> 46
+	2 -> 46
+	33 -> 47
+	11 -> 47
+	9 -> 48
+	4 -> 48
+	10 -> 48
+	4 -> 49
+	15 -> 49
+	10 -> 49
+	19 -> 50
+	11 -> 50
+	31 -> 50
+	13 -> 51
+	38 -> 51
+	30 -> 52
+	38 -> 52
+	26 -> 53
+	34 -> 53
+	39 -> 53
+	40 -> 54
+	39 -> 54
+	48 -> 54
+	27 -> 55
+	40 -> 55
+	42 -> 56
+	43 -> 56
+	5 -> 57
+	17 -> 57
+	13 -> 57
+	6 -> 57
+	29 -> 58
+	51 -> 58
+	52 -> 59
+	51 -> 59
+	41 -> 60
+	53 -> 60
+	35 -> 60
+	53 -> 61
+	23 -> 61
+	54 -> 61
+	55 -> 62
+	54 -> 62
+	42 -> 63
+	55 -> 63
+	33 -> 64
+	21 -> 64
+	16 -> 64
+	32 -> 64
+	45 -> 65
+	44 -> 65
+	2 -> 66
+	19 -> 66
+	27 -> 66
+	18 -> 66
+	2 -> 67
+	22 -> 67
+	15 -> 67
+	4 -> 67
+	43 -> 68
+	58 -> 68
+	59 -> 69
+	58 -> 69
+	60 -> 70
+	61 -> 70
+	61 -> 71
+	62 -> 71
+	63 -> 72
+	62 -> 72
+	56 -> 73
+	63 -> 73
+	14 -> 74
+	16 -> 74
+	23 -> 74
+	48 -> 74
+	26 -> 74
+	32 -> 75
+	57 -> 75
+	31 -> 75
+	30 -> 76
+	57 -> 76
+	56 -> 77
+	68 -> 77
+	68 -> 78
+	69 -> 78
+	71 -> 79
+	70 -> 79
+	71 -> 80
+	72 -> 80
+	73 -> 81
+	72 -> 81
+	2 -> 82
+	74 -> 82
+	45 -> 83
+	75 -> 83
+	21 -> 84
+	46 -> 84
+	76 -> 84
+	77 -> 85
+	78 -> 85
+	80 -> 86
+	79 -> 86
+	44 -> 86
+	81 -> 87
+	80 -> 87
+	75 -> 88
+	76 -> 88
+	73 -> 89
+	77 -> 89
+	87 -> 90
+	86 -> 90
+	82 -> 91
+	49 -> 91
+	46 -> 91
+	83 -> 92
+	43 -> 92
+	65 -> 92
+	83 -> 93
+	88 -> 93
+	84 -> 94
+	33 -> 94
+	88 -> 94
+	81 -> 95
+	89 -> 95
+	49 -> 96
+	85 -> 96
+	89 -> 96
+	20 -> 97
+	94 -> 97
+	93 -> 97
+	87 -> 98
+	95 -> 98
+	96 -> 99
+	95 -> 99
+	93 -> 100
+	37 -> 100
+	92 -> 100
+	50 -> 100
+	98 -> 101
+	90 -> 101
+	98 -> 102
+	99 -> 102
+	47 -> 103
+	100 -> 103
+	97 -> 103
+	21 -> 104
+	20 -> 104
+	42 -> 104
+	52 -> 104
+	44 -> 104
+	49 -> 104
+	46 -> 104
+	37 -> 104
+	36 -> 104
+	66 -> 104
+	102 -> 105
+	101 -> 105
+	91 -> 106
+	67 -> 106
+	84 -> 106
+	36 -> 106
+	61 -> 106
+	94 -> 107
+	59 -> 107
+	64 -> 107
+	106 -> 107
+	70 -> 108
+	107 -> 108
+	97 -> 108
+	21 -> 109
+	105 -> 109
+	20 -> 109
+	91 -> 109
+	67 -> 109
+	37 -> 109
+	66 -> 109
+	103 -> 110
+	108 -> 110
+	109 -> 110
+	104 -> 110
+}
+}

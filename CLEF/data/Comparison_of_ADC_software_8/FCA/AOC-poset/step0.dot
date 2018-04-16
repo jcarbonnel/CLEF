@@ -1,0 +1,37 @@
+digraph G { 
+	rankdir=BT;
+subgraph ctx { 
+label="ctx";
+1 [shape=record,label="{Concept_ctx_1|software type:seriebot\n|seriebot\n}"];
+2 [shape=record,label="{Concept_ctx_6|software type:relay\n|dcbouncer\n}"];
+3 [shape=record,label="{Concept_ctx_4||netchatlink\n}"];
+4 [shape=record,label="{Concept_ctx_5|software type:hub operator helper\n|dcwatch\n}"];
+5 [shape=record,label="{Concept_ctx_3|software type:announce new releases\n|announcer bot\n}"];
+6 [shape=record,label="{Concept_ctx_2|software type:manage ssl certificates\n|certmanager\n}"];
+7 [shape=record,label="{Concept_ctx_8||adccore\nflowlib\n}"];
+8 [shape=record,label="{Concept_ctx_7|software type:hub linker\n|dc-hublink\n}"];
+9 [shape=record,label="{Concept_ctx_9|software type:general library\n|embla\n}"];
+10 [shape=record,label="{Concept_ctx_10|active\n|}"];
+11 [shape=record,label="{Concept_ctx_11|free and open source\nsoftware license\ngnu gpl\n|}"];
+12 [shape=record,label="{Concept_ctx_0|software type:*\n|}"];
+	12 -> 1
+	12 -> 2
+	12 -> 3
+	12 -> 4
+	12 -> 5
+	12 -> 6
+	12 -> 7
+	3 -> 8
+	7 -> 9
+	3 -> 10
+	5 -> 10
+	7 -> 10
+	6 -> 10
+	2 -> 10
+	1 -> 10
+	10 -> 11
+	8 -> 11
+	9 -> 11
+	4 -> 11
+}
+}

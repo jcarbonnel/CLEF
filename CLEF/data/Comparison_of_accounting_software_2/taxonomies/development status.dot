@@ -1,0 +1,7 @@
+digraph G { 
+ rankdir=BT;
+ subgraph ba { 
+1 [shape=record,label="{5 - production / stable}"];
+2 [shape=record,label="{*}"];
+1 -> 2
+}}

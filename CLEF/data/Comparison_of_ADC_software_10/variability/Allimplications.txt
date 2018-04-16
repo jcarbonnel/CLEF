@@ -1,0 +1,11 @@
+programming language:visual basic -> gui
+programming language:visual basic -> based on:*
+programming language:delphi -> gui
+programming language:delphi -> based on:*
+programming language:c++ -> cli
+programming language:c++ -> based on:*
+gui -> based on:*
+based on:embla -> programming language:lua
+based on:embla -> programming language:java
+based on:embla -> cli
+based on:coredc -> programming language:c#

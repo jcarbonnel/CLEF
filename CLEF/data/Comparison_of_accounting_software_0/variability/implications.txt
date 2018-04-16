@@ -1,0 +1,22 @@
+(0.9444444444444444)	mac os -> windows
+(0.9444444444444444)	linux -> windows
+(0.8333333333333334)	market focus:mid-market -> windows
+(0.8333333333333334)	general ledger -> mac os
+(0.8333333333333334)	double-entry bookkeeping system -> windows
+(0.7777777777777778)	entreprise ressource planning -> market focus:mid-market
+(0.7777777777777778)	entreprise ressource planning -> linux
+(0.6666666666666666)	point of sale -> market focus:mid-market
+(0.6666666666666666)	customer relationship management -> entreprise ressource planning
+(0.6111111111111112)	structure:web based -> entreprise ressource planning
+(0.6111111111111112)	license:gpl -> windows
+(0.6111111111111112)	inventory management -> manufacturing/bill of materials
+(0.5)	multiuser -> inventory management
+(0.5)	multico -> inventory management
+(0.5)	market focus:low-market -> double-entry bookkeeping system
+(0.5)	distribution/warehouse management system -> customer relationship management
+(0.3888888888888889)	structure:stand alone -> license:gpl
+(0.3333333333333333)	human ressource management -> e-commerce
+(0.05555555555555555)	license:gpl3 -> language:php
+(0.05555555555555555)	license:cpal -> language:c++
+(0.05555555555555555)	language:scheme -> stock option commodity trade
+(0.05555555555555555)	language:java ee -> license:gpl2

@@ -1,0 +1,43 @@
+digraph G { 
+	rankdir=BT;
+subgraph ctx { 
+label="ctx";
+1 [shape=record,label="{Concept_ctx_3|FirstRelease:1986\n|CVS\n}"];
+2 [shape=record,label="{Concept_ctx_1|FirstRelease:1998\nProgrammingLanguage:C++\n|CVSNT\n}"];
+3 [shape=record,label="{Concept_ctx_2|FirstRelease:*\nProgrammingLanguage:java\n|ClearCase\n}"];
+4 [shape=record,label="{Concept_ctx_4||git\n}"];
+5 [shape=record,label="{Concept_ctx_7|Distributed\nFirstRelease:2005\nProgrammingLanguage:shell scripts\n|GnuArch\n}"];
+6 [shape=record,label="{Concept_ctx_5|Lock\n|}"];
+7 [shape=record,label="{Concept_ctx_6|FirstRelease:[1986-1998]\n|}"];
+8 [shape=record,label="{Concept_ctx_8|ProgrammingLanguage:perl\n|}"];
+9 [shape=record,label="{Concept_ctx_9|ClientServer\n|}"];
+10 [shape=record,label="{Concept_ctx_10|FirstRelease:[1998-2005]\n|}"];
+11 [shape=record,label="{Concept_ctx_11|FirstRelease:[1986-2005]\n|}"];
+12 [shape=record,label="{Concept_ctx_12|ProgrammingLanguage:C\n|}"];
+13 [shape=record,label="{Concept_ctx_13|Merge\n|}"];
+14 [shape=record,label="{Concept_ctx_0|ProgrammingLanguage:*\n|}"];
+	14 -> 1
+	14 -> 2
+	14 -> 3
+	14 -> 4
+	4 -> 5
+	2 -> 6
+	3 -> 6
+	2 -> 7
+	1 -> 7
+	4 -> 8
+	3 -> 8
+	6 -> 9
+	7 -> 9
+	2 -> 10
+	5 -> 10
+	10 -> 11
+	7 -> 11
+	5 -> 12
+	8 -> 12
+	1 -> 12
+	9 -> 13
+	11 -> 13
+	12 -> 13
+}
+}

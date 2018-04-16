@@ -1,0 +1,4 @@
+(0.08333333333333333)	free and open source ->! software license:proprietary
+(0.08333333333333333)	free and open source ->! software license:*
+(0.08333333333333333)	active ->! software license:mit license
+(0.08333333333333333)	active ->! software license:*

@@ -1,0 +1,13 @@
+(0.18181818181818182)	ipv6 ->! plugin:*
+(0.18181818181818182)	bloom filter ->! plugin:*
+(0.09090909090909091)	plugin:python ->! adc support:keyp
+(0.09090909090909091)	plugin:c# ->! adc support:ping
+(0.09090909090909091)	plugin:c ->! adc support:keyp
+(0.09090909090909091)	plugin:* ->! adc support:keyp
+(0.09090909090909091)	ipv6 ->! plugin:java
+(0.09090909090909091)	ipv6 ->! plugin:c#
+(0.09090909090909091)	ipv6 ->! adc support:keyp
+(0.09090909090909091)	bloom filter ->! plugin:java
+(0.09090909090909091)	bloom filter ->! plugin:c#
+(0.09090909090909091)	bloom filter ->! plugin:c
+(0.09090909090909091)	bloom filter ->! adc support:keyp

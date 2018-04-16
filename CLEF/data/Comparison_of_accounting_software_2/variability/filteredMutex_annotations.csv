@@ -1,0 +1,410 @@
+support,pertinence,mutex
+0.2777777777777778,,	stable release date:[2008-2010] ->! database:mysql
+0.2777777777777778,,	first public release date:[1985-2000] ->! stable release date:[2008-2010]
+0.2777777777777778,,	first public release date:[1982-1999] ->! database:oracle
+0.2222222222222222,,	stable release date:2012 ->! database:oracle
+0.2222222222222222,,	programming language:j2ee ->! stable release date:[2014-2015]
+0.2222222222222222,,	programming language:j2ee ->! stable release date:2012
+0.2222222222222222,,	programming language:j2ee ->! first public release date:[1982-2000]
+0.2222222222222222,,	programming language:j2ee ->! database:mysql
+0.2222222222222222,,	first public release date:[2006-2008] ->! stable release date:2012
+0.16666666666666666,,	stable release date:[2012-2013] ->! database:ms sql
+0.16666666666666666,,	stable release date:[2008-2014] ->! database:xml
+0.16666666666666666,,	stable release date:2015 ->! database:ms sql
+0.16666666666666666,,	programming language:python ->! stable release date:[2014-2015]
+0.16666666666666666,,	programming language:python ->! stable release date:[2009-2010]
+0.16666666666666666,,	programming language:python ->! first public release date:[2003-2006]
+0.16666666666666666,,	programming language:python ->! first public release date:[1982-2001]
+0.16666666666666666,,	programming language:python ->! database:xml
+0.16666666666666666,,	programming language:python ->! database:oracle
+0.16666666666666666,,	programming language:python ->! database:ms sql
+0.16666666666666666,,	programming language:perl ->! stable release date:[2013-2014]
+0.16666666666666666,,	programming language:perl ->! stable release date:[2008-2010]
+0.16666666666666666,,	programming language:perl ->! first public release date:[2000-2003]
+0.16666666666666666,,	programming language:perl ->! first public release date:[1982-1998]
+0.16666666666666666,,	programming language:perl ->! database:oracle
+0.16666666666666666,,	programming language:perl ->! database:ms sql
+0.16666666666666666,,	programming language:j2ee ->! database:xml
+0.16666666666666666,,	programming language:j2ee ->! database:sqlite
+0.16666666666666666,,	programming language:c ->! first public release date:[2000-2008]
+0.16666666666666666,,	programming language:c ->! first public release date:*
+0.16666666666666666,,	programming language:c ->! database:oracle
+0.16666666666666666,,	programming language:c ->! database:ms sql
+0.16666666666666666,,	first public release date:[2003-2008] ->! stable release date:[2008-2009]
+0.16666666666666666,,	first public release date:[2002-2008] ->! database:ms sql
+0.16666666666666666,,	first public release date:[2001-2008] ->! database:xml
+0.16666666666666666,,	first public release date:[2001-2003] ->! stable release date:[2013-2015]
+0.16666666666666666,,	first public release date:[2000-2002] ->! stable release date:[2009-2014]
+0.16666666666666666,,	first public release date:[2000-2002] ->! database:mysql
+0.16666666666666666,,	first public release date:[1985-2003] ->! stable release date:[2009-2010]
+0.16666666666666666,,	first public release date:[1982-2003] ->! stable release date:[2013-2014]
+0.16666666666666666,,	first public release date:[1982-2000] ->! database:ms sql
+0.16666666666666666,,	first public release date:[1982-1998] ->! stable release date:[2010-2014]
+0.16666666666666666,,	first public release date:[1982-1998] ->! database:mysql
+0.16666666666666666,,	first public release date:2006 ->! database:mysql
+0.16666666666666666,,	first public release date:* ->! stable release date:[2008-2009]
+0.16666666666666666,,	first public release date:* ->! database:xml
+0.16666666666666666,,	first public release date:* ->! database:sqlite
+0.1111111111111111,,	stable release date:[2013-2015] ->! development status:*
+0.1111111111111111,,	stable release date:[2013-2014] ->! database:*
+0.1111111111111111,,	stable release date:[2008-2010] ->! database:*
+0.1111111111111111,,	stable release date:[2008-2009] ->! development status:*
+0.1111111111111111,,	stable release date:[2008-2009] ->! database:derby
+0.1111111111111111,,	programming language:xml ->! stable release date:[2008-2010]
+0.1111111111111111,,	programming language:xml ->! stable release date:2015
+0.1111111111111111,,	programming language:xml ->! stable release date:2013
+0.1111111111111111,,	programming language:xml ->! latest stable release:3.0
+0.1111111111111111,,	programming language:xml ->! first public release date:[1982-2008]
+0.1111111111111111,,	programming language:xml ->! development status:*
+0.1111111111111111,,	programming language:xml ->! database:xml
+0.1111111111111111,,	programming language:xml ->! database:sqlite
+0.1111111111111111,,	programming language:xml ->! database:*
+0.1111111111111111,,	programming language:python ->! development status:*
+0.1111111111111111,,	programming language:python ->! database:*
+0.1111111111111111,,	programming language:php ->! stable release date:[2013-2014]
+0.1111111111111111,,	programming language:php ->! stable release date:[2008-2010]
+0.1111111111111111,,	programming language:php ->! latest stable release:3.0
+0.1111111111111111,,	programming language:php ->! first public release date:[2006-2008]
+0.1111111111111111,,	programming language:php ->! first public release date:[1982-2002]
+0.1111111111111111,,	programming language:php ->! development status:*
+0.1111111111111111,,	programming language:php ->! database:xml
+0.1111111111111111,,	programming language:php ->! database:postgresql
+0.1111111111111111,,	programming language:php ->! database:ms sql
+0.1111111111111111,,	programming language:php ->! database:*
+0.1111111111111111,,	programming language:perl ->! latest stable release:3.0
+0.1111111111111111,,	programming language:perl ->! database:*
+0.1111111111111111,,	programming language:java ->! stable release date:[2010-2013]
+0.1111111111111111,,	programming language:java ->! stable release date:2015
+0.1111111111111111,,	programming language:java ->! latest stable release:3.0
+0.1111111111111111,,	programming language:java ->! development status:*
+0.1111111111111111,,	programming language:java ->! database:xml
+0.1111111111111111,,	programming language:java ->! database:sqlite
+0.1111111111111111,,	programming language:java ->! database:*
+0.1111111111111111,,	programming language:j2ee ->! first public release date:[2002-2003]
+0.1111111111111111,,	programming language:j2ee ->! database:*
+0.1111111111111111,,	programming language:c++ ->! stable release date:[2008-2014]
+0.1111111111111111,,	programming language:c++ ->! first public release date:[1998-1999]
+0.1111111111111111,,	programming language:c++ ->! database:mysql
+0.1111111111111111,,	programming language:c ->! latest stable release:3.0
+0.1111111111111111,,	programming language:c ->! development status:*
+0.1111111111111111,,	programming language:c ->! database:*
+0.1111111111111111,,	latest stable release:3.0 ->! stable release date:[2008-2012]
+0.1111111111111111,,	latest stable release:3.0 ->! development status:*
+0.1111111111111111,,	latest stable release:3.0 ->! database:xml
+0.1111111111111111,,	latest stable release:3.0 ->! database:ms sql
+0.1111111111111111,,	latest stable release:3.0 ->! database:*
+0.1111111111111111,,	first public release date:[2002-2003] ->! database:oracle
+0.1111111111111111,,	first public release date:[2001-2002] ->! stable release date:[2009-2015]
+0.1111111111111111,,	first public release date:[2000-2008] ->! database:*
+0.1111111111111111,,	first public release date:[1985-1998] ->! stable release date:[2008-2014]
+0.1111111111111111,,	first public release date:[1985-1998] ->! database:postgresql
+0.1111111111111111,,	first public release date:[1982-2008] ->! development status:*
+0.1111111111111111,,	first public release date:[1982-2008] ->! database:derby
+0.1111111111111111,,	first public release date:[1982-2003] ->! stable release date:2010
+0.1111111111111111,,	first public release date:[1982-2000] ->! stable release date:2008
+0.1111111111111111,,	first public release date:[1982-1985] ->! database:xml
+0.1111111111111111,,	first public release date:* ->! stable release date:2013
+0.1111111111111111,,	first public release date:* ->! latest stable release:3.0
+0.1111111111111111,,	first public release date:* ->! database:*
+0.1111111111111111,,	development status:* ->! database:xml
+0.1111111111111111,,	development status:* ->! database:sqlite
+0.1111111111111111,,	development status:* ->! database:oracle
+0.1111111111111111,,	development status:* ->! database:mysql
+0.1111111111111111,,	development status:* ->! database:*
+0.05555555555555555,,	stable release date:[2013-2015] ->! database:innodb
+0.05555555555555555,,	stable release date:[2009-2015] ->! database:advance server
+0.05555555555555555,,	stable release date:2009 ->! database:oracle
+0.05555555555555555,,	stable release date:2009 ->! database:ms sql
+0.05555555555555555,,	programming language:xml ->! latest stable release:6.1
+0.05555555555555555,,	programming language:xml ->! latest stable release:5.0.2
+0.05555555555555555,,	programming language:xml ->! latest stable release:5.0.0
+0.05555555555555555,,	programming language:xml ->! latest stable release:4.7.2
+0.05555555555555555,,	programming language:xml ->! latest stable release:4.07.10
+0.05555555555555555,,	programming language:xml ->! latest stable release:3.6
+0.05555555555555555,,	programming language:xml ->! latest stable release:3.2
+0.05555555555555555,,	programming language:xml ->! latest stable release:2.6.6
+0.05555555555555555,,	programming language:xml ->! latest stable release:2.3.24
+0.05555555555555555,,	programming language:xml ->! latest stable release:2.28.1
+0.05555555555555555,,	programming language:xml ->! latest stable release:1.4
+0.05555555555555555,,	programming language:xml ->! latest stable release:1.0.1
+0.05555555555555555,,	programming language:xml ->! database:innodb
+0.05555555555555555,,	programming language:xml ->! database:advance server
+0.05555555555555555,,	programming language:scheme ->! stable release date:[2008-2014]
+0.05555555555555555,,	programming language:python ->! latest stable release:6.1
+0.05555555555555555,,	programming language:python ->! latest stable release:5.0.2
+0.05555555555555555,,	programming language:python ->! latest stable release:5.0.0
+0.05555555555555555,,	programming language:python ->! latest stable release:4.7.2
+0.05555555555555555,,	programming language:python ->! latest stable release:4.07.10
+0.05555555555555555,,	programming language:python ->! latest stable release:3.6
+0.05555555555555555,,	programming language:python ->! latest stable release:3.2
+0.05555555555555555,,	programming language:python ->! latest stable release:3.0.2
+0.05555555555555555,,	programming language:python ->! latest stable release:2.6.6
+0.05555555555555555,,	programming language:python ->! latest stable release:2.3.24
+0.05555555555555555,,	programming language:python ->! latest stable release:2.28.1
+0.05555555555555555,,	programming language:python ->! latest stable release:12.04.03
+0.05555555555555555,,	programming language:python ->! latest stable release:1.4.11
+0.05555555555555555,,	programming language:python ->! latest stable release:1.0.1
+0.05555555555555555,,	programming language:python ->! database:innodb
+0.05555555555555555,,	programming language:php ->! latest stable release:7.0
+0.05555555555555555,,	programming language:php ->! latest stable release:6.1
+0.05555555555555555,,	programming language:php ->! latest stable release:5.0.2
+0.05555555555555555,,	programming language:php ->! latest stable release:5.0.0
+0.05555555555555555,,	programming language:php ->! latest stable release:4.7.2
+0.05555555555555555,,	programming language:php ->! latest stable release:3.6
+0.05555555555555555,,	programming language:php ->! latest stable release:3.2
+0.05555555555555555,,	programming language:php ->! latest stable release:2.6.6
+0.05555555555555555,,	programming language:php ->! latest stable release:2.28.1
+0.05555555555555555,,	programming language:php ->! latest stable release:12.04.03
+0.05555555555555555,,	programming language:php ->! latest stable release:1.4
+0.05555555555555555,,	programming language:php ->! latest stable release:1.0.1
+0.05555555555555555,,	programming language:perl ->! latest stable release:7.0
+0.05555555555555555,,	programming language:perl ->! latest stable release:6.1
+0.05555555555555555,,	programming language:perl ->! latest stable release:5.0.2
+0.05555555555555555,,	programming language:perl ->! latest stable release:5.0.0
+0.05555555555555555,,	programming language:perl ->! latest stable release:4.7.2
+0.05555555555555555,,	programming language:perl ->! latest stable release:4.07.10
+0.05555555555555555,,	programming language:perl ->! latest stable release:3.6
+0.05555555555555555,,	programming language:perl ->! latest stable release:3.2
+0.05555555555555555,,	programming language:perl ->! latest stable release:2.3.24
+0.05555555555555555,,	programming language:perl ->! latest stable release:2.28.1
+0.05555555555555555,,	programming language:perl ->! latest stable release:12.04.03
+0.05555555555555555,,	programming language:perl ->! latest stable release:1.4
+0.05555555555555555,,	programming language:perl ->! latest stable release:1.0.1
+0.05555555555555555,,	programming language:perl ->! first public release date:2008
+0.05555555555555555,,	programming language:perl ->! database:innodb
+0.05555555555555555,,	programming language:objective-c ->! stable release date:[2013-2015]
+0.05555555555555555,,	programming language:objective-c ->! stable release date:[2008-2010]
+0.05555555555555555,,	programming language:objective-c ->! latest stable release:7.0
+0.05555555555555555,,	programming language:objective-c ->! latest stable release:5.0.2
+0.05555555555555555,,	programming language:objective-c ->! latest stable release:5.0.0
+0.05555555555555555,,	programming language:objective-c ->! latest stable release:4.7.2
+0.05555555555555555,,	programming language:objective-c ->! latest stable release:4.07.10
+0.05555555555555555,,	programming language:objective-c ->! latest stable release:3.6
+0.05555555555555555,,	programming language:objective-c ->! latest stable release:3.2
+0.05555555555555555,,	programming language:objective-c ->! latest stable release:3.0
+0.05555555555555555,,	programming language:objective-c ->! latest stable release:2.6.6
+0.05555555555555555,,	programming language:objective-c ->! latest stable release:2.3.24
+0.05555555555555555,,	programming language:objective-c ->! latest stable release:2.28.1
+0.05555555555555555,,	programming language:objective-c ->! latest stable release:12.04.03
+0.05555555555555555,,	programming language:objective-c ->! latest stable release:1.4
+0.05555555555555555,,	programming language:objective-c ->! latest stable release:1.0.1
+0.05555555555555555,,	programming language:objective-c ->! first public release date:[2000-2008]
+0.05555555555555555,,	programming language:objective-c ->! first public release date:[1982-1998]
+0.05555555555555555,,	programming language:objective-c ->! first public release date:*
+0.05555555555555555,,	programming language:objective-c ->! development status:*
+0.05555555555555555,,	programming language:objective-c ->! database:xml
+0.05555555555555555,,	programming language:objective-c ->! database:postgresql
+0.05555555555555555,,	programming language:objective-c ->! database:mysql
+0.05555555555555555,,	programming language:objective-c ->! database:ms sql
+0.05555555555555555,,	programming language:java ->! latest stable release:7.0
+0.05555555555555555,,	programming language:java ->! latest stable release:6.1
+0.05555555555555555,,	programming language:java ->! latest stable release:5.0.2
+0.05555555555555555,,	programming language:java ->! latest stable release:4.7.2
+0.05555555555555555,,	programming language:java ->! latest stable release:4.07.10
+0.05555555555555555,,	programming language:java ->! latest stable release:3.6
+0.05555555555555555,,	programming language:java ->! latest stable release:3.2
+0.05555555555555555,,	programming language:java ->! latest stable release:2.6.6
+0.05555555555555555,,	programming language:java ->! latest stable release:2.3.24
+0.05555555555555555,,	programming language:java ->! latest stable release:2.28.1
+0.05555555555555555,,	programming language:java ->! latest stable release:1.4
+0.05555555555555555,,	programming language:java ->! latest stable release:1.0.1
+0.05555555555555555,,	programming language:java ->! database:innodb
+0.05555555555555555,,	programming language:java ->! database:advance server
+0.05555555555555555,,	programming language:j2ee ->! stable release date:2009
+0.05555555555555555,,	programming language:j2ee ->! latest stable release:7.0
+0.05555555555555555,,	programming language:j2ee ->! latest stable release:6.1
+0.05555555555555555,,	programming language:j2ee ->! latest stable release:5.0.2
+0.05555555555555555,,	programming language:j2ee ->! latest stable release:5.0.0
+0.05555555555555555,,	programming language:j2ee ->! latest stable release:4.7.2
+0.05555555555555555,,	programming language:j2ee ->! latest stable release:4.07.10
+0.05555555555555555,,	programming language:j2ee ->! latest stable release:3.0.2
+0.05555555555555555,,	programming language:j2ee ->! latest stable release:2.6.6
+0.05555555555555555,,	programming language:j2ee ->! latest stable release:2.3.24
+0.05555555555555555,,	programming language:j2ee ->! latest stable release:2.28.1
+0.05555555555555555,,	programming language:j2ee ->! latest stable release:12.04.03
+0.05555555555555555,,	programming language:j2ee ->! latest stable release:1.4
+0.05555555555555555,,	programming language:j2ee ->! first public release date:2008
+0.05555555555555555,,	programming language:freemarker ->! stable release date:[2008-2013]
+0.05555555555555555,,	programming language:eclipse rcp ->! stable release date:[2012-2015]
+0.05555555555555555,,	programming language:eclipse rcp ->! stable release date:[2008-2009]
+0.05555555555555555,,	programming language:eclipse rcp ->! latest stable release:3.6
+0.05555555555555555,,	programming language:eclipse rcp ->! latest stable release:3.2
+0.05555555555555555,,	programming language:eclipse rcp ->! latest stable release:3.0
+0.05555555555555555,,	programming language:eclipse rcp ->! first public release date:[1982-2008]
+0.05555555555555555,,	programming language:eclipse rcp ->! development status:5 - production / stable
+0.05555555555555555,,	programming language:eclipse rcp ->! database:postgresql
+0.05555555555555555,,	programming language:c++ ->! latest stable release:5.0.2
+0.05555555555555555,,	programming language:c++ ->! latest stable release:5.0.0
+0.05555555555555555,,	programming language:c++ ->! latest stable release:2.6.6
+0.05555555555555555,,	programming language:c++ ->! first public release date:1982
+0.05555555555555555,,	programming language:c ->! latest stable release:7.0
+0.05555555555555555,,	programming language:c ->! latest stable release:6.1
+0.05555555555555555,,	programming language:c ->! latest stable release:4.7.2
+0.05555555555555555,,	programming language:c ->! latest stable release:4.07.10
+0.05555555555555555,,	programming language:c ->! latest stable release:3.6
+0.05555555555555555,,	programming language:c ->! latest stable release:3.2
+0.05555555555555555,,	programming language:c ->! latest stable release:2.3.24
+0.05555555555555555,,	programming language:c ->! latest stable release:2.28.1
+0.05555555555555555,,	programming language:c ->! latest stable release:12.04.03
+0.05555555555555555,,	programming language:c ->! latest stable release:1.4
+0.05555555555555555,,	programming language:c ->! latest stable release:1.0.1
+0.05555555555555555,,	programming language:c ->! first public release date:1985
+0.05555555555555555,,	latest stable release:7.0 ->! stable release date:[2013-2015]
+0.05555555555555555,,	latest stable release:7.0 ->! stable release date:[2008-2010]
+0.05555555555555555,,	latest stable release:7.0 ->! development status:*
+0.05555555555555555,,	latest stable release:7.0 ->! database:xml
+0.05555555555555555,,	latest stable release:7.0 ->! database:sqlite
+0.05555555555555555,,	latest stable release:7.0 ->! database:oracle
+0.05555555555555555,,	latest stable release:7.0 ->! database:mysql
+0.05555555555555555,,	latest stable release:7.0 ->! database:ms sql
+0.05555555555555555,,	latest stable release:7.0 ->! database:*
+0.05555555555555555,,	latest stable release:6.1 ->! stable release date:[2013-2015]
+0.05555555555555555,,	latest stable release:6.1 ->! stable release date:[2008-2010]
+0.05555555555555555,,	latest stable release:6.1 ->! development status:*
+0.05555555555555555,,	latest stable release:6.1 ->! database:xml
+0.05555555555555555,,	latest stable release:6.1 ->! database:postgresql
+0.05555555555555555,,	latest stable release:6.1 ->! database:mysql
+0.05555555555555555,,	latest stable release:6.1 ->! database:ms sql
+0.05555555555555555,,	latest stable release:5.0.2 ->! stable release date:[2008-2014]
+0.05555555555555555,,	latest stable release:5.0.2 ->! development status:*
+0.05555555555555555,,	latest stable release:5.0.2 ->! database:postgresql
+0.05555555555555555,,	latest stable release:5.0.2 ->! database:mysql
+0.05555555555555555,,	latest stable release:5.0.2 ->! database:ms sql
+0.05555555555555555,,	latest stable release:5.0.2 ->! database:*
+0.05555555555555555,,	latest stable release:5.0.0 ->! stable release date:[2010-2015]
+0.05555555555555555,,	latest stable release:5.0.0 ->! stable release date:2008
+0.05555555555555555,,	latest stable release:5.0.0 ->! development status:*
+0.05555555555555555,,	latest stable release:5.0.0 ->! database:xml
+0.05555555555555555,,	latest stable release:5.0.0 ->! database:sqlite
+0.05555555555555555,,	latest stable release:5.0.0 ->! database:oracle
+0.05555555555555555,,	latest stable release:5.0.0 ->! database:mysql
+0.05555555555555555,,	latest stable release:5.0.0 ->! database:ms sql
+0.05555555555555555,,	latest stable release:5.0.0 ->! database:*
+0.05555555555555555,,	latest stable release:4.7.2 ->! stable release date:[2008-2014]
+0.05555555555555555,,	latest stable release:4.7.2 ->! development status:*
+0.05555555555555555,,	latest stable release:4.7.2 ->! database:mysql
+0.05555555555555555,,	latest stable release:4.7.2 ->! database:ms sql
+0.05555555555555555,,	latest stable release:4.7.2 ->! database:*
+0.05555555555555555,,	latest stable release:4.07.10 ->! stable release date:[2013-2015]
+0.05555555555555555,,	latest stable release:4.07.10 ->! stable release date:[2008-2010]
+0.05555555555555555,,	latest stable release:4.07.10 ->! development status:*
+0.05555555555555555,,	latest stable release:4.07.10 ->! database:xml
+0.05555555555555555,,	latest stable release:4.07.10 ->! database:postgresql
+0.05555555555555555,,	latest stable release:4.07.10 ->! database:ms sql
+0.05555555555555555,,	latest stable release:4.07.10 ->! database:*
+0.05555555555555555,,	latest stable release:3.6 ->! stable release date:[2012-2015]
+0.05555555555555555,,	latest stable release:3.6 ->! stable release date:[2008-2009]
+0.05555555555555555,,	latest stable release:3.6 ->! development status:*
+0.05555555555555555,,	latest stable release:3.6 ->! database:xml
+0.05555555555555555,,	latest stable release:3.6 ->! database:sqlite
+0.05555555555555555,,	latest stable release:3.6 ->! database:mysql
+0.05555555555555555,,	latest stable release:3.6 ->! database:ms sql
+0.05555555555555555,,	latest stable release:3.6 ->! database:*
+0.05555555555555555,,	latest stable release:3.2 ->! stable release date:[2009-2015]
+0.05555555555555555,,	latest stable release:3.2 ->! development status:*
+0.05555555555555555,,	latest stable release:3.2 ->! database:xml
+0.05555555555555555,,	latest stable release:3.2 ->! database:sqlite
+0.05555555555555555,,	latest stable release:3.2 ->! database:mysql
+0.05555555555555555,,	latest stable release:3.2 ->! database:derby
+0.05555555555555555,,	latest stable release:3.2 ->! database:*
+0.05555555555555555,,	latest stable release:3.0.2 ->! stable release date:[2013-2015]
+0.05555555555555555,,	latest stable release:3.0.2 ->! development status:5 - production / stable
+0.05555555555555555,,	latest stable release:3.0.2 ->! database:sqlite
+0.05555555555555555,,	latest stable release:3.0.2 ->! database:oracle
+0.05555555555555555,,	latest stable release:3.0.2 ->! database:mysql
+0.05555555555555555,,	latest stable release:2.6.6 ->! stable release date:[2008-2014]
+0.05555555555555555,,	latest stable release:2.6.6 ->! development status:*
+0.05555555555555555,,	latest stable release:2.6.6 ->! database:oracle
+0.05555555555555555,,	latest stable release:2.6.6 ->! database:ms sql
+0.05555555555555555,,	latest stable release:2.6.6 ->! database:innodb
+0.05555555555555555,,	latest stable release:2.6.6 ->! database:*
+0.05555555555555555,,	latest stable release:2.3.24 ->! stable release date:[2008-2014]
+0.05555555555555555,,	latest stable release:2.3.24 ->! development status:*
+0.05555555555555555,,	latest stable release:2.3.24 ->! database:xml
+0.05555555555555555,,	latest stable release:2.3.24 ->! database:postgresql
+0.05555555555555555,,	latest stable release:2.3.24 ->! database:ms sql
+0.05555555555555555,,	latest stable release:2.3.24 ->! database:innodb
+0.05555555555555555,,	latest stable release:2.3.24 ->! database:*
+0.05555555555555555,,	latest stable release:2.28.1 ->! stable release date:[2008-2014]
+0.05555555555555555,,	latest stable release:2.28.1 ->! development status:*
+0.05555555555555555,,	latest stable release:2.28.1 ->! database:xml
+0.05555555555555555,,	latest stable release:2.28.1 ->! database:postgresql
+0.05555555555555555,,	latest stable release:2.28.1 ->! database:mysql
+0.05555555555555555,,	latest stable release:2.28.1 ->! database:ms sql
+0.05555555555555555,,	latest stable release:12.04.03 ->! stable release date:[2008-2013]
+0.05555555555555555,,	latest stable release:12.04.03 ->! stable release date:2015
+0.05555555555555555,,	latest stable release:12.04.03 ->! development status:*
+0.05555555555555555,,	latest stable release:12.04.03 ->! database:xml
+0.05555555555555555,,	latest stable release:12.04.03 ->! database:sqlite
+0.05555555555555555,,	latest stable release:12.04.03 ->! database:innodb
+0.05555555555555555,,	latest stable release:12.04.03 ->! database:advance server
+0.05555555555555555,,	latest stable release:12.04.03 ->! database:*
+0.05555555555555555,,	latest stable release:1.4.11 ->! stable release date:[2008-2014]
+0.05555555555555555,,	latest stable release:1.4 ->! stable release date:[2009-2015]
+0.05555555555555555,,	latest stable release:1.4 ->! development status:*
+0.05555555555555555,,	latest stable release:1.4 ->! database:xml
+0.05555555555555555,,	latest stable release:1.4 ->! database:sqlite
+0.05555555555555555,,	latest stable release:1.4 ->! database:oracle
+0.05555555555555555,,	latest stable release:1.4 ->! database:mysql
+0.05555555555555555,,	latest stable release:1.4 ->! database:ms sql
+0.05555555555555555,,	latest stable release:1.4 ->! database:*
+0.05555555555555555,,	latest stable release:1.0.1 ->! stable release date:[2012-2015]
+0.05555555555555555,,	latest stable release:1.0.1 ->! stable release date:[2008-2009]
+0.05555555555555555,,	latest stable release:1.0.1 ->! development status:5 - production / stable
+0.05555555555555555,,	latest stable release:1.0.1 ->! database:xml
+0.05555555555555555,,	latest stable release:1.0.1 ->! database:postgresql
+0.05555555555555555,,	latest stable release:1.0.1 ->! database:mysql
+0.05555555555555555,,	latest stable release:1.0.1 ->! database:*
+0.05555555555555555,,	first public release date:[2006-2008] ->! latest stable release:4.07.10
+0.05555555555555555,,	first public release date:[2006-2008] ->! database:innodb
+0.05555555555555555,,	first public release date:[2003-2008] ->! latest stable release:1.4
+0.05555555555555555,,	first public release date:[2002-2008] ->! latest stable release:3.2
+0.05555555555555555,,	first public release date:[2001-2008] ->! latest stable release:4.7.2
+0.05555555555555555,,	first public release date:[2000-2008] ->! latest stable release:6.1
+0.05555555555555555,,	first public release date:[2000-2008] ->! latest stable release:2.6.6
+0.05555555555555555,,	first public release date:[1999-2008] ->! latest stable release:5.0.2
+0.05555555555555555,,	first public release date:[1998-2008] ->! latest stable release:2.28.1
+0.05555555555555555,,	first public release date:[1985-2008] ->! stable release date:2009
+0.05555555555555555,,	first public release date:[1985-2008] ->! latest stable release:5.0.0
+0.05555555555555555,,	first public release date:[1982-2008] ->! stable release date:2014
+0.05555555555555555,,	first public release date:[1982-2008] ->! latest stable release:7.0
+0.05555555555555555,,	first public release date:[1982-2008] ->! latest stable release:3.0.2
+0.05555555555555555,,	first public release date:[1982-2008] ->! latest stable release:2.3.24
+0.05555555555555555,,	first public release date:[1982-2008] ->! latest stable release:12.04.03
+0.05555555555555555,,	first public release date:[1982-2008] ->! latest stable release:1.0.1
+0.05555555555555555,,	first public release date:[1982-2003] ->! latest stable release:3.6
+0.05555555555555555,,	first public release date:[1982-2003] ->! latest stable release:1.4.11
+0.05555555555555555,,	first public release date:[1982-2002] ->! latest stable release:4.07.10
+0.05555555555555555,,	first public release date:[1982-2002] ->! database:innodb
+0.05555555555555555,,	first public release date:[1982-2000] ->! latest stable release:3.2
+0.05555555555555555,,	first public release date:[1982-1999] ->! latest stable release:4.7.2
+0.05555555555555555,,	first public release date:[1982-1998] ->! latest stable release:6.1
+0.05555555555555555,,	first public release date:[1982-1998] ->! latest stable release:2.6.6
+0.05555555555555555,,	first public release date:[1982-1985] ->! latest stable release:5.0.2
+0.05555555555555555,,	first public release date:2008 ->! stable release date:[2014-2015]
+0.05555555555555555,,	first public release date:2008 ->! stable release date:[2008-2012]
+0.05555555555555555,,	first public release date:2008 ->! latest stable release:3.6
+0.05555555555555555,,	first public release date:2008 ->! database:oracle
+0.05555555555555555,,	first public release date:2003 ->! stable release date:[2008-2010]
+0.05555555555555555,,	first public release date:2003 ->! database:postgresql
+0.05555555555555555,,	first public release date:2000 ->! stable release date:[2008-2014]
+0.05555555555555555,,	first public release date:1998 ->! database:*
+0.05555555555555555,,	first public release date:1982 ->! stable release date:[2010-2015]
+0.05555555555555555,,	first public release date:1982 ->! latest stable release:2.28.1
+0.05555555555555555,,	first public release date:1982 ->! database:*
+0.05555555555555555,,	first public release date:* ->! latest stable release:6.1
+0.05555555555555555,,	first public release date:* ->! latest stable release:5.0.2
+0.05555555555555555,,	first public release date:* ->! latest stable release:5.0.0
+0.05555555555555555,,	first public release date:* ->! latest stable release:4.7.2
+0.05555555555555555,,	first public release date:* ->! latest stable release:4.07.10
+0.05555555555555555,,	first public release date:* ->! latest stable release:3.6
+0.05555555555555555,,	first public release date:* ->! latest stable release:3.2
+0.05555555555555555,,	first public release date:* ->! latest stable release:2.6.6
+0.05555555555555555,,	first public release date:* ->! latest stable release:2.28.1
+0.05555555555555555,,	first public release date:* ->! latest stable release:1.4
+0.05555555555555555,,	first public release date:* ->! database:innodb
+0.05555555555555555,,	first public release date:* ->! database:advance server
+0.0,,	stable release date:* ->! development status:5 - production / stable
+0.0,,	stable release date:* ->! database:postgresql
+0.0,,	programming language:* ->! stable release date:[2008-2015]
+0.0,,	latest stable release:* ->! stable release date:[2008-2015]

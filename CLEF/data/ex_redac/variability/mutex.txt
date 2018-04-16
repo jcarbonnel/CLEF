@@ -1,0 +1,19 @@
+(0.4)	Lock ->! ProgrammingLanguage:shell scripts
+(0.4)	Lock ->! FirstRelease:2005
+(0.4)	FirstRelease:[1986-1998] ->! ProgrammingLanguage:shell scripts
+(0.4)	FirstRelease:[1986-1998] ->! ProgrammingLanguage:perl
+(0.4)	Distributed ->! Lock
+(0.4)	Distributed ->! FirstRelease:[1986-1998]
+(0.4)	ClientServer ->! ProgrammingLanguage:shell scripts
+(0.4)	ClientServer ->! FirstRelease:2005
+(0.4)	ClientServer ->! Distributed
+(0.2)	Lock ->! FirstRelease:1986
+(0.2)	FirstRelease:[1986-2005] ->! ProgrammingLanguage:java
+(0.2)	FirstRelease:2005 ->! ProgrammingLanguage:C++
+(0.2)	FirstRelease:1998 ->! ProgrammingLanguage:C
+(0.2)	FirstRelease:1986 ->! ProgrammingLanguage:C++
+(0.2)	FirstRelease:* ->! ProgrammingLanguage:shell scripts
+(0.2)	FirstRelease:* ->! ProgrammingLanguage:C++
+(0.2)	Distributed ->! ProgrammingLanguage:java
+(0.2)	Distributed ->! ProgrammingLanguage:C++
+(0.2)	Distributed ->! FirstRelease:*

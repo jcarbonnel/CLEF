@@ -1,0 +1,478 @@
+(0.2631578947368421)	cost:commercial support available ->! software license:proprietary
+(0.15789473684210525)	release date:[2011-2012] ->! software license:apache software license
+(0.15789473684210525)	release date:[2001-2008] ->! cost:free
+(0.15789473684210525)	release date:2010 ->! cost:*
+(0.15789473684210525)	cost:non-free ->! software license:apache software license
+(0.10526315789473684)	release date:[2014-2015] ->! software license:lgpl
+(0.10526315789473684)	release date:[2001-2008] ->! software license:lgpl
+(0.10526315789473684)	cost:non-free ->! software license:lgpl
+(0.10526315789473684)	cost:* ->! software license:lgpl
+(0.07894736842105263)	release date:2012 ->! software license:lgpl
+(0.07894736842105263)	release date:2012 ->! cost:free
+(0.07894736842105263)	open source ->! release date:2012
+(0.07894736842105263)	open source ->! creator:ibm
+(0.07894736842105263)	creator:ibm ->! software license:lgpl
+(0.07894736842105263)	creator:ibm ->! software license:apache software license
+(0.07894736842105263)	creator:ibm ->! release date:[2011-2015]
+(0.07894736842105263)	creator:ibm ->! release date:[2001-2008]
+(0.07894736842105263)	creator:ibm ->! cost:free
+(0.07894736842105263)	creator:ibm ->! cost:*
+(0.07894736842105263)	creator:apache software foundation ->! software license:proprietary
+(0.07894736842105263)	creator:apache software foundation ->! software license:lgpl
+(0.07894736842105263)	creator:apache software foundation ->! release date:[2011-2013]
+(0.07894736842105263)	creator:apache software foundation ->! release date:[2001-2008]
+(0.07894736842105263)	creator:apache software foundation ->! cost:non-free
+(0.07894736842105263)	creator:apache software foundation ->! cost:*
+(0.05263157894736842)	release date:[2003-2014] ->! software license:gpl
+(0.05263157894736842)	release date:[2001-2003] ->! software license:apache software license
+(0.05263157894736842)	release date:2015 ->! cost:*
+(0.05263157894736842)	release date:2008 ->! software license:apache software license
+(0.05263157894736842)	open source ->! creator:progress software
+(0.05263157894736842)	open source ->! creator:oracle corporation
+(0.05263157894736842)	open source ->! creator:microsoft
+(0.05263157894736842)	creator:progress software ->! software license:lgpl
+(0.05263157894736842)	creator:progress software ->! software license:gpl
+(0.05263157894736842)	creator:progress software ->! software license:apache software license
+(0.05263157894736842)	creator:progress software ->! release date:[2012-2015]
+(0.05263157894736842)	creator:progress software ->! release date:[2007-2010]
+(0.05263157894736842)	creator:progress software ->! cost:non-free
+(0.05263157894736842)	creator:progress software ->! cost:free
+(0.05263157894736842)	creator:oracle corporation ->! software license:lgpl
+(0.05263157894736842)	creator:oracle corporation ->! software license:gpl
+(0.05263157894736842)	creator:oracle corporation ->! software license:apache software license
+(0.05263157894736842)	creator:oracle corporation ->! release date:[2001-2013]
+(0.05263157894736842)	creator:oracle corporation ->! release date:2015
+(0.05263157894736842)	creator:oracle corporation ->! cost:free
+(0.05263157894736842)	creator:oracle corporation ->! cost:*
+(0.05263157894736842)	creator:microsoft ->! software license:lgpl
+(0.05263157894736842)	creator:microsoft ->! software license:gpl
+(0.05263157894736842)	creator:microsoft ->! software license:apache software license
+(0.05263157894736842)	creator:microsoft ->! release date:[2001-2012]
+(0.05263157894736842)	creator:microsoft ->! release date:2015
+(0.05263157894736842)	creator:microsoft ->! cost:free
+(0.05263157894736842)	creator:jboss ->! software license:proprietary
+(0.05263157894736842)	creator:jboss ->! software license:gpl
+(0.05263157894736842)	creator:jboss ->! software license:apache software license
+(0.05263157894736842)	creator:jboss ->! release date:[2014-2015]
+(0.05263157894736842)	creator:jboss ->! release date:[2001-2010]
+(0.05263157894736842)	creator:jboss ->! release date:2012
+(0.05263157894736842)	creator:jboss ->! cost:non-free
+(0.05263157894736842)	creator:jboss ->! cost:*
+(0.05263157894736842)	creator:ibm ->! software license:gpl
+(0.05263157894736842)	creator:apache software foundation ->! software license:gpl
+(0.05263157894736842)	creator:apache software foundation ->! release date:2015
+(0.05263157894736842)	cost:* ->! software license:gpl
+(0.02631578947368421)	release date:[2014-2015] ->! software license:saas
+(0.02631578947368421)	release date:[2014-2015] ->! software license:cddl
+(0.02631578947368421)	release date:[2012-2015] ->! software license:mit
+(0.02631578947368421)	release date:[2012-2015] ->! software license:agpl
+(0.02631578947368421)	release date:[2010-2015] ->! software license:jpl
+(0.02631578947368421)	release date:[2001-2013] ->! software license:cpal
+(0.02631578947368421)	release date:[2001-2012] ->! software license:saas
+(0.02631578947368421)	release date:[2001-2012] ->! software license:cddl
+(0.02631578947368421)	release date:[2001-2010] ->! software license:mit
+(0.02631578947368421)	release date:[2001-2010] ->! software license:agpl
+(0.02631578947368421)	release date:[2001-2007] ->! software license:jpl
+(0.02631578947368421)	release date:2015 ->! software license:cpal
+(0.02631578947368421)	release date:2003 ->! cost:non-free
+(0.02631578947368421)	release date:2001 ->! cost:*
+(0.02631578947368421)	release date:* ->! software license:saas
+(0.02631578947368421)	release date:* ->! software license:mit
+(0.02631578947368421)	release date:* ->! software license:lgpl
+(0.02631578947368421)	release date:* ->! software license:jpl
+(0.02631578947368421)	release date:* ->! software license:gpl
+(0.02631578947368421)	release date:* ->! software license:cpal
+(0.02631578947368421)	release date:* ->! software license:cddl
+(0.02631578947368421)	release date:* ->! software license:apache software license
+(0.02631578947368421)	release date:* ->! software license:agpl
+(0.02631578947368421)	release date:* ->! cost:non-free
+(0.02631578947368421)	release date:* ->! cost:free
+(0.02631578947368421)	open source ->! software license:saas
+(0.02631578947368421)	open source ->! release date:2003
+(0.02631578947368421)	open source ->! release date:*
+(0.02631578947368421)	open source ->! creator:unify corporation
+(0.02631578947368421)	open source ->! creator:twenty57.com
+(0.02631578947368421)	open source ->! creator:sun microsystems
+(0.02631578947368421)	open source ->! creator:software ag
+(0.02631578947368421)	open source ->! creator:seeburger ag
+(0.02631578947368421)	open source ->! creator:sap ag
+(0.02631578947368421)	open source ->! creator:magic software enterprises
+(0.02631578947368421)	open source ->! creator:informatica
+(0.02631578947368421)	open source ->! creator:flow software ltd
+(0.02631578947368421)	open source ->! creator:automation centre
+(0.02631578947368421)	open source ->! creator:automation anywhere
+(0.02631578947368421)	open source ->! creator:astera software
+(0.02631578947368421)	open source ->! creator:adeptia
+(0.02631578947368421)	creator:wso2 ->! software license:proprietary
+(0.02631578947368421)	creator:wso2 ->! software license:mit
+(0.02631578947368421)	creator:wso2 ->! software license:lgpl
+(0.02631578947368421)	creator:wso2 ->! software license:jpl
+(0.02631578947368421)	creator:wso2 ->! software license:gpl
+(0.02631578947368421)	creator:wso2 ->! software license:cpal
+(0.02631578947368421)	creator:wso2 ->! software license:cddl
+(0.02631578947368421)	creator:wso2 ->! software license:agpl
+(0.02631578947368421)	creator:wso2 ->! release date:[2014-2015]
+(0.02631578947368421)	creator:wso2 ->! release date:[2001-2012]
+(0.02631578947368421)	creator:wso2 ->! release date:*
+(0.02631578947368421)	creator:wso2 ->! cost:non-free
+(0.02631578947368421)	creator:wso2 ->! cost:*
+(0.02631578947368421)	creator:unify corporation ->! software license:saas
+(0.02631578947368421)	creator:unify corporation ->! software license:mit
+(0.02631578947368421)	creator:unify corporation ->! software license:lgpl
+(0.02631578947368421)	creator:unify corporation ->! software license:jpl
+(0.02631578947368421)	creator:unify corporation ->! software license:gpl
+(0.02631578947368421)	creator:unify corporation ->! software license:cpal
+(0.02631578947368421)	creator:unify corporation ->! software license:cddl
+(0.02631578947368421)	creator:unify corporation ->! software license:apache software license
+(0.02631578947368421)	creator:unify corporation ->! software license:agpl
+(0.02631578947368421)	creator:unify corporation ->! release date:[2001-2015]
+(0.02631578947368421)	creator:unify corporation ->! cost:non-free
+(0.02631578947368421)	creator:unify corporation ->! cost:free
+(0.02631578947368421)	creator:twenty57.com ->! software license:saas
+(0.02631578947368421)	creator:twenty57.com ->! software license:mit
+(0.02631578947368421)	creator:twenty57.com ->! software license:lgpl
+(0.02631578947368421)	creator:twenty57.com ->! software license:jpl
+(0.02631578947368421)	creator:twenty57.com ->! software license:gpl
+(0.02631578947368421)	creator:twenty57.com ->! software license:cpal
+(0.02631578947368421)	creator:twenty57.com ->! software license:cddl
+(0.02631578947368421)	creator:twenty57.com ->! software license:apache software license
+(0.02631578947368421)	creator:twenty57.com ->! software license:agpl
+(0.02631578947368421)	creator:twenty57.com ->! release date:[2001-2013]
+(0.02631578947368421)	creator:twenty57.com ->! release date:2015
+(0.02631578947368421)	creator:twenty57.com ->! release date:*
+(0.02631578947368421)	creator:twenty57.com ->! cost:commercial support available
+(0.02631578947368421)	creator:twenty57.com ->! cost:*
+(0.02631578947368421)	creator:the software conservancy ->! software license:proprietary
+(0.02631578947368421)	creator:the software conservancy ->! software license:lgpl
+(0.02631578947368421)	creator:the software conservancy ->! software license:jpl
+(0.02631578947368421)	creator:the software conservancy ->! software license:gpl
+(0.02631578947368421)	creator:the software conservancy ->! software license:cpal
+(0.02631578947368421)	creator:the software conservancy ->! software license:cddl
+(0.02631578947368421)	creator:the software conservancy ->! software license:apache software license
+(0.02631578947368421)	creator:the software conservancy ->! software license:agpl
+(0.02631578947368421)	creator:the software conservancy ->! release date:[2012-2015]
+(0.02631578947368421)	creator:the software conservancy ->! release date:[2001-2010]
+(0.02631578947368421)	creator:the software conservancy ->! release date:*
+(0.02631578947368421)	creator:the software conservancy ->! cost:non-free
+(0.02631578947368421)	creator:the software conservancy ->! cost:commercial support available
+(0.02631578947368421)	creator:the software conservancy ->! cost:*
+(0.02631578947368421)	creator:talend ->! software license:proprietary
+(0.02631578947368421)	creator:talend ->! software license:mit
+(0.02631578947368421)	creator:talend ->! software license:lgpl
+(0.02631578947368421)	creator:talend ->! software license:jpl
+(0.02631578947368421)	creator:talend ->! software license:cpal
+(0.02631578947368421)	creator:talend ->! software license:cddl
+(0.02631578947368421)	creator:talend ->! software license:agpl
+(0.02631578947368421)	creator:talend ->! release date:[2001-2014]
+(0.02631578947368421)	creator:talend ->! release date:*
+(0.02631578947368421)	creator:talend ->! cost:non-free
+(0.02631578947368421)	creator:talend ->! cost:*
+(0.02631578947368421)	creator:sun microsystems ->! software license:saas
+(0.02631578947368421)	creator:sun microsystems ->! software license:mit
+(0.02631578947368421)	creator:sun microsystems ->! software license:lgpl
+(0.02631578947368421)	creator:sun microsystems ->! software license:jpl
+(0.02631578947368421)	creator:sun microsystems ->! software license:gpl
+(0.02631578947368421)	creator:sun microsystems ->! software license:cpal
+(0.02631578947368421)	creator:sun microsystems ->! software license:cddl
+(0.02631578947368421)	creator:sun microsystems ->! software license:apache software license
+(0.02631578947368421)	creator:sun microsystems ->! software license:agpl
+(0.02631578947368421)	creator:sun microsystems ->! release date:[2010-2015]
+(0.02631578947368421)	creator:sun microsystems ->! release date:[2001-2007]
+(0.02631578947368421)	creator:sun microsystems ->! release date:*
+(0.02631578947368421)	creator:sun microsystems ->! cost:free
+(0.02631578947368421)	creator:sun microsystems ->! cost:*
+(0.02631578947368421)	creator:software ag ->! software license:saas
+(0.02631578947368421)	creator:software ag ->! software license:mit
+(0.02631578947368421)	creator:software ag ->! software license:lgpl
+(0.02631578947368421)	creator:software ag ->! software license:jpl
+(0.02631578947368421)	creator:software ag ->! software license:gpl
+(0.02631578947368421)	creator:software ag ->! software license:cpal
+(0.02631578947368421)	creator:software ag ->! software license:cddl
+(0.02631578947368421)	creator:software ag ->! software license:apache software license
+(0.02631578947368421)	creator:software ag ->! software license:agpl
+(0.02631578947368421)	creator:software ag ->! release date:[2014-2015]
+(0.02631578947368421)	creator:software ag ->! release date:[2001-2012]
+(0.02631578947368421)	creator:software ag ->! release date:*
+(0.02631578947368421)	creator:software ag ->! cost:free
+(0.02631578947368421)	creator:software ag ->! cost:*
+(0.02631578947368421)	creator:seeburger ag ->! software license:saas
+(0.02631578947368421)	creator:seeburger ag ->! software license:mit
+(0.02631578947368421)	creator:seeburger ag ->! software license:lgpl
+(0.02631578947368421)	creator:seeburger ag ->! software license:jpl
+(0.02631578947368421)	creator:seeburger ag ->! software license:gpl
+(0.02631578947368421)	creator:seeburger ag ->! software license:cpal
+(0.02631578947368421)	creator:seeburger ag ->! software license:cddl
+(0.02631578947368421)	creator:seeburger ag ->! software license:apache software license
+(0.02631578947368421)	creator:seeburger ag ->! software license:agpl
+(0.02631578947368421)	creator:seeburger ag ->! release date:[2001-2014]
+(0.02631578947368421)	creator:seeburger ag ->! release date:*
+(0.02631578947368421)	creator:seeburger ag ->! cost:free
+(0.02631578947368421)	creator:seeburger ag ->! cost:*
+(0.02631578947368421)	creator:sap ag ->! software license:saas
+(0.02631578947368421)	creator:sap ag ->! software license:mit
+(0.02631578947368421)	creator:sap ag ->! software license:lgpl
+(0.02631578947368421)	creator:sap ag ->! software license:jpl
+(0.02631578947368421)	creator:sap ag ->! software license:gpl
+(0.02631578947368421)	creator:sap ag ->! software license:cpal
+(0.02631578947368421)	creator:sap ag ->! software license:cddl
+(0.02631578947368421)	creator:sap ag ->! software license:apache software license
+(0.02631578947368421)	creator:sap ag ->! software license:agpl
+(0.02631578947368421)	creator:sap ag ->! release date:[2012-2015]
+(0.02631578947368421)	creator:sap ag ->! release date:[2001-2010]
+(0.02631578947368421)	creator:sap ag ->! release date:*
+(0.02631578947368421)	creator:sap ag ->! cost:free
+(0.02631578947368421)	creator:sap ag ->! cost:*
+(0.02631578947368421)	creator:progress software ->! software license:saas
+(0.02631578947368421)	creator:progress software ->! software license:mit
+(0.02631578947368421)	creator:progress software ->! software license:jpl
+(0.02631578947368421)	creator:progress software ->! software license:cpal
+(0.02631578947368421)	creator:progress software ->! software license:cddl
+(0.02631578947368421)	creator:progress software ->! software license:agpl
+(0.02631578947368421)	creator:progress software ->! release date:2001
+(0.02631578947368421)	creator:progress software ->! release date:*
+(0.02631578947368421)	creator:ow2 consortium ->! software license:proprietary
+(0.02631578947368421)	creator:ow2 consortium ->! software license:mit
+(0.02631578947368421)	creator:ow2 consortium ->! software license:jpl
+(0.02631578947368421)	creator:ow2 consortium ->! software license:gpl
+(0.02631578947368421)	creator:ow2 consortium ->! software license:cpal
+(0.02631578947368421)	creator:ow2 consortium ->! software license:cddl
+(0.02631578947368421)	creator:ow2 consortium ->! software license:apache software license
+(0.02631578947368421)	creator:ow2 consortium ->! software license:agpl
+(0.02631578947368421)	creator:ow2 consortium ->! release date:[2012-2015]
+(0.02631578947368421)	creator:ow2 consortium ->! release date:[2001-2010]
+(0.02631578947368421)	creator:ow2 consortium ->! release date:*
+(0.02631578947368421)	creator:ow2 consortium ->! cost:non-free
+(0.02631578947368421)	creator:ow2 consortium ->! cost:*
+(0.02631578947368421)	creator:oracle corporation ->! software license:saas
+(0.02631578947368421)	creator:oracle corporation ->! software license:mit
+(0.02631578947368421)	creator:oracle corporation ->! software license:jpl
+(0.02631578947368421)	creator:oracle corporation ->! software license:cpal
+(0.02631578947368421)	creator:oracle corporation ->! software license:cddl
+(0.02631578947368421)	creator:oracle corporation ->! software license:agpl
+(0.02631578947368421)	creator:oracle corporation ->! release date:*
+(0.02631578947368421)	creator:openlink software ->! software license:saas
+(0.02631578947368421)	creator:openlink software ->! software license:mit
+(0.02631578947368421)	creator:openlink software ->! software license:lgpl
+(0.02631578947368421)	creator:openlink software ->! software license:jpl
+(0.02631578947368421)	creator:openlink software ->! software license:cpal
+(0.02631578947368421)	creator:openlink software ->! software license:cddl
+(0.02631578947368421)	creator:openlink software ->! software license:apache software license
+(0.02631578947368421)	creator:openlink software ->! software license:agpl
+(0.02631578947368421)	creator:openlink software ->! release date:[2003-2015]
+(0.02631578947368421)	creator:openlink software ->! release date:*
+(0.02631578947368421)	creator:openlink software ->! cost:free
+(0.02631578947368421)	creator:openlink software ->! cost:*
+(0.02631578947368421)	creator:openesb community ->! software license:proprietary
+(0.02631578947368421)	creator:openesb community ->! software license:mit
+(0.02631578947368421)	creator:openesb community ->! software license:lgpl
+(0.02631578947368421)	creator:openesb community ->! software license:jpl
+(0.02631578947368421)	creator:openesb community ->! software license:gpl
+(0.02631578947368421)	creator:openesb community ->! software license:cpal
+(0.02631578947368421)	creator:openesb community ->! software license:apache software license
+(0.02631578947368421)	creator:openesb community ->! software license:agpl
+(0.02631578947368421)	creator:openesb community ->! release date:[2014-2015]
+(0.02631578947368421)	creator:openesb community ->! release date:[2001-2012]
+(0.02631578947368421)	creator:openesb community ->! release date:*
+(0.02631578947368421)	creator:openesb community ->! cost:non-free
+(0.02631578947368421)	creator:openesb community ->! cost:free
+(0.02631578947368421)	creator:mulesoft ->! software license:proprietary
+(0.02631578947368421)	creator:mulesoft ->! software license:mit
+(0.02631578947368421)	creator:mulesoft ->! software license:lgpl
+(0.02631578947368421)	creator:mulesoft ->! software license:jpl
+(0.02631578947368421)	creator:mulesoft ->! software license:gpl
+(0.02631578947368421)	creator:mulesoft ->! software license:cddl
+(0.02631578947368421)	creator:mulesoft ->! software license:apache software license
+(0.02631578947368421)	creator:mulesoft ->! software license:agpl
+(0.02631578947368421)	creator:mulesoft ->! release date:[2001-2013]
+(0.02631578947368421)	creator:mulesoft ->! release date:2015
+(0.02631578947368421)	creator:mulesoft ->! release date:*
+(0.02631578947368421)	creator:mulesoft ->! cost:non-free
+(0.02631578947368421)	creator:mulesoft ->! cost:free
+(0.02631578947368421)	creator:microsoft ->! software license:mit
+(0.02631578947368421)	creator:microsoft ->! software license:jpl
+(0.02631578947368421)	creator:microsoft ->! software license:cpal
+(0.02631578947368421)	creator:microsoft ->! software license:cddl
+(0.02631578947368421)	creator:microsoft ->! software license:agpl
+(0.02631578947368421)	creator:microsoft ->! release date:*
+(0.02631578947368421)	creator:magic software enterprises ->! software license:saas
+(0.02631578947368421)	creator:magic software enterprises ->! software license:mit
+(0.02631578947368421)	creator:magic software enterprises ->! software license:lgpl
+(0.02631578947368421)	creator:magic software enterprises ->! software license:jpl
+(0.02631578947368421)	creator:magic software enterprises ->! software license:gpl
+(0.02631578947368421)	creator:magic software enterprises ->! software license:cpal
+(0.02631578947368421)	creator:magic software enterprises ->! software license:cddl
+(0.02631578947368421)	creator:magic software enterprises ->! software license:apache software license
+(0.02631578947368421)	creator:magic software enterprises ->! software license:agpl
+(0.02631578947368421)	creator:magic software enterprises ->! release date:[2013-2015]
+(0.02631578947368421)	creator:magic software enterprises ->! release date:[2001-2011]
+(0.02631578947368421)	creator:magic software enterprises ->! release date:*
+(0.02631578947368421)	creator:magic software enterprises ->! cost:non-free
+(0.02631578947368421)	creator:magic software enterprises ->! cost:free
+(0.02631578947368421)	creator:jitterbit ->! software license:proprietary
+(0.02631578947368421)	creator:jitterbit ->! software license:mit
+(0.02631578947368421)	creator:jitterbit ->! software license:lgpl
+(0.02631578947368421)	creator:jitterbit ->! software license:gpl
+(0.02631578947368421)	creator:jitterbit ->! software license:cpal
+(0.02631578947368421)	creator:jitterbit ->! software license:cddl
+(0.02631578947368421)	creator:jitterbit ->! software license:apache software license
+(0.02631578947368421)	creator:jitterbit ->! software license:agpl
+(0.02631578947368421)	creator:jitterbit ->! release date:[2010-2015]
+(0.02631578947368421)	creator:jitterbit ->! release date:[2001-2007]
+(0.02631578947368421)	creator:jitterbit ->! release date:*
+(0.02631578947368421)	creator:jitterbit ->! cost:non-free
+(0.02631578947368421)	creator:jitterbit ->! cost:free
+(0.02631578947368421)	creator:jboss ->! software license:mit
+(0.02631578947368421)	creator:jboss ->! software license:jpl
+(0.02631578947368421)	creator:jboss ->! software license:cpal
+(0.02631578947368421)	creator:jboss ->! software license:cddl
+(0.02631578947368421)	creator:jboss ->! software license:agpl
+(0.02631578947368421)	creator:jboss ->! release date:*
+(0.02631578947368421)	creator:informatica ->! software license:saas
+(0.02631578947368421)	creator:informatica ->! software license:mit
+(0.02631578947368421)	creator:informatica ->! software license:lgpl
+(0.02631578947368421)	creator:informatica ->! software license:jpl
+(0.02631578947368421)	creator:informatica ->! software license:gpl
+(0.02631578947368421)	creator:informatica ->! software license:cpal
+(0.02631578947368421)	creator:informatica ->! software license:cddl
+(0.02631578947368421)	creator:informatica ->! software license:apache software license
+(0.02631578947368421)	creator:informatica ->! software license:agpl
+(0.02631578947368421)	creator:informatica ->! release date:[2008-2015]
+(0.02631578947368421)	creator:informatica ->! release date:[2001-2003]
+(0.02631578947368421)	creator:informatica ->! release date:*
+(0.02631578947368421)	creator:informatica ->! cost:free
+(0.02631578947368421)	creator:informatica ->! cost:*
+(0.02631578947368421)	creator:ibm ->! software license:saas
+(0.02631578947368421)	creator:ibm ->! software license:mit
+(0.02631578947368421)	creator:ibm ->! software license:jpl
+(0.02631578947368421)	creator:ibm ->! software license:cpal
+(0.02631578947368421)	creator:ibm ->! software license:cddl
+(0.02631578947368421)	creator:ibm ->! software license:agpl
+(0.02631578947368421)	creator:ibm ->! release date:*
+(0.02631578947368421)	creator:fusesource ->! software license:proprietary
+(0.02631578947368421)	creator:fusesource ->! software license:mit
+(0.02631578947368421)	creator:fusesource ->! software license:lgpl
+(0.02631578947368421)	creator:fusesource ->! software license:jpl
+(0.02631578947368421)	creator:fusesource ->! software license:gpl
+(0.02631578947368421)	creator:fusesource ->! software license:cpal
+(0.02631578947368421)	creator:fusesource ->! software license:cddl
+(0.02631578947368421)	creator:fusesource ->! software license:agpl
+(0.02631578947368421)	creator:fusesource ->! release date:[2008-2015]
+(0.02631578947368421)	creator:fusesource ->! release date:[2001-2003]
+(0.02631578947368421)	creator:fusesource ->! release date:*
+(0.02631578947368421)	creator:fusesource ->! cost:non-free
+(0.02631578947368421)	creator:fusesource ->! cost:free
+(0.02631578947368421)	creator:flow software ltd ->! software license:saas
+(0.02631578947368421)	creator:flow software ltd ->! software license:mit
+(0.02631578947368421)	creator:flow software ltd ->! software license:lgpl
+(0.02631578947368421)	creator:flow software ltd ->! software license:jpl
+(0.02631578947368421)	creator:flow software ltd ->! software license:gpl
+(0.02631578947368421)	creator:flow software ltd ->! software license:cpal
+(0.02631578947368421)	creator:flow software ltd ->! software license:cddl
+(0.02631578947368421)	creator:flow software ltd ->! software license:apache software license
+(0.02631578947368421)	creator:flow software ltd ->! software license:agpl
+(0.02631578947368421)	creator:flow software ltd ->! release date:[2011-2015]
+(0.02631578947368421)	creator:flow software ltd ->! release date:[2001-2008]
+(0.02631578947368421)	creator:flow software ltd ->! release date:*
+(0.02631578947368421)	creator:flow software ltd ->! cost:commercial support available
+(0.02631578947368421)	creator:flow software ltd ->! cost:*
+(0.02631578947368421)	creator:engineering group ->! software license:proprietary
+(0.02631578947368421)	creator:engineering group ->! software license:mit
+(0.02631578947368421)	creator:engineering group ->! software license:jpl
+(0.02631578947368421)	creator:engineering group ->! software license:gpl
+(0.02631578947368421)	creator:engineering group ->! software license:cpal
+(0.02631578947368421)	creator:engineering group ->! software license:cddl
+(0.02631578947368421)	creator:engineering group ->! software license:apache software license
+(0.02631578947368421)	creator:engineering group ->! software license:agpl
+(0.02631578947368421)	creator:engineering group ->! release date:[2011-2015]
+(0.02631578947368421)	creator:engineering group ->! release date:[2001-2008]
+(0.02631578947368421)	creator:engineering group ->! release date:*
+(0.02631578947368421)	creator:engineering group ->! cost:non-free
+(0.02631578947368421)	creator:engineering group ->! cost:*
+(0.02631578947368421)	creator:automation centre ->! software license:saas
+(0.02631578947368421)	creator:automation centre ->! software license:mit
+(0.02631578947368421)	creator:automation centre ->! software license:lgpl
+(0.02631578947368421)	creator:automation centre ->! software license:jpl
+(0.02631578947368421)	creator:automation centre ->! software license:gpl
+(0.02631578947368421)	creator:automation centre ->! software license:cpal
+(0.02631578947368421)	creator:automation centre ->! software license:cddl
+(0.02631578947368421)	creator:automation centre ->! software license:apache software license
+(0.02631578947368421)	creator:automation centre ->! software license:agpl
+(0.02631578947368421)	creator:automation centre ->! release date:[2013-2015]
+(0.02631578947368421)	creator:automation centre ->! release date:[2001-2011]
+(0.02631578947368421)	creator:automation centre ->! release date:*
+(0.02631578947368421)	creator:automation centre ->! cost:free
+(0.02631578947368421)	creator:automation centre ->! cost:*
+(0.02631578947368421)	creator:automation anywhere ->! software license:saas
+(0.02631578947368421)	creator:automation anywhere ->! software license:mit
+(0.02631578947368421)	creator:automation anywhere ->! software license:lgpl
+(0.02631578947368421)	creator:automation anywhere ->! software license:jpl
+(0.02631578947368421)	creator:automation anywhere ->! software license:gpl
+(0.02631578947368421)	creator:automation anywhere ->! software license:cpal
+(0.02631578947368421)	creator:automation anywhere ->! software license:cddl
+(0.02631578947368421)	creator:automation anywhere ->! software license:apache software license
+(0.02631578947368421)	creator:automation anywhere ->! software license:agpl
+(0.02631578947368421)	creator:automation anywhere ->! release date:[2012-2015]
+(0.02631578947368421)	creator:automation anywhere ->! release date:[2001-2010]
+(0.02631578947368421)	creator:automation anywhere ->! release date:*
+(0.02631578947368421)	creator:automation anywhere ->! cost:free
+(0.02631578947368421)	creator:automation anywhere ->! cost:*
+(0.02631578947368421)	creator:astera software ->! software license:saas
+(0.02631578947368421)	creator:astera software ->! software license:mit
+(0.02631578947368421)	creator:astera software ->! software license:lgpl
+(0.02631578947368421)	creator:astera software ->! software license:jpl
+(0.02631578947368421)	creator:astera software ->! software license:gpl
+(0.02631578947368421)	creator:astera software ->! software license:cpal
+(0.02631578947368421)	creator:astera software ->! software license:cddl
+(0.02631578947368421)	creator:astera software ->! software license:apache software license
+(0.02631578947368421)	creator:astera software ->! software license:agpl
+(0.02631578947368421)	creator:astera software ->! release date:[2014-2015]
+(0.02631578947368421)	creator:astera software ->! release date:[2001-2012]
+(0.02631578947368421)	creator:astera software ->! release date:*
+(0.02631578947368421)	creator:astera software ->! cost:free
+(0.02631578947368421)	creator:astera software ->! cost:*
+(0.02631578947368421)	creator:apache software foundation ->! software license:mit
+(0.02631578947368421)	creator:apache software foundation ->! software license:jpl
+(0.02631578947368421)	creator:apache software foundation ->! software license:cpal
+(0.02631578947368421)	creator:apache software foundation ->! software license:cddl
+(0.02631578947368421)	creator:apache software foundation ->! software license:agpl
+(0.02631578947368421)	creator:apache software foundation ->! release date:*
+(0.02631578947368421)	creator:adroitlogic ->! software license:proprietary
+(0.02631578947368421)	creator:adroitlogic ->! software license:mit
+(0.02631578947368421)	creator:adroitlogic ->! software license:lgpl
+(0.02631578947368421)	creator:adroitlogic ->! software license:jpl
+(0.02631578947368421)	creator:adroitlogic ->! software license:gpl
+(0.02631578947368421)	creator:adroitlogic ->! software license:cpal
+(0.02631578947368421)	creator:adroitlogic ->! software license:cddl
+(0.02631578947368421)	creator:adroitlogic ->! software license:apache software license
+(0.02631578947368421)	creator:adroitlogic ->! release date:[2012-2015]
+(0.02631578947368421)	creator:adroitlogic ->! release date:[2001-2010]
+(0.02631578947368421)	creator:adroitlogic ->! release date:*
+(0.02631578947368421)	creator:adroitlogic ->! cost:non-free
+(0.02631578947368421)	creator:adroitlogic ->! cost:*
+(0.02631578947368421)	creator:adeptia ->! software license:saas
+(0.02631578947368421)	creator:adeptia ->! software license:mit
+(0.02631578947368421)	creator:adeptia ->! software license:lgpl
+(0.02631578947368421)	creator:adeptia ->! software license:jpl
+(0.02631578947368421)	creator:adeptia ->! software license:gpl
+(0.02631578947368421)	creator:adeptia ->! software license:cpal
+(0.02631578947368421)	creator:adeptia ->! software license:cddl
+(0.02631578947368421)	creator:adeptia ->! software license:apache software license
+(0.02631578947368421)	creator:adeptia ->! software license:agpl
+(0.02631578947368421)	creator:adeptia ->! release date:[2013-2015]
+(0.02631578947368421)	creator:adeptia ->! release date:[2001-2011]
+(0.02631578947368421)	creator:adeptia ->! release date:*
+(0.02631578947368421)	creator:adeptia ->! cost:free
+(0.02631578947368421)	creator:adeptia ->! cost:*
+(0.02631578947368421)	cost:non-free ->! software license:saas
+(0.02631578947368421)	cost:non-free ->! software license:mit
+(0.02631578947368421)	cost:non-free ->! software license:jpl
+(0.02631578947368421)	cost:non-free ->! software license:cpal
+(0.02631578947368421)	cost:non-free ->! software license:cddl
+(0.02631578947368421)	cost:non-free ->! software license:agpl
+(0.02631578947368421)	cost:free ->! software license:saas
+(0.02631578947368421)	cost:free ->! software license:jpl
+(0.02631578947368421)	cost:free ->! software license:cpal
+(0.02631578947368421)	cost:free ->! software license:cddl
+(0.02631578947368421)	cost:commercial support available ->! software license:mit
+(0.02631578947368421)	cost:* ->! software license:mit
+(0.02631578947368421)	cost:* ->! software license:agpl

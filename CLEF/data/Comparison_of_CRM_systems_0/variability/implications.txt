@@ -1,0 +1,26 @@
+(0.8571428571428571)	last release date:[2006-2015] -> first release date:[1981-2013]
+(0.6071428571428571)	server operating system:windows -> first release date:[1981-2012]
+(0.5)	database backend:mysql -> first release date:[2001-2013]
+(0.35714285714285715)	license:proprietary -> first release date:[1981-2012]
+(0.21428571428571427)	database backend:ms sql server -> first release date:[1990-2013]
+(0.17857142857142858)	database backend:postgresql -> first release date:[2001-2008]
+(0.14285714285714285)	server operating system:cloud computing -> first release date:[1999-2012]
+(0.14285714285714285)	license:gpl -> first release date:[2003-2010]
+(0.14285714285714285)	last release date:* -> first release date:[1999-2012]
+(0.14285714285714285)	implementation language(s):python -> first release date:[2003-2009]
+(0.14285714285714285)	implementation language(s):java -> first release date:[2006-2012]
+(0.07142857142857142)	implementation language(s):ruby on rails -> first release date:2009
+(0.07142857142857142)	implementation language(s):c# -> last release date:2013
+(0.07142857142857142)	database backend:proprietary -> first release date:[1999-2009]
+(0.03571428571428571)	server operating system:windows phone -> implementation language(s):ruby on rails
+(0.03571428571428571)	server operating system:web -> first release date:2010
+(0.03571428571428571)	last release date:2009 -> implementation language(s):ruby on rails
+(0.03571428571428571)	last release date:2006 -> implementation language(s):vbscript
+(0.03571428571428571)	implementation language(s):apex -> database backend:proprietary
+(0.03571428571428571)	first release date:1999 -> database backend:proprietary
+(0.03571428571428571)	first release date:1990 -> implementation language(s):c#
+(0.03571428571428571)	first release date:1981 -> database backend:db2
+(0.03571428571428571)	database backend:sql server -> implementation language(s):vbscript
+(0.03571428571428571)	database backend:sql server -> first release date:2008
+(0.03571428571428571)	database backend:google app engine -> first release date:2012
+(0.03571428571428571)	database backend:* -> first release date:2006

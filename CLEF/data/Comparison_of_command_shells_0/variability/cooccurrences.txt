@@ -1,0 +1,41 @@
+(0.9583333333333334)	stream redirection <-> introduced:[1977-2006]
+(0.08333333333333333)	usually invoked:ksh <-> license:common public license
+(0.041666666666666664)	usually invoked:zsh <-> introduced:1990
+(0.041666666666666664)	usually invoked:tcc <-> license:shareware
+(0.041666666666666664)	usually invoked:scsh <-> introduced:1994
+(0.041666666666666664)	usually invoked:rc <-> license:lpl
+(0.041666666666666664)	usually invoked:powershell <-> user interface:graphical cli
+(0.041666666666666664)	usually invoked:powershell <-> introduced:2006
+(0.041666666666666664)	usually invoked:ccp <-> introduced:1975
+(0.041666666666666664)	usually invoked:4dos <-> usually invoked:ndos
+(0.041666666666666664)	usual environment:windows 98 <-> usually invoked:ndos
+(0.041666666666666664)	usual environment:windows 98 <-> usually invoked:4dos
+(0.041666666666666664)	usual environment:windows 98 <-> usual environment:se
+(0.041666666666666664)	usual environment:windows 98 <-> usual environment:me
+(0.041666666666666664)	usual environment:windows 95 <-> usually invoked:ndos
+(0.041666666666666664)	usual environment:windows 95 <-> usually invoked:4dos
+(0.041666666666666664)	usual environment:windows 95 <-> usual environment:windows 98
+(0.041666666666666664)	usual environment:windows 95 <-> usual environment:se
+(0.041666666666666664)	usual environment:windows 95 <-> usual environment:me
+(0.041666666666666664)	usual environment:se <-> usually invoked:ndos
+(0.041666666666666664)	usual environment:se <-> usually invoked:4dos
+(0.041666666666666664)	usual environment:se <-> usual environment:me
+(0.041666666666666664)	usual environment:plan 9 <-> usually invoked:rc
+(0.041666666666666664)	usual environment:plan 9 <-> license:lpl
+(0.041666666666666664)	usual environment:mp/m <-> usually invoked:ccp
+(0.041666666666666664)	usual environment:mp/m <-> introduced:1975
+(0.041666666666666664)	usual environment:me <-> usually invoked:ndos
+(0.041666666666666664)	usual environment:me <-> usually invoked:4dos
+(0.041666666666666664)	usual environment:java <-> license:lgpl
+(0.041666666666666664)	usual environment:cp/m <-> usually invoked:ccp
+(0.041666666666666664)	usual environment:cp/m <-> usual environment:mp/m
+(0.041666666666666664)	usual environment:cp/m <-> introduced:1975
+(0.041666666666666664)	usual environment:.net <-> usually invoked:powershell
+(0.041666666666666664)	usual environment:.net <-> user interface:graphical cli
+(0.041666666666666664)	usual environment:.net <-> introduced:2006
+(0.041666666666666664)	native cim/wbem support <-> usually invoked:powershell
+(0.041666666666666664)	native cim/wbem support <-> usual environment:.net
+(0.041666666666666664)	native cim/wbem support <-> user interface:graphical cli
+(0.041666666666666664)	native cim/wbem support <-> introduced:2006
+(0.041666666666666664)	introduced:2006 <-> user interface:graphical cli
+(0.041666666666666664)	introduced:1987 <-> license:ibm-eula

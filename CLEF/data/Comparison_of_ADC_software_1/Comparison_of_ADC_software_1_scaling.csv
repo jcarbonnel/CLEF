@@ -1,0 +1,12 @@
+name,windows,linux,os x,other:*,other:python enabled platform,other:java enabled platform,other:raspberry pi,other:synology nas,other:gcc enabled platform,other:c# enabled platform,other:bsd,other:haiku,other:openwrt,other:solaris,other:erlang enabled platform,other:openvms,other:freebsd
+adch++,X,X,,X,,,,,,,,,,,,,
+adch++ gui,X,X,,,X,,,,,,,,,,,,
+dshub,X,X,X,,,X,,,,,,,,,,,
+flexhub,X,X,,X,,,,,,,,,,,,,
+luadch,X,X,X,,,,X,X,X,,,,,,,,
+nexthub,X,,,,,,,,,X,,,,,,,
+uhub,X,X,X,,,,,,,,X,X,X,X,,,
+erlhub,X,X,X,,,,,,,,,,,,X,,
+starlet adc hub,,,,,,,,,,,,,,,,X,
+starhub,X,X,X,,,X,,,,,,,,,,,
+rushub,X,X,X,,,,,,,,,,,X,,,X

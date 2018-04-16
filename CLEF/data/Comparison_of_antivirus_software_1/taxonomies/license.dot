@@ -1,0 +1,9 @@
+digraph G { 
+ rankdir=BT;
+ subgraph ba { 
+1 [shape=record,label="{proprietary}"];
+2 [shape=record,label="{gnu gpl}"];
+3 [shape=record,label="{*}"];
+1 -> 3
+2 -> 3
+}}

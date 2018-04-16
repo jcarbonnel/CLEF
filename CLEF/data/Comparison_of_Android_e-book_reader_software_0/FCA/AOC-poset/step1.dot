@@ -1,0 +1,220 @@
+digraph G { 
+	rankdir=BT;
+subgraph ctx { 
+label="ctx";
+1 [shape=record,label="{Concept_ctx_18|developer:alan.neverland\nformats total:09\n|alreader\n}"];
+2 [shape=record,label="{Concept_ctx_19|developer:aldiko limited\n|aldiko book reader\n}"];
+3 [shape=record,label="{Concept_ctx_10||ireader\n}"];
+4 [shape=record,label="{Concept_ctx_17||bookbox\n}"];
+5 [shape=record,label="{Concept_ctx_15|developer:ak2\n|ebookdroid\n}"];
+6 [shape=record,label="{Concept_ctx_14|developer:ebooks.com\n|ebook reader\n}"];
+7 [shape=record,label="{Concept_ctx_13|developer:unidocs inc.\nformats total:04\n|ezpdf reader\n}"];
+8 [shape=record,label="{Concept_ctx_11|developer:google inc.\n|google play books\n}"];
+9 [shape=record,label="{Concept_ctx_9|developer:amazon mobile llc\n|kindle\n}"];
+10 [shape=record,label="{Concept_ctx_8|developer:kobo ebooks\n|kobo books\n}"];
+11 [shape=record,label="{Concept_ctx_7|developer:ael data services llp\n|lektz ebook reader\n}"];
+12 [shape=record,label="{Concept_ctx_6|developer:mantano sas\n|mantano ebook reader\n}"];
+13 [shape=record,label="{Concept_ctx_3|developer:snapplify\n|snapplify\n}"];
+14 [shape=record,label="{Concept_ctx_2|developer:gigamarket ltd.\nformats total:01\n|socio ereader\n}"];
+15 [shape=record,label="{Concept_ctx_1|developer:zxstyles\n|zxreader\n}"];
+16 [shape=record,label="{Concept_ctx_4|developer:obreey products\n|pocketbook\n}"];
+17 [shape=record,label="{Concept_ctx_12|developer:fbreader.org limited\nformats total:11\n|fbreader\n}"];
+18 [shape=record,label="{Concept_ctx_5|developer:moon+\nformats total:08\n|moon+ reader pro\n}"];
+19 [shape=record,label="{Concept_ctx_16|developer:vadim lopatin\n|cool reader\n}"];
+20 [shape=record,label="{Concept_ctx_22|.docx\n|}"];
+21 [shape=record,label="{Concept_ctx_21|developer:*\n|}"];
+22 [shape=record,label="{Concept_ctx_23|formats total:[08-09]\n|}"];
+23 [shape=record,label="{Concept_ctx_24|formats total:[09-11]\n|}"];
+24 [shape=record,label="{Concept_ctx_20|.oeb\n|}"];
+25 [shape=record,label="{Concept_ctx_25|formats total:05\n|}"];
+26 [shape=record,label="{Concept_ctx_27|formats total:07\n|}"];
+27 [shape=record,label="{Concept_ctx_29|formats total:[08-11]\n|}"];
+28 [shape=record,label="{Concept_ctx_28|.chm\n|}"];
+29 [shape=record,label="{Concept_ctx_26|.djvu\n|}"];
+30 [shape=record,label="{Concept_ctx_30|.doc\n.pdb\n|}"];
+31 [shape=record,label="{Concept_ctx_31|formats total:[04-05]\n|}"];
+32 [shape=record,label="{Concept_ctx_32|formats total:[07-08]\n|}"];
+33 [shape=record,label="{Concept_ctx_33|formats total:[07-09]\n|}"];
+34 [shape=record,label="{Concept_ctx_34|formats total:[05-07]\n|}"];
+35 [shape=record,label="{Concept_ctx_35|formats total:[07-11]\n|}"];
+36 [shape=record,label="{Concept_ctx_36|.mobi\n|}"];
+37 [shape=record,label="{Concept_ctx_37|.rtf\n|}"];
+38 [shape=record,label="{Concept_ctx_39|formats total:[04-07]\n|}"];
+39 [shape=record,label="{Concept_ctx_38|formats total:[05-08]\n|}"];
+40 [shape=record,label="{Concept_ctx_40|.fb2\n|}"];
+41 [shape=record,label="{Concept_ctx_43|formats total:02\n|}"];
+42 [shape=record,label="{Concept_ctx_41|formats total:[04-08]\n|}"];
+43 [shape=record,label="{Concept_ctx_42|formats total:[05-09]\n|}"];
+44 [shape=record,label="{Concept_ctx_46|formats total:[01-02]\n|}"];
+45 [shape=record,label="{Concept_ctx_47|formats total:[02-04]\n|}"];
+46 [shape=record,label="{Concept_ctx_45|formats total:[04-09]\n|}"];
+47 [shape=record,label="{Concept_ctx_44|formats total:[05-11]\n|}"];
+48 [shape=record,label="{Concept_ctx_50|formats total:[01-04]\n|}"];
+49 [shape=record,label="{Concept_ctx_49|formats total:[04-11]\n|}"];
+50 [shape=record,label="{Concept_ctx_48|.html\n|}"];
+51 [shape=record,label="{Concept_ctx_51|.txt\n|}"];
+52 [shape=record,label="{Concept_ctx_52|formats total:[02-05]\n|}"];
+53 [shape=record,label="{Concept_ctx_53|formats total:[01-05]\n|}"];
+54 [shape=record,label="{Concept_ctx_54|.pdf\n|}"];
+55 [shape=record,label="{Concept_ctx_55|formats total:[02-07]\n|}"];
+56 [shape=record,label="{Concept_ctx_56|formats total:[01-07]\n|}"];
+57 [shape=record,label="{Concept_ctx_57|formats total:[02-08]\n|}"];
+58 [shape=record,label="{Concept_ctx_58|formats total:[01-08]\n|}"];
+59 [shape=record,label="{Concept_ctx_59|formats total:[02-09]\n|}"];
+60 [shape=record,label="{Concept_ctx_60|formats total:[01-09]\n|}"];
+61 [shape=record,label="{Concept_ctx_62|formats total:[02-11]\n|}"];
+62 [shape=record,label="{Concept_ctx_61|.epub\n|}"];
+63 [shape=record,label="{Concept_ctx_63|formats total:[01-11]\n|}"];
+64 [shape=record,label="{Concept_ctx_0|formats total:*\n|}"];
+	64 -> 1
+	64 -> 2
+	64 -> 3
+	64 -> 4
+	64 -> 5
+	64 -> 6
+	64 -> 7
+	64 -> 8
+	64 -> 9
+	64 -> 10
+	64 -> 11
+	64 -> 12
+	64 -> 13
+	64 -> 14
+	64 -> 15
+	64 -> 16
+	64 -> 17
+	64 -> 18
+	64 -> 19
+	1 -> 20
+	15 -> 20
+	3 -> 21
+	4 -> 21
+	1 -> 22
+	18 -> 22
+	1 -> 23
+	17 -> 23
+	17 -> 24
+	18 -> 24
+	5 -> 25
+	15 -> 25
+	10 -> 25
+	13 -> 26
+	16 -> 26
+	19 -> 26
+	24 -> 27
+	23 -> 27
+	22 -> 27
+	16 -> 28
+	18 -> 28
+	19 -> 28
+	5 -> 29
+	16 -> 29
+	17 -> 29
+	23 -> 30
+	19 -> 30
+	25 -> 31
+	7 -> 31
+	28 -> 32
+	26 -> 32
+	32 -> 33
+	22 -> 33
+	26 -> 34
+	25 -> 34
+	27 -> 35
+	30 -> 35
+	33 -> 35
+	9 -> 36
+	30 -> 36
+	27 -> 36
+	3 -> 36
+	30 -> 37
+	29 -> 37
+	10 -> 37
+	34 -> 38
+	31 -> 38
+	34 -> 39
+	32 -> 39
+	29 -> 40
+	28 -> 40
+	20 -> 40
+	30 -> 40
+	27 -> 40
+	6 -> 41
+	2 -> 41
+	8 -> 41
+	9 -> 41
+	11 -> 41
+	21 -> 41
+	12 -> 41
+	38 -> 42
+	39 -> 42
+	20 -> 43
+	39 -> 43
+	33 -> 43
+	41 -> 44
+	14 -> 44
+	41 -> 45
+	7 -> 45
+	43 -> 46
+	42 -> 46
+	43 -> 47
+	37 -> 47
+	35 -> 47
+	40 -> 47
+	45 -> 48
+	44 -> 48
+	47 -> 49
+	46 -> 49
+	3 -> 50
+	20 -> 50
+	7 -> 50
+	35 -> 50
+	10 -> 50
+	21 -> 51
+	36 -> 51
+	50 -> 51
+	45 -> 52
+	31 -> 52
+	48 -> 53
+	52 -> 53
+	6 -> 54
+	29 -> 54
+	4 -> 54
+	9 -> 54
+	2 -> 54
+	8 -> 54
+	11 -> 54
+	24 -> 54
+	7 -> 54
+	13 -> 54
+	12 -> 54
+	52 -> 55
+	38 -> 55
+	55 -> 56
+	53 -> 56
+	55 -> 57
+	42 -> 57
+	57 -> 58
+	56 -> 58
+	46 -> 59
+	57 -> 59
+	59 -> 60
+	58 -> 60
+	51 -> 61
+	54 -> 61
+	49 -> 61
+	59 -> 61
+	6 -> 62
+	14 -> 62
+	49 -> 62
+	2 -> 62
+	8 -> 62
+	11 -> 62
+	21 -> 62
+	12 -> 62
+	50 -> 62
+	61 -> 63
+	62 -> 63
+	60 -> 63
+}
+}

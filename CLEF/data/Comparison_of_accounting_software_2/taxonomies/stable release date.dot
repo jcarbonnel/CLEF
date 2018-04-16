@@ -1,0 +1,75 @@
+digraph G { 
+ rankdir=BT; 
+ subgraph ba { 
+1 [shape=record,label="{2008}"]; 
+2 [shape=record,label="{2009}"]; 
+3 [shape=record,label="{2010}"]; 
+4 [shape=record,label="{2012}"]; 
+5 [shape=record,label="{2013}"]; 
+6 [shape=record,label="{2014}"]; 
+7 [shape=record,label="{2015}"]; 
+8 [shape=record,label="{[2008-2009]}"];
+9 [shape=record,label="{[2009-2010]}"];
+10 [shape=record,label="{[2010-2012]}"];
+11 [shape=record,label="{[2012-2013]}"];
+12 [shape=record,label="{[2013-2014]}"];
+13 [shape=record,label="{[2014-2015]}"];
+1 -> 8
+2 -> 8
+2 -> 9
+3 -> 9
+3 -> 10
+4 -> 10
+4 -> 11
+5 -> 11
+5 -> 12
+6 -> 12
+6 -> 13
+7 -> 13
+14 [shape=record,label="{[2008-2010]}"];
+15 [shape=record,label="{[2009-2012]}"];
+16 [shape=record,label="{[2010-2013]}"];
+17 [shape=record,label="{[2012-2014]}"];
+18 [shape=record,label="{[2013-2015]}"];
+8 -> 14
+9 -> 14
+9 -> 15
+10 -> 15
+10 -> 16
+11 -> 16
+11 -> 17
+12 -> 17
+12 -> 18
+13 -> 18
+19 [shape=record,label="{[2008-2012]}"];
+20 [shape=record,label="{[2009-2013]}"];
+21 [shape=record,label="{[2010-2014]}"];
+22 [shape=record,label="{[2012-2015]}"];
+14 -> 19
+15 -> 19
+15 -> 20
+16 -> 20
+16 -> 21
+17 -> 21
+17 -> 22
+18 -> 22
+23 [shape=record,label="{[2008-2013]}"];
+24 [shape=record,label="{[2009-2014]}"];
+25 [shape=record,label="{[2010-2015]}"];
+19 -> 23
+20 -> 23
+20 -> 24
+21 -> 24
+21 -> 25
+22 -> 25
+26 [shape=record,label="{[2008-2014]}"];
+27 [shape=record,label="{[2009-2015]}"];
+23 -> 26
+24 -> 26
+24 -> 27
+25 -> 27
+28 [shape=record,label="{[2008-2015]}"];
+26 -> 28
+27 -> 28
+29 [shape=record,label="{*}"];
+28 -> 29}}

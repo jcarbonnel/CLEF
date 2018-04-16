@@ -1,0 +1,37 @@
+digraph G { 
+ rankdir=BT;
+ subgraph ba { 
+1 [shape=record,label="{sh}"];
+2 [shape=record,label="{bash}"];
+3 [shape=record,label="{csh}"];
+4 [shape=record,label="{tcsh}"];
+5 [shape=record,label="{scsh}"];
+6 [shape=record,label="{ksh}"];
+7 [shape=record,label="{zsh}"];
+8 [shape=record,label="{ccp}"];
+9 [shape=record,label="{cmd}"];
+10 [shape=record,label="{4dos}"];
+11 [shape=record,label="{ndos}"];
+12 [shape=record,label="{4os2}"];
+13 [shape=record,label="{tcc}"];
+14 [shape=record,label="{*}"];
+15 [shape=record,label="{powershell}"];
+16 [shape=record,label="{rc}"];
+17 [shape=record,label="{fish}"];
+1 -> 14
+2 -> 14
+3 -> 14
+4 -> 14
+5 -> 14
+6 -> 14
+7 -> 14
+8 -> 14
+9 -> 14
+10 -> 14
+11 -> 14
+12 -> 14
+13 -> 14
+15 -> 14
+16 -> 14
+17 -> 14
+}}

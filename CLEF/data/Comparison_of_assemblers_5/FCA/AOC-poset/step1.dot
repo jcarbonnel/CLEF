@@ -1,0 +1,123 @@
+digraph G { 
+	rankdir=BT;
+subgraph ctx { 
+label="ctx";
+1 [shape=record,label="{Concept_ctx_8||hla\n}"];
+2 [shape=record,label="{Concept_ctx_4|os:pc/ix\nlicense:*\n|mical a86\n}"];
+3 [shape=record,label="{Concept_ctx_2|os:windows mobile\n|poasm\n}"];
+4 [shape=record,label="{Concept_ctx_1|os:*\n|vasm\n}"];
+5 [shape=record,label="{Concept_ctx_0|os:xenix\n|xenix\n}"];
+6 [shape=record,label="{Concept_ctx_14||ibm alp\n}"];
+7 [shape=record,label="{Concept_ctx_10||develsoftware assembler\n}"];
+8 [shape=record,label="{Concept_ctx_6||lzasm\n}"];
+9 [shape=record,label="{Concept_ctx_12||bruce d. evans' as86\n}"];
+10 [shape=record,label="{Concept_ctx_5|license:microsoft eula\n|masm\n}"];
+11 [shape=record,label="{Concept_ctx_15||ack\n}"];
+12 [shape=record,label="{Concept_ctx_9||gas\n}"];
+13 [shape=record,label="{Concept_ctx_13|os:unix system v\n|at&t\n}"];
+14 [shape=record,label="{Concept_ctx_11|os:cp/m-86\nos:isis\nos:irmx\n|digital research asm86\n}"];
+15 [shape=record,label="{Concept_ctx_7||jwasm\n}"];
+16 [shape=record,label="{Concept_ctx_3||nasm\n}"];
+17 [shape=record,label="{Concept_ctx_17|os:mac os x\n|}"];
+18 [shape=record,label="{Concept_ctx_24||a86/a386\ntasm\n}"];
+19 [shape=record,label="{Concept_ctx_19||goasm\n}"];
+20 [shape=record,label="{Concept_ctx_22||arrowsoft assembler\n}"];
+21 [shape=record,label="{Concept_ctx_20||tccasm\n}"];
+22 [shape=record,label="{Concept_ctx_16|license:sybase open watcom public license\n|wasm\n}"];
+23 [shape=record,label="{Concept_ctx_23|os:minix\n|}"];
+24 [shape=record,label="{Concept_ctx_21||fasm\nyasm\n}"];
+25 [shape=record,label="{Concept_ctx_18|os:freebsd\n|}"];
+26 [shape=record,label="{Concept_ctx_25||rosasm\n}"];
+27 [shape=record,label="{Concept_ctx_27|license:bsd\n|}"];
+28 [shape=record,label="{Concept_ctx_26|license:gpl\n|}"];
+29 [shape=record,label="{Concept_ctx_28||tim paterson's asm\nslr's optasm\n}"];
+30 [shape=record,label="{Concept_ctx_29|os:os/2\n|}"];
+31 [shape=record,label="{Concept_ctx_30|license:free\n|}"];
+32 [shape=record,label="{Concept_ctx_31|os:unix-like\n|}"];
+33 [shape=record,label="{Concept_ctx_33|license:proprietary\n|}"];
+34 [shape=record,label="{Concept_ctx_32|os:linux\n|}"];
+35 [shape=record,label="{Concept_ctx_34|x86-64\n|}"];
+36 [shape=record,label="{Concept_ctx_35|open source\n|}"];
+37 [shape=record,label="{Concept_ctx_36|active development\n|}"];
+38 [shape=record,label="{Concept_ctx_37|os:dos\n|}"];
+39 [shape=record,label="{Concept_ctx_38|os:windows\n|}"];
+	16 -> 17
+	1 -> 17
+	3 -> 19
+	8 -> 20
+	12 -> 21
+	15 -> 22
+	11 -> 23
+	9 -> 23
+	15 -> 25
+	1 -> 25
+	21 -> 26
+	11 -> 27
+	16 -> 27
+	24 -> 27
+	9 -> 28
+	26 -> 28
+	18 -> 29
+	14 -> 29
+	16 -> 30
+	6 -> 30
+	12 -> 30
+	22 -> 30
+	10 -> 30
+	4 -> 31
+	1 -> 31
+	7 -> 31
+	19 -> 31
+	20 -> 31
+	11 -> 32
+	7 -> 32
+	24 -> 32
+	21 -> 32
+	2 -> 32
+	5 -> 33
+	6 -> 33
+	29 -> 33
+	13 -> 33
+	17 -> 34
+	23 -> 34
+	7 -> 34
+	25 -> 34
+	27 -> 34
+	16 -> 35
+	24 -> 35
+	21 -> 35
+	15 -> 35
+	19 -> 35
+	10 -> 35
+	4 -> 36
+	23 -> 36
+	2 -> 36
+	27 -> 36
+	22 -> 36
+	17 -> 36
+	28 -> 36
+	25 -> 36
+	4 -> 37
+	27 -> 37
+	17 -> 37
+	25 -> 37
+	35 -> 37
+	13 -> 37
+	16 -> 38
+	24 -> 38
+	12 -> 38
+	2 -> 38
+	29 -> 38
+	20 -> 38
+	22 -> 38
+	10 -> 38
+	7 -> 39
+	8 -> 39
+	18 -> 39
+	22 -> 39
+	17 -> 39
+	26 -> 39
+	25 -> 39
+	35 -> 39
+}
+}

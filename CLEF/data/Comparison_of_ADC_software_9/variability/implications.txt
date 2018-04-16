@@ -1,0 +1,7 @@
+(0.5)	other:* -> windows
+(0.5)	linux -> windows
+(0.3)	os x -> linux
+(0.2)	other:c# enabled platform -> os x
+(0.1)	other:wine -> windows
+(0.1)	other:java enabled platform -> os x
+(0.1)	other:.net4 enabled platform -> windows

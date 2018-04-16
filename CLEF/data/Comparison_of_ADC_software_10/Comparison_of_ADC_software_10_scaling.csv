@@ -1,0 +1,10 @@
+name,gui,cli,programming language:c#,programming language:c++,programming language:visual basic,programming language:java,programming language:lua,programming language:delphi,programming language:*,based on:coredc,based on:*,based on:embla
+adccore,,,X,,,,,,,X,,
+dcbouncer,,X,,X,,,,,,,X,
+dc-hublink,X,,,,X,,,,,,X,
+dcwatch,,X,,,,X,X,,,,,X
+embla,,,,,,X,,,,,X,
+flowlib,,,X,,,,,,,,X,
+netchatlink,X,,,,,,,X,,,X,
+announcer bot,,,,,,,X,,,,X,
+certmanager,X,,,,,,X,,,,X,

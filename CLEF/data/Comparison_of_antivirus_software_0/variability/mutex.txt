@@ -1,0 +1,1877 @@
+(0.21333333333333335)	firewall ->! price:free
+(0.2)	ips ->! price:free
+(0.2)	ips ->! first release:[1987-1992]
+(0.13333333333333333)	price:trialware ->! first release:[1998-2002]
+(0.13333333333333333)	price:free ->! first release:[1994-2000]
+(0.12)	first release:[1998-2004] ->! country of origin:czech republic
+(0.12)	first release:[1992-1998] ->! country of origin:united states
+(0.10666666666666667)	price:trialware ->! first release:[2010-2011]
+(0.10666666666666667)	first release:[2010-2011] ->! country of origin:czech republic
+(0.10666666666666667)	boot-time scans ->! first release:[2010-2011]
+(0.09333333333333334)	price:free ->! first release:[2003-2004]
+(0.09333333333333334)	first release:[2010-2013] ->! country of origin:russia
+(0.09333333333333334)	first release:[1998-2004] ->! country of origin:russia
+(0.09333333333333334)	first release:[1989-1991] ->! country of origin:czech republic
+(0.09333333333333334)	first release:[1988-1990] ->! country of origin:united states
+(0.09333333333333334)	first release:[1987-1991] ->! country of origin:russia
+(0.09333333333333334)	av test ->! first release:[2012-2013]
+(0.09333333333333334)	av comparatives ->! first release:[2012-2013]
+(0.08)	price:trialware ->! first release:[1990-1991]
+(0.08)	price:trialware ->! country of origin:united kingdom
+(0.08)	ips ->! first release:[1995-1998]
+(0.08)	first release:[2008-2013] ->! country of origin:united kingdom
+(0.08)	first release:[1989-1998] ->! country of origin:united kingdom
+(0.08)	antispam ->! first release:[1991-1992]
+(0.06666666666666667)	price:trialware ->! first release:2004
+(0.06666666666666667)	first release:2006 ->! country of origin:united kingdom
+(0.06666666666666667)	firewall ->! first release:[1996-1998]
+(0.06666666666666667)	antispam ->! first release:[1996-1998]
+(0.05333333333333334)	price:trialware ->! first release:1988
+(0.05333333333333334)	price:trialware ->! country of origin:italy
+(0.05333333333333334)	price:trialware ->! country of origin:germany
+(0.05333333333333334)	ips ->! country of origin:italy
+(0.05333333333333334)	ips ->! country of origin:germany
+(0.05333333333333334)	ips ->! company:avast
+(0.05333333333333334)	first release:[2006-2013] ->! country of origin:germany
+(0.05333333333333334)	first release:[1994-1996] ->! country of origin:russia
+(0.05333333333333334)	first release:[1994-1996] ->! country of origin:czech republic
+(0.05333333333333334)	first release:[1992-2011] ->! country of origin:italy
+(0.05333333333333334)	first release:[1989-2000] ->! country of origin:germany
+(0.05333333333333334)	first release:[1987-1990] ->! country of origin:italy
+(0.05333333333333334)	first release:2007 ->! country of origin:united states
+(0.05333333333333334)	first release:2007 ->! country of origin:czech republic
+(0.05333333333333334)	email security ->! first release:[1992-1995]
+(0.05333333333333334)	company:avast ->! price:non-free
+(0.05333333333333334)	company:avast ->! first release:[2010-2011]
+(0.05333333333333334)	company:avast ->! first release:[1998-2008]
+(0.05333333333333334)	company:avast ->! first release:[1989-1996]
+(0.05333333333333334)	company:avast ->! country of origin:united states
+(0.05333333333333334)	company:avast ->! country of origin:united kingdom
+(0.05333333333333334)	company:avast ->! country of origin:russia
+(0.05333333333333334)	company:avast ->! country of origin:italy
+(0.05333333333333334)	company:avast ->! country of origin:germany
+(0.05333333333333334)	boot-time scans ->! country of origin:italy
+(0.05333333333333334)	av test ->! country of origin:italy
+(0.05333333333333334)	av comparatives ->! country of origin:italy
+(0.05333333333333334)	antispam ->! country of origin:italy
+(0.04)	web protection ->! first release:[1989-1990]
+(0.04)	virus bulletin vb100 ->! company:comodo group
+(0.04)	price:trialware ->! first release:[1995-1996]
+(0.04)	price:trialware ->! country of origin:romania
+(0.04)	price:trialware ->! country of origin:india
+(0.04)	price:non-free ->! first release:[1992-1994]
+(0.04)	price:free ->! first release:[1989-1990]
+(0.04)	price:free ->! first release:1987
+(0.04)	price:free ->! country of origin:india
+(0.04)	macro protection ->! country of origin:romania
+(0.04)	macro protection ->! company:comodo group
+(0.04)	macro protection ->! company:bitdefender
+(0.04)	ips ->! country of origin:india
+(0.04)	ips ->! company:comodo group
+(0.04)	ids ->! first release:[1989-1990]
+(0.04)	ids ->! first release:1987
+(0.04)	ids ->! company:comodo group
+(0.04)	first release:[2009-2012] ->! country of origin:romania
+(0.04)	first release:[2006-2013] ->! country of origin:india
+(0.04)	first release:[1997-2007] ->! country of origin:romania
+(0.04)	first release:[1997-2003] ->! country of origin:india
+(0.04)	first release:[1987-1995] ->! country of origin:romania
+(0.04)	first release:[1987-1994] ->! country of origin:india
+(0.04)	first release:1987 ->! country of origin:united kingdom
+(0.04)	first release:1987 ->! country of origin:czech republic
+(0.04)	firewall ->! first release:1987
+(0.04)	email security ->! company:comodo group
+(0.04)	company:comodo group ->! price:trialware
+(0.04)	company:comodo group ->! first release:[2011-2013]
+(0.04)	company:comodo group ->! first release:[1987-2007]
+(0.04)	company:comodo group ->! country of origin:united kingdom
+(0.04)	company:comodo group ->! country of origin:russia
+(0.04)	company:comodo group ->! country of origin:romania
+(0.04)	company:comodo group ->! country of origin:italy
+(0.04)	company:comodo group ->! country of origin:india
+(0.04)	company:comodo group ->! country of origin:germany
+(0.04)	company:comodo group ->! country of origin:czech republic
+(0.04)	company:bitdefender ->! price:trialware
+(0.04)	company:bitdefender ->! first release:[2009-2012]
+(0.04)	company:bitdefender ->! first release:[1997-2007]
+(0.04)	company:bitdefender ->! first release:[1987-1995]
+(0.04)	company:bitdefender ->! country of origin:united states
+(0.04)	company:bitdefender ->! country of origin:united kingdom
+(0.04)	company:bitdefender ->! country of origin:russia
+(0.04)	company:bitdefender ->! country of origin:italy
+(0.04)	company:bitdefender ->! country of origin:india
+(0.04)	company:bitdefender ->! country of origin:germany
+(0.04)	company:bitdefender ->! country of origin:czech republic
+(0.04)	company:avg technologies (grisoft) ->! price:trialware
+(0.04)	company:avg technologies (grisoft) ->! first release:[2009-2013]
+(0.04)	company:avg technologies (grisoft) ->! first release:[1994-2004]
+(0.04)	company:avg technologies (grisoft) ->! first release:[1987-1991]
+(0.04)	company:avg technologies (grisoft) ->! first release:2007
+(0.04)	company:avg technologies (grisoft) ->! country of origin:united states
+(0.04)	company:avg technologies (grisoft) ->! country of origin:united kingdom
+(0.04)	company:avg technologies (grisoft) ->! country of origin:russia
+(0.04)	company:avg technologies (grisoft) ->! country of origin:romania
+(0.04)	company:avg technologies (grisoft) ->! country of origin:italy
+(0.04)	company:avg technologies (grisoft) ->! country of origin:india
+(0.04)	company:avg technologies (grisoft) ->! country of origin:germany
+(0.04)	company:avast ->! first release:1987
+(0.04)	company:avast ->! country of origin:romania
+(0.04)	company:avast ->! country of origin:india
+(0.04)	cloudav ->! country of origin:india
+(0.04)	cloudav ->! company:comodo group
+(0.04)	boot-time scans ->! company:comodo group
+(0.04)	av test ->! country of origin:india
+(0.04)	av test ->! company:comodo group
+(0.04)	av comparatives ->! country of origin:india
+(0.04)	av comparatives ->! company:comodo group
+(0.04)	antispam ->! first release:1987
+(0.04)	antispam ->! company:comodo group
+(0.02666666666666667)	virus bulletin vb100 ->! first release:2009
+(0.02666666666666667)	virus bulletin vb100 ->! company:trustport
+(0.02666666666666667)	virus bulletin vb100 ->! company:tg soft
+(0.02666666666666667)	virus bulletin vb100 ->! company:k7 computing
+(0.02666666666666667)	virus bulletin vb100 ->! company:dr. web
+(0.02666666666666667)	price:trialware ->! country of origin:spain
+(0.02666666666666667)	price:trialware ->! country of origin:japan
+(0.02666666666666667)	price:trialware ->! country of origin:finland
+(0.02666666666666667)	price:trialware ->! country of origin:cyprus
+(0.02666666666666667)	price:trialware ->! country of origin:china
+(0.02666666666666667)	price:trialware ->! country of origin:australia
+(0.02666666666666667)	price:non-free ->! first release:2009
+(0.02666666666666667)	price:non-free ->! country of origin:slovakia
+(0.02666666666666667)	price:non-free ->! country of origin:china
+(0.02666666666666667)	price:free ->! country of origin:spain
+(0.02666666666666667)	price:free ->! country of origin:slovakia
+(0.02666666666666667)	price:free ->! country of origin:malta
+(0.02666666666666667)	price:free ->! country of origin:japan
+(0.02666666666666667)	price:free ->! country of origin:finland
+(0.02666666666666667)	macro protection ->! first release:2003
+(0.02666666666666667)	macro protection ->! country of origin:japan
+(0.02666666666666667)	macro protection ->! country of origin:cyprus
+(0.02666666666666667)	macro protection ->! country of origin:australia
+(0.02666666666666667)	macro protection ->! company:webroot
+(0.02666666666666667)	macro protection ->! company:trustport
+(0.02666666666666667)	macro protection ->! company:trend micro
+(0.02666666666666667)	macro protection ->! company:symantec
+(0.02666666666666667)	macro protection ->! company:scandium security
+(0.02666666666666667)	macro protection ->! company:dr. web
+(0.02666666666666667)	macro protection ->! company:check point
+(0.02666666666666667)	macro protection ->! company:bullguard
+(0.02666666666666667)	macro protection ->! company:avetix
+(0.02666666666666667)	ips ->! first release:2009
+(0.02666666666666667)	ips ->! first release:2003
+(0.02666666666666667)	ips ->! country of origin:japan
+(0.02666666666666667)	ips ->! country of origin:cyprus
+(0.02666666666666667)	ips ->! country of origin:china
+(0.02666666666666667)	ips ->! country of origin:australia
+(0.02666666666666667)	ips ->! company:webroot
+(0.02666666666666667)	ips ->! company:trustport
+(0.02666666666666667)	ips ->! company:trend micro
+(0.02666666666666667)	ips ->! company:tg soft
+(0.02666666666666667)	ips ->! company:scandium security
+(0.02666666666666667)	ips ->! company:k7 computing
+(0.02666666666666667)	ips ->! company:g data software
+(0.02666666666666667)	ips ->! company:dr. web
+(0.02666666666666667)	ips ->! company:bullguard
+(0.02666666666666667)	ips ->! company:avira
+(0.02666666666666667)	ips ->! company:avetix
+(0.02666666666666667)	ids ->! first release:2003
+(0.02666666666666667)	ids ->! first release:1996
+(0.02666666666666667)	ids ->! first release:1992
+(0.02666666666666667)	ids ->! country of origin:japan
+(0.02666666666666667)	ids ->! country of origin:cyprus
+(0.02666666666666667)	ids ->! country of origin:china
+(0.02666666666666667)	ids ->! country of origin:australia
+(0.02666666666666667)	ids ->! company:webroot
+(0.02666666666666667)	ids ->! company:trustport
+(0.02666666666666667)	ids ->! company:trend micro
+(0.02666666666666667)	ids ->! company:scandium security
+(0.02666666666666667)	ids ->! company:k7 computing
+(0.02666666666666667)	ids ->! company:dr. web
+(0.02666666666666667)	ids ->! company:bullguard
+(0.02666666666666667)	ids ->! company:avira
+(0.02666666666666667)	ids ->! company:avetix
+(0.02666666666666667)	heuristics ->! first release:2003
+(0.02666666666666667)	heuristics ->! country of origin:cyprus
+(0.02666666666666667)	heuristics ->! company:webroot
+(0.02666666666666667)	heuristics ->! company:trustport
+(0.02666666666666667)	heuristics ->! company:scandium security
+(0.02666666666666667)	heuristics ->! company:k7 computing
+(0.02666666666666667)	heuristics ->! company:dr. web
+(0.02666666666666667)	heuristics ->! company:check point
+(0.02666666666666667)	first release:[2011-2013] ->! country of origin:malta
+(0.02666666666666667)	first release:[2011-2013] ->! country of origin:cyprus
+(0.02666666666666667)	first release:[2009-2013] ->! country of origin:japan
+(0.02666666666666667)	first release:[2008-2013] ->! country of origin:slovakia
+(0.02666666666666667)	first release:[2007-2013] ->! country of origin:china
+(0.02666666666666667)	first release:[2006-2013] ->! country of origin:finland
+(0.02666666666666667)	first release:[2003-2013] ->! country of origin:spain
+(0.02666666666666667)	first release:[2003-2013] ->! country of origin:australia
+(0.02666666666666667)	first release:[2002-2004] ->! country of origin:china
+(0.02666666666666667)	first release:[1995-2009] ->! country of origin:malta
+(0.02666666666666667)	first release:[1992-2003] ->! country of origin:finland
+(0.02666666666666667)	first release:[1991-2007] ->! country of origin:japan
+(0.02666666666666667)	first release:[1991-2000] ->! country of origin:spain
+(0.02666666666666667)	first release:[1988-2006] ->! country of origin:slovakia
+(0.02666666666666667)	first release:[1987-2009] ->! country of origin:cyprus
+(0.02666666666666667)	first release:[1987-1998] ->! country of origin:china
+(0.02666666666666667)	first release:[1987-1997] ->! country of origin:australia
+(0.02666666666666667)	first release:[1987-1992] ->! country of origin:malta
+(0.02666666666666667)	first release:[1987-1990] ->! country of origin:finland
+(0.02666666666666667)	first release:[1987-1989] ->! country of origin:spain
+(0.02666666666666667)	first release:[1987-1989] ->! country of origin:japan
+(0.02666666666666667)	first release:2009 ->! country of origin:united states
+(0.02666666666666667)	first release:2003 ->! country of origin:united kingdom
+(0.02666666666666667)	first release:2003 ->! country of origin:germany
+(0.02666666666666667)	first release:2000 ->! country of origin:australia
+(0.02666666666666667)	firewall ->! first release:2003
+(0.02666666666666667)	firewall ->! first release:1992
+(0.02666666666666667)	firewall ->! country of origin:japan
+(0.02666666666666667)	firewall ->! country of origin:cyprus
+(0.02666666666666667)	firewall ->! country of origin:australia
+(0.02666666666666667)	firewall ->! company:webroot
+(0.02666666666666667)	firewall ->! company:trustport
+(0.02666666666666667)	firewall ->! company:trend micro
+(0.02666666666666667)	firewall ->! company:scandium security
+(0.02666666666666667)	firewall ->! company:k7 computing
+(0.02666666666666667)	firewall ->! company:avira
+(0.02666666666666667)	firewall ->! company:avetix
+(0.02666666666666667)	email security ->! first release:2003
+(0.02666666666666667)	email security ->! first release:1990
+(0.02666666666666667)	email security ->! country of origin:japan
+(0.02666666666666667)	email security ->! country of origin:china
+(0.02666666666666667)	email security ->! company:trend micro
+(0.02666666666666667)	email security ->! company:dr. web
+(0.02666666666666667)	email security ->! company:avetix
+(0.02666666666666667)	company:webroot ->! price:free
+(0.02666666666666667)	company:webroot ->! first release:[2009-2013]
+(0.02666666666666667)	company:webroot ->! first release:[1987-2004]
+(0.02666666666666667)	company:webroot ->! first release:2007
+(0.02666666666666667)	company:webroot ->! country of origin:united kingdom
+(0.02666666666666667)	company:webroot ->! country of origin:spain
+(0.02666666666666667)	company:webroot ->! country of origin:slovakia
+(0.02666666666666667)	company:webroot ->! country of origin:russia
+(0.02666666666666667)	company:webroot ->! country of origin:romania
+(0.02666666666666667)	company:webroot ->! country of origin:malta
+(0.02666666666666667)	company:webroot ->! country of origin:japan
+(0.02666666666666667)	company:webroot ->! country of origin:italy
+(0.02666666666666667)	company:webroot ->! country of origin:india
+(0.02666666666666667)	company:webroot ->! country of origin:germany
+(0.02666666666666667)	company:webroot ->! country of origin:finland
+(0.02666666666666667)	company:webroot ->! country of origin:czech republic
+(0.02666666666666667)	company:webroot ->! country of origin:cyprus
+(0.02666666666666667)	company:webroot ->! country of origin:china
+(0.02666666666666667)	company:webroot ->! country of origin:australia
+(0.02666666666666667)	company:trustport ->! price:free
+(0.02666666666666667)	company:trustport ->! first release:[2009-2013]
+(0.02666666666666667)	company:trustport ->! first release:[1987-2007]
+(0.02666666666666667)	company:trustport ->! country of origin:united states
+(0.02666666666666667)	company:trustport ->! country of origin:united kingdom
+(0.02666666666666667)	company:trustport ->! country of origin:spain
+(0.02666666666666667)	company:trustport ->! country of origin:slovakia
+(0.02666666666666667)	company:trustport ->! country of origin:russia
+(0.02666666666666667)	company:trustport ->! country of origin:romania
+(0.02666666666666667)	company:trustport ->! country of origin:malta
+(0.02666666666666667)	company:trustport ->! country of origin:japan
+(0.02666666666666667)	company:trustport ->! country of origin:italy
+(0.02666666666666667)	company:trustport ->! country of origin:india
+(0.02666666666666667)	company:trustport ->! country of origin:germany
+(0.02666666666666667)	company:trustport ->! country of origin:finland
+(0.02666666666666667)	company:trustport ->! country of origin:cyprus
+(0.02666666666666667)	company:trustport ->! country of origin:china
+(0.02666666666666667)	company:trustport ->! country of origin:australia
+(0.02666666666666667)	company:trend micro ->! price:trialware
+(0.02666666666666667)	company:trend micro ->! price:free
+(0.02666666666666667)	company:trend micro ->! first release:[2009-2013]
+(0.02666666666666667)	company:trend micro ->! first release:[1991-2007]
+(0.02666666666666667)	company:trend micro ->! first release:[1987-1989]
+(0.02666666666666667)	company:trend micro ->! country of origin:united states
+(0.02666666666666667)	company:trend micro ->! country of origin:united kingdom
+(0.02666666666666667)	company:trend micro ->! country of origin:spain
+(0.02666666666666667)	company:trend micro ->! country of origin:slovakia
+(0.02666666666666667)	company:trend micro ->! country of origin:russia
+(0.02666666666666667)	company:trend micro ->! country of origin:romania
+(0.02666666666666667)	company:trend micro ->! country of origin:malta
+(0.02666666666666667)	company:trend micro ->! country of origin:italy
+(0.02666666666666667)	company:trend micro ->! country of origin:india
+(0.02666666666666667)	company:trend micro ->! country of origin:germany
+(0.02666666666666667)	company:trend micro ->! country of origin:finland
+(0.02666666666666667)	company:trend micro ->! country of origin:czech republic
+(0.02666666666666667)	company:trend micro ->! country of origin:cyprus
+(0.02666666666666667)	company:trend micro ->! country of origin:china
+(0.02666666666666667)	company:trend micro ->! country of origin:australia
+(0.02666666666666667)	company:tg soft ->! price:trialware
+(0.02666666666666667)	company:tg soft ->! first release:[1992-2013]
+(0.02666666666666667)	company:tg soft ->! first release:[1987-1990]
+(0.02666666666666667)	company:tg soft ->! country of origin:united states
+(0.02666666666666667)	company:tg soft ->! country of origin:united kingdom
+(0.02666666666666667)	company:tg soft ->! country of origin:spain
+(0.02666666666666667)	company:tg soft ->! country of origin:slovakia
+(0.02666666666666667)	company:tg soft ->! country of origin:russia
+(0.02666666666666667)	company:tg soft ->! country of origin:romania
+(0.02666666666666667)	company:tg soft ->! country of origin:malta
+(0.02666666666666667)	company:tg soft ->! country of origin:japan
+(0.02666666666666667)	company:tg soft ->! country of origin:india
+(0.02666666666666667)	company:tg soft ->! country of origin:germany
+(0.02666666666666667)	company:tg soft ->! country of origin:finland
+(0.02666666666666667)	company:tg soft ->! country of origin:czech republic
+(0.02666666666666667)	company:tg soft ->! country of origin:cyprus
+(0.02666666666666667)	company:tg soft ->! country of origin:china
+(0.02666666666666667)	company:tg soft ->! country of origin:australia
+(0.02666666666666667)	company:symantec ->! price:trialware
+(0.02666666666666667)	company:symantec ->! price:free
+(0.02666666666666667)	company:symantec ->! first release:[2002-2013]
+(0.02666666666666667)	company:symantec ->! country of origin:united kingdom
+(0.02666666666666667)	company:symantec ->! country of origin:spain
+(0.02666666666666667)	company:symantec ->! country of origin:slovakia
+(0.02666666666666667)	company:symantec ->! country of origin:russia
+(0.02666666666666667)	company:symantec ->! country of origin:romania
+(0.02666666666666667)	company:symantec ->! country of origin:malta
+(0.02666666666666667)	company:symantec ->! country of origin:japan
+(0.02666666666666667)	company:symantec ->! country of origin:italy
+(0.02666666666666667)	company:symantec ->! country of origin:india
+(0.02666666666666667)	company:symantec ->! country of origin:germany
+(0.02666666666666667)	company:symantec ->! country of origin:finland
+(0.02666666666666667)	company:symantec ->! country of origin:czech republic
+(0.02666666666666667)	company:symantec ->! country of origin:cyprus
+(0.02666666666666667)	company:symantec ->! country of origin:china
+(0.02666666666666667)	company:symantec ->! country of origin:australia
+(0.02666666666666667)	company:sophos ->! price:trialware
+(0.02666666666666667)	company:sophos ->! price:free
+(0.02666666666666667)	company:sophos ->! first release:[2002-2013]
+(0.02666666666666667)	company:sophos ->! first release:[1989-1998]
+(0.02666666666666667)	company:sophos ->! first release:1987
+(0.02666666666666667)	company:sophos ->! country of origin:united states
+(0.02666666666666667)	company:sophos ->! country of origin:spain
+(0.02666666666666667)	company:sophos ->! country of origin:slovakia
+(0.02666666666666667)	company:sophos ->! country of origin:russia
+(0.02666666666666667)	company:sophos ->! country of origin:romania
+(0.02666666666666667)	company:sophos ->! country of origin:malta
+(0.02666666666666667)	company:sophos ->! country of origin:japan
+(0.02666666666666667)	company:sophos ->! country of origin:italy
+(0.02666666666666667)	company:sophos ->! country of origin:india
+(0.02666666666666667)	company:sophos ->! country of origin:germany
+(0.02666666666666667)	company:sophos ->! country of origin:finland
+(0.02666666666666667)	company:sophos ->! country of origin:czech republic
+(0.02666666666666667)	company:sophos ->! country of origin:cyprus
+(0.02666666666666667)	company:sophos ->! country of origin:china
+(0.02666666666666667)	company:sophos ->! country of origin:australia
+(0.02666666666666667)	company:scandium security ->! price:trialware
+(0.02666666666666667)	company:scandium security ->! first release:[2011-2013]
+(0.02666666666666667)	company:scandium security ->! first release:[1987-2009]
+(0.02666666666666667)	company:scandium security ->! country of origin:united states
+(0.02666666666666667)	company:scandium security ->! country of origin:united kingdom
+(0.02666666666666667)	company:scandium security ->! country of origin:spain
+(0.02666666666666667)	company:scandium security ->! country of origin:slovakia
+(0.02666666666666667)	company:scandium security ->! country of origin:russia
+(0.02666666666666667)	company:scandium security ->! country of origin:romania
+(0.02666666666666667)	company:scandium security ->! country of origin:malta
+(0.02666666666666667)	company:scandium security ->! country of origin:japan
+(0.02666666666666667)	company:scandium security ->! country of origin:italy
+(0.02666666666666667)	company:scandium security ->! country of origin:india
+(0.02666666666666667)	company:scandium security ->! country of origin:germany
+(0.02666666666666667)	company:scandium security ->! country of origin:finland
+(0.02666666666666667)	company:scandium security ->! country of origin:czech republic
+(0.02666666666666667)	company:scandium security ->! country of origin:china
+(0.02666666666666667)	company:scandium security ->! country of origin:australia
+(0.02666666666666667)	company:panda security ->! price:trialware
+(0.02666666666666667)	company:panda security ->! price:free
+(0.02666666666666667)	company:panda security ->! first release:[2003-2013]
+(0.02666666666666667)	company:panda security ->! first release:[1991-2000]
+(0.02666666666666667)	company:panda security ->! first release:[1987-1989]
+(0.02666666666666667)	company:panda security ->! country of origin:united states
+(0.02666666666666667)	company:panda security ->! country of origin:united kingdom
+(0.02666666666666667)	company:panda security ->! country of origin:slovakia
+(0.02666666666666667)	company:panda security ->! country of origin:russia
+(0.02666666666666667)	company:panda security ->! country of origin:romania
+(0.02666666666666667)	company:panda security ->! country of origin:malta
+(0.02666666666666667)	company:panda security ->! country of origin:japan
+(0.02666666666666667)	company:panda security ->! country of origin:italy
+(0.02666666666666667)	company:panda security ->! country of origin:india
+(0.02666666666666667)	company:panda security ->! country of origin:germany
+(0.02666666666666667)	company:panda security ->! country of origin:finland
+(0.02666666666666667)	company:panda security ->! country of origin:czech republic
+(0.02666666666666667)	company:panda security ->! country of origin:cyprus
+(0.02666666666666667)	company:panda security ->! country of origin:china
+(0.02666666666666667)	company:panda security ->! country of origin:australia
+(0.02666666666666667)	company:mcafee ->! price:trialware
+(0.02666666666666667)	company:mcafee ->! price:free
+(0.02666666666666667)	company:mcafee ->! first release:[2007-2013]
+(0.02666666666666667)	company:mcafee ->! first release:[1988-2004]
+(0.02666666666666667)	company:mcafee ->! country of origin:united kingdom
+(0.02666666666666667)	company:mcafee ->! country of origin:spain
+(0.02666666666666667)	company:mcafee ->! country of origin:slovakia
+(0.02666666666666667)	company:mcafee ->! country of origin:russia
+(0.02666666666666667)	company:mcafee ->! country of origin:romania
+(0.02666666666666667)	company:mcafee ->! country of origin:malta
+(0.02666666666666667)	company:mcafee ->! country of origin:japan
+(0.02666666666666667)	company:mcafee ->! country of origin:italy
+(0.02666666666666667)	company:mcafee ->! country of origin:india
+(0.02666666666666667)	company:mcafee ->! country of origin:germany
+(0.02666666666666667)	company:mcafee ->! country of origin:finland
+(0.02666666666666667)	company:mcafee ->! country of origin:czech republic
+(0.02666666666666667)	company:mcafee ->! country of origin:cyprus
+(0.02666666666666667)	company:mcafee ->! country of origin:china
+(0.02666666666666667)	company:mcafee ->! country of origin:australia
+(0.02666666666666667)	company:kaspersky lab ->! price:trialware
+(0.02666666666666667)	company:kaspersky lab ->! price:free
+(0.02666666666666667)	company:kaspersky lab ->! first release:[2008-2013]
+(0.02666666666666667)	company:kaspersky lab ->! first release:[1998-2006]
+(0.02666666666666667)	company:kaspersky lab ->! first release:[1987-1996]
+(0.02666666666666667)	company:kaspersky lab ->! country of origin:united states
+(0.02666666666666667)	company:kaspersky lab ->! country of origin:united kingdom
+(0.02666666666666667)	company:kaspersky lab ->! country of origin:spain
+(0.02666666666666667)	company:kaspersky lab ->! country of origin:slovakia
+(0.02666666666666667)	company:kaspersky lab ->! country of origin:romania
+(0.02666666666666667)	company:kaspersky lab ->! country of origin:malta
+(0.02666666666666667)	company:kaspersky lab ->! country of origin:japan
+(0.02666666666666667)	company:kaspersky lab ->! country of origin:italy
+(0.02666666666666667)	company:kaspersky lab ->! country of origin:india
+(0.02666666666666667)	company:kaspersky lab ->! country of origin:germany
+(0.02666666666666667)	company:kaspersky lab ->! country of origin:finland
+(0.02666666666666667)	company:kaspersky lab ->! country of origin:czech republic
+(0.02666666666666667)	company:kaspersky lab ->! country of origin:cyprus
+(0.02666666666666667)	company:kaspersky lab ->! country of origin:china
+(0.02666666666666667)	company:kaspersky lab ->! country of origin:australia
+(0.02666666666666667)	company:k7 computing ->! price:trialware
+(0.02666666666666667)	company:k7 computing ->! price:free
+(0.02666666666666667)	company:k7 computing ->! first release:[2006-2013]
+(0.02666666666666667)	company:k7 computing ->! first release:[1997-2003]
+(0.02666666666666667)	company:k7 computing ->! first release:[1987-1995]
+(0.02666666666666667)	company:k7 computing ->! country of origin:united states
+(0.02666666666666667)	company:k7 computing ->! country of origin:united kingdom
+(0.02666666666666667)	company:k7 computing ->! country of origin:spain
+(0.02666666666666667)	company:k7 computing ->! country of origin:slovakia
+(0.02666666666666667)	company:k7 computing ->! country of origin:russia
+(0.02666666666666667)	company:k7 computing ->! country of origin:romania
+(0.02666666666666667)	company:k7 computing ->! country of origin:malta
+(0.02666666666666667)	company:k7 computing ->! country of origin:japan
+(0.02666666666666667)	company:k7 computing ->! country of origin:italy
+(0.02666666666666667)	company:k7 computing ->! country of origin:germany
+(0.02666666666666667)	company:k7 computing ->! country of origin:finland
+(0.02666666666666667)	company:k7 computing ->! country of origin:czech republic
+(0.02666666666666667)	company:k7 computing ->! country of origin:cyprus
+(0.02666666666666667)	company:k7 computing ->! country of origin:china
+(0.02666666666666667)	company:k7 computing ->! country of origin:australia
+(0.02666666666666667)	company:gfi software ->! price:free
+(0.02666666666666667)	company:gfi software ->! first release:[2011-2013]
+(0.02666666666666667)	company:gfi software ->! first release:[1995-2009]
+(0.02666666666666667)	company:gfi software ->! first release:[1987-1992]
+(0.02666666666666667)	company:gfi software ->! country of origin:united states
+(0.02666666666666667)	company:gfi software ->! country of origin:united kingdom
+(0.02666666666666667)	company:gfi software ->! country of origin:spain
+(0.02666666666666667)	company:gfi software ->! country of origin:slovakia
+(0.02666666666666667)	company:gfi software ->! country of origin:russia
+(0.02666666666666667)	company:gfi software ->! country of origin:romania
+(0.02666666666666667)	company:gfi software ->! country of origin:japan
+(0.02666666666666667)	company:gfi software ->! country of origin:italy
+(0.02666666666666667)	company:gfi software ->! country of origin:india
+(0.02666666666666667)	company:gfi software ->! country of origin:germany
+(0.02666666666666667)	company:gfi software ->! country of origin:finland
+(0.02666666666666667)	company:gfi software ->! country of origin:czech republic
+(0.02666666666666667)	company:gfi software ->! country of origin:cyprus
+(0.02666666666666667)	company:gfi software ->! country of origin:china
+(0.02666666666666667)	company:gfi software ->! country of origin:australia
+(0.02666666666666667)	company:g data software ->! price:trialware
+(0.02666666666666667)	company:g data software ->! price:free
+(0.02666666666666667)	company:g data software ->! first release:[2006-2013]
+(0.02666666666666667)	company:g data software ->! first release:[1988-2003]
+(0.02666666666666667)	company:g data software ->! country of origin:united states
+(0.02666666666666667)	company:g data software ->! country of origin:united kingdom
+(0.02666666666666667)	company:g data software ->! country of origin:spain
+(0.02666666666666667)	company:g data software ->! country of origin:slovakia
+(0.02666666666666667)	company:g data software ->! country of origin:russia
+(0.02666666666666667)	company:g data software ->! country of origin:romania
+(0.02666666666666667)	company:g data software ->! country of origin:malta
+(0.02666666666666667)	company:g data software ->! country of origin:japan
+(0.02666666666666667)	company:g data software ->! country of origin:italy
+(0.02666666666666667)	company:g data software ->! country of origin:india
+(0.02666666666666667)	company:g data software ->! country of origin:finland
+(0.02666666666666667)	company:g data software ->! country of origin:czech republic
+(0.02666666666666667)	company:g data software ->! country of origin:cyprus
+(0.02666666666666667)	company:g data software ->! country of origin:china
+(0.02666666666666667)	company:g data software ->! country of origin:australia
+(0.02666666666666667)	company:f-secure ->! price:trialware
+(0.02666666666666667)	company:f-secure ->! price:free
+(0.02666666666666667)	company:f-secure ->! first release:[2006-2013]
+(0.02666666666666667)	company:f-secure ->! first release:[1992-2003]
+(0.02666666666666667)	company:f-secure ->! first release:[1987-1990]
+(0.02666666666666667)	company:f-secure ->! country of origin:united states
+(0.02666666666666667)	company:f-secure ->! country of origin:united kingdom
+(0.02666666666666667)	company:f-secure ->! country of origin:spain
+(0.02666666666666667)	company:f-secure ->! country of origin:slovakia
+(0.02666666666666667)	company:f-secure ->! country of origin:russia
+(0.02666666666666667)	company:f-secure ->! country of origin:romania
+(0.02666666666666667)	company:f-secure ->! country of origin:malta
+(0.02666666666666667)	company:f-secure ->! country of origin:japan
+(0.02666666666666667)	company:f-secure ->! country of origin:italy
+(0.02666666666666667)	company:f-secure ->! country of origin:india
+(0.02666666666666667)	company:f-secure ->! country of origin:germany
+(0.02666666666666667)	company:f-secure ->! country of origin:czech republic
+(0.02666666666666667)	company:f-secure ->! country of origin:cyprus
+(0.02666666666666667)	company:f-secure ->! country of origin:china
+(0.02666666666666667)	company:f-secure ->! country of origin:australia
+(0.02666666666666667)	company:eset ->! price:non-free
+(0.02666666666666667)	company:eset ->! price:free
+(0.02666666666666667)	company:eset ->! first release:[2008-2013]
+(0.02666666666666667)	company:eset ->! first release:[1988-2006]
+(0.02666666666666667)	company:eset ->! country of origin:united states
+(0.02666666666666667)	company:eset ->! country of origin:united kingdom
+(0.02666666666666667)	company:eset ->! country of origin:spain
+(0.02666666666666667)	company:eset ->! country of origin:russia
+(0.02666666666666667)	company:eset ->! country of origin:romania
+(0.02666666666666667)	company:eset ->! country of origin:malta
+(0.02666666666666667)	company:eset ->! country of origin:japan
+(0.02666666666666667)	company:eset ->! country of origin:italy
+(0.02666666666666667)	company:eset ->! country of origin:india
+(0.02666666666666667)	company:eset ->! country of origin:germany
+(0.02666666666666667)	company:eset ->! country of origin:finland
+(0.02666666666666667)	company:eset ->! country of origin:czech republic
+(0.02666666666666667)	company:eset ->! country of origin:cyprus
+(0.02666666666666667)	company:eset ->! country of origin:china
+(0.02666666666666667)	company:eset ->! country of origin:australia
+(0.02666666666666667)	company:dr. web ->! price:free
+(0.02666666666666667)	company:dr. web ->! first release:[2007-2013]
+(0.02666666666666667)	company:dr. web ->! first release:[1994-2004]
+(0.02666666666666667)	company:dr. web ->! first release:[1987-1991]
+(0.02666666666666667)	company:dr. web ->! country of origin:united states
+(0.02666666666666667)	company:dr. web ->! country of origin:united kingdom
+(0.02666666666666667)	company:dr. web ->! country of origin:spain
+(0.02666666666666667)	company:dr. web ->! country of origin:slovakia
+(0.02666666666666667)	company:dr. web ->! country of origin:romania
+(0.02666666666666667)	company:dr. web ->! country of origin:malta
+(0.02666666666666667)	company:dr. web ->! country of origin:japan
+(0.02666666666666667)	company:dr. web ->! country of origin:italy
+(0.02666666666666667)	company:dr. web ->! country of origin:india
+(0.02666666666666667)	company:dr. web ->! country of origin:germany
+(0.02666666666666667)	company:dr. web ->! country of origin:finland
+(0.02666666666666667)	company:dr. web ->! country of origin:czech republic
+(0.02666666666666667)	company:dr. web ->! country of origin:cyprus
+(0.02666666666666667)	company:dr. web ->! country of origin:china
+(0.02666666666666667)	company:dr. web ->! country of origin:australia
+(0.02666666666666667)	company:comodo group ->! first release:2009
+(0.02666666666666667)	company:comodo group ->! country of origin:spain
+(0.02666666666666667)	company:comodo group ->! country of origin:slovakia
+(0.02666666666666667)	company:comodo group ->! country of origin:malta
+(0.02666666666666667)	company:comodo group ->! country of origin:japan
+(0.02666666666666667)	company:comodo group ->! country of origin:finland
+(0.02666666666666667)	company:comodo group ->! country of origin:cyprus
+(0.02666666666666667)	company:comodo group ->! country of origin:china
+(0.02666666666666667)	company:comodo group ->! country of origin:australia
+(0.02666666666666667)	company:check point ->! price:trialware
+(0.02666666666666667)	company:check point ->! price:free
+(0.02666666666666667)	company:check point ->! first release:[2003-2011]
+(0.02666666666666667)	company:check point ->! first release:[1987-2000]
+(0.02666666666666667)	company:check point ->! country of origin:united kingdom
+(0.02666666666666667)	company:check point ->! country of origin:spain
+(0.02666666666666667)	company:check point ->! country of origin:slovakia
+(0.02666666666666667)	company:check point ->! country of origin:russia
+(0.02666666666666667)	company:check point ->! country of origin:romania
+(0.02666666666666667)	company:check point ->! country of origin:malta
+(0.02666666666666667)	company:check point ->! country of origin:japan
+(0.02666666666666667)	company:check point ->! country of origin:italy
+(0.02666666666666667)	company:check point ->! country of origin:india
+(0.02666666666666667)	company:check point ->! country of origin:germany
+(0.02666666666666667)	company:check point ->! country of origin:finland
+(0.02666666666666667)	company:check point ->! country of origin:czech republic
+(0.02666666666666667)	company:check point ->! country of origin:cyprus
+(0.02666666666666667)	company:check point ->! country of origin:china
+(0.02666666666666667)	company:check point ->! country of origin:australia
+(0.02666666666666667)	company:bullguard ->! price:trialware
+(0.02666666666666667)	company:bullguard ->! price:free
+(0.02666666666666667)	company:bullguard ->! first release:[2006-2013]
+(0.02666666666666667)	company:bullguard ->! first release:[1987-2000]
+(0.02666666666666667)	company:bullguard ->! first release:2003
+(0.02666666666666667)	company:bullguard ->! country of origin:united states
+(0.02666666666666667)	company:bullguard ->! country of origin:spain
+(0.02666666666666667)	company:bullguard ->! country of origin:slovakia
+(0.02666666666666667)	company:bullguard ->! country of origin:russia
+(0.02666666666666667)	company:bullguard ->! country of origin:romania
+(0.02666666666666667)	company:bullguard ->! country of origin:malta
+(0.02666666666666667)	company:bullguard ->! country of origin:japan
+(0.02666666666666667)	company:bullguard ->! country of origin:italy
+(0.02666666666666667)	company:bullguard ->! country of origin:india
+(0.02666666666666667)	company:bullguard ->! country of origin:germany
+(0.02666666666666667)	company:bullguard ->! country of origin:finland
+(0.02666666666666667)	company:bullguard ->! country of origin:czech republic
+(0.02666666666666667)	company:bullguard ->! country of origin:cyprus
+(0.02666666666666667)	company:bullguard ->! country of origin:china
+(0.02666666666666667)	company:bullguard ->! country of origin:australia
+(0.02666666666666667)	company:bitdefender ->! country of origin:spain
+(0.02666666666666667)	company:bitdefender ->! country of origin:slovakia
+(0.02666666666666667)	company:bitdefender ->! country of origin:malta
+(0.02666666666666667)	company:bitdefender ->! country of origin:japan
+(0.02666666666666667)	company:bitdefender ->! country of origin:finland
+(0.02666666666666667)	company:bitdefender ->! country of origin:cyprus
+(0.02666666666666667)	company:bitdefender ->! country of origin:china
+(0.02666666666666667)	company:bitdefender ->! country of origin:australia
+(0.02666666666666667)	company:avira ->! price:trialware
+(0.02666666666666667)	company:avira ->! first release:[2003-2013]
+(0.02666666666666667)	company:avira ->! first release:[1989-2000]
+(0.02666666666666667)	company:avira ->! first release:1987
+(0.02666666666666667)	company:avira ->! country of origin:united states
+(0.02666666666666667)	company:avira ->! country of origin:united kingdom
+(0.02666666666666667)	company:avira ->! country of origin:spain
+(0.02666666666666667)	company:avira ->! country of origin:slovakia
+(0.02666666666666667)	company:avira ->! country of origin:russia
+(0.02666666666666667)	company:avira ->! country of origin:romania
+(0.02666666666666667)	company:avira ->! country of origin:malta
+(0.02666666666666667)	company:avira ->! country of origin:japan
+(0.02666666666666667)	company:avira ->! country of origin:italy
+(0.02666666666666667)	company:avira ->! country of origin:india
+(0.02666666666666667)	company:avira ->! country of origin:finland
+(0.02666666666666667)	company:avira ->! country of origin:czech republic
+(0.02666666666666667)	company:avira ->! country of origin:cyprus
+(0.02666666666666667)	company:avira ->! country of origin:china
+(0.02666666666666667)	company:avira ->! country of origin:australia
+(0.02666666666666667)	company:avg technologies (grisoft) ->! country of origin:spain
+(0.02666666666666667)	company:avg technologies (grisoft) ->! country of origin:slovakia
+(0.02666666666666667)	company:avg technologies (grisoft) ->! country of origin:malta
+(0.02666666666666667)	company:avg technologies (grisoft) ->! country of origin:japan
+(0.02666666666666667)	company:avg technologies (grisoft) ->! country of origin:finland
+(0.02666666666666667)	company:avg technologies (grisoft) ->! country of origin:cyprus
+(0.02666666666666667)	company:avg technologies (grisoft) ->! country of origin:china
+(0.02666666666666667)	company:avg technologies (grisoft) ->! country of origin:australia
+(0.02666666666666667)	company:avetix ->! price:trialware
+(0.02666666666666667)	company:avetix ->! first release:[1987-2011]
+(0.02666666666666667)	company:avetix ->! country of origin:united states
+(0.02666666666666667)	company:avetix ->! country of origin:united kingdom
+(0.02666666666666667)	company:avetix ->! country of origin:spain
+(0.02666666666666667)	company:avetix ->! country of origin:slovakia
+(0.02666666666666667)	company:avetix ->! country of origin:russia
+(0.02666666666666667)	company:avetix ->! country of origin:romania
+(0.02666666666666667)	company:avetix ->! country of origin:malta
+(0.02666666666666667)	company:avetix ->! country of origin:japan
+(0.02666666666666667)	company:avetix ->! country of origin:india
+(0.02666666666666667)	company:avetix ->! country of origin:germany
+(0.02666666666666667)	company:avetix ->! country of origin:finland
+(0.02666666666666667)	company:avetix ->! country of origin:czech republic
+(0.02666666666666667)	company:avetix ->! country of origin:cyprus
+(0.02666666666666667)	company:avetix ->! country of origin:china
+(0.02666666666666667)	company:avetix ->! country of origin:australia
+(0.02666666666666667)	company:avast ->! country of origin:spain
+(0.02666666666666667)	company:avast ->! country of origin:slovakia
+(0.02666666666666667)	company:avast ->! country of origin:malta
+(0.02666666666666667)	company:avast ->! country of origin:japan
+(0.02666666666666667)	company:avast ->! country of origin:finland
+(0.02666666666666667)	company:avast ->! country of origin:cyprus
+(0.02666666666666667)	company:avast ->! country of origin:china
+(0.02666666666666667)	company:avast ->! country of origin:australia
+(0.02666666666666667)	company:agnitum ->! price:trialware
+(0.02666666666666667)	company:agnitum ->! price:free
+(0.02666666666666667)	company:agnitum ->! first release:[2009-2013]
+(0.02666666666666667)	company:agnitum ->! first release:[1987-2006]
+(0.02666666666666667)	company:agnitum ->! country of origin:united states
+(0.02666666666666667)	company:agnitum ->! country of origin:united kingdom
+(0.02666666666666667)	company:agnitum ->! country of origin:spain
+(0.02666666666666667)	company:agnitum ->! country of origin:slovakia
+(0.02666666666666667)	company:agnitum ->! country of origin:romania
+(0.02666666666666667)	company:agnitum ->! country of origin:malta
+(0.02666666666666667)	company:agnitum ->! country of origin:japan
+(0.02666666666666667)	company:agnitum ->! country of origin:italy
+(0.02666666666666667)	company:agnitum ->! country of origin:india
+(0.02666666666666667)	company:agnitum ->! country of origin:germany
+(0.02666666666666667)	company:agnitum ->! country of origin:finland
+(0.02666666666666667)	company:agnitum ->! country of origin:czech republic
+(0.02666666666666667)	company:agnitum ->! country of origin:cyprus
+(0.02666666666666667)	company:agnitum ->! country of origin:china
+(0.02666666666666667)	company:agnitum ->! country of origin:australia
+(0.02666666666666667)	cloudav ->! first release:2003
+(0.02666666666666667)	cloudav ->! first release:1992
+(0.02666666666666667)	cloudav ->! country of origin:cyprus
+(0.02666666666666667)	cloudav ->! country of origin:australia
+(0.02666666666666667)	cloudav ->! company:webroot
+(0.02666666666666667)	cloudav ->! company:trustport
+(0.02666666666666667)	cloudav ->! company:scandium security
+(0.02666666666666667)	cloudav ->! company:k7 computing
+(0.02666666666666667)	cloudav ->! company:dr. web
+(0.02666666666666667)	cloudav ->! company:check point
+(0.02666666666666667)	cloudav ->! company:bullguard
+(0.02666666666666667)	cloudav ->! company:avira
+(0.02666666666666667)	cloudav ->! company:avetix
+(0.02666666666666667)	cloudav ->! company:agnitum
+(0.02666666666666667)	boot-time scans ->! first release:2003
+(0.02666666666666667)	boot-time scans ->! country of origin:malta
+(0.02666666666666667)	boot-time scans ->! country of origin:cyprus
+(0.02666666666666667)	boot-time scans ->! company:webroot
+(0.02666666666666667)	boot-time scans ->! company:trustport
+(0.02666666666666667)	boot-time scans ->! company:tg soft
+(0.02666666666666667)	boot-time scans ->! company:scandium security
+(0.02666666666666667)	boot-time scans ->! company:k7 computing
+(0.02666666666666667)	boot-time scans ->! company:gfi software
+(0.02666666666666667)	boot-time scans ->! company:dr. web
+(0.02666666666666667)	boot-time scans ->! company:check point
+(0.02666666666666667)	boot-time scans ->! company:avetix
+(0.02666666666666667)	av test ->! first release:2009
+(0.02666666666666667)	av test ->! country of origin:cyprus
+(0.02666666666666667)	av test ->! company:trustport
+(0.02666666666666667)	av test ->! company:tg soft
+(0.02666666666666667)	av test ->! company:scandium security
+(0.02666666666666667)	av test ->! company:k7 computing
+(0.02666666666666667)	av test ->! company:dr. web
+(0.02666666666666667)	av test ->! company:check point
+(0.02666666666666667)	av test ->! company:avetix
+(0.02666666666666667)	av test ->! company:agnitum
+(0.02666666666666667)	av comparatives ->! first release:2009
+(0.02666666666666667)	av comparatives ->! first release:2003
+(0.02666666666666667)	av comparatives ->! country of origin:cyprus
+(0.02666666666666667)	av comparatives ->! company:trustport
+(0.02666666666666667)	av comparatives ->! company:tg soft
+(0.02666666666666667)	av comparatives ->! company:symantec
+(0.02666666666666667)	av comparatives ->! company:scandium security
+(0.02666666666666667)	av comparatives ->! company:k7 computing
+(0.02666666666666667)	av comparatives ->! company:dr. web
+(0.02666666666666667)	av comparatives ->! company:check point
+(0.02666666666666667)	av comparatives ->! company:avetix
+(0.02666666666666667)	av comparatives ->! company:agnitum
+(0.02666666666666667)	antispam ->! first release:2003
+(0.02666666666666667)	antispam ->! country of origin:cyprus
+(0.02666666666666667)	antispam ->! country of origin:china
+(0.02666666666666667)	antispam ->! country of origin:australia
+(0.02666666666666667)	antispam ->! company:webroot
+(0.02666666666666667)	antispam ->! company:trustport
+(0.02666666666666667)	antispam ->! company:tg soft
+(0.02666666666666667)	antispam ->! company:scandium security
+(0.02666666666666667)	antispam ->! company:k7 computing
+(0.02666666666666667)	antispam ->! company:dr. web
+(0.02666666666666667)	antispam ->! company:check point
+(0.02666666666666667)	antispam ->! company:avetix
+(0.02666666666666667)	antispam ->! company:agnitum
+(0.013333333333333334)	web protection ->! price:shareware
+(0.013333333333333334)	web protection ->! license:gnu gpl
+(0.013333333333333334)	web protection ->! first release:1995
+(0.013333333333333334)	web protection ->! first release:*
+(0.013333333333333334)	web protection ->! country of origin:turkey
+(0.013333333333333334)	web protection ->! country of origin:iceland
+(0.013333333333333334)	web protection ->! country of origin:belarus
+(0.013333333333333334)	web protection ->! company:zemana
+(0.013333333333333334)	web protection ->! company:virusblokada
+(0.013333333333333334)	web protection ->! company:strayspark computing
+(0.013333333333333334)	web protection ->! company:quick heal
+(0.013333333333333334)	web protection ->! company:microsoft
+(0.013333333333333334)	web protection ->! company:kingsoft
+(0.013333333333333334)	web protection ->! company:is3
+(0.013333333333333334)	web protection ->! company:iolo technologies
+(0.013333333333333334)	web protection ->! company:iobit
+(0.013333333333333334)	web protection ->! company:frisk software
+(0.013333333333333334)	web protection ->! company:fortinet
+(0.013333333333333334)	web protection ->! company:cysec
+(0.013333333333333334)	web protection ->! company:clamwin
+(0.013333333333333334)	web protection ->! company:cisco (originally immunet)
+(0.013333333333333334)	virus bulletin vb100 ->! license:gnu gpl
+(0.013333333333333334)	virus bulletin vb100 ->! first release:2011
+(0.013333333333333334)	virus bulletin vb100 ->! first release:*
+(0.013333333333333334)	virus bulletin vb100 ->! country of origin:turkey
+(0.013333333333333334)	virus bulletin vb100 ->! country of origin:brazil
+(0.013333333333333334)	virus bulletin vb100 ->! country of origin:belarus
+(0.013333333333333334)	virus bulletin vb100 ->! company:zemana
+(0.013333333333333334)	virus bulletin vb100 ->! company:virusblokada
+(0.013333333333333334)	virus bulletin vb100 ->! company:strayspark computing
+(0.013333333333333334)	virus bulletin vb100 ->! company:psafe
+(0.013333333333333334)	virus bulletin vb100 ->! company:nano security
+(0.013333333333333334)	virus bulletin vb100 ->! company:is3
+(0.013333333333333334)	virus bulletin vb100 ->! company:iolo technologies
+(0.013333333333333334)	virus bulletin vb100 ->! company:iobit
+(0.013333333333333334)	virus bulletin vb100 ->! company:fortinet
+(0.013333333333333334)	virus bulletin vb100 ->! company:cysec
+(0.013333333333333334)	virus bulletin vb100 ->! company:clamwin
+(0.013333333333333334)	virus bulletin vb100 ->! company:cisco (originally immunet)
+(0.013333333333333334)	support ->! price:shareware
+(0.013333333333333334)	support ->! license:gnu gpl
+(0.013333333333333334)	support ->! country of origin:belarus
+(0.013333333333333334)	support ->! company:virusblokada
+(0.013333333333333334)	support ->! company:symantec (originally pc tools)
+(0.013333333333333334)	support ->! company:kingsoft
+(0.013333333333333334)	support ->! company:iobit
+(0.013333333333333334)	support ->! company:cysec
+(0.013333333333333334)	support ->! company:clamwin
+(0.013333333333333334)	price:trialware ->! first release:2013
+(0.013333333333333334)	price:trialware ->! country of origin:south korea
+(0.013333333333333334)	price:trialware ->! country of origin:brazil
+(0.013333333333333334)	price:trialware ->! country of origin:belarus
+(0.013333333333333334)	price:shareware ->! first release:[2002-2013]
+(0.013333333333333334)	price:shareware ->! first release:[1987-1998]
+(0.013333333333333334)	price:shareware ->! first release:*
+(0.013333333333333334)	price:shareware ->! country of origin:united states
+(0.013333333333333334)	price:shareware ->! country of origin:united kingdom
+(0.013333333333333334)	price:shareware ->! country of origin:turkey
+(0.013333333333333334)	price:shareware ->! country of origin:spain
+(0.013333333333333334)	price:shareware ->! country of origin:south korea
+(0.013333333333333334)	price:shareware ->! country of origin:slovakia
+(0.013333333333333334)	price:shareware ->! country of origin:russia
+(0.013333333333333334)	price:shareware ->! country of origin:romania
+(0.013333333333333334)	price:shareware ->! country of origin:malta
+(0.013333333333333334)	price:shareware ->! country of origin:japan
+(0.013333333333333334)	price:shareware ->! country of origin:italy
+(0.013333333333333334)	price:shareware ->! country of origin:india
+(0.013333333333333334)	price:shareware ->! country of origin:iceland
+(0.013333333333333334)	price:shareware ->! country of origin:germany
+(0.013333333333333334)	price:shareware ->! country of origin:finland
+(0.013333333333333334)	price:shareware ->! country of origin:czech republic
+(0.013333333333333334)	price:shareware ->! country of origin:cyprus
+(0.013333333333333334)	price:shareware ->! country of origin:brazil
+(0.013333333333333334)	price:shareware ->! country of origin:belarus
+(0.013333333333333334)	price:shareware ->! country of origin:australia
+(0.013333333333333334)	price:non-free ->! first release:2013
+(0.013333333333333334)	price:non-free ->! first release:2011
+(0.013333333333333334)	price:non-free ->! first release:1989
+(0.013333333333333334)	price:non-free ->! first release:*
+(0.013333333333333334)	price:non-free ->! country of origin:turkey
+(0.013333333333333334)	price:non-free ->! country of origin:iceland
+(0.013333333333333334)	price:non-free ->! country of origin:brazil
+(0.013333333333333334)	price:free ->! first release:*
+(0.013333333333333334)	price:free ->! country of origin:turkey
+(0.013333333333333334)	price:free ->! country of origin:south korea
+(0.013333333333333334)	price:free ->! country of origin:iceland
+(0.013333333333333334)	price:free ->! country of origin:belarus
+(0.013333333333333334)	macro protection ->! price:shareware
+(0.013333333333333334)	macro protection ->! license:gnu gpl
+(0.013333333333333334)	macro protection ->! first release:2013
+(0.013333333333333334)	macro protection ->! first release:1998
+(0.013333333333333334)	macro protection ->! first release:*
+(0.013333333333333334)	macro protection ->! country of origin:turkey
+(0.013333333333333334)	macro protection ->! country of origin:south korea
+(0.013333333333333334)	macro protection ->! country of origin:belarus
+(0.013333333333333334)	macro protection ->! company:zemana
+(0.013333333333333334)	macro protection ->! company:virusblokada
+(0.013333333333333334)	macro protection ->! company:symantec (originally pc tools)
+(0.013333333333333334)	macro protection ->! company:strayspark computing
+(0.013333333333333334)	macro protection ->! company:microsoft
+(0.013333333333333334)	macro protection ->! company:kingsoft
+(0.013333333333333334)	macro protection ->! company:is3
+(0.013333333333333334)	macro protection ->! company:iolo technologies
+(0.013333333333333334)	macro protection ->! company:iobit
+(0.013333333333333334)	macro protection ->! company:ikarus
+(0.013333333333333334)	macro protection ->! company:fortinet
+(0.013333333333333334)	macro protection ->! company:cysec
+(0.013333333333333334)	macro protection ->! company:clamwin
+(0.013333333333333334)	macro protection ->! company:cisco (originally immunet)
+(0.013333333333333334)	macro protection ->! company:ahnlab
+(0.013333333333333334)	live update ->! country of origin:belarus
+(0.013333333333333334)	live update ->! company:virusblokada
+(0.013333333333333334)	live update ->! company:iobit
+(0.013333333333333334)	license:gnu gpl ->! price:trialware
+(0.013333333333333334)	license:gnu gpl ->! price:shareware
+(0.013333333333333334)	license:gnu gpl ->! price:non-free
+(0.013333333333333334)	license:gnu gpl ->! first release:[2003-2013]
+(0.013333333333333334)	license:gnu gpl ->! first release:[1987-2000]
+(0.013333333333333334)	license:gnu gpl ->! first release:*
+(0.013333333333333334)	license:gnu gpl ->! country of origin:united states
+(0.013333333333333334)	license:gnu gpl ->! country of origin:united kingdom
+(0.013333333333333334)	license:gnu gpl ->! country of origin:turkey
+(0.013333333333333334)	license:gnu gpl ->! country of origin:spain
+(0.013333333333333334)	license:gnu gpl ->! country of origin:south korea
+(0.013333333333333334)	license:gnu gpl ->! country of origin:slovakia
+(0.013333333333333334)	license:gnu gpl ->! country of origin:russia
+(0.013333333333333334)	license:gnu gpl ->! country of origin:romania
+(0.013333333333333334)	license:gnu gpl ->! country of origin:malta
+(0.013333333333333334)	license:gnu gpl ->! country of origin:japan
+(0.013333333333333334)	license:gnu gpl ->! country of origin:italy
+(0.013333333333333334)	license:gnu gpl ->! country of origin:india
+(0.013333333333333334)	license:gnu gpl ->! country of origin:iceland
+(0.013333333333333334)	license:gnu gpl ->! country of origin:germany
+(0.013333333333333334)	license:gnu gpl ->! country of origin:finland
+(0.013333333333333334)	license:gnu gpl ->! country of origin:czech republic
+(0.013333333333333334)	license:gnu gpl ->! country of origin:cyprus
+(0.013333333333333334)	license:gnu gpl ->! country of origin:china
+(0.013333333333333334)	license:gnu gpl ->! country of origin:brazil
+(0.013333333333333334)	license:gnu gpl ->! country of origin:belarus
+(0.013333333333333334)	ips ->! price:shareware
+(0.013333333333333334)	ips ->! license:gnu gpl
+(0.013333333333333334)	ips ->! first release:2013
+(0.013333333333333334)	ips ->! first release:2011
+(0.013333333333333334)	ips ->! first release:*
+(0.013333333333333334)	ips ->! country of origin:turkey
+(0.013333333333333334)	ips ->! country of origin:south korea
+(0.013333333333333334)	ips ->! country of origin:iceland
+(0.013333333333333334)	ips ->! country of origin:brazil
+(0.013333333333333334)	ips ->! country of origin:belarus
+(0.013333333333333334)	ips ->! company:zemana
+(0.013333333333333334)	ips ->! company:virusblokada
+(0.013333333333333334)	ips ->! company:symantec (originally pc tools)
+(0.013333333333333334)	ips ->! company:strayspark computing
+(0.013333333333333334)	ips ->! company:quick heal
+(0.013333333333333334)	ips ->! company:qihoo 360
+(0.013333333333333334)	ips ->! company:psafe
+(0.013333333333333334)	ips ->! company:nano security
+(0.013333333333333334)	ips ->! company:microsoft
+(0.013333333333333334)	ips ->! company:kingsoft
+(0.013333333333333334)	ips ->! company:is3
+(0.013333333333333334)	ips ->! company:iolo technologies
+(0.013333333333333334)	ips ->! company:iobit
+(0.013333333333333334)	ips ->! company:ikarus
+(0.013333333333333334)	ips ->! company:frisk software
+(0.013333333333333334)	ips ->! company:fortinet
+(0.013333333333333334)	ips ->! company:cysec
+(0.013333333333333334)	ips ->! company:clamwin
+(0.013333333333333334)	ips ->! company:cisco (originally immunet)
+(0.013333333333333334)	ips ->! company:ahnlab
+(0.013333333333333334)	ids ->! price:shareware
+(0.013333333333333334)	ids ->! license:gnu gpl
+(0.013333333333333334)	ids ->! first release:2013
+(0.013333333333333334)	ids ->! first release:2011
+(0.013333333333333334)	ids ->! first release:1998
+(0.013333333333333334)	ids ->! first release:*
+(0.013333333333333334)	ids ->! country of origin:turkey
+(0.013333333333333334)	ids ->! country of origin:south korea
+(0.013333333333333334)	ids ->! country of origin:iceland
+(0.013333333333333334)	ids ->! country of origin:brazil
+(0.013333333333333334)	ids ->! country of origin:belarus
+(0.013333333333333334)	ids ->! company:zemana
+(0.013333333333333334)	ids ->! company:virusblokada
+(0.013333333333333334)	ids ->! company:symantec (originally pc tools)
+(0.013333333333333334)	ids ->! company:strayspark computing
+(0.013333333333333334)	ids ->! company:qihoo 360
+(0.013333333333333334)	ids ->! company:psafe
+(0.013333333333333334)	ids ->! company:nano security
+(0.013333333333333334)	ids ->! company:microsoft
+(0.013333333333333334)	ids ->! company:kingsoft
+(0.013333333333333334)	ids ->! company:is3
+(0.013333333333333334)	ids ->! company:iolo technologies
+(0.013333333333333334)	ids ->! company:iobit
+(0.013333333333333334)	ids ->! company:ikarus
+(0.013333333333333334)	ids ->! company:frisk software
+(0.013333333333333334)	ids ->! company:fortinet
+(0.013333333333333334)	ids ->! company:cysec
+(0.013333333333333334)	ids ->! company:clamwin
+(0.013333333333333334)	ids ->! company:cisco (originally immunet)
+(0.013333333333333334)	ids ->! company:ahnlab
+(0.013333333333333334)	heuristics ->! price:shareware
+(0.013333333333333334)	heuristics ->! first release:*
+(0.013333333333333334)	heuristics ->! country of origin:turkey
+(0.013333333333333334)	heuristics ->! country of origin:belarus
+(0.013333333333333334)	heuristics ->! company:zemana
+(0.013333333333333334)	heuristics ->! company:virusblokada
+(0.013333333333333334)	heuristics ->! company:symantec (originally pc tools)
+(0.013333333333333334)	heuristics ->! company:strayspark computing
+(0.013333333333333334)	heuristics ->! company:microsoft
+(0.013333333333333334)	heuristics ->! company:kingsoft
+(0.013333333333333334)	heuristics ->! company:is3
+(0.013333333333333334)	heuristics ->! company:iolo technologies
+(0.013333333333333334)	heuristics ->! company:iobit
+(0.013333333333333334)	heuristics ->! company:fortinet
+(0.013333333333333334)	heuristics ->! company:cysec
+(0.013333333333333334)	heuristics ->! company:cisco (originally immunet)
+(0.013333333333333334)	first release:[2012-2013] ->! country of origin:brazil
+(0.013333333333333334)	first release:[2011-2013] ->! country of origin:belarus
+(0.013333333333333334)	first release:[1990-2013] ->! country of origin:iceland
+(0.013333333333333334)	first release:[1989-2013] ->! country of origin:south korea
+(0.013333333333333334)	first release:[1987-2013] ->! country of origin:turkey
+(0.013333333333333334)	first release:[1987-2010] ->! country of origin:brazil
+(0.013333333333333334)	first release:[1987-2009] ->! country of origin:belarus
+(0.013333333333333334)	first release:[1987-1988] ->! country of origin:iceland
+(0.013333333333333334)	first release:2013 ->! country of origin:united states
+(0.013333333333333334)	first release:2013 ->! country of origin:italy
+(0.013333333333333334)	first release:2013 ->! country of origin:czech republic
+(0.013333333333333334)	first release:2011 ->! country of origin:united states
+(0.013333333333333334)	first release:1987 ->! country of origin:south korea
+(0.013333333333333334)	first release:* ->! country of origin:united states
+(0.013333333333333334)	first release:* ->! country of origin:united kingdom
+(0.013333333333333334)	first release:* ->! country of origin:spain
+(0.013333333333333334)	first release:* ->! country of origin:south korea
+(0.013333333333333334)	first release:* ->! country of origin:slovakia
+(0.013333333333333334)	first release:* ->! country of origin:russia
+(0.013333333333333334)	first release:* ->! country of origin:romania
+(0.013333333333333334)	first release:* ->! country of origin:malta
+(0.013333333333333334)	first release:* ->! country of origin:japan
+(0.013333333333333334)	first release:* ->! country of origin:italy
+(0.013333333333333334)	first release:* ->! country of origin:india
+(0.013333333333333334)	first release:* ->! country of origin:iceland
+(0.013333333333333334)	first release:* ->! country of origin:germany
+(0.013333333333333334)	first release:* ->! country of origin:finland
+(0.013333333333333334)	first release:* ->! country of origin:czech republic
+(0.013333333333333334)	first release:* ->! country of origin:cyprus
+(0.013333333333333334)	first release:* ->! country of origin:china
+(0.013333333333333334)	first release:* ->! country of origin:brazil
+(0.013333333333333334)	first release:* ->! country of origin:belarus
+(0.013333333333333334)	first release:* ->! country of origin:australia
+(0.013333333333333334)	firewall ->! license:gnu gpl
+(0.013333333333333334)	firewall ->! first release:2013
+(0.013333333333333334)	firewall ->! first release:2011
+(0.013333333333333334)	firewall ->! first release:1989
+(0.013333333333333334)	firewall ->! first release:*
+(0.013333333333333334)	firewall ->! country of origin:turkey
+(0.013333333333333334)	firewall ->! country of origin:south korea
+(0.013333333333333334)	firewall ->! country of origin:iceland
+(0.013333333333333334)	firewall ->! country of origin:brazil
+(0.013333333333333334)	firewall ->! country of origin:belarus
+(0.013333333333333334)	firewall ->! company:zemana
+(0.013333333333333334)	firewall ->! company:virusblokada
+(0.013333333333333334)	firewall ->! company:symantec (originally pc tools)
+(0.013333333333333334)	firewall ->! company:strayspark computing
+(0.013333333333333334)	firewall ->! company:qihoo 360
+(0.013333333333333334)	firewall ->! company:psafe
+(0.013333333333333334)	firewall ->! company:nano security
+(0.013333333333333334)	firewall ->! company:microsoft
+(0.013333333333333334)	firewall ->! company:is3
+(0.013333333333333334)	firewall ->! company:iolo technologies
+(0.013333333333333334)	firewall ->! company:iobit
+(0.013333333333333334)	firewall ->! company:ikarus
+(0.013333333333333334)	firewall ->! company:frisk software
+(0.013333333333333334)	firewall ->! company:fortinet
+(0.013333333333333334)	firewall ->! company:cysec
+(0.013333333333333334)	firewall ->! company:clamwin
+(0.013333333333333334)	firewall ->! company:cisco (originally immunet)
+(0.013333333333333334)	firewall ->! company:ahnlab
+(0.013333333333333334)	email security ->! price:shareware
+(0.013333333333333334)	email security ->! first release:2013
+(0.013333333333333334)	email security ->! first release:2011
+(0.013333333333333334)	email security ->! first release:*
+(0.013333333333333334)	email security ->! country of origin:turkey
+(0.013333333333333334)	email security ->! country of origin:brazil
+(0.013333333333333334)	email security ->! country of origin:belarus
+(0.013333333333333334)	email security ->! company:zemana
+(0.013333333333333334)	email security ->! company:virusblokada
+(0.013333333333333334)	email security ->! company:symantec (originally pc tools)
+(0.013333333333333334)	email security ->! company:strayspark computing
+(0.013333333333333334)	email security ->! company:quick heal
+(0.013333333333333334)	email security ->! company:qihoo 360
+(0.013333333333333334)	email security ->! company:psafe
+(0.013333333333333334)	email security ->! company:microsoft
+(0.013333333333333334)	email security ->! company:kingsoft
+(0.013333333333333334)	email security ->! company:is3
+(0.013333333333333334)	email security ->! company:iolo technologies
+(0.013333333333333334)	email security ->! company:iobit
+(0.013333333333333334)	email security ->! company:fortinet
+(0.013333333333333334)	company:zemana ->! price:shareware
+(0.013333333333333334)	company:zemana ->! price:non-free
+(0.013333333333333334)	company:zemana ->! price:free
+(0.013333333333333334)	company:zemana ->! license:gnu gpl
+(0.013333333333333334)	company:zemana ->! first release:[1987-2013]
+(0.013333333333333334)	company:zemana ->! country of origin:united states
+(0.013333333333333334)	company:zemana ->! country of origin:united kingdom
+(0.013333333333333334)	company:zemana ->! country of origin:spain
+(0.013333333333333334)	company:zemana ->! country of origin:south korea
+(0.013333333333333334)	company:zemana ->! country of origin:slovakia
+(0.013333333333333334)	company:zemana ->! country of origin:russia
+(0.013333333333333334)	company:zemana ->! country of origin:romania
+(0.013333333333333334)	company:zemana ->! country of origin:malta
+(0.013333333333333334)	company:zemana ->! country of origin:japan
+(0.013333333333333334)	company:zemana ->! country of origin:italy
+(0.013333333333333334)	company:zemana ->! country of origin:india
+(0.013333333333333334)	company:zemana ->! country of origin:iceland
+(0.013333333333333334)	company:zemana ->! country of origin:germany
+(0.013333333333333334)	company:zemana ->! country of origin:finland
+(0.013333333333333334)	company:zemana ->! country of origin:czech republic
+(0.013333333333333334)	company:zemana ->! country of origin:cyprus
+(0.013333333333333334)	company:zemana ->! country of origin:china
+(0.013333333333333334)	company:zemana ->! country of origin:brazil
+(0.013333333333333334)	company:zemana ->! country of origin:belarus
+(0.013333333333333334)	company:zemana ->! country of origin:australia
+(0.013333333333333334)	company:webroot ->! price:shareware
+(0.013333333333333334)	company:webroot ->! license:gnu gpl
+(0.013333333333333334)	company:webroot ->! first release:*
+(0.013333333333333334)	company:webroot ->! country of origin:turkey
+(0.013333333333333334)	company:webroot ->! country of origin:south korea
+(0.013333333333333334)	company:webroot ->! country of origin:iceland
+(0.013333333333333334)	company:webroot ->! country of origin:brazil
+(0.013333333333333334)	company:webroot ->! country of origin:belarus
+(0.013333333333333334)	company:virusblokada ->! price:trialware
+(0.013333333333333334)	company:virusblokada ->! price:shareware
+(0.013333333333333334)	company:virusblokada ->! price:free
+(0.013333333333333334)	company:virusblokada ->! license:gnu gpl
+(0.013333333333333334)	company:virusblokada ->! first release:[2011-2013]
+(0.013333333333333334)	company:virusblokada ->! first release:[1987-2009]
+(0.013333333333333334)	company:virusblokada ->! first release:*
+(0.013333333333333334)	company:virusblokada ->! country of origin:united states
+(0.013333333333333334)	company:virusblokada ->! country of origin:united kingdom
+(0.013333333333333334)	company:virusblokada ->! country of origin:turkey
+(0.013333333333333334)	company:virusblokada ->! country of origin:spain
+(0.013333333333333334)	company:virusblokada ->! country of origin:south korea
+(0.013333333333333334)	company:virusblokada ->! country of origin:slovakia
+(0.013333333333333334)	company:virusblokada ->! country of origin:russia
+(0.013333333333333334)	company:virusblokada ->! country of origin:romania
+(0.013333333333333334)	company:virusblokada ->! country of origin:malta
+(0.013333333333333334)	company:virusblokada ->! country of origin:japan
+(0.013333333333333334)	company:virusblokada ->! country of origin:italy
+(0.013333333333333334)	company:virusblokada ->! country of origin:india
+(0.013333333333333334)	company:virusblokada ->! country of origin:iceland
+(0.013333333333333334)	company:virusblokada ->! country of origin:germany
+(0.013333333333333334)	company:virusblokada ->! country of origin:finland
+(0.013333333333333334)	company:virusblokada ->! country of origin:czech republic
+(0.013333333333333334)	company:virusblokada ->! country of origin:cyprus
+(0.013333333333333334)	company:virusblokada ->! country of origin:china
+(0.013333333333333334)	company:virusblokada ->! country of origin:brazil
+(0.013333333333333334)	company:virusblokada ->! country of origin:australia
+(0.013333333333333334)	company:trustport ->! price:shareware
+(0.013333333333333334)	company:trustport ->! license:gnu gpl
+(0.013333333333333334)	company:trustport ->! first release:*
+(0.013333333333333334)	company:trustport ->! country of origin:turkey
+(0.013333333333333334)	company:trustport ->! country of origin:south korea
+(0.013333333333333334)	company:trustport ->! country of origin:iceland
+(0.013333333333333334)	company:trustport ->! country of origin:brazil
+(0.013333333333333334)	company:trustport ->! country of origin:belarus
+(0.013333333333333334)	company:trend micro ->! price:shareware
+(0.013333333333333334)	company:trend micro ->! license:gnu gpl
+(0.013333333333333334)	company:trend micro ->! first release:*
+(0.013333333333333334)	company:trend micro ->! country of origin:turkey
+(0.013333333333333334)	company:trend micro ->! country of origin:south korea
+(0.013333333333333334)	company:trend micro ->! country of origin:iceland
+(0.013333333333333334)	company:trend micro ->! country of origin:brazil
+(0.013333333333333334)	company:trend micro ->! country of origin:belarus
+(0.013333333333333334)	company:tg soft ->! price:shareware
+(0.013333333333333334)	company:tg soft ->! license:gnu gpl
+(0.013333333333333334)	company:tg soft ->! first release:*
+(0.013333333333333334)	company:tg soft ->! country of origin:turkey
+(0.013333333333333334)	company:tg soft ->! country of origin:south korea
+(0.013333333333333334)	company:tg soft ->! country of origin:iceland
+(0.013333333333333334)	company:tg soft ->! country of origin:brazil
+(0.013333333333333334)	company:tg soft ->! country of origin:belarus
+(0.013333333333333334)	company:symantec ->! price:shareware
+(0.013333333333333334)	company:symantec ->! license:gnu gpl
+(0.013333333333333334)	company:symantec ->! first release:*
+(0.013333333333333334)	company:symantec ->! country of origin:turkey
+(0.013333333333333334)	company:symantec ->! country of origin:south korea
+(0.013333333333333334)	company:symantec ->! country of origin:iceland
+(0.013333333333333334)	company:symantec ->! country of origin:brazil
+(0.013333333333333334)	company:symantec ->! country of origin:belarus
+(0.013333333333333334)	company:symantec (originally pc tools) ->! first release:[1987-2002]
+(0.013333333333333334)	company:strayspark computing ->! price:trialware
+(0.013333333333333334)	company:strayspark computing ->! price:shareware
+(0.013333333333333334)	company:strayspark computing ->! price:free
+(0.013333333333333334)	company:strayspark computing ->! license:gnu gpl
+(0.013333333333333334)	company:strayspark computing ->! first release:[2003-2013]
+(0.013333333333333334)	company:strayspark computing ->! first release:[1987-2000]
+(0.013333333333333334)	company:strayspark computing ->! first release:*
+(0.013333333333333334)	company:strayspark computing ->! country of origin:united states
+(0.013333333333333334)	company:strayspark computing ->! country of origin:turkey
+(0.013333333333333334)	company:strayspark computing ->! country of origin:spain
+(0.013333333333333334)	company:strayspark computing ->! country of origin:south korea
+(0.013333333333333334)	company:strayspark computing ->! country of origin:slovakia
+(0.013333333333333334)	company:strayspark computing ->! country of origin:russia
+(0.013333333333333334)	company:strayspark computing ->! country of origin:romania
+(0.013333333333333334)	company:strayspark computing ->! country of origin:malta
+(0.013333333333333334)	company:strayspark computing ->! country of origin:japan
+(0.013333333333333334)	company:strayspark computing ->! country of origin:italy
+(0.013333333333333334)	company:strayspark computing ->! country of origin:india
+(0.013333333333333334)	company:strayspark computing ->! country of origin:iceland
+(0.013333333333333334)	company:strayspark computing ->! country of origin:germany
+(0.013333333333333334)	company:strayspark computing ->! country of origin:finland
+(0.013333333333333334)	company:strayspark computing ->! country of origin:czech republic
+(0.013333333333333334)	company:strayspark computing ->! country of origin:cyprus
+(0.013333333333333334)	company:strayspark computing ->! country of origin:china
+(0.013333333333333334)	company:strayspark computing ->! country of origin:brazil
+(0.013333333333333334)	company:strayspark computing ->! country of origin:belarus
+(0.013333333333333334)	company:strayspark computing ->! country of origin:australia
+(0.013333333333333334)	company:sophos ->! price:shareware
+(0.013333333333333334)	company:sophos ->! license:gnu gpl
+(0.013333333333333334)	company:sophos ->! first release:*
+(0.013333333333333334)	company:sophos ->! country of origin:turkey
+(0.013333333333333334)	company:sophos ->! country of origin:south korea
+(0.013333333333333334)	company:sophos ->! country of origin:iceland
+(0.013333333333333334)	company:sophos ->! country of origin:brazil
+(0.013333333333333334)	company:sophos ->! country of origin:belarus
+(0.013333333333333334)	company:scandium security ->! price:shareware
+(0.013333333333333334)	company:scandium security ->! license:gnu gpl
+(0.013333333333333334)	company:scandium security ->! first release:*
+(0.013333333333333334)	company:scandium security ->! country of origin:turkey
+(0.013333333333333334)	company:scandium security ->! country of origin:south korea
+(0.013333333333333334)	company:scandium security ->! country of origin:iceland
+(0.013333333333333334)	company:scandium security ->! country of origin:brazil
+(0.013333333333333334)	company:scandium security ->! country of origin:belarus
+(0.013333333333333334)	company:quick heal ->! price:trialware
+(0.013333333333333334)	company:quick heal ->! price:shareware
+(0.013333333333333334)	company:quick heal ->! price:free
+(0.013333333333333334)	company:quick heal ->! license:gnu gpl
+(0.013333333333333334)	company:quick heal ->! first release:[1996-2013]
+(0.013333333333333334)	company:quick heal ->! first release:[1987-1994]
+(0.013333333333333334)	company:quick heal ->! first release:*
+(0.013333333333333334)	company:quick heal ->! country of origin:united states
+(0.013333333333333334)	company:quick heal ->! country of origin:united kingdom
+(0.013333333333333334)	company:quick heal ->! country of origin:turkey
+(0.013333333333333334)	company:quick heal ->! country of origin:spain
+(0.013333333333333334)	company:quick heal ->! country of origin:south korea
+(0.013333333333333334)	company:quick heal ->! country of origin:slovakia
+(0.013333333333333334)	company:quick heal ->! country of origin:russia
+(0.013333333333333334)	company:quick heal ->! country of origin:romania
+(0.013333333333333334)	company:quick heal ->! country of origin:malta
+(0.013333333333333334)	company:quick heal ->! country of origin:japan
+(0.013333333333333334)	company:quick heal ->! country of origin:italy
+(0.013333333333333334)	company:quick heal ->! country of origin:iceland
+(0.013333333333333334)	company:quick heal ->! country of origin:germany
+(0.013333333333333334)	company:quick heal ->! country of origin:finland
+(0.013333333333333334)	company:quick heal ->! country of origin:czech republic
+(0.013333333333333334)	company:quick heal ->! country of origin:cyprus
+(0.013333333333333334)	company:quick heal ->! country of origin:china
+(0.013333333333333334)	company:quick heal ->! country of origin:brazil
+(0.013333333333333334)	company:quick heal ->! country of origin:belarus
+(0.013333333333333334)	company:quick heal ->! country of origin:australia
+(0.013333333333333334)	company:qihoo 360 ->! price:trialware
+(0.013333333333333334)	company:qihoo 360 ->! price:shareware
+(0.013333333333333334)	company:qihoo 360 ->! price:non-free
+(0.013333333333333334)	company:qihoo 360 ->! license:gnu gpl
+(0.013333333333333334)	company:qihoo 360 ->! first release:[2007-2013]
+(0.013333333333333334)	company:qihoo 360 ->! first release:[1987-2004]
+(0.013333333333333334)	company:qihoo 360 ->! first release:*
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:united states
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:united kingdom
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:turkey
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:spain
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:south korea
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:slovakia
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:russia
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:romania
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:malta
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:japan
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:italy
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:india
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:iceland
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:germany
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:finland
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:czech republic
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:cyprus
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:brazil
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:belarus
+(0.013333333333333334)	company:qihoo 360 ->! country of origin:australia
+(0.013333333333333334)	company:psafe ->! price:trialware
+(0.013333333333333334)	company:psafe ->! price:shareware
+(0.013333333333333334)	company:psafe ->! price:non-free
+(0.013333333333333334)	company:psafe ->! license:gnu gpl
+(0.013333333333333334)	company:psafe ->! first release:[2012-2013]
+(0.013333333333333334)	company:psafe ->! first release:[1987-2010]
+(0.013333333333333334)	company:psafe ->! first release:*
+(0.013333333333333334)	company:psafe ->! country of origin:united states
+(0.013333333333333334)	company:psafe ->! country of origin:united kingdom
+(0.013333333333333334)	company:psafe ->! country of origin:turkey
+(0.013333333333333334)	company:psafe ->! country of origin:spain
+(0.013333333333333334)	company:psafe ->! country of origin:south korea
+(0.013333333333333334)	company:psafe ->! country of origin:slovakia
+(0.013333333333333334)	company:psafe ->! country of origin:russia
+(0.013333333333333334)	company:psafe ->! country of origin:romania
+(0.013333333333333334)	company:psafe ->! country of origin:malta
+(0.013333333333333334)	company:psafe ->! country of origin:japan
+(0.013333333333333334)	company:psafe ->! country of origin:italy
+(0.013333333333333334)	company:psafe ->! country of origin:india
+(0.013333333333333334)	company:psafe ->! country of origin:iceland
+(0.013333333333333334)	company:psafe ->! country of origin:germany
+(0.013333333333333334)	company:psafe ->! country of origin:finland
+(0.013333333333333334)	company:psafe ->! country of origin:czech republic
+(0.013333333333333334)	company:psafe ->! country of origin:cyprus
+(0.013333333333333334)	company:psafe ->! country of origin:china
+(0.013333333333333334)	company:psafe ->! country of origin:belarus
+(0.013333333333333334)	company:psafe ->! country of origin:australia
+(0.013333333333333334)	company:panda security ->! price:shareware
+(0.013333333333333334)	company:panda security ->! license:gnu gpl
+(0.013333333333333334)	company:panda security ->! first release:*
+(0.013333333333333334)	company:panda security ->! country of origin:turkey
+(0.013333333333333334)	company:panda security ->! country of origin:south korea
+(0.013333333333333334)	company:panda security ->! country of origin:iceland
+(0.013333333333333334)	company:panda security ->! country of origin:brazil
+(0.013333333333333334)	company:panda security ->! country of origin:belarus
+(0.013333333333333334)	company:nano security ->! price:trialware
+(0.013333333333333334)	company:nano security ->! price:shareware
+(0.013333333333333334)	company:nano security ->! price:non-free
+(0.013333333333333334)	company:nano security ->! license:gnu gpl
+(0.013333333333333334)	company:nano security ->! first release:[2010-2013]
+(0.013333333333333334)	company:nano security ->! first release:[1987-2008]
+(0.013333333333333334)	company:nano security ->! first release:*
+(0.013333333333333334)	company:nano security ->! country of origin:united states
+(0.013333333333333334)	company:nano security ->! country of origin:united kingdom
+(0.013333333333333334)	company:nano security ->! country of origin:turkey
+(0.013333333333333334)	company:nano security ->! country of origin:spain
+(0.013333333333333334)	company:nano security ->! country of origin:south korea
+(0.013333333333333334)	company:nano security ->! country of origin:slovakia
+(0.013333333333333334)	company:nano security ->! country of origin:romania
+(0.013333333333333334)	company:nano security ->! country of origin:malta
+(0.013333333333333334)	company:nano security ->! country of origin:japan
+(0.013333333333333334)	company:nano security ->! country of origin:italy
+(0.013333333333333334)	company:nano security ->! country of origin:india
+(0.013333333333333334)	company:nano security ->! country of origin:iceland
+(0.013333333333333334)	company:nano security ->! country of origin:germany
+(0.013333333333333334)	company:nano security ->! country of origin:finland
+(0.013333333333333334)	company:nano security ->! country of origin:czech republic
+(0.013333333333333334)	company:nano security ->! country of origin:cyprus
+(0.013333333333333334)	company:nano security ->! country of origin:china
+(0.013333333333333334)	company:nano security ->! country of origin:brazil
+(0.013333333333333334)	company:nano security ->! country of origin:belarus
+(0.013333333333333334)	company:nano security ->! country of origin:australia
+(0.013333333333333334)	company:microsoft ->! price:trialware
+(0.013333333333333334)	company:microsoft ->! price:shareware
+(0.013333333333333334)	company:microsoft ->! price:non-free
+(0.013333333333333334)	company:microsoft ->! license:gnu gpl
+(0.013333333333333334)	company:microsoft ->! first release:[1987-2011]
+(0.013333333333333334)	company:microsoft ->! first release:2013
+(0.013333333333333334)	company:microsoft ->! first release:*
+(0.013333333333333334)	company:microsoft ->! country of origin:united kingdom
+(0.013333333333333334)	company:microsoft ->! country of origin:turkey
+(0.013333333333333334)	company:microsoft ->! country of origin:spain
+(0.013333333333333334)	company:microsoft ->! country of origin:south korea
+(0.013333333333333334)	company:microsoft ->! country of origin:slovakia
+(0.013333333333333334)	company:microsoft ->! country of origin:russia
+(0.013333333333333334)	company:microsoft ->! country of origin:romania
+(0.013333333333333334)	company:microsoft ->! country of origin:malta
+(0.013333333333333334)	company:microsoft ->! country of origin:japan
+(0.013333333333333334)	company:microsoft ->! country of origin:italy
+(0.013333333333333334)	company:microsoft ->! country of origin:india
+(0.013333333333333334)	company:microsoft ->! country of origin:iceland
+(0.013333333333333334)	company:microsoft ->! country of origin:germany
+(0.013333333333333334)	company:microsoft ->! country of origin:finland
+(0.013333333333333334)	company:microsoft ->! country of origin:czech republic
+(0.013333333333333334)	company:microsoft ->! country of origin:cyprus
+(0.013333333333333334)	company:microsoft ->! country of origin:china
+(0.013333333333333334)	company:microsoft ->! country of origin:brazil
+(0.013333333333333334)	company:microsoft ->! country of origin:belarus
+(0.013333333333333334)	company:microsoft ->! country of origin:australia
+(0.013333333333333334)	company:mcafee ->! price:shareware
+(0.013333333333333334)	company:mcafee ->! license:gnu gpl
+(0.013333333333333334)	company:mcafee ->! first release:*
+(0.013333333333333334)	company:mcafee ->! country of origin:turkey
+(0.013333333333333334)	company:mcafee ->! country of origin:south korea
+(0.013333333333333334)	company:mcafee ->! country of origin:iceland
+(0.013333333333333334)	company:mcafee ->! country of origin:brazil
+(0.013333333333333334)	company:mcafee ->! country of origin:belarus
+(0.013333333333333334)	company:kingsoft ->! price:trialware
+(0.013333333333333334)	company:kingsoft ->! price:non-free
+(0.013333333333333334)	company:kingsoft ->! price:free
+(0.013333333333333334)	company:kingsoft ->! license:gnu gpl
+(0.013333333333333334)	company:kingsoft ->! first release:[2002-2013]
+(0.013333333333333334)	company:kingsoft ->! first release:[1987-1998]
+(0.013333333333333334)	company:kingsoft ->! first release:*
+(0.013333333333333334)	company:kingsoft ->! country of origin:united states
+(0.013333333333333334)	company:kingsoft ->! country of origin:united kingdom
+(0.013333333333333334)	company:kingsoft ->! country of origin:turkey
+(0.013333333333333334)	company:kingsoft ->! country of origin:spain
+(0.013333333333333334)	company:kingsoft ->! country of origin:south korea
+(0.013333333333333334)	company:kingsoft ->! country of origin:slovakia
+(0.013333333333333334)	company:kingsoft ->! country of origin:russia
+(0.013333333333333334)	company:kingsoft ->! country of origin:romania
+(0.013333333333333334)	company:kingsoft ->! country of origin:malta
+(0.013333333333333334)	company:kingsoft ->! country of origin:japan
+(0.013333333333333334)	company:kingsoft ->! country of origin:italy
+(0.013333333333333334)	company:kingsoft ->! country of origin:india
+(0.013333333333333334)	company:kingsoft ->! country of origin:iceland
+(0.013333333333333334)	company:kingsoft ->! country of origin:germany
+(0.013333333333333334)	company:kingsoft ->! country of origin:finland
+(0.013333333333333334)	company:kingsoft ->! country of origin:czech republic
+(0.013333333333333334)	company:kingsoft ->! country of origin:cyprus
+(0.013333333333333334)	company:kingsoft ->! country of origin:brazil
+(0.013333333333333334)	company:kingsoft ->! country of origin:belarus
+(0.013333333333333334)	company:kingsoft ->! country of origin:australia
+(0.013333333333333334)	company:kaspersky lab ->! price:shareware
+(0.013333333333333334)	company:kaspersky lab ->! license:gnu gpl
+(0.013333333333333334)	company:kaspersky lab ->! first release:*
+(0.013333333333333334)	company:kaspersky lab ->! country of origin:turkey
+(0.013333333333333334)	company:kaspersky lab ->! country of origin:south korea
+(0.013333333333333334)	company:kaspersky lab ->! country of origin:iceland
+(0.013333333333333334)	company:kaspersky lab ->! country of origin:brazil
+(0.013333333333333334)	company:kaspersky lab ->! country of origin:belarus
+(0.013333333333333334)	company:k7 computing ->! price:shareware
+(0.013333333333333334)	company:k7 computing ->! license:gnu gpl
+(0.013333333333333334)	company:k7 computing ->! first release:*
+(0.013333333333333334)	company:k7 computing ->! country of origin:turkey
+(0.013333333333333334)	company:k7 computing ->! country of origin:south korea
+(0.013333333333333334)	company:k7 computing ->! country of origin:iceland
+(0.013333333333333334)	company:k7 computing ->! country of origin:brazil
+(0.013333333333333334)	company:k7 computing ->! country of origin:belarus
+(0.013333333333333334)	company:is3 ->! price:shareware
+(0.013333333333333334)	company:is3 ->! price:non-free
+(0.013333333333333334)	company:is3 ->! price:free
+(0.013333333333333334)	company:is3 ->! license:gnu gpl
+(0.013333333333333334)	company:is3 ->! first release:[2004-2013]
+(0.013333333333333334)	company:is3 ->! first release:[1987-2002]
+(0.013333333333333334)	company:is3 ->! first release:*
+(0.013333333333333334)	company:is3 ->! country of origin:united kingdom
+(0.013333333333333334)	company:is3 ->! country of origin:turkey
+(0.013333333333333334)	company:is3 ->! country of origin:spain
+(0.013333333333333334)	company:is3 ->! country of origin:south korea
+(0.013333333333333334)	company:is3 ->! country of origin:slovakia
+(0.013333333333333334)	company:is3 ->! country of origin:russia
+(0.013333333333333334)	company:is3 ->! country of origin:romania
+(0.013333333333333334)	company:is3 ->! country of origin:malta
+(0.013333333333333334)	company:is3 ->! country of origin:japan
+(0.013333333333333334)	company:is3 ->! country of origin:italy
+(0.013333333333333334)	company:is3 ->! country of origin:india
+(0.013333333333333334)	company:is3 ->! country of origin:iceland
+(0.013333333333333334)	company:is3 ->! country of origin:germany
+(0.013333333333333334)	company:is3 ->! country of origin:finland
+(0.013333333333333334)	company:is3 ->! country of origin:czech republic
+(0.013333333333333334)	company:is3 ->! country of origin:cyprus
+(0.013333333333333334)	company:is3 ->! country of origin:china
+(0.013333333333333334)	company:is3 ->! country of origin:brazil
+(0.013333333333333334)	company:is3 ->! country of origin:belarus
+(0.013333333333333334)	company:is3 ->! country of origin:australia
+(0.013333333333333334)	company:iolo technologies ->! price:trialware
+(0.013333333333333334)	company:iolo technologies ->! price:shareware
+(0.013333333333333334)	company:iolo technologies ->! price:free
+(0.013333333333333334)	company:iolo technologies ->! license:gnu gpl
+(0.013333333333333334)	company:iolo technologies ->! first release:[1987-2011]
+(0.013333333333333334)	company:iolo technologies ->! first release:2013
+(0.013333333333333334)	company:iolo technologies ->! first release:*
+(0.013333333333333334)	company:iolo technologies ->! country of origin:united kingdom
+(0.013333333333333334)	company:iolo technologies ->! country of origin:turkey
+(0.013333333333333334)	company:iolo technologies ->! country of origin:spain
+(0.013333333333333334)	company:iolo technologies ->! country of origin:south korea
+(0.013333333333333334)	company:iolo technologies ->! country of origin:slovakia
+(0.013333333333333334)	company:iolo technologies ->! country of origin:russia
+(0.013333333333333334)	company:iolo technologies ->! country of origin:romania
+(0.013333333333333334)	company:iolo technologies ->! country of origin:malta
+(0.013333333333333334)	company:iolo technologies ->! country of origin:japan
+(0.013333333333333334)	company:iolo technologies ->! country of origin:italy
+(0.013333333333333334)	company:iolo technologies ->! country of origin:india
+(0.013333333333333334)	company:iolo technologies ->! country of origin:iceland
+(0.013333333333333334)	company:iolo technologies ->! country of origin:germany
+(0.013333333333333334)	company:iolo technologies ->! country of origin:finland
+(0.013333333333333334)	company:iolo technologies ->! country of origin:czech republic
+(0.013333333333333334)	company:iolo technologies ->! country of origin:cyprus
+(0.013333333333333334)	company:iolo technologies ->! country of origin:china
+(0.013333333333333334)	company:iolo technologies ->! country of origin:brazil
+(0.013333333333333334)	company:iolo technologies ->! country of origin:belarus
+(0.013333333333333334)	company:iolo technologies ->! country of origin:australia
+(0.013333333333333334)	company:iobit ->! price:trialware
+(0.013333333333333334)	company:iobit ->! price:shareware
+(0.013333333333333334)	company:iobit ->! price:non-free
+(0.013333333333333334)	company:iobit ->! license:gnu gpl
+(0.013333333333333334)	company:iobit ->! first release:[2011-2013]
+(0.013333333333333334)	company:iobit ->! first release:[1987-2009]
+(0.013333333333333334)	company:iobit ->! first release:*
+(0.013333333333333334)	company:iobit ->! country of origin:united kingdom
+(0.013333333333333334)	company:iobit ->! country of origin:turkey
+(0.013333333333333334)	company:iobit ->! country of origin:spain
+(0.013333333333333334)	company:iobit ->! country of origin:south korea
+(0.013333333333333334)	company:iobit ->! country of origin:slovakia
+(0.013333333333333334)	company:iobit ->! country of origin:russia
+(0.013333333333333334)	company:iobit ->! country of origin:romania
+(0.013333333333333334)	company:iobit ->! country of origin:malta
+(0.013333333333333334)	company:iobit ->! country of origin:japan
+(0.013333333333333334)	company:iobit ->! country of origin:italy
+(0.013333333333333334)	company:iobit ->! country of origin:india
+(0.013333333333333334)	company:iobit ->! country of origin:iceland
+(0.013333333333333334)	company:iobit ->! country of origin:germany
+(0.013333333333333334)	company:iobit ->! country of origin:finland
+(0.013333333333333334)	company:iobit ->! country of origin:czech republic
+(0.013333333333333334)	company:iobit ->! country of origin:cyprus
+(0.013333333333333334)	company:iobit ->! country of origin:china
+(0.013333333333333334)	company:iobit ->! country of origin:brazil
+(0.013333333333333334)	company:iobit ->! country of origin:belarus
+(0.013333333333333334)	company:iobit ->! country of origin:australia
+(0.013333333333333334)	company:ikarus ->! price:trialware
+(0.013333333333333334)	company:ikarus ->! price:shareware
+(0.013333333333333334)	company:ikarus ->! price:free
+(0.013333333333333334)	company:ikarus ->! license:gnu gpl
+(0.013333333333333334)	company:ikarus ->! first release:[2000-2013]
+(0.013333333333333334)	company:ikarus ->! first release:[1987-1997]
+(0.013333333333333334)	company:ikarus ->! first release:*
+(0.013333333333333334)	company:ikarus ->! country of origin:united states
+(0.013333333333333334)	company:ikarus ->! country of origin:united kingdom
+(0.013333333333333334)	company:ikarus ->! country of origin:turkey
+(0.013333333333333334)	company:ikarus ->! country of origin:spain
+(0.013333333333333334)	company:ikarus ->! country of origin:south korea
+(0.013333333333333334)	company:ikarus ->! country of origin:slovakia
+(0.013333333333333334)	company:ikarus ->! country of origin:russia
+(0.013333333333333334)	company:ikarus ->! country of origin:romania
+(0.013333333333333334)	company:ikarus ->! country of origin:malta
+(0.013333333333333334)	company:ikarus ->! country of origin:japan
+(0.013333333333333334)	company:ikarus ->! country of origin:italy
+(0.013333333333333334)	company:ikarus ->! country of origin:india
+(0.013333333333333334)	company:ikarus ->! country of origin:iceland
+(0.013333333333333334)	company:ikarus ->! country of origin:germany
+(0.013333333333333334)	company:ikarus ->! country of origin:finland
+(0.013333333333333334)	company:ikarus ->! country of origin:czech republic
+(0.013333333333333334)	company:ikarus ->! country of origin:cyprus
+(0.013333333333333334)	company:ikarus ->! country of origin:china
+(0.013333333333333334)	company:ikarus ->! country of origin:brazil
+(0.013333333333333334)	company:ikarus ->! country of origin:belarus
+(0.013333333333333334)	company:gfi software ->! price:shareware
+(0.013333333333333334)	company:gfi software ->! license:gnu gpl
+(0.013333333333333334)	company:gfi software ->! first release:*
+(0.013333333333333334)	company:gfi software ->! country of origin:turkey
+(0.013333333333333334)	company:gfi software ->! country of origin:south korea
+(0.013333333333333334)	company:gfi software ->! country of origin:iceland
+(0.013333333333333334)	company:gfi software ->! country of origin:brazil
+(0.013333333333333334)	company:gfi software ->! country of origin:belarus
+(0.013333333333333334)	company:g data software ->! price:shareware
+(0.013333333333333334)	company:g data software ->! license:gnu gpl
+(0.013333333333333334)	company:g data software ->! first release:*
+(0.013333333333333334)	company:g data software ->! country of origin:turkey
+(0.013333333333333334)	company:g data software ->! country of origin:south korea
+(0.013333333333333334)	company:g data software ->! country of origin:iceland
+(0.013333333333333334)	company:g data software ->! country of origin:brazil
+(0.013333333333333334)	company:g data software ->! country of origin:belarus
+(0.013333333333333334)	company:frisk software ->! price:shareware
+(0.013333333333333334)	company:frisk software ->! price:non-free
+(0.013333333333333334)	company:frisk software ->! price:free
+(0.013333333333333334)	company:frisk software ->! license:gnu gpl
+(0.013333333333333334)	company:frisk software ->! first release:[1990-2013]
+(0.013333333333333334)	company:frisk software ->! first release:[1987-1988]
+(0.013333333333333334)	company:frisk software ->! first release:*
+(0.013333333333333334)	company:frisk software ->! country of origin:united states
+(0.013333333333333334)	company:frisk software ->! country of origin:united kingdom
+(0.013333333333333334)	company:frisk software ->! country of origin:turkey
+(0.013333333333333334)	company:frisk software ->! country of origin:spain
+(0.013333333333333334)	company:frisk software ->! country of origin:south korea
+(0.013333333333333334)	company:frisk software ->! country of origin:slovakia
+(0.013333333333333334)	company:frisk software ->! country of origin:russia
+(0.013333333333333334)	company:frisk software ->! country of origin:romania
+(0.013333333333333334)	company:frisk software ->! country of origin:malta
+(0.013333333333333334)	company:frisk software ->! country of origin:japan
+(0.013333333333333334)	company:frisk software ->! country of origin:italy
+(0.013333333333333334)	company:frisk software ->! country of origin:india
+(0.013333333333333334)	company:frisk software ->! country of origin:germany
+(0.013333333333333334)	company:frisk software ->! country of origin:finland
+(0.013333333333333334)	company:frisk software ->! country of origin:czech republic
+(0.013333333333333334)	company:frisk software ->! country of origin:cyprus
+(0.013333333333333334)	company:frisk software ->! country of origin:china
+(0.013333333333333334)	company:frisk software ->! country of origin:brazil
+(0.013333333333333334)	company:frisk software ->! country of origin:belarus
+(0.013333333333333334)	company:frisk software ->! country of origin:australia
+(0.013333333333333334)	company:fortinet ->! price:trialware
+(0.013333333333333334)	company:fortinet ->! price:shareware
+(0.013333333333333334)	company:fortinet ->! price:free
+(0.013333333333333334)	company:fortinet ->! license:gnu gpl
+(0.013333333333333334)	company:fortinet ->! first release:[2006-2013]
+(0.013333333333333334)	company:fortinet ->! first release:[1987-2003]
+(0.013333333333333334)	company:fortinet ->! first release:*
+(0.013333333333333334)	company:fortinet ->! country of origin:united kingdom
+(0.013333333333333334)	company:fortinet ->! country of origin:turkey
+(0.013333333333333334)	company:fortinet ->! country of origin:spain
+(0.013333333333333334)	company:fortinet ->! country of origin:south korea
+(0.013333333333333334)	company:fortinet ->! country of origin:slovakia
+(0.013333333333333334)	company:fortinet ->! country of origin:russia
+(0.013333333333333334)	company:fortinet ->! country of origin:romania
+(0.013333333333333334)	company:fortinet ->! country of origin:malta
+(0.013333333333333334)	company:fortinet ->! country of origin:japan
+(0.013333333333333334)	company:fortinet ->! country of origin:italy
+(0.013333333333333334)	company:fortinet ->! country of origin:india
+(0.013333333333333334)	company:fortinet ->! country of origin:iceland
+(0.013333333333333334)	company:fortinet ->! country of origin:germany
+(0.013333333333333334)	company:fortinet ->! country of origin:finland
+(0.013333333333333334)	company:fortinet ->! country of origin:czech republic
+(0.013333333333333334)	company:fortinet ->! country of origin:cyprus
+(0.013333333333333334)	company:fortinet ->! country of origin:china
+(0.013333333333333334)	company:fortinet ->! country of origin:brazil
+(0.013333333333333334)	company:fortinet ->! country of origin:belarus
+(0.013333333333333334)	company:fortinet ->! country of origin:australia
+(0.013333333333333334)	company:f-secure ->! price:shareware
+(0.013333333333333334)	company:f-secure ->! license:gnu gpl
+(0.013333333333333334)	company:f-secure ->! first release:*
+(0.013333333333333334)	company:f-secure ->! country of origin:turkey
+(0.013333333333333334)	company:f-secure ->! country of origin:south korea
+(0.013333333333333334)	company:f-secure ->! country of origin:iceland
+(0.013333333333333334)	company:f-secure ->! country of origin:brazil
+(0.013333333333333334)	company:f-secure ->! country of origin:belarus
+(0.013333333333333334)	company:eset ->! price:shareware
+(0.013333333333333334)	company:eset ->! license:gnu gpl
+(0.013333333333333334)	company:eset ->! first release:*
+(0.013333333333333334)	company:eset ->! country of origin:turkey
+(0.013333333333333334)	company:eset ->! country of origin:south korea
+(0.013333333333333334)	company:eset ->! country of origin:iceland
+(0.013333333333333334)	company:eset ->! country of origin:brazil
+(0.013333333333333334)	company:eset ->! country of origin:belarus
+(0.013333333333333334)	company:dr. web ->! price:shareware
+(0.013333333333333334)	company:dr. web ->! license:gnu gpl
+(0.013333333333333334)	company:dr. web ->! first release:*
+(0.013333333333333334)	company:dr. web ->! country of origin:turkey
+(0.013333333333333334)	company:dr. web ->! country of origin:south korea
+(0.013333333333333334)	company:dr. web ->! country of origin:iceland
+(0.013333333333333334)	company:dr. web ->! country of origin:brazil
+(0.013333333333333334)	company:dr. web ->! country of origin:belarus
+(0.013333333333333334)	company:cysec ->! price:trialware
+(0.013333333333333334)	company:cysec ->! price:shareware
+(0.013333333333333334)	company:cysec ->! price:non-free
+(0.013333333333333334)	company:cysec ->! license:gnu gpl
+(0.013333333333333334)	company:cysec ->! first release:[2008-2013]
+(0.013333333333333334)	company:cysec ->! first release:[1987-2006]
+(0.013333333333333334)	company:cysec ->! first release:*
+(0.013333333333333334)	company:cysec ->! country of origin:united states
+(0.013333333333333334)	company:cysec ->! country of origin:turkey
+(0.013333333333333334)	company:cysec ->! country of origin:spain
+(0.013333333333333334)	company:cysec ->! country of origin:south korea
+(0.013333333333333334)	company:cysec ->! country of origin:slovakia
+(0.013333333333333334)	company:cysec ->! country of origin:russia
+(0.013333333333333334)	company:cysec ->! country of origin:romania
+(0.013333333333333334)	company:cysec ->! country of origin:malta
+(0.013333333333333334)	company:cysec ->! country of origin:japan
+(0.013333333333333334)	company:cysec ->! country of origin:italy
+(0.013333333333333334)	company:cysec ->! country of origin:india
+(0.013333333333333334)	company:cysec ->! country of origin:iceland
+(0.013333333333333334)	company:cysec ->! country of origin:germany
+(0.013333333333333334)	company:cysec ->! country of origin:finland
+(0.013333333333333334)	company:cysec ->! country of origin:czech republic
+(0.013333333333333334)	company:cysec ->! country of origin:cyprus
+(0.013333333333333334)	company:cysec ->! country of origin:china
+(0.013333333333333334)	company:cysec ->! country of origin:brazil
+(0.013333333333333334)	company:cysec ->! country of origin:belarus
+(0.013333333333333334)	company:cysec ->! country of origin:australia
+(0.013333333333333334)	company:comodo group ->! price:shareware
+(0.013333333333333334)	company:comodo group ->! license:gnu gpl
+(0.013333333333333334)	company:comodo group ->! first release:*
+(0.013333333333333334)	company:comodo group ->! country of origin:turkey
+(0.013333333333333334)	company:comodo group ->! country of origin:south korea
+(0.013333333333333334)	company:comodo group ->! country of origin:iceland
+(0.013333333333333334)	company:comodo group ->! country of origin:brazil
+(0.013333333333333334)	company:comodo group ->! country of origin:belarus
+(0.013333333333333334)	company:clamwin ->! price:trialware
+(0.013333333333333334)	company:clamwin ->! price:shareware
+(0.013333333333333334)	company:clamwin ->! price:non-free
+(0.013333333333333334)	company:clamwin ->! license:proprietary
+(0.013333333333333334)	company:clamwin ->! first release:[2003-2013]
+(0.013333333333333334)	company:clamwin ->! first release:[1987-2000]
+(0.013333333333333334)	company:clamwin ->! first release:*
+(0.013333333333333334)	company:clamwin ->! country of origin:united states
+(0.013333333333333334)	company:clamwin ->! country of origin:united kingdom
+(0.013333333333333334)	company:clamwin ->! country of origin:turkey
+(0.013333333333333334)	company:clamwin ->! country of origin:spain
+(0.013333333333333334)	company:clamwin ->! country of origin:south korea
+(0.013333333333333334)	company:clamwin ->! country of origin:slovakia
+(0.013333333333333334)	company:clamwin ->! country of origin:russia
+(0.013333333333333334)	company:clamwin ->! country of origin:romania
+(0.013333333333333334)	company:clamwin ->! country of origin:malta
+(0.013333333333333334)	company:clamwin ->! country of origin:japan
+(0.013333333333333334)	company:clamwin ->! country of origin:italy
+(0.013333333333333334)	company:clamwin ->! country of origin:india
+(0.013333333333333334)	company:clamwin ->! country of origin:iceland
+(0.013333333333333334)	company:clamwin ->! country of origin:germany
+(0.013333333333333334)	company:clamwin ->! country of origin:finland
+(0.013333333333333334)	company:clamwin ->! country of origin:czech republic
+(0.013333333333333334)	company:clamwin ->! country of origin:cyprus
+(0.013333333333333334)	company:clamwin ->! country of origin:china
+(0.013333333333333334)	company:clamwin ->! country of origin:brazil
+(0.013333333333333334)	company:clamwin ->! country of origin:belarus
+(0.013333333333333334)	company:cisco (originally immunet) ->! price:trialware
+(0.013333333333333334)	company:cisco (originally immunet) ->! price:shareware
+(0.013333333333333334)	company:cisco (originally immunet) ->! price:non-free
+(0.013333333333333334)	company:cisco (originally immunet) ->! license:gnu gpl
+(0.013333333333333334)	company:cisco (originally immunet) ->! first release:[2011-2013]
+(0.013333333333333334)	company:cisco (originally immunet) ->! first release:[1987-2009]
+(0.013333333333333334)	company:cisco (originally immunet) ->! first release:*
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:united kingdom
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:turkey
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:spain
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:south korea
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:slovakia
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:russia
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:romania
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:malta
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:japan
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:italy
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:india
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:iceland
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:germany
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:finland
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:czech republic
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:cyprus
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:china
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:brazil
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:belarus
+(0.013333333333333334)	company:cisco (originally immunet) ->! country of origin:australia
+(0.013333333333333334)	company:check point ->! price:shareware
+(0.013333333333333334)	company:check point ->! license:gnu gpl
+(0.013333333333333334)	company:check point ->! first release:2013
+(0.013333333333333334)	company:check point ->! first release:*
+(0.013333333333333334)	company:check point ->! country of origin:turkey
+(0.013333333333333334)	company:check point ->! country of origin:south korea
+(0.013333333333333334)	company:check point ->! country of origin:iceland
+(0.013333333333333334)	company:check point ->! country of origin:brazil
+(0.013333333333333334)	company:check point ->! country of origin:belarus
+(0.013333333333333334)	company:bullguard ->! price:shareware
+(0.013333333333333334)	company:bullguard ->! license:gnu gpl
+(0.013333333333333334)	company:bullguard ->! first release:*
+(0.013333333333333334)	company:bullguard ->! country of origin:turkey
+(0.013333333333333334)	company:bullguard ->! country of origin:south korea
+(0.013333333333333334)	company:bullguard ->! country of origin:iceland
+(0.013333333333333334)	company:bullguard ->! country of origin:brazil
+(0.013333333333333334)	company:bullguard ->! country of origin:belarus
+(0.013333333333333334)	company:bitdefender ->! price:shareware
+(0.013333333333333334)	company:bitdefender ->! license:gnu gpl
+(0.013333333333333334)	company:bitdefender ->! first release:*
+(0.013333333333333334)	company:bitdefender ->! country of origin:turkey
+(0.013333333333333334)	company:bitdefender ->! country of origin:south korea
+(0.013333333333333334)	company:bitdefender ->! country of origin:iceland
+(0.013333333333333334)	company:bitdefender ->! country of origin:brazil
+(0.013333333333333334)	company:bitdefender ->! country of origin:belarus
+(0.013333333333333334)	company:avira ->! price:shareware
+(0.013333333333333334)	company:avira ->! license:gnu gpl
+(0.013333333333333334)	company:avira ->! first release:*
+(0.013333333333333334)	company:avira ->! country of origin:turkey
+(0.013333333333333334)	company:avira ->! country of origin:south korea
+(0.013333333333333334)	company:avira ->! country of origin:iceland
+(0.013333333333333334)	company:avira ->! country of origin:brazil
+(0.013333333333333334)	company:avira ->! country of origin:belarus
+(0.013333333333333334)	company:avg technologies (grisoft) ->! price:shareware
+(0.013333333333333334)	company:avg technologies (grisoft) ->! license:gnu gpl
+(0.013333333333333334)	company:avg technologies (grisoft) ->! first release:*
+(0.013333333333333334)	company:avg technologies (grisoft) ->! country of origin:turkey
+(0.013333333333333334)	company:avg technologies (grisoft) ->! country of origin:south korea
+(0.013333333333333334)	company:avg technologies (grisoft) ->! country of origin:iceland
+(0.013333333333333334)	company:avg technologies (grisoft) ->! country of origin:brazil
+(0.013333333333333334)	company:avg technologies (grisoft) ->! country of origin:belarus
+(0.013333333333333334)	company:avetix ->! price:shareware
+(0.013333333333333334)	company:avetix ->! license:gnu gpl
+(0.013333333333333334)	company:avetix ->! first release:2013
+(0.013333333333333334)	company:avetix ->! first release:*
+(0.013333333333333334)	company:avetix ->! country of origin:turkey
+(0.013333333333333334)	company:avetix ->! country of origin:south korea
+(0.013333333333333334)	company:avetix ->! country of origin:iceland
+(0.013333333333333334)	company:avetix ->! country of origin:brazil
+(0.013333333333333334)	company:avetix ->! country of origin:belarus
+(0.013333333333333334)	company:avast ->! price:shareware
+(0.013333333333333334)	company:avast ->! license:gnu gpl
+(0.013333333333333334)	company:avast ->! first release:2013
+(0.013333333333333334)	company:avast ->! first release:*
+(0.013333333333333334)	company:avast ->! country of origin:turkey
+(0.013333333333333334)	company:avast ->! country of origin:south korea
+(0.013333333333333334)	company:avast ->! country of origin:iceland
+(0.013333333333333334)	company:avast ->! country of origin:brazil
+(0.013333333333333334)	company:avast ->! country of origin:belarus
+(0.013333333333333334)	company:ahnlab ->! price:trialware
+(0.013333333333333334)	company:ahnlab ->! price:shareware
+(0.013333333333333334)	company:ahnlab ->! price:free
+(0.013333333333333334)	company:ahnlab ->! license:gnu gpl
+(0.013333333333333334)	company:ahnlab ->! first release:[1989-2013]
+(0.013333333333333334)	company:ahnlab ->! first release:1987
+(0.013333333333333334)	company:ahnlab ->! first release:*
+(0.013333333333333334)	company:ahnlab ->! country of origin:united states
+(0.013333333333333334)	company:ahnlab ->! country of origin:united kingdom
+(0.013333333333333334)	company:ahnlab ->! country of origin:turkey
+(0.013333333333333334)	company:ahnlab ->! country of origin:spain
+(0.013333333333333334)	company:ahnlab ->! country of origin:slovakia
+(0.013333333333333334)	company:ahnlab ->! country of origin:russia
+(0.013333333333333334)	company:ahnlab ->! country of origin:romania
+(0.013333333333333334)	company:ahnlab ->! country of origin:malta
+(0.013333333333333334)	company:ahnlab ->! country of origin:japan
+(0.013333333333333334)	company:ahnlab ->! country of origin:italy
+(0.013333333333333334)	company:ahnlab ->! country of origin:india
+(0.013333333333333334)	company:ahnlab ->! country of origin:iceland
+(0.013333333333333334)	company:ahnlab ->! country of origin:germany
+(0.013333333333333334)	company:ahnlab ->! country of origin:finland
+(0.013333333333333334)	company:ahnlab ->! country of origin:czech republic
+(0.013333333333333334)	company:ahnlab ->! country of origin:cyprus
+(0.013333333333333334)	company:ahnlab ->! country of origin:china
+(0.013333333333333334)	company:ahnlab ->! country of origin:brazil
+(0.013333333333333334)	company:ahnlab ->! country of origin:belarus
+(0.013333333333333334)	company:ahnlab ->! country of origin:australia
+(0.013333333333333334)	company:agnitum ->! price:shareware
+(0.013333333333333334)	company:agnitum ->! license:gnu gpl
+(0.013333333333333334)	company:agnitum ->! first release:*
+(0.013333333333333334)	company:agnitum ->! country of origin:turkey
+(0.013333333333333334)	company:agnitum ->! country of origin:south korea
+(0.013333333333333334)	company:agnitum ->! country of origin:iceland
+(0.013333333333333334)	company:agnitum ->! country of origin:brazil
+(0.013333333333333334)	company:agnitum ->! country of origin:belarus
+(0.013333333333333334)	cloudav ->! price:shareware
+(0.013333333333333334)	cloudav ->! license:gnu gpl
+(0.013333333333333334)	cloudav ->! first release:2011
+(0.013333333333333334)	cloudav ->! first release:1998
+(0.013333333333333334)	cloudav ->! first release:1995
+(0.013333333333333334)	cloudav ->! first release:1989
+(0.013333333333333334)	cloudav ->! first release:*
+(0.013333333333333334)	cloudav ->! country of origin:turkey
+(0.013333333333333334)	cloudav ->! country of origin:south korea
+(0.013333333333333334)	cloudav ->! country of origin:iceland
+(0.013333333333333334)	cloudav ->! country of origin:brazil
+(0.013333333333333334)	cloudav ->! country of origin:belarus
+(0.013333333333333334)	cloudav ->! company:zemana
+(0.013333333333333334)	cloudav ->! company:virusblokada
+(0.013333333333333334)	cloudav ->! company:symantec (originally pc tools)
+(0.013333333333333334)	cloudav ->! company:strayspark computing
+(0.013333333333333334)	cloudav ->! company:quick heal
+(0.013333333333333334)	cloudav ->! company:psafe
+(0.013333333333333334)	cloudav ->! company:nano security
+(0.013333333333333334)	cloudav ->! company:microsoft
+(0.013333333333333334)	cloudav ->! company:kingsoft
+(0.013333333333333334)	cloudav ->! company:is3
+(0.013333333333333334)	cloudav ->! company:iolo technologies
+(0.013333333333333334)	cloudav ->! company:iobit
+(0.013333333333333334)	cloudav ->! company:ikarus
+(0.013333333333333334)	cloudav ->! company:frisk software
+(0.013333333333333334)	cloudav ->! company:fortinet
+(0.013333333333333334)	cloudav ->! company:cysec
+(0.013333333333333334)	cloudav ->! company:clamwin
+(0.013333333333333334)	cloudav ->! company:ahnlab
+(0.013333333333333334)	boot-time scans ->! price:shareware
+(0.013333333333333334)	boot-time scans ->! first release:1998
+(0.013333333333333334)	boot-time scans ->! first release:1994
+(0.013333333333333334)	boot-time scans ->! first release:*
+(0.013333333333333334)	boot-time scans ->! country of origin:turkey
+(0.013333333333333334)	boot-time scans ->! country of origin:south korea
+(0.013333333333333334)	boot-time scans ->! country of origin:brazil
+(0.013333333333333334)	boot-time scans ->! country of origin:belarus
+(0.013333333333333334)	boot-time scans ->! company:zemana
+(0.013333333333333334)	boot-time scans ->! company:virusblokada
+(0.013333333333333334)	boot-time scans ->! company:symantec (originally pc tools)
+(0.013333333333333334)	boot-time scans ->! company:strayspark computing
+(0.013333333333333334)	boot-time scans ->! company:psafe
+(0.013333333333333334)	boot-time scans ->! company:nano security
+(0.013333333333333334)	boot-time scans ->! company:microsoft
+(0.013333333333333334)	boot-time scans ->! company:kingsoft
+(0.013333333333333334)	boot-time scans ->! company:is3
+(0.013333333333333334)	boot-time scans ->! company:iolo technologies
+(0.013333333333333334)	boot-time scans ->! company:iobit
+(0.013333333333333334)	boot-time scans ->! company:ikarus
+(0.013333333333333334)	boot-time scans ->! company:fortinet
+(0.013333333333333334)	boot-time scans ->! company:cysec
+(0.013333333333333334)	boot-time scans ->! company:cisco (originally immunet)
+(0.013333333333333334)	boot-time scans ->! company:ahnlab
+(0.013333333333333334)	av test ->! license:gnu gpl
+(0.013333333333333334)	av test ->! first release:1995
+(0.013333333333333334)	av test ->! first release:1989
+(0.013333333333333334)	av test ->! first release:*
+(0.013333333333333334)	av test ->! country of origin:turkey
+(0.013333333333333334)	av test ->! country of origin:iceland
+(0.013333333333333334)	av test ->! country of origin:belarus
+(0.013333333333333334)	av test ->! company:zemana
+(0.013333333333333334)	av test ->! company:virusblokada
+(0.013333333333333334)	av test ->! company:strayspark computing
+(0.013333333333333334)	av test ->! company:quick heal
+(0.013333333333333334)	av test ->! company:nano security
+(0.013333333333333334)	av test ->! company:microsoft
+(0.013333333333333334)	av test ->! company:is3
+(0.013333333333333334)	av test ->! company:iolo technologies
+(0.013333333333333334)	av test ->! company:iobit
+(0.013333333333333334)	av test ->! company:frisk software
+(0.013333333333333334)	av test ->! company:fortinet
+(0.013333333333333334)	av test ->! company:cysec
+(0.013333333333333334)	av test ->! company:clamwin
+(0.013333333333333334)	av test ->! company:cisco (originally immunet)
+(0.013333333333333334)	av comparatives ->! license:gnu gpl
+(0.013333333333333334)	av comparatives ->! first release:1995
+(0.013333333333333334)	av comparatives ->! first release:1989
+(0.013333333333333334)	av comparatives ->! first release:*
+(0.013333333333333334)	av comparatives ->! country of origin:turkey
+(0.013333333333333334)	av comparatives ->! country of origin:iceland
+(0.013333333333333334)	av comparatives ->! country of origin:belarus
+(0.013333333333333334)	av comparatives ->! company:zemana
+(0.013333333333333334)	av comparatives ->! company:virusblokada
+(0.013333333333333334)	av comparatives ->! company:symantec (originally pc tools)
+(0.013333333333333334)	av comparatives ->! company:strayspark computing
+(0.013333333333333334)	av comparatives ->! company:quick heal
+(0.013333333333333334)	av comparatives ->! company:nano security
+(0.013333333333333334)	av comparatives ->! company:microsoft
+(0.013333333333333334)	av comparatives ->! company:is3
+(0.013333333333333334)	av comparatives ->! company:iolo technologies
+(0.013333333333333334)	av comparatives ->! company:iobit
+(0.013333333333333334)	av comparatives ->! company:frisk software
+(0.013333333333333334)	av comparatives ->! company:fortinet
+(0.013333333333333334)	av comparatives ->! company:cysec
+(0.013333333333333334)	av comparatives ->! company:clamwin
+(0.013333333333333334)	av comparatives ->! company:cisco (originally immunet)
+(0.013333333333333334)	antispam ->! price:shareware
+(0.013333333333333334)	antispam ->! license:gnu gpl
+(0.013333333333333334)	antispam ->! first release:2013
+(0.013333333333333334)	antispam ->! first release:2011
+(0.013333333333333334)	antispam ->! first release:1989
+(0.013333333333333334)	antispam ->! first release:*
+(0.013333333333333334)	antispam ->! country of origin:turkey
+(0.013333333333333334)	antispam ->! country of origin:south korea
+(0.013333333333333334)	antispam ->! country of origin:iceland
+(0.013333333333333334)	antispam ->! country of origin:brazil
+(0.013333333333333334)	antispam ->! country of origin:belarus
+(0.013333333333333334)	antispam ->! company:zemana
+(0.013333333333333334)	antispam ->! company:virusblokada
+(0.013333333333333334)	antispam ->! company:symantec (originally pc tools)
+(0.013333333333333334)	antispam ->! company:strayspark computing
+(0.013333333333333334)	antispam ->! company:qihoo 360
+(0.013333333333333334)	antispam ->! company:psafe
+(0.013333333333333334)	antispam ->! company:nano security
+(0.013333333333333334)	antispam ->! company:microsoft
+(0.013333333333333334)	antispam ->! company:kingsoft
+(0.013333333333333334)	antispam ->! company:is3
+(0.013333333333333334)	antispam ->! company:iolo technologies
+(0.013333333333333334)	antispam ->! company:iobit
+(0.013333333333333334)	antispam ->! company:ikarus
+(0.013333333333333334)	antispam ->! company:frisk software
+(0.013333333333333334)	antispam ->! company:fortinet
+(0.013333333333333334)	antispam ->! company:cysec
+(0.013333333333333334)	antispam ->! company:clamwin
+(0.013333333333333334)	antispam ->! company:cisco (originally immunet)
+(0.013333333333333334)	antispam ->! company:ahnlab

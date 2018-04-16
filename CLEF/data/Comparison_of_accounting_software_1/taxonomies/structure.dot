@@ -1,0 +1,25 @@
+digraph G { 
+ rankdir=BT;
+ subgraph ba { 
+1 [shape=record,label="{web based}"];
+2 [shape=record,label="{stand alone}"];
+3 [shape=record,label="{web access}"];
+4 [shape=record,label="{mobile}"];
+5 [shape=record,label="{multi-user}"];
+6 [shape=record,label="{location}"];
+7 [shape=record,label="{terminal server}"];
+8 [shape=record,label="{remote access}"];
+9 [shape=record,label="{mobile access}"];
+10 [shape=record,label="{cloud hostable}"];
+11 [shape=record,label="{*}"];
+1 -> 11
+2 -> 11
+3 -> 11
+4 -> 11
+5 -> 11
+6 -> 11
+7 -> 11
+8 -> 11
+9 -> 11
+10 -> 11
+}}

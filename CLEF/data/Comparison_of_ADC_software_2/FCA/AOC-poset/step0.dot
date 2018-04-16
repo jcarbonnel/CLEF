@@ -1,0 +1,49 @@
+digraph G { 
+	rankdir=BT;
+subgraph ctx { 
+label="ctx";
+1 [shape=record,label="{Concept_ctx_6|programming language:ruby\n|adch++\n}"];
+2 [shape=record,label="{Concept_ctx_2|programming language:c-sharp\n|nexthub\n}"];
+3 [shape=record,label="{Concept_ctx_1|programming language:erlang\n|erlhub\n}"];
+4 [shape=record,label="{Concept_ctx_4||dshub\n}"];
+5 [shape=record,label="{Concept_ctx_5||adch++ gui\n}"];
+6 [shape=record,label="{Concept_ctx_3||luadch gui\n}"];
+7 [shape=record,label="{Concept_ctx_8|programming language:java\n|starhub\n}"];
+8 [shape=record,label="{Concept_ctx_7|programming language:c\n|uhub\nstarlet adc hub\n}"];
+9 [shape=record,label="{Concept_ctx_9||luadch\n}"];
+10 [shape=record,label="{Concept_ctx_12|programming language:python\n|}"];
+11 [shape=record,label="{Concept_ctx_10||rushub\n}"];
+12 [shape=record,label="{Concept_ctx_11||flexhub\n}"];
+13 [shape=record,label="{Concept_ctx_13|programming language:lua\n|}"];
+14 [shape=record,label="{Concept_ctx_14|programming language:c++\n|}"];
+15 [shape=record,label="{Concept_ctx_15|gui\n|}"];
+16 [shape=record,label="{Concept_ctx_16|cli\n|}"];
+17 [shape=record,label="{Concept_ctx_0|programming language:*\n|}"];
+	17 -> 1
+	17 -> 2
+	17 -> 3
+	17 -> 4
+	17 -> 5
+	17 -> 6
+	4 -> 7
+	17 -> 8
+	1 -> 9
+	1 -> 10
+	5 -> 10
+	4 -> 10
+	9 -> 11
+	9 -> 12
+	12 -> 13
+	6 -> 13
+	11 -> 14
+	5 -> 14
+	5 -> 15
+	6 -> 15
+	2 -> 15
+	7 -> 15
+	8 -> 16
+	11 -> 16
+	12 -> 16
+	4 -> 16
+}
+}

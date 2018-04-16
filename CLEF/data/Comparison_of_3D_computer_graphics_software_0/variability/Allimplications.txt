@@ -1,0 +1,422 @@
+platforms:unix -> mainly used for:modeling
+platforms:unix -> license:proprietary
+platforms:unix -> latest release date:[2009-2015]
+platforms:unix -> latest release date:[2009-2014]
+platforms:unix -> latest release date:[2009-2013]
+platforms:unix -> latest release date:[2009-2012]
+platforms:unix -> latest release date:[2009-2011]
+platforms:unix -> latest release date:[2009-2010]
+platforms:unix -> latest release date:[2008-2015]
+platforms:unix -> latest release date:[2008-2014]
+platforms:unix -> latest release date:[2008-2013]
+platforms:unix -> latest release date:[2008-2012]
+platforms:unix -> latest release date:[2008-2011]
+platforms:unix -> latest release date:[2008-2010]
+platforms:unix -> latest release date:[2008-2009]
+platforms:unix -> latest release date:[2004-2015]
+platforms:unix -> latest release date:[2004-2014]
+platforms:unix -> latest release date:[2004-2013]
+platforms:unix -> latest release date:[2004-2012]
+platforms:unix -> latest release date:[2004-2011]
+platforms:unix -> latest release date:[2004-2010]
+platforms:unix -> latest release date:[2004-2009]
+platforms:unix -> latest release date:2009
+platforms:solaris -> license:gnu gpl
+platforms:solaris -> latest release date:[2014-2015]
+platforms:solaris -> latest release date:[2013-2015]
+platforms:solaris -> latest release date:[2012-2015]
+platforms:solaris -> latest release date:[2011-2015]
+platforms:solaris -> latest release date:[2010-2015]
+platforms:solaris -> latest release date:[2009-2015]
+platforms:solaris -> latest release date:[2008-2015]
+platforms:solaris -> latest release date:[2004-2015]
+platforms:solaris -> latest release date:2015
+platforms:mozilla firefox -> mainly used for:rendering
+platforms:mozilla firefox -> mainly used for:modeling
+platforms:mozilla firefox -> mainly used for:animation
+platforms:mozilla firefox -> license:proprietary
+platforms:mozilla firefox -> latest release date:[2013-2015]
+platforms:mozilla firefox -> latest release date:[2013-2014]
+platforms:mozilla firefox -> latest release date:[2012-2015]
+platforms:mozilla firefox -> latest release date:[2012-2014]
+platforms:mozilla firefox -> latest release date:[2012-2013]
+platforms:mozilla firefox -> latest release date:[2011-2015]
+platforms:mozilla firefox -> latest release date:[2011-2014]
+platforms:mozilla firefox -> latest release date:[2011-2013]
+platforms:mozilla firefox -> latest release date:[2010-2015]
+platforms:mozilla firefox -> latest release date:[2010-2014]
+platforms:mozilla firefox -> latest release date:[2010-2013]
+platforms:mozilla firefox -> latest release date:[2009-2015]
+platforms:mozilla firefox -> latest release date:[2009-2014]
+platforms:mozilla firefox -> latest release date:[2009-2013]
+platforms:mozilla firefox -> latest release date:[2008-2015]
+platforms:mozilla firefox -> latest release date:[2008-2014]
+platforms:mozilla firefox -> latest release date:[2008-2013]
+platforms:mozilla firefox -> latest release date:[2004-2015]
+platforms:mozilla firefox -> latest release date:[2004-2014]
+platforms:mozilla firefox -> latest release date:[2004-2013]
+platforms:mozilla firefox -> latest release date:2013
+platforms:morphos -> license:gnu gpl
+platforms:morphos -> latest release date:[2014-2015]
+platforms:morphos -> latest release date:[2013-2015]
+platforms:morphos -> latest release date:[2012-2015]
+platforms:morphos -> latest release date:[2011-2015]
+platforms:morphos -> latest release date:[2010-2015]
+platforms:morphos -> latest release date:[2009-2015]
+platforms:morphos -> latest release date:[2008-2015]
+platforms:morphos -> latest release date:[2004-2015]
+platforms:morphos -> latest release date:2015
+platforms:microsoft internet explorer -> mainly used for:rendering
+platforms:microsoft internet explorer -> mainly used for:modeling
+platforms:microsoft internet explorer -> mainly used for:animation
+platforms:microsoft internet explorer -> license:proprietary
+platforms:microsoft internet explorer -> latest release date:[2013-2015]
+platforms:microsoft internet explorer -> latest release date:[2013-2014]
+platforms:microsoft internet explorer -> latest release date:[2012-2015]
+platforms:microsoft internet explorer -> latest release date:[2012-2014]
+platforms:microsoft internet explorer -> latest release date:[2012-2013]
+platforms:microsoft internet explorer -> latest release date:[2011-2015]
+platforms:microsoft internet explorer -> latest release date:[2011-2014]
+platforms:microsoft internet explorer -> latest release date:[2011-2013]
+platforms:microsoft internet explorer -> latest release date:[2010-2015]
+platforms:microsoft internet explorer -> latest release date:[2010-2014]
+platforms:microsoft internet explorer -> latest release date:[2010-2013]
+platforms:microsoft internet explorer -> latest release date:[2009-2015]
+platforms:microsoft internet explorer -> latest release date:[2009-2014]
+platforms:microsoft internet explorer -> latest release date:[2009-2013]
+platforms:microsoft internet explorer -> latest release date:[2008-2015]
+platforms:microsoft internet explorer -> latest release date:[2008-2014]
+platforms:microsoft internet explorer -> latest release date:[2008-2013]
+platforms:microsoft internet explorer -> latest release date:[2004-2015]
+platforms:microsoft internet explorer -> latest release date:[2004-2014]
+platforms:microsoft internet explorer -> latest release date:[2004-2013]
+platforms:microsoft internet explorer -> latest release date:2013
+platforms:java virtual machine -> mainly used for:rendering
+platforms:java virtual machine -> mainly used for:modeling
+platforms:java virtual machine -> mainly used for:lighting
+platforms:java virtual machine -> mainly used for:animation
+platforms:java virtual machine -> license:gnu gpl
+platforms:java virtual machine -> latest release date:[2013-2015]
+platforms:java virtual machine -> latest release date:[2013-2014]
+platforms:java virtual machine -> latest release date:[2012-2015]
+platforms:java virtual machine -> latest release date:[2012-2014]
+platforms:java virtual machine -> latest release date:[2012-2013]
+platforms:java virtual machine -> latest release date:[2011-2015]
+platforms:java virtual machine -> latest release date:[2011-2014]
+platforms:java virtual machine -> latest release date:[2011-2013]
+platforms:java virtual machine -> latest release date:[2010-2015]
+platforms:java virtual machine -> latest release date:[2010-2014]
+platforms:java virtual machine -> latest release date:[2010-2013]
+platforms:java virtual machine -> latest release date:[2009-2015]
+platforms:java virtual machine -> latest release date:[2009-2014]
+platforms:java virtual machine -> latest release date:[2009-2013]
+platforms:java virtual machine -> latest release date:[2008-2015]
+platforms:java virtual machine -> latest release date:[2008-2014]
+platforms:java virtual machine -> latest release date:[2008-2013]
+platforms:java virtual machine -> latest release date:[2004-2015]
+platforms:java virtual machine -> latest release date:[2004-2014]
+platforms:java virtual machine -> latest release date:[2004-2013]
+platforms:java virtual machine -> latest release date:2013
+platforms:ios -> license:proprietary
+platforms:hp-ux -> mainly used for:modeling
+platforms:hp-ux -> license:proprietary
+platforms:hp-ux -> latest release date:[2009-2015]
+platforms:hp-ux -> latest release date:[2009-2014]
+platforms:hp-ux -> latest release date:[2009-2013]
+platforms:hp-ux -> latest release date:[2009-2012]
+platforms:hp-ux -> latest release date:[2009-2011]
+platforms:hp-ux -> latest release date:[2009-2010]
+platforms:hp-ux -> latest release date:[2008-2015]
+platforms:hp-ux -> latest release date:[2008-2014]
+platforms:hp-ux -> latest release date:[2008-2013]
+platforms:hp-ux -> latest release date:[2008-2012]
+platforms:hp-ux -> latest release date:[2008-2011]
+platforms:hp-ux -> latest release date:[2008-2010]
+platforms:hp-ux -> latest release date:[2008-2009]
+platforms:hp-ux -> latest release date:[2004-2015]
+platforms:hp-ux -> latest release date:[2004-2014]
+platforms:hp-ux -> latest release date:[2004-2013]
+platforms:hp-ux -> latest release date:[2004-2012]
+platforms:hp-ux -> latest release date:[2004-2011]
+platforms:hp-ux -> latest release date:[2004-2010]
+platforms:hp-ux -> latest release date:[2004-2009]
+platforms:hp-ux -> latest release date:2009
+platforms:google chrome -> mainly used for:rendering
+platforms:google chrome -> mainly used for:modeling
+platforms:google chrome -> mainly used for:animation
+platforms:google chrome -> license:proprietary
+platforms:google chrome -> latest release date:[2013-2015]
+platforms:google chrome -> latest release date:[2013-2014]
+platforms:google chrome -> latest release date:[2012-2015]
+platforms:google chrome -> latest release date:[2012-2014]
+platforms:google chrome -> latest release date:[2012-2013]
+platforms:google chrome -> latest release date:[2011-2015]
+platforms:google chrome -> latest release date:[2011-2014]
+platforms:google chrome -> latest release date:[2011-2013]
+platforms:google chrome -> latest release date:[2010-2015]
+platforms:google chrome -> latest release date:[2010-2014]
+platforms:google chrome -> latest release date:[2010-2013]
+platforms:google chrome -> latest release date:[2009-2015]
+platforms:google chrome -> latest release date:[2009-2014]
+platforms:google chrome -> latest release date:[2009-2013]
+platforms:google chrome -> latest release date:[2008-2015]
+platforms:google chrome -> latest release date:[2008-2014]
+platforms:google chrome -> latest release date:[2008-2013]
+platforms:google chrome -> latest release date:[2004-2015]
+platforms:google chrome -> latest release date:[2004-2014]
+platforms:google chrome -> latest release date:[2004-2013]
+platforms:google chrome -> latest release date:2013
+platforms:bsd -> mainly used for:sculpting
+platforms:bsd -> mainly used for:modeling
+platforms:bsd -> latest release date:[2014-2015]
+platforms:bsd -> latest release date:[2013-2015]
+platforms:bsd -> latest release date:[2012-2015]
+platforms:bsd -> latest release date:[2011-2015]
+platforms:bsd -> latest release date:[2010-2015]
+platforms:bsd -> latest release date:[2009-2015]
+platforms:bsd -> latest release date:[2008-2015]
+platforms:bsd -> latest release date:[2004-2015]
+mainly used for:visual 3d effects -> platforms:microsoft windows
+mainly used for:virtual reality -> platforms:microsoft windows
+mainly used for:virtual reality -> platforms:linux
+mainly used for:virtual reality -> license:proprietary
+mainly used for:virtual reality -> latest release date:*
+mainly used for:video game creation -> platforms:microsoft windows
+mainly used for:uv mapping -> platforms:microsoft windows
+mainly used for:uv mapping -> platforms:mac os x
+mainly used for:uv mapping -> latest release date:[2008-2015]
+mainly used for:uv mapping -> latest release date:[2008-2014]
+mainly used for:uv mapping -> latest release date:[2004-2015]
+mainly used for:uv mapping -> latest release date:[2004-2014]
+mainly used for:texturing -> platforms:mac os x
+mainly used for:texturing -> license:proprietary
+mainly used for:texturing -> latest release date:[2011-2015]
+mainly used for:texturing -> latest release date:[2010-2015]
+mainly used for:texturing -> latest release date:[2009-2015]
+mainly used for:texturing -> latest release date:[2008-2015]
+mainly used for:texturing -> latest release date:[2004-2015]
+mainly used for:television -> platforms:microsoft windows
+mainly used for:television -> license:proprietary
+mainly used for:television -> latest release date:[2009-2015]
+mainly used for:television -> latest release date:[2009-2014]
+mainly used for:television -> latest release date:[2008-2015]
+mainly used for:television -> latest release date:[2008-2014]
+mainly used for:television -> latest release date:[2004-2015]
+mainly used for:television -> latest release date:[2004-2014]
+mainly used for:subdivision modeling -> platforms:microsoft windows
+mainly used for:subdivision modeling -> platforms:mac os x
+mainly used for:subdivision modeling -> license:proprietary
+mainly used for:subdivision modeling -> latest release date:[2008-2015]
+mainly used for:subdivision modeling -> latest release date:[2008-2014]
+mainly used for:subdivision modeling -> latest release date:[2008-2013]
+mainly used for:subdivision modeling -> latest release date:[2008-2012]
+mainly used for:subdivision modeling -> latest release date:[2008-2011]
+mainly used for:subdivision modeling -> latest release date:[2008-2010]
+mainly used for:subdivision modeling -> latest release date:[2008-2009]
+mainly used for:subdivision modeling -> latest release date:[2004-2015]
+mainly used for:subdivision modeling -> latest release date:[2004-2014]
+mainly used for:subdivision modeling -> latest release date:[2004-2013]
+mainly used for:subdivision modeling -> latest release date:[2004-2012]
+mainly used for:subdivision modeling -> latest release date:[2004-2011]
+mainly used for:subdivision modeling -> latest release date:[2004-2010]
+mainly used for:subdivision modeling -> latest release date:[2004-2009]
+mainly used for:subdivision modeling -> latest release date:[2004-2008]
+mainly used for:subdivision modeling -> latest release date:2008
+mainly used for:simulation -> platforms:microsoft windows
+mainly used for:simulation -> platforms:mac os x
+mainly used for:simulation -> platforms:amiga os
+mainly used for:simulation -> license:proprietary
+mainly used for:simulation -> latest release date:*
+mainly used for:set design -> platforms:microsoft windows
+mainly used for:set design -> platforms:mac os x
+mainly used for:set design -> license:proprietary
+mainly used for:set design -> latest release date:[2013-2015]
+mainly used for:set design -> latest release date:[2013-2014]
+mainly used for:set design -> latest release date:[2012-2015]
+mainly used for:set design -> latest release date:[2012-2014]
+mainly used for:set design -> latest release date:[2012-2013]
+mainly used for:set design -> latest release date:[2011-2015]
+mainly used for:set design -> latest release date:[2011-2014]
+mainly used for:set design -> latest release date:[2011-2013]
+mainly used for:set design -> latest release date:[2010-2015]
+mainly used for:set design -> latest release date:[2010-2014]
+mainly used for:set design -> latest release date:[2010-2013]
+mainly used for:set design -> latest release date:[2009-2015]
+mainly used for:set design -> latest release date:[2009-2014]
+mainly used for:set design -> latest release date:[2009-2013]
+mainly used for:set design -> latest release date:[2008-2015]
+mainly used for:set design -> latest release date:[2008-2014]
+mainly used for:set design -> latest release date:[2008-2013]
+mainly used for:set design -> latest release date:[2004-2015]
+mainly used for:set design -> latest release date:[2004-2014]
+mainly used for:set design -> latest release date:[2004-2013]
+mainly used for:set design -> latest release date:2013
+mainly used for:sculpting -> platforms:microsoft windows
+mainly used for:sculpting -> platforms:mac os x
+mainly used for:sculpting -> latest release date:[2011-2015]
+mainly used for:sculpting -> latest release date:[2010-2015]
+mainly used for:sculpting -> latest release date:[2009-2015]
+mainly used for:sculpting -> latest release date:[2008-2015]
+mainly used for:sculpting -> latest release date:[2004-2015]
+mainly used for:real-time modeling -> platforms:microsoft windows
+mainly used for:real-time modeling -> platforms:linux
+mainly used for:real-time modeling -> license:proprietary
+mainly used for:real-time modeling -> latest release date:*
+mainly used for:mobile modeling -> license:proprietary
+mainly used for:landscape modeling -> platforms:microsoft windows
+mainly used for:landscape modeling -> platforms:mac os x
+mainly used for:landscape modeling -> license:proprietary
+mainly used for:landscape modeling -> latest release date:[2010-2015]
+mainly used for:landscape modeling -> latest release date:[2010-2014]
+mainly used for:landscape modeling -> latest release date:[2009-2015]
+mainly used for:landscape modeling -> latest release date:[2009-2014]
+mainly used for:landscape modeling -> latest release date:[2008-2015]
+mainly used for:landscape modeling -> latest release date:[2008-2014]
+mainly used for:landscape modeling -> latest release date:[2004-2015]
+mainly used for:landscape modeling -> latest release date:[2004-2014]
+mainly used for:fractal geometry -> platforms:microsoft windows
+mainly used for:fractal geometry -> platforms:mac os x
+mainly used for:fractal geometry -> license:proprietary
+mainly used for:fractal geometry -> latest release date:[2010-2015]
+mainly used for:fractal geometry -> latest release date:[2010-2014]
+mainly used for:fractal geometry -> latest release date:[2010-2013]
+mainly used for:fractal geometry -> latest release date:[2010-2012]
+mainly used for:fractal geometry -> latest release date:[2010-2011]
+mainly used for:fractal geometry -> latest release date:[2009-2015]
+mainly used for:fractal geometry -> latest release date:[2009-2014]
+mainly used for:fractal geometry -> latest release date:[2009-2013]
+mainly used for:fractal geometry -> latest release date:[2009-2012]
+mainly used for:fractal geometry -> latest release date:[2009-2011]
+mainly used for:fractal geometry -> latest release date:[2009-2010]
+mainly used for:fractal geometry -> latest release date:[2008-2015]
+mainly used for:fractal geometry -> latest release date:[2008-2014]
+mainly used for:fractal geometry -> latest release date:[2008-2013]
+mainly used for:fractal geometry -> latest release date:[2008-2012]
+mainly used for:fractal geometry -> latest release date:[2008-2011]
+mainly used for:fractal geometry -> latest release date:[2008-2010]
+mainly used for:fractal geometry -> latest release date:[2004-2015]
+mainly used for:fractal geometry -> latest release date:[2004-2014]
+mainly used for:fractal geometry -> latest release date:[2004-2013]
+mainly used for:fractal geometry -> latest release date:[2004-2012]
+mainly used for:fractal geometry -> latest release date:[2004-2011]
+mainly used for:fractal geometry -> latest release date:[2004-2010]
+mainly used for:fractal geometry -> latest release date:2010
+mainly used for:film -> platforms:microsoft windows
+mainly used for:film -> license:proprietary
+mainly used for:film -> latest release date:[2009-2015]
+mainly used for:film -> latest release date:[2009-2014]
+mainly used for:film -> latest release date:[2008-2015]
+mainly used for:film -> latest release date:[2008-2014]
+mainly used for:film -> latest release date:[2004-2015]
+mainly used for:film -> latest release date:[2004-2014]
+mainly used for:fabrication -> platforms:microsoft windows
+mainly used for:fabrication -> platforms:mac os x
+mainly used for:fabrication -> license:proprietary
+mainly used for:fabrication -> latest release date:[2013-2015]
+mainly used for:fabrication -> latest release date:[2013-2014]
+mainly used for:fabrication -> latest release date:[2012-2015]
+mainly used for:fabrication -> latest release date:[2012-2014]
+mainly used for:fabrication -> latest release date:[2012-2013]
+mainly used for:fabrication -> latest release date:[2011-2015]
+mainly used for:fabrication -> latest release date:[2011-2014]
+mainly used for:fabrication -> latest release date:[2011-2013]
+mainly used for:fabrication -> latest release date:[2010-2015]
+mainly used for:fabrication -> latest release date:[2010-2014]
+mainly used for:fabrication -> latest release date:[2010-2013]
+mainly used for:fabrication -> latest release date:[2009-2015]
+mainly used for:fabrication -> latest release date:[2009-2014]
+mainly used for:fabrication -> latest release date:[2009-2013]
+mainly used for:fabrication -> latest release date:[2008-2015]
+mainly used for:fabrication -> latest release date:[2008-2014]
+mainly used for:fabrication -> latest release date:[2008-2013]
+mainly used for:fabrication -> latest release date:[2004-2015]
+mainly used for:fabrication -> latest release date:[2004-2014]
+mainly used for:fabrication -> latest release date:[2004-2013]
+mainly used for:fabrication -> latest release date:2013
+mainly used for:computer aided design -> platforms:microsoft windows
+mainly used for:computer aided design -> license:proprietary
+mainly used for:basic post-production video editing -> license:gnu gpl
+mainly used for:basic post-production video editing -> latest release date:[2014-2015]
+mainly used for:basic post-production video editing -> latest release date:[2013-2015]
+mainly used for:basic post-production video editing -> latest release date:[2012-2015]
+mainly used for:basic post-production video editing -> latest release date:[2011-2015]
+mainly used for:basic post-production video editing -> latest release date:[2010-2015]
+mainly used for:basic post-production video editing -> latest release date:[2009-2015]
+mainly used for:basic post-production video editing -> latest release date:[2008-2015]
+mainly used for:basic post-production video editing -> latest release date:[2004-2015]
+mainly used for:basic post-production video editing -> latest release date:2015
+mainly used for:artificial intelligence in models -> platforms:microsoft windows
+mainly used for:artificial intelligence in models -> platforms:linux
+mainly used for:artificial intelligence in models -> license:proprietary
+mainly used for:artificial intelligence in models -> latest release date:*
+license:gnu gpl -> mainly used for:lighting
+license:gnu gpl -> latest release date:[2004-2015]
+license:bsd -> platforms:microsoft windows
+license:bsd -> platforms:mac os x
+license:bsd -> platforms:linux
+license:bsd -> platforms:bsd
+license:bsd -> mainly used for:uv mapping
+license:bsd -> mainly used for:sculpting
+license:bsd -> mainly used for:modeling
+license:bsd -> latest release date:[2014-2015]
+license:bsd -> latest release date:[2013-2015]
+license:bsd -> latest release date:[2013-2014]
+license:bsd -> latest release date:[2012-2015]
+license:bsd -> latest release date:[2012-2014]
+license:bsd -> latest release date:[2011-2015]
+license:bsd -> latest release date:[2011-2014]
+license:bsd -> latest release date:[2010-2015]
+license:bsd -> latest release date:[2010-2014]
+license:bsd -> latest release date:[2009-2015]
+license:bsd -> latest release date:[2009-2014]
+license:bsd -> latest release date:[2008-2015]
+license:bsd -> latest release date:[2008-2014]
+license:bsd -> latest release date:[2004-2015]
+license:bsd -> latest release date:[2004-2014]
+license:bsd -> latest release date:2014
+latest release date:[2014-2015] -> platforms:microsoft windows
+latest release date:[2011-2012] -> license:proprietary
+latest release date:[2010-2012] -> license:proprietary
+latest release date:[2010-2011] -> platforms:microsoft windows
+latest release date:[2010-2011] -> license:proprietary
+latest release date:[2009-2012] -> license:proprietary
+latest release date:[2009-2011] -> platforms:microsoft windows
+latest release date:[2009-2011] -> license:proprietary
+latest release date:[2009-2010] -> platforms:microsoft windows
+latest release date:[2009-2010] -> license:proprietary
+latest release date:[2008-2012] -> license:proprietary
+latest release date:[2008-2011] -> platforms:microsoft windows
+latest release date:[2008-2011] -> license:proprietary
+latest release date:[2008-2010] -> platforms:microsoft windows
+latest release date:[2008-2010] -> license:proprietary
+latest release date:[2008-2009] -> platforms:microsoft windows
+latest release date:[2008-2009] -> license:proprietary
+latest release date:[2004-2011] -> platforms:microsoft windows
+latest release date:[2004-2010] -> platforms:microsoft windows
+latest release date:[2004-2009] -> platforms:microsoft windows
+latest release date:[2004-2008] -> platforms:microsoft windows
+latest release date:[2004-2008] -> platforms:mac os x
+latest release date:2015 -> platforms:microsoft windows
+latest release date:2014 -> platforms:microsoft windows
+latest release date:2013 -> mainly used for:modeling
+latest release date:2012 -> license:proprietary
+latest release date:2011 -> platforms:microsoft windows
+latest release date:2011 -> license:proprietary
+latest release date:2010 -> platforms:microsoft windows
+latest release date:2010 -> platforms:mac os x
+latest release date:2010 -> mainly used for:animation
+latest release date:2010 -> license:proprietary
+latest release date:2009 -> platforms:microsoft windows
+latest release date:2009 -> license:proprietary
+latest release date:2008 -> platforms:microsoft windows
+latest release date:2008 -> platforms:mac os x
+latest release date:2008 -> license:proprietary
+latest release date:2004 -> platforms:microsoft windows
+latest release date:2004 -> platforms:mac os x
+latest release date:2004 -> platforms:linux
+latest release date:2004 -> platforms:amiga os
+latest release date:2004 -> mainly used for:visual 3d effects
+latest release date:2004 -> mainly used for:lighting
+latest release date:2004 -> license:gnu gpl
+latest release date:* -> platforms:microsoft windows
+latest release date:* -> license:proprietary

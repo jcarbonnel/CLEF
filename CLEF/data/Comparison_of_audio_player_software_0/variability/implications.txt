@@ -1,0 +1,7 @@
+(0.32432432432432434)	written in:c -> +first public release:[1997-2006]
+(0.08108108108108109)	written in:objective-c -> +first public release:[2006-2012]
+(0.05405405405405406)	based framework:original -> +first public release:[1997-1998]
+(0.02702702702702703)	software license:mit -> written in:c#
+(0.02702702702702703)	software license:mit -> +first public release:2005
+(0.02702702702702703)	based framework:wasabi -> +first public release:1997
+(0.02702702702702703)	+first public release:2009 -> written in:c#

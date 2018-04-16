@@ -1,0 +1,9 @@
+(0.3333333333333333)	gui -> based on:*
+(0.1111111111111111)	programming language:visual basic -> gui
+(0.1111111111111111)	programming language:delphi -> gui
+(0.1111111111111111)	programming language:c++ -> cli
+(0.1111111111111111)	programming language:c++ -> based on:*
+(0.1111111111111111)	based on:embla -> programming language:lua
+(0.1111111111111111)	based on:embla -> programming language:java
+(0.1111111111111111)	based on:embla -> cli
+(0.1111111111111111)	based on:coredc -> programming language:c#

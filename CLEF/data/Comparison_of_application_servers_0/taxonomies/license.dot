@@ -1,0 +1,17 @@
+digraph G { 
+ rankdir=BT;
+ subgraph ba { 
+1 [shape=record,label="{proprietary}"];
+2 [shape=record,label="{gpl}"];
+3 [shape=record,label="{apache}"];
+4 [shape=record,label="{cddl}"];
+5 [shape=record,label="{lgpl}"];
+6 [shape=record,label="{epl}"];
+7 [shape=record,label="{*}"];
+1 -> 7
+2 -> 7
+3 -> 7
+4 -> 7
+5 -> 7
+6 -> 7
+}}

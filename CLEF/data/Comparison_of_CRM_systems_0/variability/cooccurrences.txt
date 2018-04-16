@@ -1,0 +1,15 @@
+(0.07142857142857142)	server operating system:ios <-> server operating system:android
+(0.03571428571428571)	license:mit <-> database backend:adodb
+(0.03571428571428571)	last release date:2009 <-> server operating system:windows phone
+(0.03571428571428571)	implementation language(s):apex <-> first release date:1999
+(0.03571428571428571)	database backend:sqlite3 <-> database backend:dbf files
+(0.03571428571428571)	database backend:sqlite3 <-> database backend:csv files
+(0.03571428571428571)	database backend:maxdb <-> database backend:sqlite3
+(0.03571428571428571)	database backend:maxdb <-> database backend:dbf files
+(0.03571428571428571)	database backend:maxdb <-> database backend:csv files
+(0.03571428571428571)	database backend:mariadb <-> first release date:2013
+(0.03571428571428571)	database backend:interbase <-> database backend:sqlite3
+(0.03571428571428571)	database backend:interbase <-> database backend:maxdb
+(0.03571428571428571)	database backend:interbase <-> database backend:dbf files
+(0.03571428571428571)	database backend:interbase <-> database backend:csv files
+(0.03571428571428571)	database backend:csv files <-> database backend:dbf files

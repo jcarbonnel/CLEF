@@ -1,0 +1,35 @@
+digraph G { 
+ rankdir=BT;
+ subgraph ba { 
+1 [shape=record,label="{unix}"];
+2 [shape=record,label="{posix}"];
+3 [shape=record,label="{win32}"];
+4 [shape=record,label="{os/2}"];
+5 [shape=record,label="{cp/m}"];
+6 [shape=record,label="{mp/m}"];
+7 [shape=record,label="{dos}"];
+8 [shape=record,label="{windows 95}"];
+9 [shape=record,label="{windows 98}"];
+10 [shape=record,label="{se}"];
+11 [shape=record,label="{me}"];
+12 [shape=record,label="{openvms}"];
+13 [shape=record,label="{.net}"];
+14 [shape=record,label="{plan 9}"];
+15 [shape=record,label="{java}"];
+16 [shape=record,label="{*}"];
+1 -> 16
+2 -> 16
+3 -> 16
+4 -> 16
+5 -> 16
+6 -> 16
+7 -> 16
+8 -> 16
+9 -> 16
+10 -> 16
+11 -> 16
+12 -> 16
+13 -> 16
+14 -> 16
+15 -> 16
+}}

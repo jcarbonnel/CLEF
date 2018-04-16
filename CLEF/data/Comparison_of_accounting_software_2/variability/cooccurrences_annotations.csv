@@ -1,0 +1,36 @@
+support,pertinence,cooccurrence
+0.2222222222222222,,	programming language:j2ee <-> programming language:jboss
+0.1111111111111111,,	programming language:xml <-> programming language:javascript
+0.1111111111111111,,	latest stable release:3.0 <-> stable release date:2013
+0.1111111111111111,,	first public release date:[2001-2002] <-> stable release date:2008
+0.05555555555555555,,	programming language:scheme <-> programming language:lisp
+0.05555555555555555,,	programming language:scheme <-> latest stable release:2.6.6
+0.05555555555555555,,	programming language:objective-c <-> latest stable release:6.1
+0.05555555555555555,,	programming language:lisp <-> latest stable release:2.6.6
+0.05555555555555555,,	programming language:jdo <-> latest stable release:1.0.1
+0.05555555555555555,,	programming language:groovy <-> stable release date:2014
+0.05555555555555555,,	programming language:groovy <-> latest stable release:12.04.03
+0.05555555555555555,,	programming language:freemarker <-> stable release date:2014
+0.05555555555555555,,	programming language:freemarker <-> programming language:groovy
+0.05555555555555555,,	programming language:freemarker <-> latest stable release:12.04.03
+0.05555555555555555,,	programming language:eclipse rcp <-> programming language:jdo
+0.05555555555555555,,	programming language:eclipse rcp <-> latest stable release:1.0.1
+0.05555555555555555,,	latest stable release:5.0.0 <-> stable release date:2009
+0.05555555555555555,,	latest stable release:4.7.2 <-> database:sql
+0.05555555555555555,,	latest stable release:4.7.2 <-> database:ibm db2
+0.05555555555555555,,	latest stable release:4.07.10 <-> database:innodb
+0.05555555555555555,,	latest stable release:3.2 <-> database:advance server
+0.05555555555555555,,	latest stable release:12.04.03 <-> stable release date:2014
+0.05555555555555555,,	first public release date:2003 <-> latest stable release:4.07.10
+0.05555555555555555,,	first public release date:2003 <-> database:innodb
+0.05555555555555555,,	first public release date:2002 <-> latest stable release:1.4
+0.05555555555555555,,	first public release date:2001 <-> latest stable release:3.2
+0.05555555555555555,,	first public release date:2001 <-> database:advance server
+0.05555555555555555,,	first public release date:2000 <-> latest stable release:4.7.2
+0.05555555555555555,,	first public release date:2000 <-> database:sql
+0.05555555555555555,,	first public release date:2000 <-> database:ibm db2
+0.05555555555555555,,	first public release date:1998 <-> latest stable release:5.0.2
+0.05555555555555555,,	first public release date:1985 <-> latest stable release:2.28.1
+0.05555555555555555,,	first public release date:1982 <-> stable release date:2009
+0.05555555555555555,,	first public release date:1982 <-> latest stable release:5.0.0
+0.05555555555555555,,	database:sql <-> database:ibm db2

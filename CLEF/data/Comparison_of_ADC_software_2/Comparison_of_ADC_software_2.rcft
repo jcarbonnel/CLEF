@@ -1,0 +1,15 @@
+FormalContext ctx
+algo fca
+| |gui|cli|programming language:c++|programming language:lua|programming language:python|programming language:ruby|programming language:java|programming language:c-sharp|programming language:c|programming language:erlang|programming language:*|
+|adch++||x|x|x|x|x||||||
+|adch++ gui|x||x||x|||||||
+|dshub|x|x|||x||x|||||
+|flexhub||x||x||||||||
+|luadch||x|x|x||||||||
+|luadch gui|x|||x||||||||
+|nexthub|x|||||||x||||
+|uhub||x|||||||x|||
+|erlhub||||||||||x||
+|starlet adc hub||x|||||||x|||
+|starhub|x||||||x|||||
+|rushub||x|x|||||||||

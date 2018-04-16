@@ -1,0 +1,15 @@
+digraph G { 
+ rankdir=BT;
+ subgraph ba { 
+1 [shape=record,label="{strongdc++}"];
+2 [shape=record,label="{airdc++}"];
+3 [shape=record,label="{nanodc}"];
+4 [shape=record,label="{*}"];
+5 [shape=record,label="{dc++}"];
+6 [shape=record,label="{apexdc speed mode}"];
+1 -> 4
+2 -> 4
+3 -> 4
+5 -> 4
+6 -> 4
+}}

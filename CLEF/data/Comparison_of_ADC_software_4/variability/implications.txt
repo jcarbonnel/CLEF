@@ -1,0 +1,4 @@
+(0.8461538461538461)	software license:gnu gpl -> free and open source
+(0.6923076923076923)	active -> free and open source
+(0.07692307692307693)	software license:mit -> active
+(0.07692307692307693)	software license:bsd -> active

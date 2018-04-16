@@ -1,0 +1,27 @@
+digraph G { 
+ rankdir=BT; 
+ subgraph ba { 
+1 [shape=record,label="{1000}"]; 
+2 [shape=record,label="{2200}"]; 
+3 [shape=record,label="{2600}"]; 
+4 [shape=record,label="{800}"]; 
+5 [shape=record,label="{[1000-2200]}"];
+6 [shape=record,label="{[2200-2600]}"];
+7 [shape=record,label="{[2600-800]}"];
+1 -> 5
+2 -> 5
+2 -> 6
+3 -> 6
+3 -> 7
+4 -> 7
+8 [shape=record,label="{[1000-2600]}"];
+9 [shape=record,label="{[2200-800]}"];
+5 -> 8
+6 -> 8
+6 -> 9
+7 -> 9
+10 [shape=record,label="{[1000-800]}"];
+8 -> 10
+9 -> 10
+11 [shape=record,label="{*}"];
+10 -> 11}}

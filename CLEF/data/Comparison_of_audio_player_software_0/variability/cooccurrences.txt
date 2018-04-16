@@ -1,0 +1,7 @@
+(0.02702702702702703)	based framework:xine <-> based framework:vlc
+(0.02702702702702703)	based framework:xine <-> based framework:mplayer
+(0.02702702702702703)	based framework:xine <-> based framework:directshow
+(0.02702702702702703)	based framework:vlc <-> based framework:directshow
+(0.02702702702702703)	based framework:mplayer <-> based framework:vlc
+(0.02702702702702703)	based framework:mplayer <-> based framework:directshow
+(0.02702702702702703)	+first public release:2012 <-> based framework:core audio
