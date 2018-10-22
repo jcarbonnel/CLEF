@@ -1,7 +1,0 @@
-digraph G { 
- rankdir=BT;
- subgraph ba { 
-1 [shape=record,label="{tiger tree hash}"];
-2 [shape=record,label="{*}"];
-1 -> 2
-}}

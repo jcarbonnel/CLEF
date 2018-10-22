@@ -1,241 +1,315 @@
-(0.3888888888888889)	business intelligence ->! structure:stand alone
-(0.2222222222222222)	supply chain management ->! market focus:personal
-(0.2222222222222222)	payroll ->! structure:stand alone
-(0.2222222222222222)	payroll ->! market focus:personal
-(0.2222222222222222)	online banking ->! payroll
-(0.2222222222222222)	online banking ->! language:java
-(0.2222222222222222)	online banking ->! human ressource management
-(0.2222222222222222)	multiuser ->! market focus:personal
-(0.2222222222222222)	multico ->! market focus:personal
-(0.2222222222222222)	market focus:personal ->! structure:client-server
-(0.2222222222222222)	manufacturing/bill of materials ->! market focus:personal
-(0.2222222222222222)	inventory management ->! market focus:personal
-(0.2222222222222222)	human ressource management ->! market focus:personal
-(0.2222222222222222)	e-commerce ->! market focus:personal
-(0.2222222222222222)	business intelligence ->! market focus:personal
-(0.16666666666666666)	tax form ->! structure:stand alone
-(0.16666666666666666)	tax form ->! structure:client-server
-(0.16666666666666666)	tax form ->! market focus:personal
-(0.16666666666666666)	tax form ->! language:python
-(0.16666666666666666)	market focus:personal ->! language:python
-(0.1111111111111111)	tax form ->! market focus:high-market
-(0.1111111111111111)	tax form ->! license:gpl2
-(0.1111111111111111)	tax form ->! language:php
-(0.1111111111111111)	tax form ->! language:c++
-(0.1111111111111111)	tax form ->! language:c
-(0.1111111111111111)	supply chain management ->! language:c++
-(0.1111111111111111)	supply chain management ->! language:c
-(0.1111111111111111)	structure:web based ->! language:c
-(0.1111111111111111)	structure:stand alone ->! language:php
-(0.1111111111111111)	structure:stand alone ->! language:perl
-(0.1111111111111111)	structure:client-server ->! language:php
-(0.1111111111111111)	structure:client-server ->! language:perl
-(0.1111111111111111)	structure:client-server ->! language:c
-(0.1111111111111111)	stock option commodity trade ->! tax form
-(0.1111111111111111)	stock option commodity trade ->! supply chain management
-(0.1111111111111111)	stock option commodity trade ->! structure:web based
-(0.1111111111111111)	stock option commodity trade ->! structure:client-server
-(0.1111111111111111)	stock option commodity trade ->! payroll
-(0.1111111111111111)	stock option commodity trade ->! multiuser
-(0.1111111111111111)	stock option commodity trade ->! multico
-(0.1111111111111111)	stock option commodity trade ->! market focus:mid-market
-(0.1111111111111111)	stock option commodity trade ->! manufacturing/bill of materials
-(0.1111111111111111)	stock option commodity trade ->! license:gpl2
-(0.1111111111111111)	stock option commodity trade ->! language:python
-(0.1111111111111111)	stock option commodity trade ->! language:php
-(0.1111111111111111)	stock option commodity trade ->! language:perl
-(0.1111111111111111)	stock option commodity trade ->! language:java
-(0.1111111111111111)	stock option commodity trade ->! inventory management
-(0.1111111111111111)	stock option commodity trade ->! human ressource management
-(0.1111111111111111)	stock option commodity trade ->! entreprise ressource planning
-(0.1111111111111111)	stock option commodity trade ->! distribution/warehouse management system
-(0.1111111111111111)	stock option commodity trade ->! customer relationship management
-(0.1111111111111111)	stock option commodity trade ->! business intelligence
-(0.1111111111111111)	point of sale ->! stock option commodity trade
-(0.1111111111111111)	point of sale ->! language:c
-(0.1111111111111111)	payroll ->! market focus:high-market
-(0.1111111111111111)	payroll ->! language:php
-(0.1111111111111111)	payroll ->! language:perl
-(0.1111111111111111)	payroll ->! language:c++
-(0.1111111111111111)	payroll ->! language:c
-(0.1111111111111111)	online banking ->! market focus:high-market
-(0.1111111111111111)	online banking ->! license:gpl2
-(0.1111111111111111)	online banking ->! language:php
-(0.1111111111111111)	multiuser ->! market focus:high-market
-(0.1111111111111111)	multiuser ->! language:c++
-(0.1111111111111111)	multiuser ->! language:c
-(0.1111111111111111)	multico ->! market focus:high-market
-(0.1111111111111111)	multico ->! language:c++
-(0.1111111111111111)	multico ->! language:c
-(0.1111111111111111)	market focus:personal ->! language:php
-(0.1111111111111111)	market focus:personal ->! language:perl
-(0.1111111111111111)	market focus:mid-market ->! language:c
-(0.1111111111111111)	market focus:low-market ->! language:perl
-(0.1111111111111111)	market focus:high-market ->! structure:client-server
-(0.1111111111111111)	market focus:high-market ->! language:php
-(0.1111111111111111)	market focus:high-market ->! language:perl
-(0.1111111111111111)	manufacturing/bill of materials ->! market focus:high-market
-(0.1111111111111111)	manufacturing/bill of materials ->! language:c
-(0.1111111111111111)	license:gpl2 ->! structure:stand alone
-(0.1111111111111111)	license:gpl2 ->! market focus:personal
-(0.1111111111111111)	license:gpl2 ->! market focus:low-market
-(0.1111111111111111)	license:gpl2 ->! market focus:high-market
-(0.1111111111111111)	license:gpl2 ->! language:python
-(0.1111111111111111)	license:gpl2 ->! language:php
-(0.1111111111111111)	license:gpl2 ->! language:perl
-(0.1111111111111111)	license:gpl2 ->! language:c
-(0.1111111111111111)	inventory management ->! market focus:high-market
-(0.1111111111111111)	inventory management ->! language:c
-(0.1111111111111111)	human ressource management ->! language:php
-(0.1111111111111111)	human ressource management ->! language:perl
-(0.1111111111111111)	human ressource management ->! language:c++
-(0.1111111111111111)	human ressource management ->! language:c
-(0.1111111111111111)	general ledger ->! market focus:high-market
-(0.1111111111111111)	entreprise ressource planning ->! language:c
-(0.1111111111111111)	e-commerce ->! stock option commodity trade
-(0.1111111111111111)	e-commerce ->! language:php
-(0.1111111111111111)	e-commerce ->! language:perl
-(0.1111111111111111)	e-commerce ->! language:c
-(0.1111111111111111)	distribution/warehouse management system ->! language:php
-(0.1111111111111111)	distribution/warehouse management system ->! language:c
-(0.1111111111111111)	customer relationship management ->! language:c
-(0.1111111111111111)	business intelligence ->! market focus:high-market
-(0.1111111111111111)	business intelligence ->! language:php
-(0.1111111111111111)	business intelligence ->! language:c
-(0.1111111111111111)	accounts receivble/accounts payable ->! market focus:high-market
-(0.05555555555555555)	tax form ->! license:gpl3
-(0.05555555555555555)	tax form ->! license:cpal
-(0.05555555555555555)	tax form ->! license:agpl
-(0.05555555555555555)	tax form ->! language:java ee
-(0.05555555555555555)	tax form ->! language:delphi
-(0.05555555555555555)	supply chain management ->! structure:on-premise
-(0.05555555555555555)	supply chain management ->! license:mpl
-(0.05555555555555555)	supply chain management ->! license:cpal
-(0.05555555555555555)	supply chain management ->! language:java ee
-(0.05555555555555555)	supply chain management ->! language:delphi
-(0.05555555555555555)	structure:web based ->! language:delphi
-(0.05555555555555555)	structure:stand alone ->! language:java ee
-(0.05555555555555555)	structure:on-premise ->! language:python
-(0.05555555555555555)	structure:on-premise ->! language:php
-(0.05555555555555555)	structure:on-premise ->! language:perl
-(0.05555555555555555)	structure:on-premise ->! language:java ee
-(0.05555555555555555)	structure:multi-user ->! language:python
-(0.05555555555555555)	structure:multi-user ->! language:php
-(0.05555555555555555)	structure:multi-user ->! language:perl
-(0.05555555555555555)	structure:multi-user ->! language:java ee
-(0.05555555555555555)	structure:multi-user ->! language:delphi
-(0.05555555555555555)	structure:multi-user ->! language:c
-(0.05555555555555555)	structure:client-server ->! language:java ee
-(0.05555555555555555)	structure:client-server ->! language:delphi
-(0.05555555555555555)	stock option commodity trade ->! structure:multi-user
-(0.05555555555555555)	stock option commodity trade ->! license:mpl
-(0.05555555555555555)	stock option commodity trade ->! license:gpl3
-(0.05555555555555555)	stock option commodity trade ->! license:cpal
-(0.05555555555555555)	stock option commodity trade ->! license:apache
-(0.05555555555555555)	stock option commodity trade ->! license:agpl
-(0.05555555555555555)	stock option commodity trade ->! language:java ee
-(0.05555555555555555)	stock option commodity trade ->! language:delphi
-(0.05555555555555555)	payroll ->! structure:multi-user
-(0.05555555555555555)	payroll ->! license:gpl3
-(0.05555555555555555)	payroll ->! license:cpal
-(0.05555555555555555)	payroll ->! license:apache
-(0.05555555555555555)	payroll ->! language:java ee
-(0.05555555555555555)	payroll ->! language:delphi
-(0.05555555555555555)	online banking ->! structure:on-premise
-(0.05555555555555555)	online banking ->! structure:multi-user
-(0.05555555555555555)	online banking ->! license:mpl
-(0.05555555555555555)	online banking ->! license:gpl3
-(0.05555555555555555)	online banking ->! license:cpal
-(0.05555555555555555)	online banking ->! license:apache
-(0.05555555555555555)	online banking ->! license:agpl
-(0.05555555555555555)	online banking ->! language:java ee
-(0.05555555555555555)	online banking ->! language:delphi
-(0.05555555555555555)	multiuser ->! license:cpal
-(0.05555555555555555)	multiuser ->! language:java ee
-(0.05555555555555555)	multico ->! license:cpal
-(0.05555555555555555)	multico ->! language:java ee
-(0.05555555555555555)	multi-currency pricing ->! language:java ee
-(0.05555555555555555)	multi-currency pricing ->! language:delphi
-(0.05555555555555555)	market focus:personal ->! structure:on-premise
-(0.05555555555555555)	market focus:personal ->! structure:multi-user
-(0.05555555555555555)	market focus:personal ->! language:java ee
-(0.05555555555555555)	market focus:personal ->! language:delphi
-(0.05555555555555555)	market focus:low-market ->! structure:on-premise
-(0.05555555555555555)	market focus:low-market ->! language:java ee
-(0.05555555555555555)	market focus:high-market ->! structure:on-premise
-(0.05555555555555555)	market focus:high-market ->! structure:multi-user
-(0.05555555555555555)	market focus:high-market ->! language:java ee
-(0.05555555555555555)	market focus:high-market ->! language:delphi
-(0.05555555555555555)	linux ->! language:delphi
-(0.05555555555555555)	license:mpl ->! structure:stand alone
-(0.05555555555555555)	license:mpl ->! structure:multi-user
-(0.05555555555555555)	license:mpl ->! structure:client-server
-(0.05555555555555555)	license:mpl ->! market focus:personal
-(0.05555555555555555)	license:mpl ->! market focus:low-market
-(0.05555555555555555)	license:mpl ->! market focus:high-market
-(0.05555555555555555)	license:mpl ->! language:python
-(0.05555555555555555)	license:mpl ->! language:php
-(0.05555555555555555)	license:mpl ->! language:perl
-(0.05555555555555555)	license:mpl ->! language:java ee
-(0.05555555555555555)	license:mpl ->! language:delphi
-(0.05555555555555555)	license:mpl ->! language:c
-(0.05555555555555555)	license:gpl3 ->! structure:client-server
-(0.05555555555555555)	license:gpl3 ->! market focus:personal
-(0.05555555555555555)	license:gpl3 ->! market focus:high-market
-(0.05555555555555555)	license:gpl3 ->! language:java
-(0.05555555555555555)	license:gpl2 ->! language:delphi
-(0.05555555555555555)	license:gpl ->! structure:on-premise
-(0.05555555555555555)	license:gpl ->! structure:multi-user
-(0.05555555555555555)	license:gpl ->! language:java ee
-(0.05555555555555555)	license:cpal ->! structure:web based
-(0.05555555555555555)	license:cpal ->! structure:stand alone
-(0.05555555555555555)	license:cpal ->! structure:multi-user
-(0.05555555555555555)	license:cpal ->! market focus:personal
-(0.05555555555555555)	license:cpal ->! market focus:high-market
-(0.05555555555555555)	license:cpal ->! language:python
-(0.05555555555555555)	license:cpal ->! language:php
-(0.05555555555555555)	license:cpal ->! language:perl
-(0.05555555555555555)	license:cpal ->! language:java
-(0.05555555555555555)	license:cpal ->! language:delphi
-(0.05555555555555555)	license:cpal ->! language:c
-(0.05555555555555555)	license:apache ->! structure:web based
-(0.05555555555555555)	license:apache ->! structure:stand alone
-(0.05555555555555555)	license:apache ->! structure:client-server
-(0.05555555555555555)	license:apache ->! market focus:personal
-(0.05555555555555555)	license:apache ->! market focus:high-market
-(0.05555555555555555)	license:apache ->! language:python
-(0.05555555555555555)	license:apache ->! language:php
-(0.05555555555555555)	license:apache ->! language:perl
-(0.05555555555555555)	license:apache ->! language:java ee
-(0.05555555555555555)	license:apache ->! language:delphi
-(0.05555555555555555)	license:apache ->! language:c
-(0.05555555555555555)	license:agpl ->! structure:stand alone
-(0.05555555555555555)	license:agpl ->! structure:on-premise
-(0.05555555555555555)	license:agpl ->! structure:multi-user
-(0.05555555555555555)	license:agpl ->! market focus:personal
-(0.05555555555555555)	license:agpl ->! market focus:high-market
-(0.05555555555555555)	license:agpl ->! language:php
-(0.05555555555555555)	license:agpl ->! language:perl
-(0.05555555555555555)	license:agpl ->! language:java
-(0.05555555555555555)	license:agpl ->! language:delphi
-(0.05555555555555555)	license:agpl ->! language:c
-(0.05555555555555555)	inventory management ->! language:java ee
-(0.05555555555555555)	human ressource management ->! license:gpl3
-(0.05555555555555555)	human ressource management ->! license:cpal
-(0.05555555555555555)	human ressource management ->! language:java ee
-(0.05555555555555555)	human ressource management ->! language:delphi
-(0.05555555555555555)	general ledger ->! language:java ee
-(0.05555555555555555)	entreprise ressource planning ->! language:delphi
-(0.05555555555555555)	e-commerce ->! license:gpl3
-(0.05555555555555555)	e-commerce ->! language:java ee
-(0.05555555555555555)	e-commerce ->! language:delphi
-(0.05555555555555555)	double-entry bookkeeping system ->! language:java ee
-(0.05555555555555555)	distribution/warehouse management system ->! structure:on-premise
-(0.05555555555555555)	distribution/warehouse management system ->! license:mpl
-(0.05555555555555555)	distribution/warehouse management system ->! license:gpl3
-(0.05555555555555555)	distribution/warehouse management system ->! language:delphi
-(0.05555555555555555)	customer relationship management ->! language:delphi
-(0.05555555555555555)	business intelligence ->! license:gpl3
-(0.05555555555555555)	business intelligence ->! language:java ee
-(0.05555555555555555)	business intelligence ->! language:delphi
-(0.05555555555555555)	accounts receivble/accounts payable ->! language:java ee
+linux ->! language:={delphi}
+mac os ->! market focus:={mid-market,high-market}
+mac os ->! structure:={web based,stand alone}
+market focus:={mid-market} ->! language:={c}
+market focus:={mid-market} ->! stock option commodity trade
+general ledger ->! license:={gpl2}
+general ledger ->! market focus:={mid-market,high-market}
+general ledger ->! structure:={web based,stand alone}
+general ledger ->! language:={java ee}
+double-entry bookkeeping system ->! license:={gpl2}
+double-entry bookkeeping system ->! language:={java ee}
+entreprise ressource planning ->! language:={c}
+entreprise ressource planning ->! stock option commodity trade
+entreprise ressource planning ->! language:={delphi}
+multi-currency pricing ->! license:={gpl2}
+multi-currency pricing ->! market focus:={mid-market,high-market}
+multi-currency pricing ->! structure:={web based,stand alone}
+multi-currency pricing ->! language:={java ee}
+multi-currency pricing ->! language:={delphi}
+accounts receivble/accounts payable ->! license:={gpl2}
+accounts receivble/accounts payable ->! market focus:={mid-market,high-market}
+accounts receivble/accounts payable ->! structure:={web based,stand alone}
+accounts receivble/accounts payable ->! language:={java ee}
+customer relationship management ->! language:={c}
+customer relationship management ->! stock option commodity trade
+customer relationship management ->! language:={perl}
+customer relationship management ->! language:={delphi}
+point of sale ->! online banking
+point of sale ->! language:={c}
+point of sale ->! stock option commodity trade
+point of sale ->! structure:={stand alone,client-server}
+manufacturing/bill of materials ->! market focus:={personal}
+manufacturing/bill of materials ->! language:={c}
+manufacturing/bill of materials ->! stock option commodity trade
+manufacturing/bill of materials ->! market focus:={mid-market,high-market}
+manufacturing/bill of materials ->! structure:={web based,stand alone}
+inventory management ->! market focus:={personal}
+inventory management ->! license:={gpl2}
+inventory management ->! language:={c}
+inventory management ->! stock option commodity trade
+inventory management ->! market focus:={mid-market,high-market}
+inventory management ->! structure:={web based,stand alone}
+inventory management ->! language:={java ee}
+structure:={web based} ->! online banking
+structure:={web based} ->! language:={c}
+structure:={web based} ->! stock option commodity trade
+structure:={web based} ->! language:={c++}
+structure:={web based} ->! license:={apache}
+structure:={web based} ->! license:={cpal}
+structure:={web based} ->! language:={delphi}
+license:={gpl} ->! business intelligence
+license:={gpl} ->! human ressource management
+license:={gpl} ->! payroll
+license:={gpl} ->! tax form
+license:={gpl} ->! language:={php}
+license:={gpl} ->! structure:={web based,client-server}
+license:={gpl} ->! language:={c++}
+license:={gpl} ->! structure:={multi-user,web access,cloud hostable}
+license:={gpl} ->! language:={java ee}
+license:={gpl} ->! structure:={web based,saas,on demand,on-premise}
+distribution/warehouse management system ->! language:={php}
+distribution/warehouse management system ->! language:={c}
+distribution/warehouse management system ->! stock option commodity trade
+distribution/warehouse management system ->! language:={perl}
+distribution/warehouse management system ->! license:={gpl3}
+distribution/warehouse management system ->! license:={mpl}
+distribution/warehouse management system ->! structure:={web based,saas,on demand,on-premise}
+distribution/warehouse management system ->! language:={delphi}
+market focus:={low-market} ->! license:={gpl2}
+market focus:={low-market} ->! language:={perl}
+market focus:={low-market} ->! language:={java ee}
+market focus:={low-market} ->! license:={mpl}
+market focus:={low-market} ->! structure:={web based,saas,on demand,on-premise}
+multiuser ->! market focus:={personal}
+multico ->! market focus:={personal}
+multiuser ->! license:={gpl2}
+multico ->! license:={gpl2}
+multiuser ->! language:={c}
+multico ->! language:={c}
+multiuser ->! stock option commodity trade
+multico ->! stock option commodity trade
+multiuser ->! market focus:={mid-market,high-market}
+multiuser ->! structure:={web based,stand alone}
+multico ->! market focus:={mid-market,high-market}
+multico ->! structure:={web based,stand alone}
+multiuser ->! language:={c++}
+multico ->! language:={c++}
+multiuser ->! language:={java ee}
+multico ->! language:={java ee}
+multiuser ->! license:={cpal}
+multico ->! license:={cpal}
+supply chain management ->! market focus:={personal}
+supply chain management ->! license:={gpl2}
+supply chain management ->! language:={c}
+supply chain management ->! stock option commodity trade
+supply chain management ->! market focus:={mid-market,high-market}
+supply chain management ->! structure:={web based,stand alone}
+supply chain management ->! language:={c++}
+supply chain management ->! language:={perl}
+supply chain management ->! language:={java ee}
+supply chain management ->! license:={mpl}
+supply chain management ->! structure:={web based,saas,on demand,on-premise}
+supply chain management ->! license:={cpal}
+supply chain management ->! language:={delphi}
+e-commerce ->! market focus:={personal}
+e-commerce ->! license:={gpl2}
+e-commerce ->! language:={php}
+e-commerce ->! language:={c}
+e-commerce ->! stock option commodity trade
+e-commerce ->! market focus:={mid-market,high-market}
+e-commerce ->! structure:={web based,stand alone}
+e-commerce ->! language:={perl}
+e-commerce ->! language:={java ee}
+e-commerce ->! license:={gpl3}
+e-commerce ->! language:={delphi}
+business intelligence ->! structure:={stand alone}
+business intelligence ->! market focus:={personal}
+business intelligence ->! online banking
+business intelligence ->! license:={gpl2}
+business intelligence ->! language:={php}
+business intelligence ->! language:={c}
+business intelligence ->! stock option commodity trade
+business intelligence ->! market focus:={mid-market,high-market}
+business intelligence ->! language:={perl}
+business intelligence ->! language:={java ee}
+business intelligence ->! license:={gpl3}
+business intelligence ->! language:={delphi}
+structure:={stand alone} ->! human ressource management
+structure:={stand alone} ->! payroll
+structure:={stand alone} ->! tax form
+structure:={stand alone} ->! license:={gpl2}
+structure:={stand alone} ->! language:={php}
+structure:={stand alone} ->! language:={c++}
+structure:={stand alone} ->! language:={perl}
+structure:={stand alone} ->! license:={apache}
+structure:={stand alone} ->! language:={java ee}
+structure:={stand alone} ->! license:={gpl3}
+structure:={stand alone} ->! license:={mpl}
+structure:={stand alone} ->! license:={agpl}
+structure:={stand alone} ->! license:={cpal}
+human ressource management ->! market focus:={personal}
+human ressource management ->! online banking
+human ressource management ->! license:={gpl2}
+human ressource management ->! language:={php}
+human ressource management ->! language:={c}
+human ressource management ->! stock option commodity trade
+human ressource management ->! market focus:={mid-market,high-market}
+human ressource management ->! language:={c++}
+human ressource management ->! language:={perl}
+human ressource management ->! language:={java ee}
+human ressource management ->! license:={gpl3}
+human ressource management ->! license:={cpal}
+human ressource management ->! language:={delphi}
+language:={java} ->! online banking
+language:={java} ->! structure:={client-server}
+language:={java} ->! license:={gpl2}
+language:={java} ->! stock option commodity trade
+language:={java} ->! license:={gpl3}
+language:={java} ->! license:={agpl}
+language:={java} ->! license:={cpal}
+payroll ->! market focus:={personal}
+payroll ->! online banking
+payroll ->! license:={gpl2}
+payroll ->! language:={php}
+payroll ->! language:={c}
+payroll ->! stock option commodity trade
+payroll ->! market focus:={mid-market,high-market}
+payroll ->! language:={c++}
+payroll ->! language:={perl}
+payroll ->! license:={apache}
+payroll ->! structure:={multi-user,web access,cloud hostable}
+payroll ->! language:={java ee}
+payroll ->! license:={gpl3}
+payroll ->! license:={cpal}
+payroll ->! language:={delphi}
+market focus:={personal} ->! structure:={client-server}
+market focus:={personal} ->! tax form
+market focus:={personal} ->! language:={python}
+market focus:={personal} ->! license:={gpl2}
+market focus:={personal} ->! language:={php}
+market focus:={personal} ->! language:={c++}
+market focus:={personal} ->! language:={perl}
+market focus:={personal} ->! license:={apache}
+market focus:={personal} ->! structure:={multi-user,web access,cloud hostable}
+market focus:={personal} ->! language:={java ee}
+market focus:={personal} ->! license:={gpl3}
+market focus:={personal} ->! license:={mpl}
+market focus:={personal} ->! structure:={web based,saas,on demand,on-premise}
+market focus:={personal} ->! license:={agpl}
+market focus:={personal} ->! license:={cpal}
+market focus:={personal} ->! language:={delphi}
+online banking ->! tax form
+online banking ->! license:={gpl2}
+online banking ->! language:={php}
+online banking ->! market focus:={mid-market,high-market}
+online banking ->! language:={c++}
+online banking ->! language:={perl}
+online banking ->! license:={apache}
+online banking ->! structure:={multi-user,web access,cloud hostable}
+online banking ->! language:={java ee}
+online banking ->! license:={gpl3}
+online banking ->! license:={mpl}
+online banking ->! license:={agpl}
+online banking ->! license:={cpal}
+online banking ->! language:={delphi}
+structure:={client-server} ->! tax form
+structure:={client-server} ->! license:={gpl2}
+structure:={client-server} ->! language:={php}
+structure:={client-server} ->! language:={c}
+structure:={client-server} ->! stock option commodity trade
+structure:={client-server} ->! market focus:={mid-market,high-market}
+structure:={client-server} ->! language:={perl}
+structure:={client-server} ->! license:={apache}
+structure:={client-server} ->! language:={java ee}
+structure:={client-server} ->! license:={gpl3}
+structure:={client-server} ->! license:={mpl}
+structure:={client-server} ->! language:={delphi}
+tax form ->! language:={python}
+tax form ->! license:={gpl2}
+tax form ->! language:={php}
+tax form ->! language:={c}
+tax form ->! stock option commodity trade
+tax form ->! market focus:={mid-market,high-market}
+tax form ->! language:={c++}
+tax form ->! language:={perl}
+tax form ->! language:={java ee}
+tax form ->! license:={gpl3}
+tax form ->! license:={agpl}
+tax form ->! license:={cpal}
+tax form ->! language:={delphi}
+language:={python} ->! license:={gpl2}
+language:={python} ->! stock option commodity trade
+language:={python} ->! market focus:={mid-market,high-market}
+language:={python} ->! structure:={web based,stand alone}
+language:={python} ->! license:={apache}
+language:={python} ->! structure:={multi-user,web access,cloud hostable}
+language:={python} ->! license:={gpl3}
+language:={python} ->! license:={mpl}
+language:={python} ->! structure:={web based,saas,on demand,on-premise}
+language:={python} ->! license:={cpal}
+license:={gpl2} ->! language:={php}
+license:={gpl2} ->! language:={c}
+license:={gpl2} ->! stock option commodity trade
+license:={gpl2} ->! market focus:={mid-market,high-market}
+license:={gpl2} ->! language:={c++}
+license:={gpl2} ->! language:={perl}
+license:={gpl2} ->! structure:={multi-user,web access,cloud hostable}
+license:={gpl2} ->! structure:={web based,saas,on demand,on-premise}
+license:={gpl2} ->! language:={delphi}
+language:={php} ->! stock option commodity trade
+language:={php} ->! market focus:={mid-market,high-market}
+language:={php} ->! license:={apache}
+language:={php} ->! structure:={multi-user,web access,cloud hostable}
+language:={php} ->! license:={mpl}
+language:={php} ->! structure:={web based,saas,on demand,on-premise}
+language:={php} ->! license:={agpl}
+language:={php} ->! license:={cpal}
+language:={c} ->! license:={apache}
+language:={c} ->! structure:={multi-user,web access,cloud hostable}
+language:={c} ->! license:={gpl3}
+language:={c} ->! license:={mpl}
+language:={c} ->! license:={agpl}
+language:={c} ->! license:={cpal}
+stock option commodity trade ->! language:={c++}
+stock option commodity trade ->! language:={perl}
+stock option commodity trade ->! license:={apache}
+stock option commodity trade ->! structure:={multi-user,web access,cloud hostable}
+stock option commodity trade ->! language:={java ee}
+stock option commodity trade ->! license:={gpl3}
+stock option commodity trade ->! license:={mpl}
+stock option commodity trade ->! license:={agpl}
+stock option commodity trade ->! license:={cpal}
+stock option commodity trade ->! language:={delphi}
+market focus:={mid-market,high-market} ->! language:={c++}
+market focus:={mid-market,high-market} ->! language:={perl}
+market focus:={mid-market,high-market} ->! license:={apache}
+market focus:={mid-market,high-market} ->! structure:={multi-user,web access,cloud hostable}
+market focus:={mid-market,high-market} ->! language:={java ee}
+market focus:={mid-market,high-market} ->! license:={gpl3}
+market focus:={mid-market,high-market} ->! license:={mpl}
+market focus:={mid-market,high-market} ->! structure:={web based,saas,on demand,on-premise}
+market focus:={mid-market,high-market} ->! license:={agpl}
+market focus:={mid-market,high-market} ->! license:={cpal}
+market focus:={mid-market,high-market} ->! language:={delphi}
+language:={c++} ->! license:={apache}
+language:={c++} ->! structure:={multi-user,web access,cloud hostable}
+language:={c++} ->! license:={gpl3}
+language:={c++} ->! license:={mpl}
+language:={c++} ->! license:={agpl}
+language:={perl} ->! license:={apache}
+language:={perl} ->! structure:={multi-user,web access,cloud hostable}
+language:={perl} ->! license:={gpl3}
+language:={perl} ->! license:={mpl}
+language:={perl} ->! structure:={web based,saas,on demand,on-premise}
+language:={perl} ->! license:={agpl}
+language:={perl} ->! license:={cpal}
+license:={apache} ->! language:={java ee}
+structure:={multi-user,web access,cloud hostable} ->! language:={java ee}
+structure:={multi-user,web access,cloud hostable} ->! license:={gpl3}
+structure:={multi-user,web access,cloud hostable} ->! license:={mpl}
+structure:={multi-user,web access,cloud hostable} ->! license:={agpl}
+structure:={multi-user,web access,cloud hostable} ->! license:={cpal}
+license:={apache} ->! language:={delphi}
+structure:={multi-user,web access,cloud hostable} ->! language:={delphi}
+language:={java ee} ->! license:={gpl3}
+language:={java ee} ->! license:={mpl}
+language:={java ee} ->! structure:={web based,saas,on demand,on-premise}
+language:={java ee} ->! license:={agpl}
+language:={java ee} ->! license:={cpal}
+license:={gpl3} ->! structure:={web based,saas,on demand,on-premise}
+license:={gpl3} ->! language:={delphi}
+structure:={web based,saas,on demand,on-premise} ->! license:={agpl}
+license:={mpl} ->! language:={delphi}
+license:={agpl} ->! language:={delphi}
+license:={cpal} ->! language:={delphi}

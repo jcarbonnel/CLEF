@@ -1,0 +1,180 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:50,object number:18,attribute number:54"
+0 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td>license:={gpl3}<br/></td></tr><tr><td>frontaccounting<br/></td></tr></table>>];
+16 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>market focus:={mid-market,high-market,personal,low-market}<br/></td></tr><tr><td>jfire<br/></td></tr></table>>];
+2 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_9</td></tr><tr><td>license:={apache}<br/>structure:={multi-user,web access,cloud hostable}<br/></td></tr><tr><td>apache ofbiz<br/></td></tr></table>>];
+3 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>license:={cpal}<br/></td></tr><tr><td>postbooks<br/></td></tr></table>>];
+39 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>structure:={stand alone,client-server}<br/></td></tr><tr><td>tryton<br/></td></tr></table>>];
+4 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>license:={mpl}<br/>structure:={web based,saas,on demand,on-premise}<br/></td></tr><tr><td>openbravo<br/></td></tr></table>>];
+41 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td>language:={delphi}<br/></td></tr><tr><td>turbocash<br/></td></tr></table>>];
+46 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td>language:={java ee}<br/></td></tr><tr><td>compiere<br/></td></tr></table>>];
+6 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>license:={agpl}<br/></td></tr><tr><td>odoo<br/></td></tr></table>>];
+13 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_13</td></tr><tr><td>market focus:={mid-market,high-market}<br/>structure:={web based,stand alone}<br/></td></tr><tr><td>gnu enterprise<br/></td></tr></table>>];
+15 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_15</td></tr><tr><td>market focus:={personal,low-market}<br/></td></tr><tr><td><br/></td></tr></table>>];
+24 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_14</td></tr><tr><td>stock option commodity trade<br/></td></tr><tr><td>kmymoney<br/></td></tr></table>>];
+40 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_12</td></tr><tr><td>structure:={web based,client-server}<br/></td></tr><tr><td>idempiere<br/></td></tr></table>>];
+43 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_11</td></tr><tr><td>language:={c++}<br/></td></tr><tr><td>kmymoney<br/></td></tr></table>>];
+45 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_16</td></tr><tr><td>language:={c}<br/></td></tr><tr><td>homebank<br/></td></tr></table>>];
+47 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_17</td></tr><tr><td>language:={php}<br/></td></tr><tr><td>weberp<br/></td></tr></table>>];
+48 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_10</td></tr><tr><td>language:={perl}<br/></td></tr><tr><td>ledgersmb<br/>sql-ledger<br/></td></tr></table>>];
+5 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_18</td></tr><tr><td>license:={gpl2}<br/></td></tr><tr><td>idempiere<br/></td></tr></table>>];
+35 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_20</td></tr><tr><td>tax form<br/></td></tr><tr><td>ledgersmb<br/></td></tr></table>>];
+42 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_19</td></tr><tr><td>language:={python}<br/></td></tr><tr><td>gnu enterprise<br/></td></tr></table>>];
+11 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_23</td></tr><tr><td>market focus:={personal}<br/></td></tr><tr><td><br/></td></tr></table>>];
+21 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_22</td></tr><tr><td>online banking<br/></td></tr><tr><td>ledgersmb<br/></td></tr></table>>];
+25 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_24</td></tr><tr><td>payroll<br/></td></tr><tr><td>adempiere<br/></td></tr></table>>];
+38 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_21</td></tr><tr><td>structure:={client-server}<br/></td></tr><tr><td><br/></td></tr></table>>];
+44 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_25</td></tr><tr><td>language:={java}<br/></td></tr><tr><td>adempiere<br/>idempiere<br/></td></tr></table>>];
+29 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_26</td></tr><tr><td>human ressource management<br/></td></tr><tr><td>gnu enterprise<br/></td></tr></table>>];
+28 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_28</td></tr><tr><td>business intelligence<br/></td></tr><tr><td><br/></td></tr></table>>];
+37 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_27</td></tr><tr><td>structure:={stand alone}<br/></td></tr><tr><td><br/></td></tr></table>>];
+14 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_29</td></tr><tr><td>market focus:={mid-market,low-market}<br/></td></tr><tr><td><br/></td></tr></table>>];
+23 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_30</td></tr><tr><td>e-commerce<br/></td></tr><tr><td><br/></td></tr></table>>];
+31 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_31</td></tr><tr><td>supply chain management<br/></td></tr><tr><td>adempiere<br/>ledgersmb<br/></td></tr></table>>];
+12 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_33</td></tr><tr><td>market focus:={low-market}<br/></td></tr><tr><td><br/></td></tr></table>>];
+33 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_34</td></tr><tr><td>distribution/warehouse management system<br/></td></tr><tr><td>adempiere<br/>ledgersmb<br/></td></tr></table>>];
+34 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_32</td></tr><tr><td>multiuser<br/>multico<br/></td></tr><tr><td><br/></td></tr></table>>];
+1 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_35</td></tr><tr><td>license:={gpl}<br/></td></tr><tr><td>adempiere<br/>weberp<br/></td></tr></table>>];
+32 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_37</td></tr><tr><td>inventory management<br/></td></tr><tr><td><br/></td></tr></table>>];
+36 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_36</td></tr><tr><td>structure:={web based}<br/></td></tr><tr><td><br/></td></tr></table>>];
+22 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_39</td></tr><tr><td>point of sale<br/></td></tr><tr><td><br/></td></tr></table>>];
+27 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_40</td></tr><tr><td>customer relationship management<br/></td></tr><tr><td><br/></td></tr></table>>];
+30 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_38</td></tr><tr><td>manufacturing/bill of materials<br/></td></tr><tr><td><br/></td></tr></table>>];
+18 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_41</td></tr><tr><td>accounts receivble/accounts payable<br/></td></tr><tr><td><br/></td></tr></table>>];
+20 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_42</td></tr><tr><td>multi-currency pricing<br/></td></tr><tr><td><br/></td></tr></table>>];
+26 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_43</td></tr><tr><td>entreprise ressource planning<br/></td></tr><tr><td><br/></td></tr></table>>];
+10 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_46</td></tr><tr><td>market focus:={mid-market}<br/></td></tr><tr><td><br/></td></tr></table>>];
+17 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_45</td></tr><tr><td>general ledger<br/></td></tr><tr><td><br/></td></tr></table>>];
+19 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_44</td></tr><tr><td>double-entry bookkeeping system<br/></td></tr><tr><td><br/></td></tr></table>>];
+8 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_47</td></tr><tr><td>mac os<br/></td></tr><tr><td><br/></td></tr></table>>];
+9 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_48</td></tr><tr><td>linux<br/></td></tr><tr><td><br/></td></tr></table>>];
+7 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_49</td></tr><tr><td>windows<br/></td></tr><tr><td><br/></td></tr></table>>];
+49 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>language:={c,scheme}<br/></td></tr><tr><td>gnucash<br/></td></tr></table>>];
+	16:p -> 13:p
+	16:p -> 15:p
+	49:p -> 15:p
+	49:p -> 24:p
+	6:p -> 40:p
+	3:p -> 43:p
+	49:p -> 45:p
+	0:p -> 47:p
+	46:p -> 5:p
+	4:p -> 35:p
+	2:p -> 35:p
+	6:p -> 42:p
+	39:p -> 42:p
+	45:p -> 11:p
+	24:p -> 11:p
+	15:p -> 11:p
+	24:p -> 21:p
+	39:p -> 21:p
+	4:p -> 25:p
+	40:p -> 25:p
+	40:p -> 38:p
+	39:p -> 38:p
+	3:p -> 38:p
+	4:p -> 44:p
+	16:p -> 44:p
+	2:p -> 44:p
+	25:p -> 29:p
+	2:p -> 29:p
+	25:p -> 28:p
+	35:p -> 28:p
+	3:p -> 28:p
+	13:p -> 37:p
+	39:p -> 37:p
+	41:p -> 37:p
+	11:p -> 37:p
+	16:p -> 14:p
+	2:p -> 14:p
+	3:p -> 14:p
+	47:p -> 14:p
+	39:p -> 14:p
+	6:p -> 14:p
+	41:p -> 14:p
+	29:p -> 23:p
+	38:p -> 23:p
+	42:p -> 23:p
+	40:p -> 31:p
+	42:p -> 31:p
+	0:p -> 31:p
+	2:p -> 31:p
+	15:p -> 12:p
+	14:p -> 12:p
+	16:p -> 33:p
+	38:p -> 33:p
+	5:p -> 33:p
+	2:p -> 33:p
+	40:p -> 34:p
+	39:p -> 34:p
+	48:p -> 34:p
+	35:p -> 34:p
+	0:p -> 34:p
+	41:p -> 34:p
+	21:p -> 1:p
+	37:p -> 1:p
+	48:p -> 1:p
+	38:p -> 32:p
+	28:p -> 32:p
+	34:p -> 32:p
+	47:p -> 36:p
+	25:p -> 36:p
+	13:p -> 36:p
+	48:p -> 36:p
+	5:p -> 36:p
+	44:p -> 22:p
+	48:p -> 22:p
+	5:p -> 22:p
+	28:p -> 22:p
+	0:p -> 22:p
+	41:p -> 22:p
+	33:p -> 27:p
+	23:p -> 27:p
+	13:p -> 27:p
+	28:p -> 27:p
+	31:p -> 27:p
+	44:p -> 27:p
+	5:p -> 30:p
+	32:p -> 30:p
+	47:p -> 18:p
+	32:p -> 18:p
+	49:p -> 18:p
+	43:p -> 20:p
+	47:p -> 20:p
+	21:p -> 20:p
+	23:p -> 20:p
+	48:p -> 20:p
+	28:p -> 20:p
+	31:p -> 20:p
+	36:p -> 26:p
+	27:p -> 26:p
+	22:p -> 10:p
+	26:p -> 10:p
+	30:p -> 10:p
+	14:p -> 10:p
+	18:p -> 17:p
+	21:p -> 17:p
+	45:p -> 17:p
+	43:p -> 17:p
+	12:p -> 19:p
+	18:p -> 19:p
+	21:p -> 19:p
+	43:p -> 19:p
+	44:p -> 19:p
+	17:p -> 8:p
+	20:p -> 8:p
+	30:p -> 8:p
+	11:p -> 9:p
+	26:p -> 9:p
+	20:p -> 9:p
+	9:p -> 7:p
+	8:p -> 7:p
+	1:p -> 7:p
+	19:p -> 7:p
+	10:p -> 7:p
+}

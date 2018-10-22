@@ -1,7 +1,10 @@
-(0.02631578947368421)	creator:unify corporation <-> release date:*
-(0.02631578947368421)	creator:the software conservancy <-> software license:mit
-(0.02631578947368421)	creator:openlink software <-> release date:2001
-(0.02631578947368421)	creator:openesb community <-> software license:cddl
-(0.02631578947368421)	creator:mulesoft <-> software license:cpal
-(0.02631578947368421)	creator:jitterbit <-> software license:jpl
-(0.02631578947368421)	creator:adroitlogic <-> software license:agpl
+creator:={unify corporation} <-> release date:=*
+creator:={talend} <-> software license:={gpl,apache software license}
+creator:={openlink software} <-> release date:=[2001-2001]
+creator:={openlink software} <-> software license:={gpl,proprietary}
+release date:=[2001-2001] <-> software license:={gpl,proprietary}
+creator:={openesb community} <-> software license:={cddl}
+creator:={mulesoft} <-> software license:={cpal}
+creator:={the software conservancy} <-> software license:={mit}
+creator:={jitterbit} <-> software license:={jpl}
+creator:={adroitlogic} <-> software license:={agpl}

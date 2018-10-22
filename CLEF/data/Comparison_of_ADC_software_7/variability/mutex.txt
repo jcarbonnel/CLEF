@@ -1,23 +1,26 @@
-(0.4166666666666667)	dht ->! ipv6
-(0.3333333333333333)	plugin:c++ ->! protocol support:keyp
-(0.25)	plugin:lua ->! protocol support:sudp
-(0.25)	ipv6 ->! protocol support:inherits from strongdc++
-(0.25)	dht ->! protocol support:sudp
-(0.16666666666666666)	plugin:lua ->! protocol support:qp
-(0.08333333333333333)	plugin:qtscript ->! protocol support:inherits from strongdc++
-(0.08333333333333333)	plugin:lua ->! protocol support:inherits from dc++
-(0.08333333333333333)	plugin:lua ->! protocol support:inherits from airdc++
-(0.08333333333333333)	plugin:eclipse rcp ->! protocol support:natt
-(0.08333333333333333)	plugin:eclipse rcp ->! protocol support:inherits from strongdc++
-(0.08333333333333333)	plugin:eclipse rcp ->! protocol support:inherits from dc++
-(0.08333333333333333)	plugin:eclipse rcp ->! protocol support:inherits from airdc++
-(0.08333333333333333)	plugin:* ->! protocol support:fs
-(0.08333333333333333)	nat traversal ->! protocol support:inherits from dc++
-(0.08333333333333333)	nat traversal ->! plugin:eclipse rcp
-(0.08333333333333333)	magnet uri ->! protocol support:inherits from airdc++
-(0.08333333333333333)	ipv6 ->! protocol support:inherits from dc++
-(0.08333333333333333)	ipv6 ->! protocol support:fs
-(0.08333333333333333)	ipv6 ->! plugin:qtscript
-(0.08333333333333333)	dht ->! protocol support:inherits from dc++
-(0.08333333333333333)	dht ->! protocol support:inherits from airdc++
-(0.08333333333333333)	dht ->! plugin:eclipse rcp
+magnet uri ->! protocol support:={inherits from airdc++}
+nat traversal ->! plugin:={c++,lua}
+nat traversal ->! protocol support:={inherits from strongdc++}
+nat traversal ->! plugin:={eclipse rcp}
+nat traversal ->! protocol support:={inherits from dc++}
+protocol support:={tigr,adcs} ->! plugin:={c++,lua}
+ipv6 ->! plugin:={lua}
+ipv6 ->! dht
+ipv6 ->! protocol support:={inherits from strongdc++}
+ipv6 ->! protocol support:={inherits from dc++}
+ipv6 ->! protocol support:={natt,pfsr,ucmd,keyp,tigr,blom,sega,fs,adcs}
+protocol support:={natt,ucmd,tigr,blom,sega,adcs} ->! plugin:={eclipse rcp}
+plugin:={lua} ->! protocol support:={keyp,tigr,sudp,adcs}
+plugin:={lua} ->! protocol support:={inherits from strongdc++}
+plugin:={lua} ->! protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs,qp}
+plugin:={lua} ->! protocol support:={inherits from airdc++}
+plugin:={lua} ->! protocol support:={inherits from dc++}
+dht ->! plugin:={c++,lua}
+dht ->! protocol support:={keyp,tigr,sudp,adcs}
+dht ->! protocol support:={natt,pfsr,ucmd,tigr,blom,sega,adcs,qp}
+dht ->! protocol support:={inherits from airdc++}
+dht ->! plugin:={eclipse rcp}
+dht ->! protocol support:={inherits from dc++}
+protocol support:={inherits from strongdc++} ->! plugin:={eclipse rcp}
+protocol support:={inherits from airdc++} ->! plugin:={eclipse rcp}
+plugin:={eclipse rcp} ->! protocol support:={inherits from dc++}

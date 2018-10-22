@@ -1,14 +1,14 @@
 FormalContext ctx
 algo fca
-| |encryption|ipv6|bloom filter|plugin:lua|plugin:python|plugin:ruby|plugin:java|plugin:*|plugin:c#|plugin:c|hash algorithms:tiger tree hash|hash algorithms:*|adc support:tigr|adc support:ping|adc support:adcs|adc support:keyp|adc support:asch|adc support:sudp|adc support:*|
-|adch++|x|x|x|x|x|x|||||x||x|x|x|||||
-|adch++ gui|x||x||x||||||x||x|x|x|||||
-|dshub|x||||x||x||||x||x|x|x|||||
-|flexhub|x|||||||x|||x||x|x|x|||||
-|luadch|x|||x|||||||x||x|x|x|x|x|x||
-|nexthub|x||||||||x||x||x||x|||||
-|uhub|x|x||||||||x|x||x|x|x|||||
-|qhub||||||||x|||x||x|||||||
-|starlet adc hub||||||||x|||x||x|||||||
-|starhub||||||||x|||x||x|||||||
-|rushub||||||||x|||x||x|||||||
+| |encryption|ipv6|plugin:={c#}|plugin:={python}|plugin:={c}|plugin:={lua}|plugin:={python,java}|plugin:={python,lua,ruby}|hash algorithms:={tiger tree hash}|bloom filter|adc support:={tigr}|adc support:={tigr,adcs}|adc support:={tigr,ping,adcs}|adc support:={keyp,tigr,ping,sudp,asch,adcs}|
+|adch++|x|x||x||x||x|x|x|x|x|x||
+|adch++ gui|x|||x|||||x|x|x|x|x||
+|dshub|x|||x|||x||x||x|x|x||
+|flexhub|x||||||||x||x|x|x||
+|luadch|x|||||x|||x||x|x|x|x|
+|nexthub|x||x||||||x||x|x|||
+|uhub|x|x|||x||||x||x|x|x||
+|qhub|||||||||x||x||||
+|starlet adc hub|||||||||x||x||||
+|starhub|||||||||x||x||||
+|rushub|||||||||x||x||||

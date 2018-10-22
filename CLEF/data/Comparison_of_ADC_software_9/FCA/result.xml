@@ -1,6 +1,6 @@
 <RCAExplore_Document>
 	<Step nb="0">
-		<Lattice numberObj="10" numberAtt="8" numberCpt="10" >
+		<Lattice numberObj="10" numberAtt="7" numberCpt="8" >
 			<Config algo="fca">
 			</Config>
 			<Name>ctx</Name>
@@ -17,13 +17,12 @@
 			<Attribute>windows</Attribute>
 			<Attribute>linux</Attribute>
 			<Attribute>os x</Attribute>
-			<Attribute>other:.net4 enabled platform</Attribute>
-			<Attribute>other:*</Attribute>
-			<Attribute>other:java enabled platform</Attribute>
-			<Attribute>other:c# enabled platform</Attribute>
-			<Attribute>other:wine</Attribute>
+			<Attribute>other:={java enabled platform}</Attribute>
+			<Attribute>other:={.net4 enabled platform}</Attribute>
+			<Attribute>other:={c# enabled platform}</Attribute>
+			<Attribute>other:={wine}</Attribute>
 			<Concept>
-				<ID>Concept_ctx_9</ID>
+				<ID>Concept_ctx_7</ID>
 				<Extent>
 					<Object_Ref>adccore</Object_Ref>
 					<Object_Ref>dcbouncer</Object_Ref>
@@ -43,7 +42,7 @@
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_7</ID>
+				<ID>Concept_ctx_6</ID>
 				<Extent>
 					<Object_Ref>dcbouncer</Object_Ref>
 					<Object_Ref>dcwatch</Object_Ref>
@@ -56,11 +55,11 @@
 					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_9</Concept_Ref>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_6</ID>
+				<ID>Concept_ctx_5</ID>
 				<Extent>
 					<Object_Ref>embla</Object_Ref>
 					<Object_Ref>flowlib</Object_Ref>
@@ -72,7 +71,22 @@
 					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>embla</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>os x</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>other:={java enabled platform}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -80,17 +94,15 @@
 				<Extent>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>other:java enabled platform</Attribute_Ref>
+					<Attribute_Ref>other:={wine}</Attribute_Ref>
 					<Attribute_Ref>linux</Attribute_Ref>
-					<Attribute_Ref>other:wine</Attribute_Ref>
 					<Attribute_Ref>os x</Attribute_Ref>
-					<Attribute_Ref>other:.net4 enabled platform</Attribute_Ref>
+					<Attribute_Ref>other:={c# enabled platform}</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
-					<Attribute_Ref>other:c# enabled platform</Attribute_Ref>
-					<Attribute_Ref>other:*</Attribute_Ref>
+					<Attribute_Ref>other:={.net4 enabled platform}</Attribute_Ref>
+					<Attribute_Ref>other:={java enabled platform}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_5</Concept_Ref>
 					<Concept_Ref>Concept_ctx_2</Concept_Ref>
 					<Concept_Ref>Concept_ctx_4</Concept_Ref>
 					<Concept_Ref>Concept_ctx_1</Concept_Ref>
@@ -103,59 +115,11 @@
 					<Object_Ref>adccore</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>other:.net4 enabled platform</Attribute_Ref>
+					<Attribute_Ref>other:={.net4 enabled platform}</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_9</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_5</ID>
-				<Extent>
-					<Object_Ref>dcbouncer</Object_Ref>
-					<Object_Ref>dcwatch</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>linux</Attribute_Ref>
-					<Attribute_Ref>windows</Attribute_Ref>
-					<Attribute_Ref>other:*</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_7</Concept_Ref>
-					<Concept_Ref>Concept_ctx_8</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_8</ID>
-				<Extent>
-					<Object_Ref>dcbouncer</Object_Ref>
-					<Object_Ref>dc-hublink</Object_Ref>
-					<Object_Ref>dcwatch</Object_Ref>
-					<Object_Ref>announcer bot</Object_Ref>
-					<Object_Ref>certmanager</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>windows</Attribute_Ref>
-					<Attribute_Ref>other:*</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_9</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_2</ID>
-				<Extent>
-					<Object_Ref>embla</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>other:java enabled platform</Attribute_Ref>
-					<Attribute_Ref>linux</Attribute_Ref>
-					<Attribute_Ref>os x</Attribute_Ref>
-					<Attribute_Ref>windows</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_6</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -167,11 +131,11 @@
 				<Intent>
 					<Attribute_Ref>linux</Attribute_Ref>
 					<Attribute_Ref>os x</Attribute_Ref>
+					<Attribute_Ref>other:={c# enabled platform}</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
-					<Attribute_Ref>other:c# enabled platform</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -180,17 +144,17 @@
 					<Object_Ref>netchatlink</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>other:wine</Attribute_Ref>
+					<Attribute_Ref>other:={wine}</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_9</Concept_Ref>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 		</Lattice>
 	</Step >
 	<Step nb="1">
-		<Lattice numberObj="10" numberAtt="8" numberCpt="10" >
+		<Lattice numberObj="10" numberAtt="7" numberCpt="8" >
 			<Config algo="fca">
 			</Config>
 			<Name>ctx</Name>
@@ -207,13 +171,12 @@
 			<Attribute>windows</Attribute>
 			<Attribute>linux</Attribute>
 			<Attribute>os x</Attribute>
-			<Attribute>other:.net4 enabled platform</Attribute>
-			<Attribute>other:*</Attribute>
-			<Attribute>other:java enabled platform</Attribute>
-			<Attribute>other:c# enabled platform</Attribute>
-			<Attribute>other:wine</Attribute>
+			<Attribute>other:={java enabled platform}</Attribute>
+			<Attribute>other:={.net4 enabled platform}</Attribute>
+			<Attribute>other:={c# enabled platform}</Attribute>
+			<Attribute>other:={wine}</Attribute>
 			<Concept>
-				<ID>Concept_ctx_9</ID>
+				<ID>Concept_ctx_7</ID>
 				<Extent>
 					<Object_Ref>adccore</Object_Ref>
 					<Object_Ref>dcbouncer</Object_Ref>
@@ -233,7 +196,7 @@
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_7</ID>
+				<ID>Concept_ctx_6</ID>
 				<Extent>
 					<Object_Ref>dcbouncer</Object_Ref>
 					<Object_Ref>dcwatch</Object_Ref>
@@ -246,11 +209,11 @@
 					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_9</Concept_Ref>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_6</ID>
+				<ID>Concept_ctx_5</ID>
 				<Extent>
 					<Object_Ref>embla</Object_Ref>
 					<Object_Ref>flowlib</Object_Ref>
@@ -262,7 +225,22 @@
 					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>embla</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>os x</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>other:={java enabled platform}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -270,17 +248,15 @@
 				<Extent>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>other:java enabled platform</Attribute_Ref>
+					<Attribute_Ref>other:={wine}</Attribute_Ref>
 					<Attribute_Ref>linux</Attribute_Ref>
-					<Attribute_Ref>other:wine</Attribute_Ref>
 					<Attribute_Ref>os x</Attribute_Ref>
-					<Attribute_Ref>other:.net4 enabled platform</Attribute_Ref>
+					<Attribute_Ref>other:={c# enabled platform}</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
-					<Attribute_Ref>other:c# enabled platform</Attribute_Ref>
-					<Attribute_Ref>other:*</Attribute_Ref>
+					<Attribute_Ref>other:={.net4 enabled platform}</Attribute_Ref>
+					<Attribute_Ref>other:={java enabled platform}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_5</Concept_Ref>
 					<Concept_Ref>Concept_ctx_2</Concept_Ref>
 					<Concept_Ref>Concept_ctx_4</Concept_Ref>
 					<Concept_Ref>Concept_ctx_1</Concept_Ref>
@@ -293,59 +269,11 @@
 					<Object_Ref>adccore</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>other:.net4 enabled platform</Attribute_Ref>
+					<Attribute_Ref>other:={.net4 enabled platform}</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_9</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_5</ID>
-				<Extent>
-					<Object_Ref>dcbouncer</Object_Ref>
-					<Object_Ref>dcwatch</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>linux</Attribute_Ref>
-					<Attribute_Ref>windows</Attribute_Ref>
-					<Attribute_Ref>other:*</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_7</Concept_Ref>
-					<Concept_Ref>Concept_ctx_8</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_8</ID>
-				<Extent>
-					<Object_Ref>dcbouncer</Object_Ref>
-					<Object_Ref>dc-hublink</Object_Ref>
-					<Object_Ref>dcwatch</Object_Ref>
-					<Object_Ref>announcer bot</Object_Ref>
-					<Object_Ref>certmanager</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>windows</Attribute_Ref>
-					<Attribute_Ref>other:*</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_9</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_2</ID>
-				<Extent>
-					<Object_Ref>embla</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>other:java enabled platform</Attribute_Ref>
-					<Attribute_Ref>linux</Attribute_Ref>
-					<Attribute_Ref>os x</Attribute_Ref>
-					<Attribute_Ref>windows</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_6</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -357,11 +285,11 @@
 				<Intent>
 					<Attribute_Ref>linux</Attribute_Ref>
 					<Attribute_Ref>os x</Attribute_Ref>
+					<Attribute_Ref>other:={c# enabled platform}</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
-					<Attribute_Ref>other:c# enabled platform</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -370,11 +298,11 @@
 					<Object_Ref>netchatlink</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>other:wine</Attribute_Ref>
+					<Attribute_Ref>other:={wine}</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_9</Concept_Ref>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 		</Lattice>

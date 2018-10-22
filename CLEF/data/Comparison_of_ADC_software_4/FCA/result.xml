@@ -1,6 +1,6 @@
 <RCAExplore_Document>
 	<Step nb="0">
-		<Lattice numberObj="13" numberAtt="6" numberCpt="7" >
+		<Lattice numberObj="13" numberAtt="5" numberCpt="7" >
 			<Config algo="fca">
 			</Config>
 			<Name>ctx</Name>
@@ -19,10 +19,9 @@
 			<Object>ncdc</Object>
 			<Attribute>free and open source</Attribute>
 			<Attribute>active</Attribute>
-			<Attribute>software license:gnu gpl</Attribute>
-			<Attribute>software license:bsd</Attribute>
-			<Attribute>software license:mit</Attribute>
-			<Attribute>software license:*</Attribute>
+			<Attribute>software license:={bsd}</Attribute>
+			<Attribute>software license:={gnu gpl}</Attribute>
+			<Attribute>software license:={mit}</Attribute>
 			<Concept>
 				<ID>Concept_ctx_6</ID>
 				<Extent>
@@ -68,6 +67,37 @@
 				</UpperCovers>
 			</Concept>
 			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>jucy</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>free and open source</Attribute_Ref>
+					<Attribute_Ref>active</Attribute_Ref>
+					<Attribute_Ref>software license:={bsd}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_4</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_0</ID>
+				<Extent>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>free and open source</Attribute_Ref>
+					<Attribute_Ref>software license:={gnu gpl}</Attribute_Ref>
+					<Attribute_Ref>software license:={mit}</Attribute_Ref>
+					<Attribute_Ref>active</Attribute_Ref>
+					<Attribute_Ref>software license:={bsd}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_3</Concept_Ref>
+					<Concept_Ref>Concept_ctx_2</Concept_Ref>
+					<Concept_Ref>Concept_ctx_1</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
 				<ID>Concept_ctx_3</ID>
 				<Extent>
 					<Object_Ref>airdc++</Object_Ref>
@@ -80,8 +110,8 @@
 				</Extent>
 				<Intent>
 					<Attribute_Ref>free and open source</Attribute_Ref>
+					<Attribute_Ref>software license:={gnu gpl}</Attribute_Ref>
 					<Attribute_Ref>active</Attribute_Ref>
-					<Attribute_Ref>software license:gnu gpl</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_4</Concept_Ref>
@@ -104,43 +134,11 @@
 					<Object_Ref>revconnect</Object_Ref>
 				</Extent>
 				<Intent>
+					<Attribute_Ref>software license:={gnu gpl}</Attribute_Ref>
 					<Attribute_Ref>free and open source</Attribute_Ref>
-					<Attribute_Ref>software license:gnu gpl</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_6</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_0</ID>
-				<Extent>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>software license:mit</Attribute_Ref>
-					<Attribute_Ref>free and open source</Attribute_Ref>
-					<Attribute_Ref>software license:*</Attribute_Ref>
-					<Attribute_Ref>software license:bsd</Attribute_Ref>
-					<Attribute_Ref>active</Attribute_Ref>
-					<Attribute_Ref>software license:gnu gpl</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_3</Concept_Ref>
-					<Concept_Ref>Concept_ctx_2</Concept_Ref>
-					<Concept_Ref>Concept_ctx_1</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_2</ID>
-				<Extent>
-					<Object_Ref>jucy</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>free and open source</Attribute_Ref>
-					<Attribute_Ref>software license:bsd</Attribute_Ref>
-					<Attribute_Ref>active</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_4</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -149,8 +147,8 @@
 					<Object_Ref>ncdc</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>software license:mit</Attribute_Ref>
 					<Attribute_Ref>free and open source</Attribute_Ref>
+					<Attribute_Ref>software license:={mit}</Attribute_Ref>
 					<Attribute_Ref>active</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
@@ -160,7 +158,7 @@
 		</Lattice>
 	</Step >
 	<Step nb="1">
-		<Lattice numberObj="13" numberAtt="6" numberCpt="7" >
+		<Lattice numberObj="13" numberAtt="5" numberCpt="7" >
 			<Config algo="fca">
 			</Config>
 			<Name>ctx</Name>
@@ -179,10 +177,9 @@
 			<Object>ncdc</Object>
 			<Attribute>free and open source</Attribute>
 			<Attribute>active</Attribute>
-			<Attribute>software license:gnu gpl</Attribute>
-			<Attribute>software license:bsd</Attribute>
-			<Attribute>software license:mit</Attribute>
-			<Attribute>software license:*</Attribute>
+			<Attribute>software license:={bsd}</Attribute>
+			<Attribute>software license:={gnu gpl}</Attribute>
+			<Attribute>software license:={mit}</Attribute>
 			<Concept>
 				<ID>Concept_ctx_6</ID>
 				<Extent>
@@ -228,6 +225,37 @@
 				</UpperCovers>
 			</Concept>
 			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>jucy</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>free and open source</Attribute_Ref>
+					<Attribute_Ref>active</Attribute_Ref>
+					<Attribute_Ref>software license:={bsd}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_4</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_0</ID>
+				<Extent>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>free and open source</Attribute_Ref>
+					<Attribute_Ref>software license:={gnu gpl}</Attribute_Ref>
+					<Attribute_Ref>software license:={mit}</Attribute_Ref>
+					<Attribute_Ref>active</Attribute_Ref>
+					<Attribute_Ref>software license:={bsd}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_3</Concept_Ref>
+					<Concept_Ref>Concept_ctx_2</Concept_Ref>
+					<Concept_Ref>Concept_ctx_1</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
 				<ID>Concept_ctx_3</ID>
 				<Extent>
 					<Object_Ref>airdc++</Object_Ref>
@@ -240,8 +268,8 @@
 				</Extent>
 				<Intent>
 					<Attribute_Ref>free and open source</Attribute_Ref>
+					<Attribute_Ref>software license:={gnu gpl}</Attribute_Ref>
 					<Attribute_Ref>active</Attribute_Ref>
-					<Attribute_Ref>software license:gnu gpl</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_4</Concept_Ref>
@@ -264,43 +292,11 @@
 					<Object_Ref>revconnect</Object_Ref>
 				</Extent>
 				<Intent>
+					<Attribute_Ref>software license:={gnu gpl}</Attribute_Ref>
 					<Attribute_Ref>free and open source</Attribute_Ref>
-					<Attribute_Ref>software license:gnu gpl</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_6</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_0</ID>
-				<Extent>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>software license:mit</Attribute_Ref>
-					<Attribute_Ref>free and open source</Attribute_Ref>
-					<Attribute_Ref>software license:*</Attribute_Ref>
-					<Attribute_Ref>software license:bsd</Attribute_Ref>
-					<Attribute_Ref>active</Attribute_Ref>
-					<Attribute_Ref>software license:gnu gpl</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_3</Concept_Ref>
-					<Concept_Ref>Concept_ctx_2</Concept_Ref>
-					<Concept_Ref>Concept_ctx_1</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_2</ID>
-				<Extent>
-					<Object_Ref>jucy</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>free and open source</Attribute_Ref>
-					<Attribute_Ref>software license:bsd</Attribute_Ref>
-					<Attribute_Ref>active</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_4</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -309,8 +305,8 @@
 					<Object_Ref>ncdc</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>software license:mit</Attribute_Ref>
 					<Attribute_Ref>free and open source</Attribute_Ref>
+					<Attribute_Ref>software license:={mit}</Attribute_Ref>
 					<Attribute_Ref>active</Attribute_Ref>
 				</Intent>
 				<UpperCovers>

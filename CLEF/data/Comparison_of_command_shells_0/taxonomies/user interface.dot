@@ -1,9 +1,0 @@
-digraph G { 
- rankdir=BT;
- subgraph ba { 
-1 [shape=record,label="{text-based cli}"];
-2 [shape=record,label="{*}"];
-3 [shape=record,label="{graphical cli}"];
-1 -> 2
-3 -> 2
-}}

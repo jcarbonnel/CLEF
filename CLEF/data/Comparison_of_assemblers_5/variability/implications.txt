@@ -1,4 +1,0 @@
-(0.14814814814814814)	license:gpl -> open source
-(0.037037037037037035)	os:xenix -> license:proprietary
-(0.037037037037037035)	os:unix system v -> license:proprietary
-(0.037037037037037035)	os:unix system v -> active development

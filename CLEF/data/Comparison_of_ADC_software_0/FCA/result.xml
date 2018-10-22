@@ -1,6 +1,6 @@
 <RCAExplore_Document>
 	<Step nb="0">
-		<Lattice numberObj="12" numberAtt="8" numberCpt="12" >
+		<Lattice numberObj="12" numberAtt="7" numberCpt="11" >
 			<Config algo="fca">
 			</Config>
 			<Name>ctx</Name>
@@ -18,33 +18,11 @@
 			<Object>rushub</Object>
 			<Attribute>free and open source</Attribute>
 			<Attribute>active</Attribute>
-			<Attribute>software license:gpl</Attribute>
-			<Attribute>software license:agpl</Attribute>
-			<Attribute>software license:gplv2</Attribute>
-			<Attribute>software license:mit license</Attribute>
-			<Attribute>software license:proprietary</Attribute>
-			<Attribute>software license:*</Attribute>
-			<Concept>
-				<ID>Concept_ctx_11</ID>
-				<Extent>
-					<Object_Ref>adch++</Object_Ref>
-					<Object_Ref>adch++ gui</Object_Ref>
-					<Object_Ref>dshub</Object_Ref>
-					<Object_Ref>flexhub</Object_Ref>
-					<Object_Ref>luadch</Object_Ref>
-					<Object_Ref>nexthub</Object_Ref>
-					<Object_Ref>uhub</Object_Ref>
-					<Object_Ref>erlhub</Object_Ref>
-					<Object_Ref>qhub</Object_Ref>
-					<Object_Ref>starlet adc hub</Object_Ref>
-					<Object_Ref>starhub</Object_Ref>
-					<Object_Ref>rushub</Object_Ref>
-				</Extent>
-				<Intent>
-				</Intent>
-				<UpperCovers>
-				</UpperCovers>
-			</Concept>
+			<Attribute>software license:={gpl}</Attribute>
+			<Attribute>software license:={proprietary}</Attribute>
+			<Attribute>software license:={mit license}</Attribute>
+			<Attribute>software license:={agpl}</Attribute>
+			<Attribute>software license:={gplv2}</Attribute>
 			<Concept>
 				<ID>Concept_ctx_10</ID>
 				<Extent>
@@ -57,17 +35,38 @@
 					<Object_Ref>uhub</Object_Ref>
 					<Object_Ref>erlhub</Object_Ref>
 					<Object_Ref>qhub</Object_Ref>
+					<Object_Ref>starlet adc hub</Object_Ref>
+					<Object_Ref>starhub</Object_Ref>
+					<Object_Ref>rushub</Object_Ref>
+				</Extent>
+				<Intent>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_9</ID>
+				<Extent>
+					<Object_Ref>adch++</Object_Ref>
+					<Object_Ref>adch++ gui</Object_Ref>
+					<Object_Ref>dshub</Object_Ref>
+					<Object_Ref>flexhub</Object_Ref>
+					<Object_Ref>luadch</Object_Ref>
+					<Object_Ref>nexthub</Object_Ref>
+					<Object_Ref>uhub</Object_Ref>
+					<Object_Ref>erlhub</Object_Ref>
+					<Object_Ref>qhub</Object_Ref>
 					<Object_Ref>rushub</Object_Ref>
 				</Extent>
 				<Intent>
 					<Attribute_Ref>free and open source</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_7</ID>
+				<ID>Concept_ctx_6</ID>
 				<Extent>
 					<Object_Ref>adch++</Object_Ref>
 					<Object_Ref>flexhub</Object_Ref>
@@ -80,12 +79,12 @@
 					<Attribute_Ref>active</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_8</Concept_Ref>
-					<Concept_Ref>Concept_ctx_10</Concept_Ref>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+					<Concept_Ref>Concept_ctx_9</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_8</ID>
+				<ID>Concept_ctx_7</ID>
 				<Extent>
 					<Object_Ref>adch++</Object_Ref>
 					<Object_Ref>flexhub</Object_Ref>
@@ -98,28 +97,28 @@
 					<Attribute_Ref>active</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_6</ID>
+				<ID>Concept_ctx_5</ID>
 				<Extent>
 					<Object_Ref>adch++</Object_Ref>
 					<Object_Ref>uhub</Object_Ref>
 					<Object_Ref>rushub</Object_Ref>
 				</Extent>
 				<Intent>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
 					<Attribute_Ref>free and open source</Attribute_Ref>
-					<Attribute_Ref>software license:gpl</Attribute_Ref>
 					<Attribute_Ref>active</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_7</Concept_Ref>
-					<Concept_Ref>Concept_ctx_9</Concept_Ref>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+					<Concept_Ref>Concept_ctx_8</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_9</ID>
+				<ID>Concept_ctx_8</ID>
 				<Extent>
 					<Object_Ref>adch++</Object_Ref>
 					<Object_Ref>adch++ gui</Object_Ref>
@@ -130,11 +129,11 @@
 					<Object_Ref>rushub</Object_Ref>
 				</Extent>
 				<Intent>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
 					<Attribute_Ref>free and open source</Attribute_Ref>
-					<Attribute_Ref>software license:gpl</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_10</Concept_Ref>
+					<Concept_Ref>Concept_ctx_9</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -142,94 +141,80 @@
 				<Extent>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>software license:gplv2</Attribute_Ref>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>software license:={mit license}</Attribute_Ref>
 					<Attribute_Ref>free and open source</Attribute_Ref>
-					<Attribute_Ref>software license:mit license</Attribute_Ref>
-					<Attribute_Ref>software license:*</Attribute_Ref>
-					<Attribute_Ref>software license:gpl</Attribute_Ref>
-					<Attribute_Ref>software license:proprietary</Attribute_Ref>
-					<Attribute_Ref>software license:agpl</Attribute_Ref>
 					<Attribute_Ref>active</Attribute_Ref>
+					<Attribute_Ref>software license:={gplv2}</Attribute_Ref>
+					<Attribute_Ref>software license:={agpl}</Attribute_Ref>
+					<Attribute_Ref>software license:={proprietary}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_5</Concept_Ref>
+					<Concept_Ref>Concept_ctx_1</Concept_Ref>
+					<Concept_Ref>Concept_ctx_2</Concept_Ref>
 					<Concept_Ref>Concept_ctx_4</Concept_Ref>
 					<Concept_Ref>Concept_ctx_3</Concept_Ref>
-					<Concept_Ref>Concept_ctx_2</Concept_Ref>
-					<Concept_Ref>Concept_ctx_1</Concept_Ref>
-					<Concept_Ref>Concept_ctx_6</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_5</ID>
-				<Extent>
-					<Object_Ref>flexhub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>free and open source</Attribute_Ref>
-					<Attribute_Ref>software license:agpl</Attribute_Ref>
-					<Attribute_Ref>active</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_7</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_4</ID>
-				<Extent>
-					<Object_Ref>luadch</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>software license:gplv2</Attribute_Ref>
-					<Attribute_Ref>free and open source</Attribute_Ref>
-					<Attribute_Ref>active</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_7</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_3</ID>
-				<Extent>
-					<Object_Ref>nexthub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>free and open source</Attribute_Ref>
-					<Attribute_Ref>software license:mit license</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_10</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_2</ID>
-				<Extent>
-					<Object_Ref>starlet adc hub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>software license:proprietary</Attribute_Ref>
-					<Attribute_Ref>active</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_8</Concept_Ref>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
 				<ID>Concept_ctx_1</ID>
 				<Extent>
-					<Object_Ref>starhub</Object_Ref>
+					<Object_Ref>starlet adc hub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>software license:*</Attribute_Ref>
+					<Attribute_Ref>active</Attribute_Ref>
+					<Attribute_Ref>software license:={proprietary}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>nexthub</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>software license:={mit license}</Attribute_Ref>
+					<Attribute_Ref>free and open source</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_9</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_4</ID>
+				<Extent>
+					<Object_Ref>flexhub</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>free and open source</Attribute_Ref>
+					<Attribute_Ref>active</Attribute_Ref>
+					<Attribute_Ref>software license:={agpl}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_3</ID>
+				<Extent>
+					<Object_Ref>luadch</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>free and open source</Attribute_Ref>
+					<Attribute_Ref>active</Attribute_Ref>
+					<Attribute_Ref>software license:={gplv2}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 		</Lattice>
 	</Step >
 	<Step nb="1">
-		<Lattice numberObj="12" numberAtt="8" numberCpt="12" >
+		<Lattice numberObj="12" numberAtt="7" numberCpt="11" >
 			<Config algo="fca">
 			</Config>
 			<Name>ctx</Name>
@@ -247,33 +232,11 @@
 			<Object>rushub</Object>
 			<Attribute>free and open source</Attribute>
 			<Attribute>active</Attribute>
-			<Attribute>software license:gpl</Attribute>
-			<Attribute>software license:agpl</Attribute>
-			<Attribute>software license:gplv2</Attribute>
-			<Attribute>software license:mit license</Attribute>
-			<Attribute>software license:proprietary</Attribute>
-			<Attribute>software license:*</Attribute>
-			<Concept>
-				<ID>Concept_ctx_11</ID>
-				<Extent>
-					<Object_Ref>adch++</Object_Ref>
-					<Object_Ref>adch++ gui</Object_Ref>
-					<Object_Ref>dshub</Object_Ref>
-					<Object_Ref>flexhub</Object_Ref>
-					<Object_Ref>luadch</Object_Ref>
-					<Object_Ref>nexthub</Object_Ref>
-					<Object_Ref>uhub</Object_Ref>
-					<Object_Ref>erlhub</Object_Ref>
-					<Object_Ref>qhub</Object_Ref>
-					<Object_Ref>starlet adc hub</Object_Ref>
-					<Object_Ref>starhub</Object_Ref>
-					<Object_Ref>rushub</Object_Ref>
-				</Extent>
-				<Intent>
-				</Intent>
-				<UpperCovers>
-				</UpperCovers>
-			</Concept>
+			<Attribute>software license:={gpl}</Attribute>
+			<Attribute>software license:={proprietary}</Attribute>
+			<Attribute>software license:={mit license}</Attribute>
+			<Attribute>software license:={agpl}</Attribute>
+			<Attribute>software license:={gplv2}</Attribute>
 			<Concept>
 				<ID>Concept_ctx_10</ID>
 				<Extent>
@@ -286,17 +249,38 @@
 					<Object_Ref>uhub</Object_Ref>
 					<Object_Ref>erlhub</Object_Ref>
 					<Object_Ref>qhub</Object_Ref>
+					<Object_Ref>starlet adc hub</Object_Ref>
+					<Object_Ref>starhub</Object_Ref>
+					<Object_Ref>rushub</Object_Ref>
+				</Extent>
+				<Intent>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_9</ID>
+				<Extent>
+					<Object_Ref>adch++</Object_Ref>
+					<Object_Ref>adch++ gui</Object_Ref>
+					<Object_Ref>dshub</Object_Ref>
+					<Object_Ref>flexhub</Object_Ref>
+					<Object_Ref>luadch</Object_Ref>
+					<Object_Ref>nexthub</Object_Ref>
+					<Object_Ref>uhub</Object_Ref>
+					<Object_Ref>erlhub</Object_Ref>
+					<Object_Ref>qhub</Object_Ref>
 					<Object_Ref>rushub</Object_Ref>
 				</Extent>
 				<Intent>
 					<Attribute_Ref>free and open source</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_7</ID>
+				<ID>Concept_ctx_6</ID>
 				<Extent>
 					<Object_Ref>adch++</Object_Ref>
 					<Object_Ref>flexhub</Object_Ref>
@@ -309,12 +293,12 @@
 					<Attribute_Ref>active</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_8</Concept_Ref>
-					<Concept_Ref>Concept_ctx_10</Concept_Ref>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+					<Concept_Ref>Concept_ctx_9</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_8</ID>
+				<ID>Concept_ctx_7</ID>
 				<Extent>
 					<Object_Ref>adch++</Object_Ref>
 					<Object_Ref>flexhub</Object_Ref>
@@ -327,28 +311,28 @@
 					<Attribute_Ref>active</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_6</ID>
+				<ID>Concept_ctx_5</ID>
 				<Extent>
 					<Object_Ref>adch++</Object_Ref>
 					<Object_Ref>uhub</Object_Ref>
 					<Object_Ref>rushub</Object_Ref>
 				</Extent>
 				<Intent>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
 					<Attribute_Ref>free and open source</Attribute_Ref>
-					<Attribute_Ref>software license:gpl</Attribute_Ref>
 					<Attribute_Ref>active</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_7</Concept_Ref>
-					<Concept_Ref>Concept_ctx_9</Concept_Ref>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+					<Concept_Ref>Concept_ctx_8</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_9</ID>
+				<ID>Concept_ctx_8</ID>
 				<Extent>
 					<Object_Ref>adch++</Object_Ref>
 					<Object_Ref>adch++ gui</Object_Ref>
@@ -359,11 +343,11 @@
 					<Object_Ref>rushub</Object_Ref>
 				</Extent>
 				<Intent>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
 					<Attribute_Ref>free and open source</Attribute_Ref>
-					<Attribute_Ref>software license:gpl</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_10</Concept_Ref>
+					<Concept_Ref>Concept_ctx_9</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -371,88 +355,74 @@
 				<Extent>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>software license:gplv2</Attribute_Ref>
+					<Attribute_Ref>software license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>software license:={mit license}</Attribute_Ref>
 					<Attribute_Ref>free and open source</Attribute_Ref>
-					<Attribute_Ref>software license:mit license</Attribute_Ref>
-					<Attribute_Ref>software license:*</Attribute_Ref>
-					<Attribute_Ref>software license:gpl</Attribute_Ref>
-					<Attribute_Ref>software license:proprietary</Attribute_Ref>
-					<Attribute_Ref>software license:agpl</Attribute_Ref>
 					<Attribute_Ref>active</Attribute_Ref>
+					<Attribute_Ref>software license:={gplv2}</Attribute_Ref>
+					<Attribute_Ref>software license:={agpl}</Attribute_Ref>
+					<Attribute_Ref>software license:={proprietary}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_5</Concept_Ref>
+					<Concept_Ref>Concept_ctx_1</Concept_Ref>
+					<Concept_Ref>Concept_ctx_2</Concept_Ref>
 					<Concept_Ref>Concept_ctx_4</Concept_Ref>
 					<Concept_Ref>Concept_ctx_3</Concept_Ref>
-					<Concept_Ref>Concept_ctx_2</Concept_Ref>
-					<Concept_Ref>Concept_ctx_1</Concept_Ref>
-					<Concept_Ref>Concept_ctx_6</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_5</ID>
-				<Extent>
-					<Object_Ref>flexhub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>free and open source</Attribute_Ref>
-					<Attribute_Ref>software license:agpl</Attribute_Ref>
-					<Attribute_Ref>active</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_7</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_4</ID>
-				<Extent>
-					<Object_Ref>luadch</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>software license:gplv2</Attribute_Ref>
-					<Attribute_Ref>free and open source</Attribute_Ref>
-					<Attribute_Ref>active</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_7</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_3</ID>
-				<Extent>
-					<Object_Ref>nexthub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>free and open source</Attribute_Ref>
-					<Attribute_Ref>software license:mit license</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_10</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_2</ID>
-				<Extent>
-					<Object_Ref>starlet adc hub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>software license:proprietary</Attribute_Ref>
-					<Attribute_Ref>active</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_8</Concept_Ref>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
 				<ID>Concept_ctx_1</ID>
 				<Extent>
-					<Object_Ref>starhub</Object_Ref>
+					<Object_Ref>starlet adc hub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>software license:*</Attribute_Ref>
+					<Attribute_Ref>active</Attribute_Ref>
+					<Attribute_Ref>software license:={proprietary}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>nexthub</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>software license:={mit license}</Attribute_Ref>
+					<Attribute_Ref>free and open source</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_9</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_4</ID>
+				<Extent>
+					<Object_Ref>flexhub</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>free and open source</Attribute_Ref>
+					<Attribute_Ref>active</Attribute_Ref>
+					<Attribute_Ref>software license:={agpl}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_3</ID>
+				<Extent>
+					<Object_Ref>luadch</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>free and open source</Attribute_Ref>
+					<Attribute_Ref>active</Attribute_Ref>
+					<Attribute_Ref>software license:={gplv2}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 		</Lattice>

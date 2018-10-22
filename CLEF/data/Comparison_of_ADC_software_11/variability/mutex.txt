@@ -1,6 +1,0 @@
-(0.125)	plugin extendable ->! hash algorithms:*
-(0.125)	plugin extendable ->! adc support:osnr
-(0.125)	plugin extendable ->! adc support:any clients
-(0.125)	hash algorithms:tiger tree hash ->! adc support:osnr
-(0.125)	hash algorithms:* ->! adc support:tigr
-(0.125)	hash algorithms:* ->! adc support:any clients

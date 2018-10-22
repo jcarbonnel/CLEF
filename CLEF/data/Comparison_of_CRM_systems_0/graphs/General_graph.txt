@@ -1,8 +1,0 @@
-license;implementation language(s);2
-license;database backend;2
-license;server operating system;2
-implementation language(s);first release date;1
-implementation language(s);database backend;2
-implementation language(s);server operating system;2
-server operating system;database backend;2
-first release date;database backend;1

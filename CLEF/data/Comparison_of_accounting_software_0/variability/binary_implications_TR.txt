@@ -1,0 +1,126 @@
+language:={delphi} -> structure:={stand alone}
+language:={delphi} -> market focus:={mid-market,low-market}
+language:={delphi} -> multiuser
+language:={delphi} -> multico
+language:={delphi} -> point of sale
+structure:={stand alone,client-server} -> language:={python}
+structure:={stand alone,client-server} -> online banking
+structure:={stand alone,client-server} -> market focus:={mid-market,low-market}
+structure:={stand alone,client-server} -> multiuser
+structure:={stand alone,client-server} -> multico
+license:={cpal} -> language:={c++}
+license:={cpal} -> structure:={client-server}
+license:={cpal} -> business intelligence
+license:={cpal} -> market focus:={mid-market,low-market}
+license:={agpl} -> structure:={web based,client-server}
+license:={agpl} -> language:={python}
+license:={agpl} -> market focus:={mid-market,low-market}
+license:={mpl} -> tax form
+structure:={web based,saas,on demand,on-premise} -> tax form
+license:={mpl} -> payroll
+structure:={web based,saas,on demand,on-premise} -> payroll
+license:={mpl} -> language:={java}
+structure:={web based,saas,on demand,on-premise} -> language:={java}
+market focus:={mid-market,high-market,personal,low-market} -> language:={java}
+market focus:={mid-market,high-market,personal,low-market} -> distribution/warehouse management system
+language:={c,scheme} -> market focus:={personal,low-market}
+language:={c,scheme} -> stock option commodity trade
+language:={c,scheme} -> accounts receivble/accounts payable
+license:={gpl3} -> language:={php}
+license:={gpl3} -> supply chain management
+license:={gpl3} -> multiuser
+license:={gpl3} -> multico
+license:={gpl3} -> point of sale
+language:={java ee} -> license:={gpl2}
+license:={apache} -> tax form
+structure:={multi-user,web access,cloud hostable} -> tax form
+license:={apache} -> language:={java}
+structure:={multi-user,web access,cloud hostable} -> language:={java}
+license:={apache} -> human ressource management
+structure:={multi-user,web access,cloud hostable} -> human ressource management
+license:={apache} -> market focus:={mid-market,low-market}
+structure:={multi-user,web access,cloud hostable} -> market focus:={mid-market,low-market}
+license:={apache} -> supply chain management
+structure:={multi-user,web access,cloud hostable} -> supply chain management
+license:={apache} -> distribution/warehouse management system
+structure:={multi-user,web access,cloud hostable} -> distribution/warehouse management system
+language:={perl} -> multiuser
+language:={perl} -> multico
+language:={perl} -> license:={gpl}
+language:={perl} -> structure:={web based}
+language:={perl} -> point of sale
+language:={perl} -> multi-currency pricing
+language:={c++} -> multi-currency pricing
+language:={c++} -> general ledger
+language:={c++} -> double-entry bookkeeping system
+structure:={web based,client-server} -> payroll
+structure:={web based,client-server} -> supply chain management
+structure:={web based,client-server} -> multiuser
+structure:={web based,client-server} -> multico
+market focus:={mid-market,high-market} -> customer relationship management
+structure:={web based,stand alone} -> customer relationship management
+stock option commodity trade -> market focus:={personal}
+stock option commodity trade -> online banking
+language:={c} -> market focus:={personal}
+language:={c} -> general ledger
+language:={php} -> market focus:={mid-market,low-market}
+language:={php} -> structure:={web based}
+language:={php} -> accounts receivble/accounts payable
+language:={php} -> multi-currency pricing
+license:={gpl2} -> distribution/warehouse management system
+license:={gpl2} -> structure:={web based}
+license:={gpl2} -> point of sale
+license:={gpl2} -> manufacturing/bill of materials
+language:={python} -> e-commerce
+language:={python} -> supply chain management
+tax form -> business intelligence
+tax form -> multiuser
+tax form -> multico
+structure:={client-server} -> e-commerce
+structure:={client-server} -> distribution/warehouse management system
+structure:={client-server} -> inventory management
+online banking -> license:={gpl}
+online banking -> multi-currency pricing
+online banking -> general ledger
+online banking -> double-entry bookkeeping system
+market focus:={personal} -> structure:={stand alone}
+market focus:={personal} -> linux
+payroll -> human ressource management
+payroll -> business intelligence
+payroll -> structure:={web based}
+language:={java} -> point of sale
+language:={java} -> customer relationship management
+language:={java} -> double-entry bookkeeping system
+human ressource management -> e-commerce
+structure:={stand alone} -> license:={gpl}
+business intelligence -> inventory management
+business intelligence -> point of sale
+business intelligence -> customer relationship management
+business intelligence -> multi-currency pricing
+e-commerce -> customer relationship management
+e-commerce -> multi-currency pricing
+supply chain management -> customer relationship management
+supply chain management -> multi-currency pricing
+multiuser -> inventory management
+multico -> inventory management
+market focus:={low-market} -> double-entry bookkeeping system
+distribution/warehouse management system -> customer relationship management
+license:={gpl} -> windows
+structure:={web based} -> entreprise ressource planning
+inventory management -> manufacturing/bill of materials
+inventory management -> accounts receivble/accounts payable
+manufacturing/bill of materials -> market focus:={mid-market}
+manufacturing/bill of materials -> mac os
+point of sale -> market focus:={mid-market}
+customer relationship management -> entreprise ressource planning
+accounts receivble/accounts payable -> general ledger
+accounts receivble/accounts payable -> double-entry bookkeeping system
+multi-currency pricing -> mac os
+multi-currency pricing -> linux
+entreprise ressource planning -> market focus:={mid-market}
+entreprise ressource planning -> linux
+double-entry bookkeeping system -> windows
+general ledger -> mac os
+market focus:={mid-market} -> windows
+mac os -> windows
+linux -> windows

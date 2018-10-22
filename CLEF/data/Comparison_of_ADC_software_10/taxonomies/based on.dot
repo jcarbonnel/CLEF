@@ -1,9 +1,0 @@
-digraph G { 
- rankdir=BT;
- subgraph ba { 
-1 [shape=record,label="{coredc}"];
-2 [shape=record,label="{*}"];
-3 [shape=record,label="{embla}"];
-1 -> 2
-3 -> 2
-}}

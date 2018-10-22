@@ -1,6 +1,0 @@
-name,ClientServer,Distributed,Merge,Lock,FirstRelease:1986,FirstRelease:1998,FirstRelease:2005,FirstRelease:[1986-1998],FirstRelease:[1998-2005],FirstRelease:[1986-2005],FirstRelease:*,ProgrammingLanguage:C,ProgrammingLanguage:shell scripts,ProgrammingLanguage:perl,ProgrammingLanguage:java,ProgrammingLanguage:C++,ProgrammingLanguage:*
-git,,X,X,,,,X,,X,X,,X,X,X,,,
-CVS,X,,X,,X,,,X,,X,,X,,,,,
-ClearCase,X,,X,X,,,,,,,X,X,,X,X,,
-GnuArch,,X,X,,,,X,,X,X,,X,X,,,,
-CVSNT,X,,X,X,,X,,X,X,X,,,,,,X,

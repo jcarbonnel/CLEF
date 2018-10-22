@@ -1,6 +1,6 @@
 <RCAExplore_Document>
 	<Step nb="0">
-		<Lattice numberObj="12" numberAtt="11" numberCpt="21" >
+		<Lattice numberObj="12" numberAtt="13" numberCpt="21" >
 			<Config algo="fca">
 			</Config>
 			<Name>ctx</Name>
@@ -18,15 +18,17 @@
 			<Object>rushub</Object>
 			<Attribute>gui</Attribute>
 			<Attribute>cli</Attribute>
-			<Attribute>programming language:c++</Attribute>
-			<Attribute>programming language:lua</Attribute>
-			<Attribute>programming language:python</Attribute>
-			<Attribute>programming language:ruby</Attribute>
-			<Attribute>programming language:java</Attribute>
-			<Attribute>programming language:c-sharp</Attribute>
-			<Attribute>programming language:c</Attribute>
-			<Attribute>programming language:erlang</Attribute>
-			<Attribute>programming language:*</Attribute>
+			<Attribute>programming language:={c++}</Attribute>
+			<Attribute>programming language:={c}</Attribute>
+			<Attribute>programming language:={java}</Attribute>
+			<Attribute>programming language:={c-sharp}</Attribute>
+			<Attribute>programming language:={lua}</Attribute>
+			<Attribute>programming language:={erlang}</Attribute>
+			<Attribute>programming language:={python}</Attribute>
+			<Attribute>programming language:={c++,python}</Attribute>
+			<Attribute>programming language:={c++,lua}</Attribute>
+			<Attribute>programming language:={python,java}</Attribute>
+			<Attribute>programming language:={c++,python,lua,ruby}</Attribute>
 			<Concept>
 				<ID>Concept_ctx_20</ID>
 				<Extent>
@@ -70,10 +72,11 @@
 					<Object_Ref>dshub</Object_Ref>
 				</Extent>
 				<Intent>
+					<Attribute_Ref>programming language:={python,java}</Attribute_Ref>
 					<Attribute_Ref>cli</Attribute_Ref>
-					<Attribute_Ref>programming language:python</Attribute_Ref>
-					<Attribute_Ref>programming language:java</Attribute_Ref>
+					<Attribute_Ref>programming language:={java}</Attribute_Ref>
 					<Attribute_Ref>gui</Attribute_Ref>
+					<Attribute_Ref>programming language:={python}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_11</Concept_Ref>
@@ -105,22 +108,24 @@
 				</Extent>
 				<Intent>
 					<Attribute_Ref>cli</Attribute_Ref>
-					<Attribute_Ref>programming language:c++</Attribute_Ref>
-					<Attribute_Ref>programming language:erlang</Attribute_Ref>
-					<Attribute_Ref>programming language:python</Attribute_Ref>
-					<Attribute_Ref>programming language:lua</Attribute_Ref>
-					<Attribute_Ref>programming language:java</Attribute_Ref>
+					<Attribute_Ref>programming language:={erlang}</Attribute_Ref>
+					<Attribute_Ref>programming language:={java}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c-sharp}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++,python,lua,ruby}</Attribute_Ref>
+					<Attribute_Ref>programming language:={python,java}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++,python}</Attribute_Ref>
 					<Attribute_Ref>gui</Attribute_Ref>
-					<Attribute_Ref>programming language:c</Attribute_Ref>
-					<Attribute_Ref>programming language:*</Attribute_Ref>
-					<Attribute_Ref>programming language:ruby</Attribute_Ref>
-					<Attribute_Ref>programming language:c-sharp</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++}</Attribute_Ref>
+					<Attribute_Ref>programming language:={python}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_5</Concept_Ref>
-					<Concept_Ref>Concept_ctx_3</Concept_Ref>
-					<Concept_Ref>Concept_ctx_2</Concept_Ref>
 					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+					<Concept_Ref>Concept_ctx_2</Concept_Ref>
+					<Concept_Ref>Concept_ctx_3</Concept_Ref>
 					<Concept_Ref>Concept_ctx_1</Concept_Ref>
 					<Concept_Ref>Concept_ctx_6</Concept_Ref>
 					<Concept_Ref>Concept_ctx_4</Concept_Ref>
@@ -135,7 +140,7 @@
 				</Extent>
 				<Intent>
 					<Attribute_Ref>cli</Attribute_Ref>
-					<Attribute_Ref>programming language:c++</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_19</Concept_Ref>
@@ -148,9 +153,10 @@
 					<Object_Ref>adch++ gui</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>programming language:c++</Attribute_Ref>
-					<Attribute_Ref>programming language:python</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++,python}</Attribute_Ref>
 					<Attribute_Ref>gui</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++}</Attribute_Ref>
+					<Attribute_Ref>programming language:={python}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_9</Concept_Ref>
@@ -166,10 +172,51 @@
 					<Object_Ref>rushub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>programming language:c++</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_20</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_7</ID>
+				<Extent>
+					<Object_Ref>uhub</Object_Ref>
+					<Object_Ref>starlet adc hub</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>cli</Attribute_Ref>
+					<Attribute_Ref>programming language:={c}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_19</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_8</ID>
+				<Extent>
+					<Object_Ref>dshub</Object_Ref>
+					<Object_Ref>starhub</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>programming language:={java}</Attribute_Ref>
+					<Attribute_Ref>gui</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_18</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>nexthub</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>programming language:={c-sharp}</Attribute_Ref>
+					<Attribute_Ref>gui</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_18</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -180,8 +227,9 @@
 				</Extent>
 				<Intent>
 					<Attribute_Ref>cli</Attribute_Ref>
-					<Attribute_Ref>programming language:c++</Attribute_Ref>
-					<Attribute_Ref>programming language:lua</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_13</Concept_Ref>
@@ -197,7 +245,7 @@
 				</Extent>
 				<Intent>
 					<Attribute_Ref>cli</Attribute_Ref>
-					<Attribute_Ref>programming language:lua</Attribute_Ref>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_19</Concept_Ref>
@@ -210,8 +258,8 @@
 					<Object_Ref>luadch gui</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>programming language:lua</Attribute_Ref>
 					<Attribute_Ref>gui</Attribute_Ref>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_16</Concept_Ref>
@@ -227,7 +275,19 @@
 					<Object_Ref>luadch gui</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>programming language:lua</Attribute_Ref>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_20</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_1</ID>
+				<Extent>
+					<Object_Ref>erlhub</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>programming language:={erlang}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_20</Concept_Ref>
@@ -239,11 +299,13 @@
 					<Object_Ref>adch++</Object_Ref>
 				</Extent>
 				<Intent>
+					<Attribute_Ref>programming language:={c++,python,lua,ruby}</Attribute_Ref>
 					<Attribute_Ref>cli</Attribute_Ref>
-					<Attribute_Ref>programming language:c++</Attribute_Ref>
-					<Attribute_Ref>programming language:python</Attribute_Ref>
-					<Attribute_Ref>programming language:lua</Attribute_Ref>
-					<Attribute_Ref>programming language:ruby</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++,python}</Attribute_Ref>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++}</Attribute_Ref>
+					<Attribute_Ref>programming language:={python}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_10</Concept_Ref>
@@ -259,7 +321,7 @@
 				</Extent>
 				<Intent>
 					<Attribute_Ref>cli</Attribute_Ref>
-					<Attribute_Ref>programming language:python</Attribute_Ref>
+					<Attribute_Ref>programming language:={python}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_19</Concept_Ref>
@@ -273,8 +335,9 @@
 					<Object_Ref>adch++ gui</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>programming language:c++</Attribute_Ref>
-					<Attribute_Ref>programming language:python</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++,python}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++}</Attribute_Ref>
+					<Attribute_Ref>programming language:={python}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_17</Concept_Ref>
@@ -288,8 +351,8 @@
 					<Object_Ref>dshub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>programming language:python</Attribute_Ref>
 					<Attribute_Ref>gui</Attribute_Ref>
+					<Attribute_Ref>programming language:={python}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_18</Concept_Ref>
@@ -304,60 +367,7 @@
 					<Object_Ref>dshub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>programming language:python</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_20</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_8</ID>
-				<Extent>
-					<Object_Ref>dshub</Object_Ref>
-					<Object_Ref>starhub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>programming language:java</Attribute_Ref>
-					<Attribute_Ref>gui</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_18</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_2</ID>
-				<Extent>
-					<Object_Ref>nexthub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>gui</Attribute_Ref>
-					<Attribute_Ref>programming language:c-sharp</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_18</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_7</ID>
-				<Extent>
-					<Object_Ref>uhub</Object_Ref>
-					<Object_Ref>starlet adc hub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>cli</Attribute_Ref>
-					<Attribute_Ref>programming language:c</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_19</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_1</ID>
-				<Extent>
-					<Object_Ref>erlhub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>programming language:erlang</Attribute_Ref>
+					<Attribute_Ref>programming language:={python}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_20</Concept_Ref>
@@ -366,7 +376,7 @@
 		</Lattice>
 	</Step >
 	<Step nb="1">
-		<Lattice numberObj="12" numberAtt="11" numberCpt="21" >
+		<Lattice numberObj="12" numberAtt="13" numberCpt="21" >
 			<Config algo="fca">
 			</Config>
 			<Name>ctx</Name>
@@ -384,15 +394,17 @@
 			<Object>rushub</Object>
 			<Attribute>gui</Attribute>
 			<Attribute>cli</Attribute>
-			<Attribute>programming language:c++</Attribute>
-			<Attribute>programming language:lua</Attribute>
-			<Attribute>programming language:python</Attribute>
-			<Attribute>programming language:ruby</Attribute>
-			<Attribute>programming language:java</Attribute>
-			<Attribute>programming language:c-sharp</Attribute>
-			<Attribute>programming language:c</Attribute>
-			<Attribute>programming language:erlang</Attribute>
-			<Attribute>programming language:*</Attribute>
+			<Attribute>programming language:={c++}</Attribute>
+			<Attribute>programming language:={c}</Attribute>
+			<Attribute>programming language:={java}</Attribute>
+			<Attribute>programming language:={c-sharp}</Attribute>
+			<Attribute>programming language:={lua}</Attribute>
+			<Attribute>programming language:={erlang}</Attribute>
+			<Attribute>programming language:={python}</Attribute>
+			<Attribute>programming language:={c++,python}</Attribute>
+			<Attribute>programming language:={c++,lua}</Attribute>
+			<Attribute>programming language:={python,java}</Attribute>
+			<Attribute>programming language:={c++,python,lua,ruby}</Attribute>
 			<Concept>
 				<ID>Concept_ctx_20</ID>
 				<Extent>
@@ -436,10 +448,11 @@
 					<Object_Ref>dshub</Object_Ref>
 				</Extent>
 				<Intent>
+					<Attribute_Ref>programming language:={python,java}</Attribute_Ref>
 					<Attribute_Ref>cli</Attribute_Ref>
-					<Attribute_Ref>programming language:python</Attribute_Ref>
-					<Attribute_Ref>programming language:java</Attribute_Ref>
+					<Attribute_Ref>programming language:={java}</Attribute_Ref>
 					<Attribute_Ref>gui</Attribute_Ref>
+					<Attribute_Ref>programming language:={python}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_11</Concept_Ref>
@@ -471,22 +484,24 @@
 				</Extent>
 				<Intent>
 					<Attribute_Ref>cli</Attribute_Ref>
-					<Attribute_Ref>programming language:c++</Attribute_Ref>
-					<Attribute_Ref>programming language:erlang</Attribute_Ref>
-					<Attribute_Ref>programming language:python</Attribute_Ref>
-					<Attribute_Ref>programming language:lua</Attribute_Ref>
-					<Attribute_Ref>programming language:java</Attribute_Ref>
+					<Attribute_Ref>programming language:={erlang}</Attribute_Ref>
+					<Attribute_Ref>programming language:={java}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c-sharp}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++,python,lua,ruby}</Attribute_Ref>
+					<Attribute_Ref>programming language:={python,java}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++,python}</Attribute_Ref>
 					<Attribute_Ref>gui</Attribute_Ref>
-					<Attribute_Ref>programming language:c</Attribute_Ref>
-					<Attribute_Ref>programming language:*</Attribute_Ref>
-					<Attribute_Ref>programming language:ruby</Attribute_Ref>
-					<Attribute_Ref>programming language:c-sharp</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++}</Attribute_Ref>
+					<Attribute_Ref>programming language:={python}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_5</Concept_Ref>
-					<Concept_Ref>Concept_ctx_3</Concept_Ref>
-					<Concept_Ref>Concept_ctx_2</Concept_Ref>
 					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+					<Concept_Ref>Concept_ctx_2</Concept_Ref>
+					<Concept_Ref>Concept_ctx_3</Concept_Ref>
 					<Concept_Ref>Concept_ctx_1</Concept_Ref>
 					<Concept_Ref>Concept_ctx_6</Concept_Ref>
 					<Concept_Ref>Concept_ctx_4</Concept_Ref>
@@ -501,7 +516,7 @@
 				</Extent>
 				<Intent>
 					<Attribute_Ref>cli</Attribute_Ref>
-					<Attribute_Ref>programming language:c++</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_19</Concept_Ref>
@@ -514,9 +529,10 @@
 					<Object_Ref>adch++ gui</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>programming language:c++</Attribute_Ref>
-					<Attribute_Ref>programming language:python</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++,python}</Attribute_Ref>
 					<Attribute_Ref>gui</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++}</Attribute_Ref>
+					<Attribute_Ref>programming language:={python}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_9</Concept_Ref>
@@ -532,10 +548,51 @@
 					<Object_Ref>rushub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>programming language:c++</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_20</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_7</ID>
+				<Extent>
+					<Object_Ref>uhub</Object_Ref>
+					<Object_Ref>starlet adc hub</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>cli</Attribute_Ref>
+					<Attribute_Ref>programming language:={c}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_19</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_8</ID>
+				<Extent>
+					<Object_Ref>dshub</Object_Ref>
+					<Object_Ref>starhub</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>programming language:={java}</Attribute_Ref>
+					<Attribute_Ref>gui</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_18</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>nexthub</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>programming language:={c-sharp}</Attribute_Ref>
+					<Attribute_Ref>gui</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_18</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -546,8 +603,9 @@
 				</Extent>
 				<Intent>
 					<Attribute_Ref>cli</Attribute_Ref>
-					<Attribute_Ref>programming language:c++</Attribute_Ref>
-					<Attribute_Ref>programming language:lua</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_13</Concept_Ref>
@@ -563,7 +621,7 @@
 				</Extent>
 				<Intent>
 					<Attribute_Ref>cli</Attribute_Ref>
-					<Attribute_Ref>programming language:lua</Attribute_Ref>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_19</Concept_Ref>
@@ -576,8 +634,8 @@
 					<Object_Ref>luadch gui</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>programming language:lua</Attribute_Ref>
 					<Attribute_Ref>gui</Attribute_Ref>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_16</Concept_Ref>
@@ -593,7 +651,19 @@
 					<Object_Ref>luadch gui</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>programming language:lua</Attribute_Ref>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_20</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_1</ID>
+				<Extent>
+					<Object_Ref>erlhub</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>programming language:={erlang}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_20</Concept_Ref>
@@ -605,11 +675,13 @@
 					<Object_Ref>adch++</Object_Ref>
 				</Extent>
 				<Intent>
+					<Attribute_Ref>programming language:={c++,python,lua,ruby}</Attribute_Ref>
 					<Attribute_Ref>cli</Attribute_Ref>
-					<Attribute_Ref>programming language:c++</Attribute_Ref>
-					<Attribute_Ref>programming language:python</Attribute_Ref>
-					<Attribute_Ref>programming language:lua</Attribute_Ref>
-					<Attribute_Ref>programming language:ruby</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++,lua}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++,python}</Attribute_Ref>
+					<Attribute_Ref>programming language:={lua}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++}</Attribute_Ref>
+					<Attribute_Ref>programming language:={python}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_10</Concept_Ref>
@@ -625,7 +697,7 @@
 				</Extent>
 				<Intent>
 					<Attribute_Ref>cli</Attribute_Ref>
-					<Attribute_Ref>programming language:python</Attribute_Ref>
+					<Attribute_Ref>programming language:={python}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_19</Concept_Ref>
@@ -639,8 +711,9 @@
 					<Object_Ref>adch++ gui</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>programming language:c++</Attribute_Ref>
-					<Attribute_Ref>programming language:python</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++,python}</Attribute_Ref>
+					<Attribute_Ref>programming language:={c++}</Attribute_Ref>
+					<Attribute_Ref>programming language:={python}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_17</Concept_Ref>
@@ -654,8 +727,8 @@
 					<Object_Ref>dshub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>programming language:python</Attribute_Ref>
 					<Attribute_Ref>gui</Attribute_Ref>
+					<Attribute_Ref>programming language:={python}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_18</Concept_Ref>
@@ -670,60 +743,7 @@
 					<Object_Ref>dshub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>programming language:python</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_20</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_8</ID>
-				<Extent>
-					<Object_Ref>dshub</Object_Ref>
-					<Object_Ref>starhub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>programming language:java</Attribute_Ref>
-					<Attribute_Ref>gui</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_18</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_2</ID>
-				<Extent>
-					<Object_Ref>nexthub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>gui</Attribute_Ref>
-					<Attribute_Ref>programming language:c-sharp</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_18</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_7</ID>
-				<Extent>
-					<Object_Ref>uhub</Object_Ref>
-					<Object_Ref>starlet adc hub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>cli</Attribute_Ref>
-					<Attribute_Ref>programming language:c</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_19</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_1</ID>
-				<Extent>
-					<Object_Ref>erlhub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>programming language:erlang</Attribute_Ref>
+					<Attribute_Ref>programming language:={python}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_20</Concept_Ref>

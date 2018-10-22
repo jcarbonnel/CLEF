@@ -1,7 +1,6 @@
-(0.18181818181818182)	os x ->! other:*
-(0.09090909090909091)	windows ->! other:openvms
-(0.09090909090909091)	os x ->! other:python enabled platform
-(0.09090909090909091)	os x ->! other:openvms
-(0.09090909090909091)	os x ->! other:c# enabled platform
-(0.09090909090909091)	linux ->! other:openvms
-(0.09090909090909091)	linux ->! other:c# enabled platform
+windows ->! other:={openvms}
+linux ->! other:={c# enabled platform}
+linux ->! other:={openvms}
+os x ->! other:={python enabled platform}
+os x ->! other:={c# enabled platform}
+os x ->! other:={openvms}

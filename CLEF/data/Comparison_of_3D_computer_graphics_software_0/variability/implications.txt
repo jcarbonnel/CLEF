@@ -1,5 +1,0 @@
-(0.11904761904761904)	mainly used for:video game creation -> platforms:microsoft windows
-(0.023809523809523808)	mainly used for:subdivision modeling -> latest release date:2008
-(0.023809523809523808)	mainly used for:fractal geometry -> latest release date:2010
-(0.023809523809523808)	license:bsd -> platforms:bsd
-(0.023809523809523808)	license:bsd -> mainly used for:uv mapping

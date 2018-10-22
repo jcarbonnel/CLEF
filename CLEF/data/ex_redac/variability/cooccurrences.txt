@@ -1,5 +1,5 @@
-(0.4)	FirstRelease:2005 <-> ProgrammingLanguage:shell scripts
-(0.4)	Distributed <-> ProgrammingLanguage:shell scripts
-(0.4)	Distributed <-> FirstRelease:2005
-(0.2)	FirstRelease:1998 <-> ProgrammingLanguage:C++
-(0.2)	FirstRelease:* <-> ProgrammingLanguage:java
+FirstRelease:=[1998-1998] <-> ProgrammingLanguage:={C++}
+FirstRelease:=* <-> ProgrammingLanguage:={C,java,perl}
+FirstRelease:=[2005-2005] <-> Distributed
+FirstRelease:=[2005-2005] <-> ProgrammingLanguage:={C,shell scripts}
+Distributed <-> ProgrammingLanguage:={C,shell scripts}

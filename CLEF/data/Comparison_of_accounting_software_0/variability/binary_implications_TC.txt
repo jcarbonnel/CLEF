@@ -1,0 +1,422 @@
+language:={delphi} -> structure:={stand alone}
+language:={delphi} -> market focus:={mid-market,low-market}
+language:={delphi} -> multiuser
+language:={delphi} -> multico
+language:={delphi} -> license:={gpl}
+language:={delphi} -> inventory management
+language:={delphi} -> manufacturing/bill of materials
+language:={delphi} -> point of sale
+language:={delphi} -> accounts receivble/accounts payable
+language:={delphi} -> double-entry bookkeeping system
+language:={delphi} -> general ledger
+language:={delphi} -> mac os
+language:={delphi} -> windows
+structure:={stand alone,client-server} -> language:={python}
+structure:={stand alone,client-server} -> online banking
+structure:={stand alone,client-server} -> market focus:={mid-market,low-market}
+structure:={stand alone,client-server} -> supply chain management
+structure:={stand alone,client-server} -> multiuser
+structure:={stand alone,client-server} -> multico
+license:={cpal} -> language:={c++}
+license:={cpal} -> structure:={client-server}
+license:={cpal} -> business intelligence
+license:={cpal} -> market focus:={mid-market,low-market}
+license:={cpal} -> e-commerce
+license:={cpal} -> distribution/warehouse management system
+license:={cpal} -> inventory management
+license:={cpal} -> manufacturing/bill of materials
+license:={cpal} -> point of sale
+license:={cpal} -> customer relationship management
+license:={cpal} -> accounts receivble/accounts payable
+license:={cpal} -> multi-currency pricing
+license:={cpal} -> entreprise ressource planning
+license:={cpal} -> double-entry bookkeeping system
+license:={cpal} -> general ledger
+license:={cpal} -> mac os
+license:={cpal} -> linux
+license:={cpal} -> windows
+license:={agpl} -> structure:={web based,client-server}
+license:={agpl} -> language:={python}
+license:={agpl} -> payroll
+license:={agpl} -> human ressource management
+license:={agpl} -> business intelligence
+license:={agpl} -> market focus:={mid-market,low-market}
+license:={agpl} -> e-commerce
+license:={agpl} -> supply chain management
+license:={agpl} -> multiuser
+license:={agpl} -> multico
+license:={agpl} -> distribution/warehouse management system
+license:={agpl} -> inventory management
+license:={agpl} -> manufacturing/bill of materials
+license:={agpl} -> point of sale
+license:={agpl} -> customer relationship management
+license:={agpl} -> accounts receivble/accounts payable
+license:={agpl} -> multi-currency pricing
+license:={agpl} -> entreprise ressource planning
+license:={agpl} -> double-entry bookkeeping system
+license:={agpl} -> general ledger
+license:={agpl} -> mac os
+license:={agpl} -> linux
+license:={agpl} -> windows
+license:={mpl} -> tax form
+license:={mpl} -> payroll
+license:={mpl} -> language:={java}
+license:={mpl} -> human ressource management
+license:={mpl} -> business intelligence
+license:={mpl} -> e-commerce
+license:={mpl} -> multiuser
+license:={mpl} -> multico
+license:={mpl} -> inventory management
+license:={mpl} -> manufacturing/bill of materials
+license:={mpl} -> point of sale
+license:={mpl} -> customer relationship management
+license:={mpl} -> accounts receivble/accounts payable
+license:={mpl} -> multi-currency pricing
+license:={mpl} -> entreprise ressource planning
+license:={mpl} -> double-entry bookkeeping system
+license:={mpl} -> general ledger
+license:={mpl} -> market focus:={mid-market}
+license:={mpl} -> mac os
+license:={mpl} -> linux
+license:={mpl} -> windows
+structure:={web based,saas,on demand,on-premise} -> tax form
+structure:={web based,saas,on demand,on-premise} -> payroll
+structure:={web based,saas,on demand,on-premise} -> language:={java}
+structure:={web based,saas,on demand,on-premise} -> human ressource management
+structure:={web based,saas,on demand,on-premise} -> business intelligence
+structure:={web based,saas,on demand,on-premise} -> e-commerce
+structure:={web based,saas,on demand,on-premise} -> multiuser
+structure:={web based,saas,on demand,on-premise} -> multico
+structure:={web based,saas,on demand,on-premise} -> inventory management
+structure:={web based,saas,on demand,on-premise} -> manufacturing/bill of materials
+structure:={web based,saas,on demand,on-premise} -> point of sale
+structure:={web based,saas,on demand,on-premise} -> customer relationship management
+structure:={web based,saas,on demand,on-premise} -> accounts receivble/accounts payable
+structure:={web based,saas,on demand,on-premise} -> multi-currency pricing
+structure:={web based,saas,on demand,on-premise} -> double-entry bookkeeping system
+structure:={web based,saas,on demand,on-premise} -> general ledger
+structure:={web based,saas,on demand,on-premise} -> mac os
+market focus:={mid-market,high-market,personal,low-market} -> language:={java}
+market focus:={mid-market,high-market,personal,low-market} -> distribution/warehouse management system
+market focus:={mid-market,high-market,personal,low-market} -> point of sale
+language:={c,scheme} -> stock option commodity trade
+language:={c,scheme} -> market focus:={personal,low-market}
+language:={c,scheme} -> online banking
+language:={c,scheme} -> accounts receivble/accounts payable
+language:={c,scheme} -> multi-currency pricing
+language:={c,scheme} -> double-entry bookkeeping system
+license:={gpl3} -> language:={php}
+license:={gpl3} -> market focus:={mid-market,low-market}
+license:={gpl3} -> supply chain management
+license:={gpl3} -> multiuser
+license:={gpl3} -> multico
+license:={gpl3} -> structure:={web based}
+license:={gpl3} -> inventory management
+license:={gpl3} -> manufacturing/bill of materials
+license:={gpl3} -> point of sale
+license:={gpl3} -> customer relationship management
+license:={gpl3} -> accounts receivble/accounts payable
+license:={gpl3} -> multi-currency pricing
+license:={gpl3} -> entreprise ressource planning
+license:={gpl3} -> double-entry bookkeeping system
+license:={gpl3} -> general ledger
+license:={gpl3} -> mac os
+license:={gpl3} -> linux
+license:={gpl3} -> windows
+language:={java ee} -> license:={gpl2}
+language:={java ee} -> distribution/warehouse management system
+language:={java ee} -> structure:={web based}
+language:={java ee} -> manufacturing/bill of materials
+language:={java ee} -> point of sale
+language:={java ee} -> customer relationship management
+language:={java ee} -> entreprise ressource planning
+language:={java ee} -> market focus:={mid-market}
+language:={java ee} -> mac os
+language:={java ee} -> linux
+language:={java ee} -> windows
+license:={apache} -> tax form
+license:={apache} -> language:={java}
+license:={apache} -> human ressource management
+license:={apache} -> business intelligence
+license:={apache} -> market focus:={mid-market,low-market}
+license:={apache} -> e-commerce
+license:={apache} -> supply chain management
+license:={apache} -> multiuser
+license:={apache} -> multico
+license:={apache} -> distribution/warehouse management system
+license:={apache} -> inventory management
+license:={apache} -> manufacturing/bill of materials
+license:={apache} -> point of sale
+license:={apache} -> customer relationship management
+license:={apache} -> accounts receivble/accounts payable
+license:={apache} -> multi-currency pricing
+license:={apache} -> entreprise ressource planning
+license:={apache} -> double-entry bookkeeping system
+license:={apache} -> general ledger
+license:={apache} -> mac os
+license:={apache} -> linux
+license:={apache} -> windows
+structure:={multi-user,web access,cloud hostable} -> tax form
+structure:={multi-user,web access,cloud hostable} -> language:={java}
+structure:={multi-user,web access,cloud hostable} -> human ressource management
+structure:={multi-user,web access,cloud hostable} -> business intelligence
+structure:={multi-user,web access,cloud hostable} -> market focus:={mid-market,low-market}
+structure:={multi-user,web access,cloud hostable} -> e-commerce
+structure:={multi-user,web access,cloud hostable} -> supply chain management
+structure:={multi-user,web access,cloud hostable} -> multiuser
+structure:={multi-user,web access,cloud hostable} -> multico
+structure:={multi-user,web access,cloud hostable} -> distribution/warehouse management system
+structure:={multi-user,web access,cloud hostable} -> inventory management
+structure:={multi-user,web access,cloud hostable} -> manufacturing/bill of materials
+structure:={multi-user,web access,cloud hostable} -> point of sale
+structure:={multi-user,web access,cloud hostable} -> customer relationship management
+structure:={multi-user,web access,cloud hostable} -> accounts receivble/accounts payable
+structure:={multi-user,web access,cloud hostable} -> multi-currency pricing
+structure:={multi-user,web access,cloud hostable} -> entreprise ressource planning
+structure:={multi-user,web access,cloud hostable} -> double-entry bookkeeping system
+structure:={multi-user,web access,cloud hostable} -> general ledger
+structure:={multi-user,web access,cloud hostable} -> mac os
+structure:={multi-user,web access,cloud hostable} -> linux
+structure:={multi-user,web access,cloud hostable} -> windows
+language:={perl} -> multiuser
+language:={perl} -> multico
+language:={perl} -> license:={gpl}
+language:={perl} -> structure:={web based}
+language:={perl} -> inventory management
+language:={perl} -> manufacturing/bill of materials
+language:={perl} -> point of sale
+language:={perl} -> accounts receivble/accounts payable
+language:={perl} -> multi-currency pricing
+language:={perl} -> entreprise ressource planning
+language:={perl} -> double-entry bookkeeping system
+language:={perl} -> general ledger
+language:={perl} -> market focus:={mid-market}
+language:={perl} -> mac os
+language:={perl} -> linux
+language:={perl} -> windows
+language:={c++} -> multi-currency pricing
+language:={c++} -> double-entry bookkeeping system
+language:={c++} -> general ledger
+language:={c++} -> mac os
+language:={c++} -> linux
+language:={c++} -> windows
+structure:={web based,client-server} -> payroll
+structure:={web based,client-server} -> human ressource management
+structure:={web based,client-server} -> business intelligence
+structure:={web based,client-server} -> supply chain management
+structure:={web based,client-server} -> multiuser
+structure:={web based,client-server} -> multico
+structure:={web based,client-server} -> point of sale
+market focus:={mid-market,high-market} -> license:={gpl}
+market focus:={mid-market,high-market} -> customer relationship management
+market focus:={mid-market,high-market} -> entreprise ressource planning
+market focus:={mid-market,high-market} -> linux
+structure:={web based,stand alone} -> customer relationship management
+stock option commodity trade -> online banking
+stock option commodity trade -> market focus:={personal}
+stock option commodity trade -> structure:={stand alone}
+stock option commodity trade -> license:={gpl}
+stock option commodity trade -> multi-currency pricing
+stock option commodity trade -> double-entry bookkeeping system
+stock option commodity trade -> general ledger
+stock option commodity trade -> mac os
+stock option commodity trade -> linux
+stock option commodity trade -> windows
+language:={c} -> market focus:={personal}
+language:={c} -> structure:={stand alone}
+language:={c} -> license:={gpl}
+language:={c} -> general ledger
+language:={c} -> mac os
+language:={c} -> linux
+language:={c} -> windows
+language:={php} -> market focus:={mid-market,low-market}
+language:={php} -> structure:={web based}
+language:={php} -> accounts receivble/accounts payable
+language:={php} -> multi-currency pricing
+language:={php} -> entreprise ressource planning
+language:={php} -> double-entry bookkeeping system
+language:={php} -> general ledger
+language:={php} -> mac os
+language:={php} -> linux
+language:={php} -> windows
+license:={gpl2} -> distribution/warehouse management system
+license:={gpl2} -> structure:={web based}
+license:={gpl2} -> manufacturing/bill of materials
+license:={gpl2} -> point of sale
+license:={gpl2} -> customer relationship management
+license:={gpl2} -> entreprise ressource planning
+license:={gpl2} -> market focus:={mid-market}
+license:={gpl2} -> mac os
+license:={gpl2} -> linux
+license:={gpl2} -> windows
+language:={python} -> e-commerce
+language:={python} -> supply chain management
+language:={python} -> customer relationship management
+language:={python} -> multi-currency pricing
+language:={python} -> entreprise ressource planning
+language:={python} -> market focus:={mid-market}
+language:={python} -> mac os
+language:={python} -> linux
+language:={python} -> windows
+tax form -> business intelligence
+tax form -> multiuser
+tax form -> multico
+tax form -> inventory management
+tax form -> manufacturing/bill of materials
+tax form -> point of sale
+tax form -> customer relationship management
+tax form -> accounts receivble/accounts payable
+tax form -> multi-currency pricing
+tax form -> entreprise ressource planning
+tax form -> double-entry bookkeeping system
+tax form -> general ledger
+tax form -> market focus:={mid-market}
+tax form -> mac os
+tax form -> linux
+tax form -> windows
+structure:={client-server} -> e-commerce
+structure:={client-server} -> distribution/warehouse management system
+structure:={client-server} -> inventory management
+structure:={client-server} -> manufacturing/bill of materials
+structure:={client-server} -> customer relationship management
+structure:={client-server} -> accounts receivble/accounts payable
+structure:={client-server} -> multi-currency pricing
+structure:={client-server} -> entreprise ressource planning
+structure:={client-server} -> double-entry bookkeeping system
+structure:={client-server} -> general ledger
+structure:={client-server} -> market focus:={mid-market}
+structure:={client-server} -> mac os
+structure:={client-server} -> linux
+structure:={client-server} -> windows
+online banking -> license:={gpl}
+online banking -> multi-currency pricing
+online banking -> double-entry bookkeeping system
+online banking -> general ledger
+online banking -> mac os
+online banking -> linux
+online banking -> windows
+market focus:={personal} -> structure:={stand alone}
+market focus:={personal} -> license:={gpl}
+market focus:={personal} -> linux
+market focus:={personal} -> windows
+payroll -> human ressource management
+payroll -> business intelligence
+payroll -> e-commerce
+payroll -> structure:={web based}
+payroll -> inventory management
+payroll -> manufacturing/bill of materials
+payroll -> point of sale
+payroll -> customer relationship management
+payroll -> accounts receivble/accounts payable
+payroll -> multi-currency pricing
+payroll -> entreprise ressource planning
+payroll -> double-entry bookkeeping system
+payroll -> general ledger
+payroll -> market focus:={mid-market}
+payroll -> mac os
+payroll -> linux
+payroll -> windows
+language:={java} -> point of sale
+language:={java} -> customer relationship management
+language:={java} -> entreprise ressource planning
+language:={java} -> double-entry bookkeeping system
+language:={java} -> market focus:={mid-market}
+language:={java} -> linux
+language:={java} -> windows
+human ressource management -> e-commerce
+human ressource management -> customer relationship management
+human ressource management -> multi-currency pricing
+human ressource management -> entreprise ressource planning
+human ressource management -> market focus:={mid-market}
+human ressource management -> mac os
+human ressource management -> linux
+human ressource management -> windows
+structure:={stand alone} -> license:={gpl}
+structure:={stand alone} -> windows
+business intelligence -> inventory management
+business intelligence -> manufacturing/bill of materials
+business intelligence -> point of sale
+business intelligence -> customer relationship management
+business intelligence -> accounts receivble/accounts payable
+business intelligence -> multi-currency pricing
+business intelligence -> entreprise ressource planning
+business intelligence -> double-entry bookkeeping system
+business intelligence -> general ledger
+business intelligence -> market focus:={mid-market}
+business intelligence -> mac os
+business intelligence -> linux
+business intelligence -> windows
+e-commerce -> customer relationship management
+e-commerce -> multi-currency pricing
+e-commerce -> entreprise ressource planning
+e-commerce -> market focus:={mid-market}
+e-commerce -> mac os
+e-commerce -> linux
+e-commerce -> windows
+supply chain management -> customer relationship management
+supply chain management -> multi-currency pricing
+supply chain management -> entreprise ressource planning
+supply chain management -> market focus:={mid-market}
+supply chain management -> mac os
+supply chain management -> linux
+supply chain management -> windows
+multiuser -> inventory management
+multiuser -> manufacturing/bill of materials
+multiuser -> accounts receivble/accounts payable
+multiuser -> double-entry bookkeeping system
+multiuser -> general ledger
+multiuser -> market focus:={mid-market}
+multiuser -> mac os
+multiuser -> windows
+multico -> inventory management
+multico -> manufacturing/bill of materials
+multico -> accounts receivble/accounts payable
+multico -> double-entry bookkeeping system
+multico -> general ledger
+multico -> market focus:={mid-market}
+multico -> mac os
+multico -> windows
+market focus:={low-market} -> double-entry bookkeeping system
+market focus:={low-market} -> windows
+distribution/warehouse management system -> customer relationship management
+distribution/warehouse management system -> entreprise ressource planning
+distribution/warehouse management system -> market focus:={mid-market}
+distribution/warehouse management system -> linux
+distribution/warehouse management system -> windows
+license:={gpl} -> windows
+structure:={web based} -> entreprise ressource planning
+structure:={web based} -> market focus:={mid-market}
+structure:={web based} -> linux
+structure:={web based} -> windows
+inventory management -> manufacturing/bill of materials
+inventory management -> accounts receivble/accounts payable
+inventory management -> double-entry bookkeeping system
+inventory management -> general ledger
+inventory management -> market focus:={mid-market}
+inventory management -> mac os
+inventory management -> windows
+manufacturing/bill of materials -> market focus:={mid-market}
+manufacturing/bill of materials -> mac os
+manufacturing/bill of materials -> windows
+point of sale -> market focus:={mid-market}
+point of sale -> windows
+customer relationship management -> entreprise ressource planning
+customer relationship management -> market focus:={mid-market}
+customer relationship management -> linux
+customer relationship management -> windows
+accounts receivble/accounts payable -> double-entry bookkeeping system
+accounts receivble/accounts payable -> general ledger
+accounts receivble/accounts payable -> mac os
+accounts receivble/accounts payable -> windows
+multi-currency pricing -> mac os
+multi-currency pricing -> linux
+multi-currency pricing -> windows
+entreprise ressource planning -> market focus:={mid-market}
+entreprise ressource planning -> linux
+entreprise ressource planning -> windows
+double-entry bookkeeping system -> windows
+general ledger -> mac os
+general ledger -> windows
+market focus:={mid-market} -> windows
+mac os -> windows
+linux -> windows

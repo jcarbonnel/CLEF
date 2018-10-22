@@ -1,25 +1,5 @@
-(1.0)	nmdc compatible <-> hash algorithms:tiger tree hash
-(1.0)	encryption <-> nmdc compatible
-(1.0)	encryption <-> hash algorithms:tiger tree hash
-(0.9166666666666666)	upnp <-> proxy
-(0.5833333333333334)	protocol support:tigr <-> protocol support:adcs
-(0.5)	protocol support:ucmd <-> protocol support:blom
-(0.4166666666666667)	protocol support:natt <-> protocol support:sega
-(0.08333333333333333)	protocol support:ubn1 <-> protocol support:mcn1
-(0.08333333333333333)	protocol support:ubn1 <-> protocol support:hbri
-(0.08333333333333333)	protocol support:ubn1 <-> protocol support:fo
-(0.08333333333333333)	protocol support:ubn1 <-> protocol support:asch
-(0.08333333333333333)	protocol support:pbd1 <-> protocol support:ubn1
-(0.08333333333333333)	protocol support:pbd1 <-> protocol support:mcn1
-(0.08333333333333333)	protocol support:pbd1 <-> protocol support:hbri
-(0.08333333333333333)	protocol support:pbd1 <-> protocol support:fo
-(0.08333333333333333)	protocol support:pbd1 <-> protocol support:asch
-(0.08333333333333333)	protocol support:mcn1 <-> protocol support:hbri
-(0.08333333333333333)	protocol support:mcn1 <-> protocol support:fo
-(0.08333333333333333)	protocol support:mcn1 <-> protocol support:asch
-(0.08333333333333333)	protocol support:hbri <-> protocol support:asch
-(0.08333333333333333)	protocol support:fo <-> protocol support:hbri
-(0.08333333333333333)	protocol support:fo <-> protocol support:asch
-(0.08333333333333333)	plugin:qtscript <-> protocol support:fs
-(0.08333333333333333)	plugin:qtscript <-> plugin:qml
-(0.08333333333333333)	plugin:qml <-> protocol support:fs
+plugin:={qml,qtscript,lua} <-> protocol support:={natt,pfsr,ucmd,keyp,tigr,blom,sega,fs,adcs}
+upnp <-> proxy
+encryption <-> hash algorithms:={tiger tree hash}
+encryption <-> nmdc compatible
+hash algorithms:={tiger tree hash} <-> nmdc compatible

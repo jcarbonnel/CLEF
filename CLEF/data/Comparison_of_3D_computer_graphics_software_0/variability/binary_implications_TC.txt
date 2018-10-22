@@ -1,0 +1,84 @@
+mainly used for:={sculpting,uv mapping,modeling} -> latest release date:=[2014-2014]
+license:={bsd} -> platforms:={bsd,microsoft windows,linux,mac os x}
+license:={bsd} -> latest release date:=[2014-2014]
+platforms:={ios,mac os x} -> license:={proprietary}
+mainly used for:={landscape modeling,lighting,animation} -> latest release date:=[2014-2014]
+mainly used for:={virtual reality,modeling,real-time modeling,video game creation,computer aided design} -> latest release date:=*
+mainly used for:={virtual reality,modeling,real-time modeling,video game creation,computer aided design} -> platforms:={microsoft windows,linux}
+platforms:={hp-ux,microsoft windows,unix} -> latest release date:=[2009-2009]
+platforms:={hp-ux,microsoft windows,unix} -> mainly used for:={modeling}
+platforms:={hp-ux,microsoft windows,unix} -> license:={proprietary}
+latest release date:=[2004-2004] -> platforms:={amiga os,microsoft windows,linux,mac os x}
+latest release date:=[2004-2004] -> license:={gnu gpl}
+latest release date:=[2004-2004] -> mainly used for:={lighting,visual 3d effects}
+mainly used for:={artificial intelligence in models} -> latest release date:=*
+mainly used for:={artificial intelligence in models} -> platforms:={microsoft windows,linux}
+mainly used for:={artificial intelligence in models} -> license:={proprietary}
+mainly used for:={modeling,television,rendering,video game creation,film,lighting,animation} -> platforms:={amiga os,microsoft windows,mac os x}
+mainly used for:={subdivision modeling,uv mapping} -> latest release date:=[2008-2008]
+mainly used for:={subdivision modeling,uv mapping} -> license:={proprietary}
+mainly used for:={modeling,fabrication,rendering,set design,lighting,animation} -> latest release date:=[2013-2013]
+mainly used for:={modeling,fabrication,rendering,set design,lighting,animation} -> platforms:={microsoft windows,mac os x}
+mainly used for:={modeling,fabrication,rendering,set design,lighting,animation} -> license:={proprietary}
+mainly used for:={television,rendering,film,lighting,visual 3d effects,animation} -> latest release date:=[2009-2009]
+mainly used for:={modeling,computer aided design,animation} -> latest release date:=[2009-2009]
+mainly used for:={modeling,computer aided design,animation} -> platforms:={microsoft windows,mac os x}
+platforms:={google chrome,mozilla firefox,microsoft internet explorer} -> latest release date:=[2013-2013]
+platforms:={google chrome,mozilla firefox,microsoft internet explorer} -> mainly used for:={modeling,rendering,animation}
+platforms:={google chrome,mozilla firefox,microsoft internet explorer} -> license:={proprietary}
+mainly used for:={modeling,simulation,rendering,lighting,visual 3d effects,animation} -> latest release date:=*
+mainly used for:={modeling,simulation,rendering,lighting,visual 3d effects,animation} -> platforms:={amiga os,microsoft windows,mac os x}
+mainly used for:={modeling,simulation,rendering,lighting,visual 3d effects,animation} -> license:={proprietary}
+mainly used for:={fractal geometry,landscape modeling,animation} -> latest release date:=[2010-2010]
+platforms:={morphos,bsd,amiga os,microsoft windows,linux,solaris,mac os x} -> latest release date:=[2015-2015]
+mainly used for:={sculpting,basic post-production video editing,modeling,rendering,video game creation,lighting,visual 3d effects,animation} -> license:={gnu gpl}
+platforms:={java virtual machine} -> license:={gnu gpl}
+platforms:={java virtual machine} -> latest release date:=[2013-2013]
+platforms:={java virtual machine} -> mainly used for:={modeling,rendering,lighting,animation}
+mainly used for:={texturing,lighting} -> latest release date:=[2012-2015]
+mainly used for:={television,video game creation,film,lighting,animation} -> latest release date:=[2014-2014]
+mainly used for:={television,video game creation,film,lighting,animation} -> license:={proprietary}
+mainly used for:={uv mapping} -> platforms:={microsoft windows,mac os x}
+mainly used for:={uv mapping} -> latest release date:=[2008-2014]
+mainly used for:={television,rendering,film,lighting,animation} -> platforms:={microsoft windows,mac os x}
+mainly used for:={television,rendering,film,lighting,animation} -> latest release date:=[2009-2014]
+mainly used for:={television,rendering,film,lighting,animation} -> license:={proprietary}
+mainly used for:={television,film,lighting,visual 3d effects,animation} -> latest release date:=[2009-2014]
+mainly used for:={television,film,lighting,visual 3d effects,animation} -> license:={proprietary}
+mainly used for:={landscape modeling,animation} -> latest release date:=[2010-2014]
+mainly used for:={landscape modeling,animation} -> platforms:={microsoft windows,mac os x}
+mainly used for:={landscape modeling,animation} -> license:={proprietary}
+latest release date:=[2010-2010] -> mainly used for:={animation}
+latest release date:=[2010-2010] -> platforms:={microsoft windows,mac os x}
+mainly used for:={modeling,video game creation,rendering,lighting,visual 3d effects,animation} -> latest release date:=[2015-2015]
+mainly used for:={modeling,video game creation,rendering,lighting,visual 3d effects,animation} -> platforms:={microsoft windows,linux}
+platforms:={amiga os,microsoft windows,linux,mac os x} -> license:={gnu gpl}
+platforms:={amiga os,microsoft windows,linux,mac os x} -> mainly used for:={lighting,visual 3d effects}
+mainly used for:={texturing} -> platforms:={mac os x}
+mainly used for:={texturing} -> latest release date:=[2011-2015]
+mainly used for:={texturing} -> license:={proprietary}
+latest release date:=[2004-2008] -> platforms:={microsoft windows,mac os x}
+platforms:={bsd,microsoft windows,linux,mac os x} -> latest release date:=[2014-2015]
+mainly used for:={sculpting,modeling} -> latest release date:=[2014-2015]
+mainly used for:={sculpting,lighting} -> latest release date:=[2015-2015]
+mainly used for:={sculpting,lighting} -> platforms:={linux,microsoft windows,mac os x}
+mainly used for:={modeling,rendering,video game creation,lighting,animation} -> latest release date:=[2014-2015]
+mainly used for:={video game creation,lighting,visual 3d effects,animation} -> latest release date:=[2014-2015]
+license:={gnu gpl} -> mainly used for:={lighting}
+license:={gnu gpl} -> latest release date:=[2004-2015]
+latest release date:=* -> license:={proprietary}
+latest release date:=* -> platforms:={microsoft windows}
+platforms:={amiga os,microsoft windows,mac os x} -> mainly used for:={lighting}
+mainly used for:={sculpting} -> platforms:={microsoft windows,mac os x}
+mainly used for:={sculpting} -> latest release date:=[2011-2015]
+mainly used for:={video game creation} -> platforms:={microsoft windows}
+latest release date:=[2013-2013] -> mainly used for:={modeling}
+mainly used for:={computer aided design} -> license:={proprietary}
+mainly used for:={computer aided design} -> platforms:={microsoft windows}
+mainly used for:={lighting,visual 3d effects} -> platforms:={microsoft windows}
+platforms:={linux,microsoft windows,mac os x} -> latest release date:=[2004-2015]
+platforms:={microsoft windows,linux,mac os x} -> latest release date:=[2004-2015]
+platforms:={microsoft windows,linux,mac os x} -> latest release date:=[2004-2015]
+latest release date:=[2008-2012] -> license:={proprietary}
+latest release date:=[2004-2011] -> platforms:={microsoft windows}
+latest release date:=[2014-2015] -> platforms:={microsoft windows}

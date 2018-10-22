@@ -1,0 +1,1502 @@
+<RCAExplore_Document>
+	<Step nb="0">
+		<Lattice numberObj="18" numberAtt="54" numberCpt="50" >
+			<Config algo="acposet">
+			</Config>
+			<Name>ctx</Name>
+			<Object>adempiere</Object>
+			<Object>apache ofbiz</Object>
+			<Object>compiere</Object>
+			<Object>frontaccounting</Object>
+			<Object>gnucash</Object>
+			<Object>gnu enterprise</Object>
+			<Object>homebank</Object>
+			<Object>idempiere</Object>
+			<Object>jfire</Object>
+			<Object>kmymoney</Object>
+			<Object>ledgersmb</Object>
+			<Object>openbravo</Object>
+			<Object>odoo</Object>
+			<Object>postbooks</Object>
+			<Object>sql-ledger</Object>
+			<Object>tryton</Object>
+			<Object>turbocash</Object>
+			<Object>weberp</Object>
+			<Attribute>license:={gpl3}</Attribute>
+			<Attribute>license:={gpl}</Attribute>
+			<Attribute>license:={apache}</Attribute>
+			<Attribute>license:={cpal}</Attribute>
+			<Attribute>license:={mpl}</Attribute>
+			<Attribute>license:={gpl2}</Attribute>
+			<Attribute>license:={agpl}</Attribute>
+			<Attribute>windows</Attribute>
+			<Attribute>mac os</Attribute>
+			<Attribute>linux</Attribute>
+			<Attribute>market focus:={mid-market}</Attribute>
+			<Attribute>market focus:={personal}</Attribute>
+			<Attribute>market focus:={low-market}</Attribute>
+			<Attribute>market focus:={mid-market,high-market}</Attribute>
+			<Attribute>market focus:={mid-market,low-market}</Attribute>
+			<Attribute>market focus:={personal,low-market}</Attribute>
+			<Attribute>market focus:={mid-market,high-market,personal,low-market}</Attribute>
+			<Attribute>general ledger</Attribute>
+			<Attribute>accounts receivble/accounts payable</Attribute>
+			<Attribute>double-entry bookkeeping system</Attribute>
+			<Attribute>multi-currency pricing</Attribute>
+			<Attribute>online banking</Attribute>
+			<Attribute>point of sale</Attribute>
+			<Attribute>e-commerce</Attribute>
+			<Attribute>stock option commodity trade</Attribute>
+			<Attribute>payroll</Attribute>
+			<Attribute>entreprise ressource planning</Attribute>
+			<Attribute>customer relationship management</Attribute>
+			<Attribute>business intelligence</Attribute>
+			<Attribute>human ressource management</Attribute>
+			<Attribute>manufacturing/bill of materials</Attribute>
+			<Attribute>supply chain management</Attribute>
+			<Attribute>inventory management</Attribute>
+			<Attribute>distribution/warehouse management system</Attribute>
+			<Attribute>multiuser</Attribute>
+			<Attribute>multico</Attribute>
+			<Attribute>tax form</Attribute>
+			<Attribute>structure:={web based}</Attribute>
+			<Attribute>structure:={stand alone}</Attribute>
+			<Attribute>structure:={client-server}</Attribute>
+			<Attribute>structure:={web based,stand alone}</Attribute>
+			<Attribute>structure:={stand alone,client-server}</Attribute>
+			<Attribute>structure:={web based,client-server}</Attribute>
+			<Attribute>structure:={multi-user,web access,cloud hostable}</Attribute>
+			<Attribute>structure:={web based,saas,on demand,on-premise}</Attribute>
+			<Attribute>language:={delphi}</Attribute>
+			<Attribute>language:={python}</Attribute>
+			<Attribute>language:={c++}</Attribute>
+			<Attribute>language:={java}</Attribute>
+			<Attribute>language:={c}</Attribute>
+			<Attribute>language:={java ee}</Attribute>
+			<Attribute>language:={php}</Attribute>
+			<Attribute>language:={perl}</Attribute>
+			<Attribute>language:={c,scheme}</Attribute>
+			<Concept>
+				<ID>Concept_ctx_7</ID>
+				<Extent>
+					<Object_Ref>frontaccounting</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market,low-market}</Attribute_Ref>
+					<Attribute_Ref>manufacturing/bill of materials</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>license:={gpl3}</Attribute_Ref>
+					<Attribute_Ref>market focus:={low-market}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>language:={php}</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>multico</Attribute_Ref>
+					<Attribute_Ref>accounts receivble/accounts payable</Attribute_Ref>
+					<Attribute_Ref>supply chain management</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>point of sale</Attribute_Ref>
+					<Attribute_Ref>multiuser</Attribute_Ref>
+					<Attribute_Ref>structure:={web based}</Attribute_Ref>
+					<Attribute_Ref>inventory management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_5</ID>
+				<Extent>
+					<Object_Ref>jfire</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>market focus:={personal,low-market}</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market,low-market}</Attribute_Ref>
+					<Attribute_Ref>market focus:={personal}</Attribute_Ref>
+					<Attribute_Ref>language:={java}</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>market focus:={low-market}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>structure:={stand alone}</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market,high-market,personal,low-market}</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>point of sale</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market,high-market}</Attribute_Ref>
+					<Attribute_Ref>structure:={web based,stand alone}</Attribute_Ref>
+					<Attribute_Ref>structure:={web based}</Attribute_Ref>
+					<Attribute_Ref>distribution/warehouse management system</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_13</Concept_Ref>
+					<Concept_Ref>Concept_ctx_15</Concept_Ref>
+					<Concept_Ref>Concept_ctx_25</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_9</ID>
+				<Extent>
+					<Object_Ref>apache ofbiz</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>manufacturing/bill of materials</Attribute_Ref>
+					<Attribute_Ref>language:={java}</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>market focus:={low-market}</Attribute_Ref>
+					<Attribute_Ref>business intelligence</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>accounts receivble/accounts payable</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>point of sale</Attribute_Ref>
+					<Attribute_Ref>e-commerce</Attribute_Ref>
+					<Attribute_Ref>multiuser</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market,low-market}</Attribute_Ref>
+					<Attribute_Ref>tax form</Attribute_Ref>
+					<Attribute_Ref>license:={apache}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>multico</Attribute_Ref>
+					<Attribute_Ref>supply chain management</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>structure:={multi-user,web access,cloud hostable}</Attribute_Ref>
+					<Attribute_Ref>human ressource management</Attribute_Ref>
+					<Attribute_Ref>distribution/warehouse management system</Attribute_Ref>
+					<Attribute_Ref>inventory management</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_20</Concept_Ref>
+					<Concept_Ref>Concept_ctx_25</Concept_Ref>
+					<Concept_Ref>Concept_ctx_26</Concept_Ref>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>postbooks</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market,low-market}</Attribute_Ref>
+					<Attribute_Ref>manufacturing/bill of materials</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>market focus:={low-market}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>business intelligence</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>accounts receivble/accounts payable</Attribute_Ref>
+					<Attribute_Ref>license:={cpal}</Attribute_Ref>
+					<Attribute_Ref>language:={c++}</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>point of sale</Attribute_Ref>
+					<Attribute_Ref>e-commerce</Attribute_Ref>
+					<Attribute_Ref>structure:={client-server}</Attribute_Ref>
+					<Attribute_Ref>distribution/warehouse management system</Attribute_Ref>
+					<Attribute_Ref>inventory management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_21</Concept_Ref>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_1</ID>
+				<Extent>
+					<Object_Ref>tryton</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>manufacturing/bill of materials</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>online banking</Attribute_Ref>
+					<Attribute_Ref>market focus:={low-market}</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>accounts receivble/accounts payable</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>multiuser</Attribute_Ref>
+					<Attribute_Ref>e-commerce</Attribute_Ref>
+					<Attribute_Ref>structure:={client-server}</Attribute_Ref>
+					<Attribute_Ref>language:={python}</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market,low-market}</Attribute_Ref>
+					<Attribute_Ref>license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>structure:={stand alone}</Attribute_Ref>
+					<Attribute_Ref>multico</Attribute_Ref>
+					<Attribute_Ref>supply chain management</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>structure:={stand alone,client-server}</Attribute_Ref>
+					<Attribute_Ref>distribution/warehouse management system</Attribute_Ref>
+					<Attribute_Ref>inventory management</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_27</Concept_Ref>
+					<Concept_Ref>Concept_ctx_22</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+					<Concept_Ref>Concept_ctx_21</Concept_Ref>
+					<Concept_Ref>Concept_ctx_19</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_4</ID>
+				<Extent>
+					<Object_Ref>openbravo</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>tax form</Attribute_Ref>
+					<Attribute_Ref>manufacturing/bill of materials</Attribute_Ref>
+					<Attribute_Ref>language:={java}</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>business intelligence</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>license:={mpl}</Attribute_Ref>
+					<Attribute_Ref>multico</Attribute_Ref>
+					<Attribute_Ref>accounts receivble/accounts payable</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>structure:={web based,saas,on demand,on-premise}</Attribute_Ref>
+					<Attribute_Ref>point of sale</Attribute_Ref>
+					<Attribute_Ref>human ressource management</Attribute_Ref>
+					<Attribute_Ref>e-commerce</Attribute_Ref>
+					<Attribute_Ref>multiuser</Attribute_Ref>
+					<Attribute_Ref>payroll</Attribute_Ref>
+					<Attribute_Ref>structure:={web based}</Attribute_Ref>
+					<Attribute_Ref>inventory management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_24</Concept_Ref>
+					<Concept_Ref>Concept_ctx_20</Concept_Ref>
+					<Concept_Ref>Concept_ctx_25</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_0</ID>
+				<Extent>
+					<Object_Ref>turbocash</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>market focus:={mid-market,low-market}</Attribute_Ref>
+					<Attribute_Ref>manufacturing/bill of materials</Attribute_Ref>
+					<Attribute_Ref>license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>market focus:={low-market}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+					<Attribute_Ref>structure:={stand alone}</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>language:={delphi}</Attribute_Ref>
+					<Attribute_Ref>multico</Attribute_Ref>
+					<Attribute_Ref>accounts receivble/accounts payable</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>point of sale</Attribute_Ref>
+					<Attribute_Ref>multiuser</Attribute_Ref>
+					<Attribute_Ref>inventory management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_27</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_8</ID>
+				<Extent>
+					<Object_Ref>compiere</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>manufacturing/bill of materials</Attribute_Ref>
+					<Attribute_Ref>license:={gpl2}</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>point of sale</Attribute_Ref>
+					<Attribute_Ref>structure:={web based}</Attribute_Ref>
+					<Attribute_Ref>distribution/warehouse management system</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>language:={java ee}</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_18</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_3</ID>
+				<Extent>
+					<Object_Ref>odoo</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>manufacturing/bill of materials</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>market focus:={low-market}</Attribute_Ref>
+					<Attribute_Ref>business intelligence</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>accounts receivble/accounts payable</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>point of sale</Attribute_Ref>
+					<Attribute_Ref>e-commerce</Attribute_Ref>
+					<Attribute_Ref>multiuser</Attribute_Ref>
+					<Attribute_Ref>structure:={web based}</Attribute_Ref>
+					<Attribute_Ref>license:={agpl}</Attribute_Ref>
+					<Attribute_Ref>structure:={client-server}</Attribute_Ref>
+					<Attribute_Ref>language:={python}</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market,low-market}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>multico</Attribute_Ref>
+					<Attribute_Ref>supply chain management</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>human ressource management</Attribute_Ref>
+					<Attribute_Ref>structure:={web based,client-server}</Attribute_Ref>
+					<Attribute_Ref>payroll</Attribute_Ref>
+					<Attribute_Ref>distribution/warehouse management system</Attribute_Ref>
+					<Attribute_Ref>inventory management</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+					<Concept_Ref>Concept_ctx_19</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_13</ID>
+				<Extent>
+					<Object_Ref>gnu enterprise</Object_Ref>
+					<Object_Ref>jfire</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>structure:={stand alone}</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market,high-market}</Attribute_Ref>
+					<Attribute_Ref>structure:={web based,stand alone}</Attribute_Ref>
+					<Attribute_Ref>structure:={web based}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+					<Concept_Ref>Concept_ctx_27</Concept_Ref>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_15</ID>
+				<Extent>
+					<Object_Ref>gnucash</Object_Ref>
+					<Object_Ref>jfire</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>structure:={stand alone}</Attribute_Ref>
+					<Attribute_Ref>market focus:={personal,low-market}</Attribute_Ref>
+					<Attribute_Ref>market focus:={personal}</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>market focus:={low-market}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_23</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_14</ID>
+				<Extent>
+					<Object_Ref>gnucash</Object_Ref>
+					<Object_Ref>kmymoney</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>structure:={stand alone}</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>market focus:={personal}</Attribute_Ref>
+					<Attribute_Ref>stock option commodity trade</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>online banking</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_22</Concept_Ref>
+					<Concept_Ref>Concept_ctx_23</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_12</ID>
+				<Extent>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>manufacturing/bill of materials</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>business intelligence</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>multico</Attribute_Ref>
+					<Attribute_Ref>accounts receivble/accounts payable</Attribute_Ref>
+					<Attribute_Ref>supply chain management</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>point of sale</Attribute_Ref>
+					<Attribute_Ref>human ressource management</Attribute_Ref>
+					<Attribute_Ref>e-commerce</Attribute_Ref>
+					<Attribute_Ref>multiuser</Attribute_Ref>
+					<Attribute_Ref>structure:={web based,client-server}</Attribute_Ref>
+					<Attribute_Ref>payroll</Attribute_Ref>
+					<Attribute_Ref>structure:={web based}</Attribute_Ref>
+					<Attribute_Ref>structure:={client-server}</Attribute_Ref>
+					<Attribute_Ref>distribution/warehouse management system</Attribute_Ref>
+					<Attribute_Ref>inventory management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_24</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+					<Concept_Ref>Concept_ctx_21</Concept_Ref>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_11</ID>
+				<Extent>
+					<Object_Ref>kmymoney</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>language:={c++}</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_16</ID>
+				<Extent>
+					<Object_Ref>gnucash</Object_Ref>
+					<Object_Ref>homebank</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>language:={c}</Attribute_Ref>
+					<Attribute_Ref>structure:={stand alone}</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>market focus:={personal}</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+					<Concept_Ref>Concept_ctx_23</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_17</ID>
+				<Extent>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>weberp</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market,low-market}</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>market focus:={low-market}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+					<Attribute_Ref>language:={php}</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>accounts receivble/accounts payable</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>structure:={web based}</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+					<Concept_Ref>Concept_ctx_29</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_10</ID>
+				<Extent>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>sql-ledger</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>manufacturing/bill of materials</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>multico</Attribute_Ref>
+					<Attribute_Ref>accounts receivble/accounts payable</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>point of sale</Attribute_Ref>
+					<Attribute_Ref>language:={perl}</Attribute_Ref>
+					<Attribute_Ref>multiuser</Attribute_Ref>
+					<Attribute_Ref>structure:={web based}</Attribute_Ref>
+					<Attribute_Ref>inventory management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_18</ID>
+				<Extent>
+					<Object_Ref>compiere</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>manufacturing/bill of materials</Attribute_Ref>
+					<Attribute_Ref>license:={gpl2}</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>point of sale</Attribute_Ref>
+					<Attribute_Ref>structure:={web based}</Attribute_Ref>
+					<Attribute_Ref>distribution/warehouse management system</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_38</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_20</ID>
+				<Extent>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>tax form</Attribute_Ref>
+					<Attribute_Ref>manufacturing/bill of materials</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>business intelligence</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>multico</Attribute_Ref>
+					<Attribute_Ref>accounts receivble/accounts payable</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>point of sale</Attribute_Ref>
+					<Attribute_Ref>multiuser</Attribute_Ref>
+					<Attribute_Ref>inventory management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+					<Concept_Ref>Concept_ctx_32</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_19</ID>
+				<Extent>
+					<Object_Ref>gnu enterprise</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>supply chain management</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>e-commerce</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>language:={python}</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+					<Concept_Ref>Concept_ctx_31</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_23</ID>
+				<Extent>
+					<Object_Ref>gnucash</Object_Ref>
+					<Object_Ref>homebank</Object_Ref>
+					<Object_Ref>jfire</Object_Ref>
+					<Object_Ref>kmymoney</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>structure:={stand alone}</Attribute_Ref>
+					<Attribute_Ref>market focus:={personal}</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_48</Concept_Ref>
+					<Concept_Ref>Concept_ctx_27</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_22</ID>
+				<Extent>
+					<Object_Ref>gnucash</Object_Ref>
+					<Object_Ref>kmymoney</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>online banking</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_24</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>manufacturing/bill of materials</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>business intelligence</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>accounts receivble/accounts payable</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>point of sale</Attribute_Ref>
+					<Attribute_Ref>human ressource management</Attribute_Ref>
+					<Attribute_Ref>e-commerce</Attribute_Ref>
+					<Attribute_Ref>payroll</Attribute_Ref>
+					<Attribute_Ref>structure:={web based}</Attribute_Ref>
+					<Attribute_Ref>inventory management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_26</Concept_Ref>
+					<Concept_Ref>Concept_ctx_36</Concept_Ref>
+					<Concept_Ref>Concept_ctx_28</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_21</ID>
+				<Extent>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>manufacturing/bill of materials</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>accounts receivble/accounts payable</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>e-commerce</Attribute_Ref>
+					<Attribute_Ref>structure:={client-server}</Attribute_Ref>
+					<Attribute_Ref>distribution/warehouse management system</Attribute_Ref>
+					<Attribute_Ref>inventory management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_34</Concept_Ref>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_25</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>jfire</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>language:={java}</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>point of sale</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_26</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>gnu enterprise</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>human ressource management</Attribute_Ref>
+					<Attribute_Ref>e-commerce</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_30</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_28</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>manufacturing/bill of materials</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>business intelligence</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>accounts receivble/accounts payable</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>point of sale</Attribute_Ref>
+					<Attribute_Ref>inventory management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+					<Concept_Ref>Concept_ctx_39</Concept_Ref>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_27</ID>
+				<Extent>
+					<Object_Ref>gnucash</Object_Ref>
+					<Object_Ref>gnu enterprise</Object_Ref>
+					<Object_Ref>homebank</Object_Ref>
+					<Object_Ref>jfire</Object_Ref>
+					<Object_Ref>kmymoney</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+					<Object_Ref>turbocash</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>structure:={stand alone}</Attribute_Ref>
+					<Attribute_Ref>license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_35</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_29</ID>
+				<Extent>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>jfire</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+					<Object_Ref>turbocash</Object_Ref>
+					<Object_Ref>weberp</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>market focus:={mid-market,low-market}</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>market focus:={low-market}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_33</Concept_Ref>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_30</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>gnu enterprise</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>e-commerce</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_31</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>gnu enterprise</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>supply chain management</Attribute_Ref>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+					<Concept_Ref>Concept_ctx_42</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_33</ID>
+				<Extent>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>gnucash</Object_Ref>
+					<Object_Ref>jfire</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+					<Object_Ref>turbocash</Object_Ref>
+					<Object_Ref>weberp</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>market focus:={low-market}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_34</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>compiere</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>jfire</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>distribution/warehouse management system</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_40</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_32</ID>
+				<Extent>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>sql-ledger</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+					<Object_Ref>turbocash</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>multico</Attribute_Ref>
+					<Attribute_Ref>accounts receivble/accounts payable</Attribute_Ref>
+					<Attribute_Ref>manufacturing/bill of materials</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>multiuser</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>inventory management</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_37</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_35</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>gnucash</Object_Ref>
+					<Object_Ref>gnu enterprise</Object_Ref>
+					<Object_Ref>homebank</Object_Ref>
+					<Object_Ref>jfire</Object_Ref>
+					<Object_Ref>kmymoney</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>sql-ledger</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+					<Object_Ref>turbocash</Object_Ref>
+					<Object_Ref>weberp</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_37</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+					<Object_Ref>sql-ledger</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+					<Object_Ref>turbocash</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>accounts receivble/accounts payable</Attribute_Ref>
+					<Attribute_Ref>manufacturing/bill of materials</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>inventory management</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+					<Concept_Ref>Concept_ctx_38</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_36</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>compiere</Object_Ref>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>gnu enterprise</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>jfire</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>sql-ledger</Object_Ref>
+					<Object_Ref>weberp</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>structure:={web based}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_39</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>compiere</Object_Ref>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>jfire</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+					<Object_Ref>sql-ledger</Object_Ref>
+					<Object_Ref>turbocash</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>point of sale</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_40</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>compiere</Object_Ref>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>gnu enterprise</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>jfire</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>customer relationship management</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_43</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_38</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>compiere</Object_Ref>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+					<Object_Ref>sql-ledger</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+					<Object_Ref>turbocash</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>manufacturing/bill of materials</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_47</Concept_Ref>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_41</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>gnucash</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+					<Object_Ref>sql-ledger</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+					<Object_Ref>turbocash</Object_Ref>
+					<Object_Ref>weberp</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>accounts receivble/accounts payable</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_45</Concept_Ref>
+					<Concept_Ref>Concept_ctx_44</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_42</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>gnucash</Object_Ref>
+					<Object_Ref>gnu enterprise</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>kmymoney</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+					<Object_Ref>sql-ledger</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+					<Object_Ref>weberp</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_47</Concept_Ref>
+					<Concept_Ref>Concept_ctx_48</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_43</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>compiere</Object_Ref>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>gnu enterprise</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>jfire</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+					<Object_Ref>sql-ledger</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+					<Object_Ref>weberp</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>entreprise ressource planning</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_48</Concept_Ref>
+					<Concept_Ref>Concept_ctx_46</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_46</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>compiere</Object_Ref>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>gnu enterprise</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>jfire</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+					<Object_Ref>sql-ledger</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+					<Object_Ref>turbocash</Object_Ref>
+					<Object_Ref>weberp</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>market focus:={mid-market}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_45</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>gnucash</Object_Ref>
+					<Object_Ref>homebank</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>kmymoney</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+					<Object_Ref>sql-ledger</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+					<Object_Ref>turbocash</Object_Ref>
+					<Object_Ref>weberp</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_47</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_44</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>gnucash</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>jfire</Object_Ref>
+					<Object_Ref>kmymoney</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+					<Object_Ref>sql-ledger</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+					<Object_Ref>turbocash</Object_Ref>
+					<Object_Ref>weberp</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_47</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>compiere</Object_Ref>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>gnucash</Object_Ref>
+					<Object_Ref>gnu enterprise</Object_Ref>
+					<Object_Ref>homebank</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>kmymoney</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+					<Object_Ref>sql-ledger</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+					<Object_Ref>turbocash</Object_Ref>
+					<Object_Ref>weberp</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_48</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>compiere</Object_Ref>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>gnucash</Object_Ref>
+					<Object_Ref>gnu enterprise</Object_Ref>
+					<Object_Ref>homebank</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>jfire</Object_Ref>
+					<Object_Ref>kmymoney</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+					<Object_Ref>sql-ledger</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+					<Object_Ref>weberp</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_49</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_49</ID>
+				<Extent>
+					<Object_Ref>adempiere</Object_Ref>
+					<Object_Ref>apache ofbiz</Object_Ref>
+					<Object_Ref>compiere</Object_Ref>
+					<Object_Ref>frontaccounting</Object_Ref>
+					<Object_Ref>gnucash</Object_Ref>
+					<Object_Ref>gnu enterprise</Object_Ref>
+					<Object_Ref>homebank</Object_Ref>
+					<Object_Ref>idempiere</Object_Ref>
+					<Object_Ref>jfire</Object_Ref>
+					<Object_Ref>kmymoney</Object_Ref>
+					<Object_Ref>ledgersmb</Object_Ref>
+					<Object_Ref>openbravo</Object_Ref>
+					<Object_Ref>odoo</Object_Ref>
+					<Object_Ref>postbooks</Object_Ref>
+					<Object_Ref>sql-ledger</Object_Ref>
+					<Object_Ref>tryton</Object_Ref>
+					<Object_Ref>turbocash</Object_Ref>
+					<Object_Ref>weberp</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>windows</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_6</ID>
+				<Extent>
+					<Object_Ref>gnucash</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>language:={c,scheme}</Attribute_Ref>
+					<Attribute_Ref>multi-currency pricing</Attribute_Ref>
+					<Attribute_Ref>market focus:={personal,low-market}</Attribute_Ref>
+					<Attribute_Ref>market focus:={personal}</Attribute_Ref>
+					<Attribute_Ref>license:={gpl}</Attribute_Ref>
+					<Attribute_Ref>online banking</Attribute_Ref>
+					<Attribute_Ref>market focus:={low-market}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>general ledger</Attribute_Ref>
+					<Attribute_Ref>language:={c}</Attribute_Ref>
+					<Attribute_Ref>structure:={stand alone}</Attribute_Ref>
+					<Attribute_Ref>mac os</Attribute_Ref>
+					<Attribute_Ref>accounts receivble/accounts payable</Attribute_Ref>
+					<Attribute_Ref>stock option commodity trade</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>double-entry bookkeeping system</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_16</Concept_Ref>
+					<Concept_Ref>Concept_ctx_41</Concept_Ref>
+					<Concept_Ref>Concept_ctx_15</Concept_Ref>
+					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+		</Lattice>
+	</Step >
+</RCAExplore_Document>

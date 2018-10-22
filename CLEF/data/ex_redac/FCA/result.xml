@@ -1,6 +1,6 @@
 <RCAExplore_Document>
 	<Step nb="0">
-		<Lattice numberObj="5" numberAtt="17" numberCpt="16" >
+		<Lattice numberObj="5" numberAtt="17" numberCpt="18" >
 			<Config algo="fca">
 			</Config>
 			<Name>ctx</Name>
@@ -9,25 +9,25 @@
 			<Object>ClearCase</Object>
 			<Object>GnuArch</Object>
 			<Object>CVSNT</Object>
+			<Attribute>FirstRelease:=[1986-2005]</Attribute>
+			<Attribute>FirstRelease:=[1998-2005]</Attribute>
+			<Attribute>FirstRelease:=[1986-1998]</Attribute>
+			<Attribute>FirstRelease:=[2005-2005]</Attribute>
+			<Attribute>FirstRelease:=[1998-1998]</Attribute>
+			<Attribute>FirstRelease:=[1986-1986]</Attribute>
+			<Attribute>FirstRelease:=*</Attribute>
 			<Attribute>ClientServer</Attribute>
 			<Attribute>Distributed</Attribute>
 			<Attribute>Merge</Attribute>
 			<Attribute>Lock</Attribute>
-			<Attribute>FirstRelease:1986</Attribute>
-			<Attribute>FirstRelease:1998</Attribute>
-			<Attribute>FirstRelease:2005</Attribute>
-			<Attribute>FirstRelease:[1986-1998]</Attribute>
-			<Attribute>FirstRelease:[1998-2005]</Attribute>
-			<Attribute>FirstRelease:[1986-2005]</Attribute>
-			<Attribute>FirstRelease:*</Attribute>
-			<Attribute>ProgrammingLanguage:C</Attribute>
-			<Attribute>ProgrammingLanguage:shell scripts</Attribute>
-			<Attribute>ProgrammingLanguage:perl</Attribute>
-			<Attribute>ProgrammingLanguage:java</Attribute>
-			<Attribute>ProgrammingLanguage:C++</Attribute>
-			<Attribute>ProgrammingLanguage:*</Attribute>
+			<Attribute>ProgrammingLanguage:={C++}</Attribute>
+			<Attribute>ProgrammingLanguage:={C}</Attribute>
+			<Attribute>ProgrammingLanguage:={C,shell scripts}</Attribute>
+			<Attribute>ProgrammingLanguage:={C,perl}</Attribute>
+			<Attribute>ProgrammingLanguage:={C,java,perl}</Attribute>
+			<Attribute>ProgrammingLanguage:={C,perl,shell scripts}</Attribute>
 			<Concept>
-				<ID>Concept_ctx_15</ID>
+				<ID>Concept_ctx_17</ID>
 				<Extent>
 					<Object_Ref>git</Object_Ref>
 					<Object_Ref>CVS</Object_Ref>
@@ -36,23 +36,76 @@
 					<Object_Ref>CVSNT</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>Merge</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_10</ID>
+				<ID>Concept_ctx_15</ID>
 				<Extent>
+					<Object_Ref>git</Object_Ref>
 					<Object_Ref>CVS</Object_Ref>
-					<Object_Ref>ClearCase</Object_Ref>
+					<Object_Ref>GnuArch</Object_Ref>
 					<Object_Ref>CVSNT</Object_Ref>
 				</Extent>
 				<Intent>
+					<Attribute_Ref>FirstRelease:=[1986-2005]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_11</ID>
+				<Extent>
+					<Object_Ref>git</Object_Ref>
+					<Object_Ref>GnuArch</Object_Ref>
+					<Object_Ref>CVSNT</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>FirstRelease:=[1986-2005]</Attribute_Ref>
 					<Attribute_Ref>Merge</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1998-2005]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+					<Concept_Ref>Concept_ctx_15</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_1</ID>
+				<Extent>
+					<Object_Ref>CVSNT</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>FirstRelease:=[1986-2005]</Attribute_Ref>
+					<Attribute_Ref>Merge</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1998-2005]</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1998-1998]</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C++}</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-1998]</Attribute_Ref>
+					<Attribute_Ref>ClientServer</Attribute_Ref>
+					<Attribute_Ref>Lock</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_6</ID>
+				<Extent>
+					<Object_Ref>CVS</Object_Ref>
+					<Object_Ref>CVSNT</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>FirstRelease:=[1986-2005]</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-1998]</Attribute_Ref>
 					<Attribute_Ref>ClientServer</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
 					<Concept_Ref>Concept_ctx_15</Concept_Ref>
 				</UpperCovers>
 			</Concept>
@@ -61,23 +114,23 @@
 				<Extent>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>ProgrammingLanguage:C</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:java</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-1998]</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:*</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-2005]</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1998-1998]</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
 					<Attribute_Ref>Lock</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1998-2005]</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:1998</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:1986</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,perl,shell scripts}</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=*</Attribute_Ref>
 					<Attribute_Ref>Merge</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,perl}</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1998-2005]</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[2005-2005]</Attribute_Ref>
 					<Attribute_Ref>Distributed</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:*</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C++}</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-1998]</Attribute_Ref>
 					<Attribute_Ref>ClientServer</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:perl</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:2005</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:shell scripts</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:C++</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-2005]</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-1986]</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,java,perl}</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,shell scripts}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_3</Concept_Ref>
@@ -93,17 +146,70 @@
 					<Object_Ref>GnuArch</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>ProgrammingLanguage:C</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-2005]</Attribute_Ref>
 					<Attribute_Ref>Merge</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[2005-2005]</Attribute_Ref>
 					<Attribute_Ref>Distributed</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:2005</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:shell scripts</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-2005]</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1998-2005]</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1998-2005]</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,shell scripts}</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_11</Concept_Ref>
 					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+					<Concept_Ref>Concept_ctx_13</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_3</ID>
+				<Extent>
+					<Object_Ref>CVS</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>FirstRelease:=[1986-2005]</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-1998]</Attribute_Ref>
+					<Attribute_Ref>ClientServer</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-1986]</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+					<Concept_Ref>Concept_ctx_13</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>ClearCase</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>FirstRelease:=*</Attribute_Ref>
+					<Attribute_Ref>Merge</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,perl}</Attribute_Ref>
+					<Attribute_Ref>ClientServer</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,java,perl}</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
+					<Attribute_Ref>Lock</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_9</Concept_Ref>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_10</ID>
+				<Extent>
+					<Object_Ref>CVS</Object_Ref>
+					<Object_Ref>ClearCase</Object_Ref>
+					<Object_Ref>CVSNT</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>ClientServer</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -118,116 +224,39 @@
 					<Attribute_Ref>Lock</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
+					<Concept_Ref>Concept_ctx_14</Concept_Ref>
 					<Concept_Ref>Concept_ctx_10</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_3</ID>
-				<Extent>
-					<Object_Ref>CVS</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>FirstRelease:1986</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:C</Attribute_Ref>
-					<Attribute_Ref>Merge</Attribute_Ref>
-					<Attribute_Ref>ClientServer</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-1998]</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-2005]</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_6</Concept_Ref>
-					<Concept_Ref>Concept_ctx_7</Concept_Ref>
-					<Concept_Ref>Concept_ctx_12</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_1</ID>
-				<Extent>
-					<Object_Ref>CVSNT</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>FirstRelease:1998</Attribute_Ref>
-					<Attribute_Ref>Merge</Attribute_Ref>
-					<Attribute_Ref>ClientServer</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-1998]</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:C++</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-2005]</Attribute_Ref>
-					<Attribute_Ref>Lock</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1998-2005]</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_11</Concept_Ref>
-					<Concept_Ref>Concept_ctx_6</Concept_Ref>
-					<Concept_Ref>Concept_ctx_5</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_6</ID>
-				<Extent>
-					<Object_Ref>CVS</Object_Ref>
-					<Object_Ref>CVSNT</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>Merge</Attribute_Ref>
-					<Attribute_Ref>ClientServer</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-1998]</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-2005]</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_10</Concept_Ref>
-					<Concept_Ref>Concept_ctx_13</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_11</ID>
+				<ID>Concept_ctx_14</ID>
 				<Extent>
 					<Object_Ref>git</Object_Ref>
-					<Object_Ref>GnuArch</Object_Ref>
-					<Object_Ref>CVSNT</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>Merge</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-2005]</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1998-2005]</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_13</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_13</ID>
-				<Extent>
-					<Object_Ref>git</Object_Ref>
-					<Object_Ref>CVS</Object_Ref>
-					<Object_Ref>GnuArch</Object_Ref>
-					<Object_Ref>CVSNT</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>Merge</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-2005]</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_15</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_2</ID>
-				<Extent>
 					<Object_Ref>ClearCase</Object_Ref>
+					<Object_Ref>GnuArch</Object_Ref>
+					<Object_Ref>CVSNT</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>ProgrammingLanguage:C</Attribute_Ref>
 					<Attribute_Ref>Merge</Attribute_Ref>
-					<Attribute_Ref>ClientServer</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:java</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:perl</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:*</Attribute_Ref>
-					<Attribute_Ref>Lock</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_9</Concept_Ref>
-					<Concept_Ref>Concept_ctx_7</Concept_Ref>
-					<Concept_Ref>Concept_ctx_5</Concept_Ref>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_12</ID>
+				<Extent>
+					<Object_Ref>git</Object_Ref>
+					<Object_Ref>ClearCase</Object_Ref>
+					<Object_Ref>GnuArch</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>Merge</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+					<Concept_Ref>Concept_ctx_16</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -237,34 +266,32 @@
 					<Object_Ref>ClearCase</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>ProgrammingLanguage:C</Attribute_Ref>
-					<Attribute_Ref>Merge</Attribute_Ref>
 					<Attribute_Ref>ClientServer</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_10</Concept_Ref>
-					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+					<Concept_Ref>Concept_ctx_16</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_12</ID>
+				<ID>Concept_ctx_13</ID>
 				<Extent>
 					<Object_Ref>git</Object_Ref>
 					<Object_Ref>CVS</Object_Ref>
 					<Object_Ref>GnuArch</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>ProgrammingLanguage:C</Attribute_Ref>
-					<Attribute_Ref>Merge</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-2005]</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-2005]</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_13</Concept_Ref>
-					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+					<Concept_Ref>Concept_ctx_15</Concept_Ref>
+					<Concept_Ref>Concept_ctx_16</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_14</ID>
+				<ID>Concept_ctx_16</ID>
 				<Extent>
 					<Object_Ref>git</Object_Ref>
 					<Object_Ref>CVS</Object_Ref>
@@ -272,11 +299,10 @@
 					<Object_Ref>GnuArch</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>ProgrammingLanguage:C</Attribute_Ref>
-					<Attribute_Ref>Merge</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_15</Concept_Ref>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -285,14 +311,15 @@
 					<Object_Ref>git</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>ProgrammingLanguage:C</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-2005]</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,perl,shell scripts}</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,perl}</Attribute_Ref>
 					<Attribute_Ref>Merge</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[2005-2005]</Attribute_Ref>
 					<Attribute_Ref>Distributed</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:perl</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:2005</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:shell scripts</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-2005]</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1998-2005]</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1998-2005]</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,shell scripts}</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_8</Concept_Ref>
@@ -306,18 +333,18 @@
 					<Object_Ref>ClearCase</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>ProgrammingLanguage:C</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,perl}</Attribute_Ref>
 					<Attribute_Ref>Merge</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:perl</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 		</Lattice>
 	</Step >
 	<Step nb="1">
-		<Lattice numberObj="5" numberAtt="17" numberCpt="16" >
+		<Lattice numberObj="5" numberAtt="17" numberCpt="18" >
 			<Config algo="fca">
 			</Config>
 			<Name>ctx</Name>
@@ -326,25 +353,25 @@
 			<Object>ClearCase</Object>
 			<Object>GnuArch</Object>
 			<Object>CVSNT</Object>
+			<Attribute>FirstRelease:=[1986-2005]</Attribute>
+			<Attribute>FirstRelease:=[1998-2005]</Attribute>
+			<Attribute>FirstRelease:=[1986-1998]</Attribute>
+			<Attribute>FirstRelease:=[2005-2005]</Attribute>
+			<Attribute>FirstRelease:=[1998-1998]</Attribute>
+			<Attribute>FirstRelease:=[1986-1986]</Attribute>
+			<Attribute>FirstRelease:=*</Attribute>
 			<Attribute>ClientServer</Attribute>
 			<Attribute>Distributed</Attribute>
 			<Attribute>Merge</Attribute>
 			<Attribute>Lock</Attribute>
-			<Attribute>FirstRelease:1986</Attribute>
-			<Attribute>FirstRelease:1998</Attribute>
-			<Attribute>FirstRelease:2005</Attribute>
-			<Attribute>FirstRelease:[1986-1998]</Attribute>
-			<Attribute>FirstRelease:[1998-2005]</Attribute>
-			<Attribute>FirstRelease:[1986-2005]</Attribute>
-			<Attribute>FirstRelease:*</Attribute>
-			<Attribute>ProgrammingLanguage:C</Attribute>
-			<Attribute>ProgrammingLanguage:shell scripts</Attribute>
-			<Attribute>ProgrammingLanguage:perl</Attribute>
-			<Attribute>ProgrammingLanguage:java</Attribute>
-			<Attribute>ProgrammingLanguage:C++</Attribute>
-			<Attribute>ProgrammingLanguage:*</Attribute>
+			<Attribute>ProgrammingLanguage:={C++}</Attribute>
+			<Attribute>ProgrammingLanguage:={C}</Attribute>
+			<Attribute>ProgrammingLanguage:={C,shell scripts}</Attribute>
+			<Attribute>ProgrammingLanguage:={C,perl}</Attribute>
+			<Attribute>ProgrammingLanguage:={C,java,perl}</Attribute>
+			<Attribute>ProgrammingLanguage:={C,perl,shell scripts}</Attribute>
 			<Concept>
-				<ID>Concept_ctx_15</ID>
+				<ID>Concept_ctx_17</ID>
 				<Extent>
 					<Object_Ref>git</Object_Ref>
 					<Object_Ref>CVS</Object_Ref>
@@ -353,23 +380,76 @@
 					<Object_Ref>CVSNT</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>Merge</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_10</ID>
+				<ID>Concept_ctx_15</ID>
 				<Extent>
+					<Object_Ref>git</Object_Ref>
 					<Object_Ref>CVS</Object_Ref>
-					<Object_Ref>ClearCase</Object_Ref>
+					<Object_Ref>GnuArch</Object_Ref>
 					<Object_Ref>CVSNT</Object_Ref>
 				</Extent>
 				<Intent>
+					<Attribute_Ref>FirstRelease:=[1986-2005]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_11</ID>
+				<Extent>
+					<Object_Ref>git</Object_Ref>
+					<Object_Ref>GnuArch</Object_Ref>
+					<Object_Ref>CVSNT</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>FirstRelease:=[1986-2005]</Attribute_Ref>
 					<Attribute_Ref>Merge</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1998-2005]</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+					<Concept_Ref>Concept_ctx_15</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_1</ID>
+				<Extent>
+					<Object_Ref>CVSNT</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>FirstRelease:=[1986-2005]</Attribute_Ref>
+					<Attribute_Ref>Merge</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1998-2005]</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1998-1998]</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C++}</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-1998]</Attribute_Ref>
+					<Attribute_Ref>ClientServer</Attribute_Ref>
+					<Attribute_Ref>Lock</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_6</ID>
+				<Extent>
+					<Object_Ref>CVS</Object_Ref>
+					<Object_Ref>CVSNT</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>FirstRelease:=[1986-2005]</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-1998]</Attribute_Ref>
 					<Attribute_Ref>ClientServer</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
 					<Concept_Ref>Concept_ctx_15</Concept_Ref>
 				</UpperCovers>
 			</Concept>
@@ -378,23 +458,23 @@
 				<Extent>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>ProgrammingLanguage:C</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:java</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-1998]</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:*</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-2005]</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1998-1998]</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
 					<Attribute_Ref>Lock</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1998-2005]</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:1998</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:1986</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,perl,shell scripts}</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=*</Attribute_Ref>
 					<Attribute_Ref>Merge</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,perl}</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1998-2005]</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[2005-2005]</Attribute_Ref>
 					<Attribute_Ref>Distributed</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:*</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C++}</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-1998]</Attribute_Ref>
 					<Attribute_Ref>ClientServer</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:perl</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:2005</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:shell scripts</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:C++</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-2005]</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-1986]</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,java,perl}</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,shell scripts}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_3</Concept_Ref>
@@ -410,17 +490,70 @@
 					<Object_Ref>GnuArch</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>ProgrammingLanguage:C</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-2005]</Attribute_Ref>
 					<Attribute_Ref>Merge</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[2005-2005]</Attribute_Ref>
 					<Attribute_Ref>Distributed</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:2005</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:shell scripts</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-2005]</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1998-2005]</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1998-2005]</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,shell scripts}</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_11</Concept_Ref>
 					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+					<Concept_Ref>Concept_ctx_13</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_3</ID>
+				<Extent>
+					<Object_Ref>CVS</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>FirstRelease:=[1986-2005]</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-1998]</Attribute_Ref>
+					<Attribute_Ref>ClientServer</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-1986]</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+					<Concept_Ref>Concept_ctx_13</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>ClearCase</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>FirstRelease:=*</Attribute_Ref>
+					<Attribute_Ref>Merge</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,perl}</Attribute_Ref>
+					<Attribute_Ref>ClientServer</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,java,perl}</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
+					<Attribute_Ref>Lock</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_9</Concept_Ref>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_10</ID>
+				<Extent>
+					<Object_Ref>CVS</Object_Ref>
+					<Object_Ref>ClearCase</Object_Ref>
+					<Object_Ref>CVSNT</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>ClientServer</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -435,116 +568,39 @@
 					<Attribute_Ref>Lock</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
+					<Concept_Ref>Concept_ctx_14</Concept_Ref>
 					<Concept_Ref>Concept_ctx_10</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_3</ID>
-				<Extent>
-					<Object_Ref>CVS</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>FirstRelease:1986</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:C</Attribute_Ref>
-					<Attribute_Ref>Merge</Attribute_Ref>
-					<Attribute_Ref>ClientServer</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-1998]</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-2005]</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_6</Concept_Ref>
-					<Concept_Ref>Concept_ctx_7</Concept_Ref>
-					<Concept_Ref>Concept_ctx_12</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_1</ID>
-				<Extent>
-					<Object_Ref>CVSNT</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>FirstRelease:1998</Attribute_Ref>
-					<Attribute_Ref>Merge</Attribute_Ref>
-					<Attribute_Ref>ClientServer</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-1998]</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:C++</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-2005]</Attribute_Ref>
-					<Attribute_Ref>Lock</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1998-2005]</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_11</Concept_Ref>
-					<Concept_Ref>Concept_ctx_6</Concept_Ref>
-					<Concept_Ref>Concept_ctx_5</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_6</ID>
-				<Extent>
-					<Object_Ref>CVS</Object_Ref>
-					<Object_Ref>CVSNT</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>Merge</Attribute_Ref>
-					<Attribute_Ref>ClientServer</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-1998]</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-2005]</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_10</Concept_Ref>
-					<Concept_Ref>Concept_ctx_13</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_11</ID>
+				<ID>Concept_ctx_14</ID>
 				<Extent>
 					<Object_Ref>git</Object_Ref>
-					<Object_Ref>GnuArch</Object_Ref>
-					<Object_Ref>CVSNT</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>Merge</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-2005]</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1998-2005]</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_13</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_13</ID>
-				<Extent>
-					<Object_Ref>git</Object_Ref>
-					<Object_Ref>CVS</Object_Ref>
-					<Object_Ref>GnuArch</Object_Ref>
-					<Object_Ref>CVSNT</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>Merge</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-2005]</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_15</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_2</ID>
-				<Extent>
 					<Object_Ref>ClearCase</Object_Ref>
+					<Object_Ref>GnuArch</Object_Ref>
+					<Object_Ref>CVSNT</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>ProgrammingLanguage:C</Attribute_Ref>
 					<Attribute_Ref>Merge</Attribute_Ref>
-					<Attribute_Ref>ClientServer</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:java</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:perl</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:*</Attribute_Ref>
-					<Attribute_Ref>Lock</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_9</Concept_Ref>
-					<Concept_Ref>Concept_ctx_7</Concept_Ref>
-					<Concept_Ref>Concept_ctx_5</Concept_Ref>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_12</ID>
+				<Extent>
+					<Object_Ref>git</Object_Ref>
+					<Object_Ref>ClearCase</Object_Ref>
+					<Object_Ref>GnuArch</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>Merge</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+					<Concept_Ref>Concept_ctx_16</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -554,34 +610,32 @@
 					<Object_Ref>ClearCase</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>ProgrammingLanguage:C</Attribute_Ref>
-					<Attribute_Ref>Merge</Attribute_Ref>
 					<Attribute_Ref>ClientServer</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_10</Concept_Ref>
-					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+					<Concept_Ref>Concept_ctx_16</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_12</ID>
+				<ID>Concept_ctx_13</ID>
 				<Extent>
 					<Object_Ref>git</Object_Ref>
 					<Object_Ref>CVS</Object_Ref>
 					<Object_Ref>GnuArch</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>ProgrammingLanguage:C</Attribute_Ref>
-					<Attribute_Ref>Merge</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-2005]</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-2005]</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_13</Concept_Ref>
-					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+					<Concept_Ref>Concept_ctx_15</Concept_Ref>
+					<Concept_Ref>Concept_ctx_16</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_14</ID>
+				<ID>Concept_ctx_16</ID>
 				<Extent>
 					<Object_Ref>git</Object_Ref>
 					<Object_Ref>CVS</Object_Ref>
@@ -589,11 +643,10 @@
 					<Object_Ref>GnuArch</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>ProgrammingLanguage:C</Attribute_Ref>
-					<Attribute_Ref>Merge</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_15</Concept_Ref>
+					<Concept_Ref>Concept_ctx_17</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -602,14 +655,15 @@
 					<Object_Ref>git</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>ProgrammingLanguage:C</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1986-2005]</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,perl,shell scripts}</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,perl}</Attribute_Ref>
 					<Attribute_Ref>Merge</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[2005-2005]</Attribute_Ref>
 					<Attribute_Ref>Distributed</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:perl</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:2005</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:shell scripts</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1986-2005]</Attribute_Ref>
-					<Attribute_Ref>FirstRelease:[1998-2005]</Attribute_Ref>
+					<Attribute_Ref>FirstRelease:=[1998-2005]</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,shell scripts}</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_8</Concept_Ref>
@@ -623,12 +677,12 @@
 					<Object_Ref>ClearCase</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>ProgrammingLanguage:C</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C,perl}</Attribute_Ref>
 					<Attribute_Ref>Merge</Attribute_Ref>
-					<Attribute_Ref>ProgrammingLanguage:perl</Attribute_Ref>
+					<Attribute_Ref>ProgrammingLanguage:={C}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 		</Lattice>

@@ -1,6 +1,6 @@
 <RCAExplore_Document>
 	<Step nb="0">
-		<Lattice numberObj="11" numberAtt="17" numberCpt="15" >
+		<Lattice numberObj="11" numberAtt="12" numberCpt="14" >
 			<Config algo="fca">
 			</Config>
 			<Name>ctx</Name>
@@ -18,40 +18,15 @@
 			<Attribute>windows</Attribute>
 			<Attribute>linux</Attribute>
 			<Attribute>os x</Attribute>
-			<Attribute>other:*</Attribute>
-			<Attribute>other:python enabled platform</Attribute>
-			<Attribute>other:java enabled platform</Attribute>
-			<Attribute>other:raspberry pi</Attribute>
-			<Attribute>other:synology nas</Attribute>
-			<Attribute>other:gcc enabled platform</Attribute>
-			<Attribute>other:c# enabled platform</Attribute>
-			<Attribute>other:bsd</Attribute>
-			<Attribute>other:haiku</Attribute>
-			<Attribute>other:openwrt</Attribute>
-			<Attribute>other:solaris</Attribute>
-			<Attribute>other:erlang enabled platform</Attribute>
-			<Attribute>other:openvms</Attribute>
-			<Attribute>other:freebsd</Attribute>
-			<Concept>
-				<ID>Concept_ctx_14</ID>
-				<Extent>
-					<Object_Ref>adch++</Object_Ref>
-					<Object_Ref>adch++ gui</Object_Ref>
-					<Object_Ref>dshub</Object_Ref>
-					<Object_Ref>flexhub</Object_Ref>
-					<Object_Ref>luadch</Object_Ref>
-					<Object_Ref>nexthub</Object_Ref>
-					<Object_Ref>uhub</Object_Ref>
-					<Object_Ref>erlhub</Object_Ref>
-					<Object_Ref>starlet adc hub</Object_Ref>
-					<Object_Ref>starhub</Object_Ref>
-					<Object_Ref>rushub</Object_Ref>
-				</Extent>
-				<Intent>
-				</Intent>
-				<UpperCovers>
-				</UpperCovers>
-			</Concept>
+			<Attribute>other:={java enabled platform}</Attribute>
+			<Attribute>other:={openvms}</Attribute>
+			<Attribute>other:={python enabled platform}</Attribute>
+			<Attribute>other:={c# enabled platform}</Attribute>
+			<Attribute>other:={erlang enabled platform}</Attribute>
+			<Attribute>other:={solaris}</Attribute>
+			<Attribute>other:={freebsd,solaris}</Attribute>
+			<Attribute>other:={synology nas,gcc enabled platform,raspberry pi}</Attribute>
+			<Attribute>other:={bsd,openwrt,haiku,solaris}</Attribute>
 			<Concept>
 				<ID>Concept_ctx_13</ID>
 				<Extent>
@@ -63,14 +38,13 @@
 					<Object_Ref>nexthub</Object_Ref>
 					<Object_Ref>uhub</Object_Ref>
 					<Object_Ref>erlhub</Object_Ref>
+					<Object_Ref>starlet adc hub</Object_Ref>
 					<Object_Ref>starhub</Object_Ref>
 					<Object_Ref>rushub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_14</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -81,13 +55,13 @@
 					<Object_Ref>dshub</Object_Ref>
 					<Object_Ref>flexhub</Object_Ref>
 					<Object_Ref>luadch</Object_Ref>
+					<Object_Ref>nexthub</Object_Ref>
 					<Object_Ref>uhub</Object_Ref>
 					<Object_Ref>erlhub</Object_Ref>
 					<Object_Ref>starhub</Object_Ref>
 					<Object_Ref>rushub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>linux</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
@@ -97,6 +71,27 @@
 			<Concept>
 				<ID>Concept_ctx_11</ID>
 				<Extent>
+					<Object_Ref>adch++</Object_Ref>
+					<Object_Ref>adch++ gui</Object_Ref>
+					<Object_Ref>dshub</Object_Ref>
+					<Object_Ref>flexhub</Object_Ref>
+					<Object_Ref>luadch</Object_Ref>
+					<Object_Ref>uhub</Object_Ref>
+					<Object_Ref>erlhub</Object_Ref>
+					<Object_Ref>starhub</Object_Ref>
+					<Object_Ref>rushub</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_10</ID>
+				<Extent>
 					<Object_Ref>dshub</Object_Ref>
 					<Object_Ref>luadch</Object_Ref>
 					<Object_Ref>uhub</Object_Ref>
@@ -110,71 +105,7 @@
 					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_12</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_0</ID>
-				<Extent>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>other:openwrt</Attribute_Ref>
-					<Attribute_Ref>other:erlang enabled platform</Attribute_Ref>
-					<Attribute_Ref>other:solaris</Attribute_Ref>
-					<Attribute_Ref>other:java enabled platform</Attribute_Ref>
-					<Attribute_Ref>os x</Attribute_Ref>
-					<Attribute_Ref>other:synology nas</Attribute_Ref>
-					<Attribute_Ref>other:haiku</Attribute_Ref>
-					<Attribute_Ref>other:openvms</Attribute_Ref>
-					<Attribute_Ref>other:freebsd</Attribute_Ref>
-					<Attribute_Ref>windows</Attribute_Ref>
-					<Attribute_Ref>other:gcc enabled platform</Attribute_Ref>
-					<Attribute_Ref>other:*</Attribute_Ref>
-					<Attribute_Ref>other:bsd</Attribute_Ref>
-					<Attribute_Ref>linux</Attribute_Ref>
-					<Attribute_Ref>other:python enabled platform</Attribute_Ref>
-					<Attribute_Ref>other:raspberry pi</Attribute_Ref>
-					<Attribute_Ref>other:c# enabled platform</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_7</Concept_Ref>
-					<Concept_Ref>Concept_ctx_6</Concept_Ref>
-					<Concept_Ref>Concept_ctx_5</Concept_Ref>
-					<Concept_Ref>Concept_ctx_4</Concept_Ref>
-					<Concept_Ref>Concept_ctx_3</Concept_Ref>
-					<Concept_Ref>Concept_ctx_2</Concept_Ref>
-					<Concept_Ref>Concept_ctx_1</Concept_Ref>
-					<Concept_Ref>Concept_ctx_9</Concept_Ref>
-					<Concept_Ref>Concept_ctx_10</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_10</ID>
-				<Extent>
-					<Object_Ref>adch++</Object_Ref>
-					<Object_Ref>flexhub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>linux</Attribute_Ref>
-					<Attribute_Ref>windows</Attribute_Ref>
-					<Attribute_Ref>other:*</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_12</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_7</ID>
-				<Extent>
-					<Object_Ref>adch++ gui</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>linux</Attribute_Ref>
-					<Attribute_Ref>other:python enabled platform</Attribute_Ref>
-					<Attribute_Ref>windows</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+					<Concept_Ref>Concept_ctx_11</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -184,27 +115,65 @@
 					<Object_Ref>starhub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>other:java enabled platform</Attribute_Ref>
 					<Attribute_Ref>linux</Attribute_Ref>
 					<Attribute_Ref>os x</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>other:={java enabled platform}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_6</ID>
+				<ID>Concept_ctx_0</ID>
 				<Extent>
-					<Object_Ref>luadch</Object_Ref>
 				</Extent>
 				<Intent>
+					<Attribute_Ref>other:={bsd,openwrt,haiku,solaris}</Attribute_Ref>
+					<Attribute_Ref>other:={synology nas,gcc enabled platform,raspberry pi}</Attribute_Ref>
+					<Attribute_Ref>other:={python enabled platform}</Attribute_Ref>
+					<Attribute_Ref>other:={freebsd,solaris}</Attribute_Ref>
 					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>other:={erlang enabled platform}</Attribute_Ref>
 					<Attribute_Ref>os x</Attribute_Ref>
-					<Attribute_Ref>other:raspberry pi</Attribute_Ref>
-					<Attribute_Ref>other:synology nas</Attribute_Ref>
+					<Attribute_Ref>other:={c# enabled platform}</Attribute_Ref>
+					<Attribute_Ref>other:={openvms}</Attribute_Ref>
+					<Attribute_Ref>other:={solaris}</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
-					<Attribute_Ref>other:gcc enabled platform</Attribute_Ref>
+					<Attribute_Ref>other:={java enabled platform}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+					<Concept_Ref>Concept_ctx_2</Concept_Ref>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
+					<Concept_Ref>Concept_ctx_3</Concept_Ref>
+					<Concept_Ref>Concept_ctx_1</Concept_Ref>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+					<Concept_Ref>Concept_ctx_4</Concept_Ref>
+					<Concept_Ref>Concept_ctx_9</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>starlet adc hub</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>other:={openvms}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_13</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_7</ID>
+				<Extent>
+					<Object_Ref>adch++ gui</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>other:={python enabled platform}</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_11</Concept_Ref>
@@ -216,29 +185,26 @@
 					<Object_Ref>nexthub</Object_Ref>
 				</Extent>
 				<Intent>
+					<Attribute_Ref>other:={c# enabled platform}</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
-					<Attribute_Ref>other:c# enabled platform</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_13</Concept_Ref>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_4</ID>
+				<ID>Concept_ctx_3</ID>
 				<Extent>
-					<Object_Ref>uhub</Object_Ref>
+					<Object_Ref>erlhub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>other:bsd</Attribute_Ref>
-					<Attribute_Ref>other:openwrt</Attribute_Ref>
-					<Attribute_Ref>other:solaris</Attribute_Ref>
 					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>other:={erlang enabled platform}</Attribute_Ref>
 					<Attribute_Ref>os x</Attribute_Ref>
-					<Attribute_Ref>other:haiku</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_8</Concept_Ref>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -248,40 +214,13 @@
 					<Object_Ref>rushub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>other:solaris</Attribute_Ref>
 					<Attribute_Ref>linux</Attribute_Ref>
 					<Attribute_Ref>os x</Attribute_Ref>
+					<Attribute_Ref>other:={solaris}</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_11</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_3</ID>
-				<Extent>
-					<Object_Ref>erlhub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>other:erlang enabled platform</Attribute_Ref>
-					<Attribute_Ref>linux</Attribute_Ref>
-					<Attribute_Ref>os x</Attribute_Ref>
-					<Attribute_Ref>windows</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_11</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_2</ID>
-				<Extent>
-					<Object_Ref>starlet adc hub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>other:openvms</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -290,10 +229,41 @@
 					<Object_Ref>rushub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>other:solaris</Attribute_Ref>
+					<Attribute_Ref>other:={freebsd,solaris}</Attribute_Ref>
 					<Attribute_Ref>linux</Attribute_Ref>
 					<Attribute_Ref>os x</Attribute_Ref>
-					<Attribute_Ref>other:freebsd</Attribute_Ref>
+					<Attribute_Ref>other:={solaris}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_8</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_6</ID>
+				<Extent>
+					<Object_Ref>luadch</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>other:={synology nas,gcc enabled platform,raspberry pi}</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>os x</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_4</ID>
+				<Extent>
+					<Object_Ref>uhub</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>other:={bsd,openwrt,haiku,solaris}</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>os x</Attribute_Ref>
+					<Attribute_Ref>other:={solaris}</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
@@ -303,7 +273,7 @@
 		</Lattice>
 	</Step >
 	<Step nb="1">
-		<Lattice numberObj="11" numberAtt="17" numberCpt="15" >
+		<Lattice numberObj="11" numberAtt="12" numberCpt="14" >
 			<Config algo="fca">
 			</Config>
 			<Name>ctx</Name>
@@ -321,40 +291,15 @@
 			<Attribute>windows</Attribute>
 			<Attribute>linux</Attribute>
 			<Attribute>os x</Attribute>
-			<Attribute>other:*</Attribute>
-			<Attribute>other:python enabled platform</Attribute>
-			<Attribute>other:java enabled platform</Attribute>
-			<Attribute>other:raspberry pi</Attribute>
-			<Attribute>other:synology nas</Attribute>
-			<Attribute>other:gcc enabled platform</Attribute>
-			<Attribute>other:c# enabled platform</Attribute>
-			<Attribute>other:bsd</Attribute>
-			<Attribute>other:haiku</Attribute>
-			<Attribute>other:openwrt</Attribute>
-			<Attribute>other:solaris</Attribute>
-			<Attribute>other:erlang enabled platform</Attribute>
-			<Attribute>other:openvms</Attribute>
-			<Attribute>other:freebsd</Attribute>
-			<Concept>
-				<ID>Concept_ctx_14</ID>
-				<Extent>
-					<Object_Ref>adch++</Object_Ref>
-					<Object_Ref>adch++ gui</Object_Ref>
-					<Object_Ref>dshub</Object_Ref>
-					<Object_Ref>flexhub</Object_Ref>
-					<Object_Ref>luadch</Object_Ref>
-					<Object_Ref>nexthub</Object_Ref>
-					<Object_Ref>uhub</Object_Ref>
-					<Object_Ref>erlhub</Object_Ref>
-					<Object_Ref>starlet adc hub</Object_Ref>
-					<Object_Ref>starhub</Object_Ref>
-					<Object_Ref>rushub</Object_Ref>
-				</Extent>
-				<Intent>
-				</Intent>
-				<UpperCovers>
-				</UpperCovers>
-			</Concept>
+			<Attribute>other:={java enabled platform}</Attribute>
+			<Attribute>other:={openvms}</Attribute>
+			<Attribute>other:={python enabled platform}</Attribute>
+			<Attribute>other:={c# enabled platform}</Attribute>
+			<Attribute>other:={erlang enabled platform}</Attribute>
+			<Attribute>other:={solaris}</Attribute>
+			<Attribute>other:={freebsd,solaris}</Attribute>
+			<Attribute>other:={synology nas,gcc enabled platform,raspberry pi}</Attribute>
+			<Attribute>other:={bsd,openwrt,haiku,solaris}</Attribute>
 			<Concept>
 				<ID>Concept_ctx_13</ID>
 				<Extent>
@@ -366,14 +311,13 @@
 					<Object_Ref>nexthub</Object_Ref>
 					<Object_Ref>uhub</Object_Ref>
 					<Object_Ref>erlhub</Object_Ref>
+					<Object_Ref>starlet adc hub</Object_Ref>
 					<Object_Ref>starhub</Object_Ref>
 					<Object_Ref>rushub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_14</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -384,13 +328,13 @@
 					<Object_Ref>dshub</Object_Ref>
 					<Object_Ref>flexhub</Object_Ref>
 					<Object_Ref>luadch</Object_Ref>
+					<Object_Ref>nexthub</Object_Ref>
 					<Object_Ref>uhub</Object_Ref>
 					<Object_Ref>erlhub</Object_Ref>
 					<Object_Ref>starhub</Object_Ref>
 					<Object_Ref>rushub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>linux</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
@@ -400,6 +344,27 @@
 			<Concept>
 				<ID>Concept_ctx_11</ID>
 				<Extent>
+					<Object_Ref>adch++</Object_Ref>
+					<Object_Ref>adch++ gui</Object_Ref>
+					<Object_Ref>dshub</Object_Ref>
+					<Object_Ref>flexhub</Object_Ref>
+					<Object_Ref>luadch</Object_Ref>
+					<Object_Ref>uhub</Object_Ref>
+					<Object_Ref>erlhub</Object_Ref>
+					<Object_Ref>starhub</Object_Ref>
+					<Object_Ref>rushub</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_10</ID>
+				<Extent>
 					<Object_Ref>dshub</Object_Ref>
 					<Object_Ref>luadch</Object_Ref>
 					<Object_Ref>uhub</Object_Ref>
@@ -413,71 +378,7 @@
 					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_12</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_0</ID>
-				<Extent>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>other:openwrt</Attribute_Ref>
-					<Attribute_Ref>other:erlang enabled platform</Attribute_Ref>
-					<Attribute_Ref>other:solaris</Attribute_Ref>
-					<Attribute_Ref>other:java enabled platform</Attribute_Ref>
-					<Attribute_Ref>os x</Attribute_Ref>
-					<Attribute_Ref>other:synology nas</Attribute_Ref>
-					<Attribute_Ref>other:haiku</Attribute_Ref>
-					<Attribute_Ref>other:openvms</Attribute_Ref>
-					<Attribute_Ref>other:freebsd</Attribute_Ref>
-					<Attribute_Ref>windows</Attribute_Ref>
-					<Attribute_Ref>other:gcc enabled platform</Attribute_Ref>
-					<Attribute_Ref>other:*</Attribute_Ref>
-					<Attribute_Ref>other:bsd</Attribute_Ref>
-					<Attribute_Ref>linux</Attribute_Ref>
-					<Attribute_Ref>other:python enabled platform</Attribute_Ref>
-					<Attribute_Ref>other:raspberry pi</Attribute_Ref>
-					<Attribute_Ref>other:c# enabled platform</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_7</Concept_Ref>
-					<Concept_Ref>Concept_ctx_6</Concept_Ref>
-					<Concept_Ref>Concept_ctx_5</Concept_Ref>
-					<Concept_Ref>Concept_ctx_4</Concept_Ref>
-					<Concept_Ref>Concept_ctx_3</Concept_Ref>
-					<Concept_Ref>Concept_ctx_2</Concept_Ref>
-					<Concept_Ref>Concept_ctx_1</Concept_Ref>
-					<Concept_Ref>Concept_ctx_9</Concept_Ref>
-					<Concept_Ref>Concept_ctx_10</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_10</ID>
-				<Extent>
-					<Object_Ref>adch++</Object_Ref>
-					<Object_Ref>flexhub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>linux</Attribute_Ref>
-					<Attribute_Ref>windows</Attribute_Ref>
-					<Attribute_Ref>other:*</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_12</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_7</ID>
-				<Extent>
-					<Object_Ref>adch++ gui</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>linux</Attribute_Ref>
-					<Attribute_Ref>other:python enabled platform</Attribute_Ref>
-					<Attribute_Ref>windows</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_12</Concept_Ref>
+					<Concept_Ref>Concept_ctx_11</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -487,27 +388,65 @@
 					<Object_Ref>starhub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>other:java enabled platform</Attribute_Ref>
 					<Attribute_Ref>linux</Attribute_Ref>
 					<Attribute_Ref>os x</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
+					<Attribute_Ref>other:={java enabled platform}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_11</Concept_Ref>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_6</ID>
+				<ID>Concept_ctx_0</ID>
 				<Extent>
-					<Object_Ref>luadch</Object_Ref>
 				</Extent>
 				<Intent>
+					<Attribute_Ref>other:={bsd,openwrt,haiku,solaris}</Attribute_Ref>
+					<Attribute_Ref>other:={synology nas,gcc enabled platform,raspberry pi}</Attribute_Ref>
+					<Attribute_Ref>other:={python enabled platform}</Attribute_Ref>
+					<Attribute_Ref>other:={freebsd,solaris}</Attribute_Ref>
 					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>other:={erlang enabled platform}</Attribute_Ref>
 					<Attribute_Ref>os x</Attribute_Ref>
-					<Attribute_Ref>other:raspberry pi</Attribute_Ref>
-					<Attribute_Ref>other:synology nas</Attribute_Ref>
+					<Attribute_Ref>other:={c# enabled platform}</Attribute_Ref>
+					<Attribute_Ref>other:={openvms}</Attribute_Ref>
+					<Attribute_Ref>other:={solaris}</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
-					<Attribute_Ref>other:gcc enabled platform</Attribute_Ref>
+					<Attribute_Ref>other:={java enabled platform}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_7</Concept_Ref>
+					<Concept_Ref>Concept_ctx_2</Concept_Ref>
+					<Concept_Ref>Concept_ctx_5</Concept_Ref>
+					<Concept_Ref>Concept_ctx_3</Concept_Ref>
+					<Concept_Ref>Concept_ctx_1</Concept_Ref>
+					<Concept_Ref>Concept_ctx_6</Concept_Ref>
+					<Concept_Ref>Concept_ctx_4</Concept_Ref>
+					<Concept_Ref>Concept_ctx_9</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_2</ID>
+				<Extent>
+					<Object_Ref>starlet adc hub</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>other:={openvms}</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_13</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_7</ID>
+				<Extent>
+					<Object_Ref>adch++ gui</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>other:={python enabled platform}</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_11</Concept_Ref>
@@ -519,29 +458,26 @@
 					<Object_Ref>nexthub</Object_Ref>
 				</Extent>
 				<Intent>
+					<Attribute_Ref>other:={c# enabled platform}</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
-					<Attribute_Ref>other:c# enabled platform</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_13</Concept_Ref>
+					<Concept_Ref>Concept_ctx_12</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
-				<ID>Concept_ctx_4</ID>
+				<ID>Concept_ctx_3</ID>
 				<Extent>
-					<Object_Ref>uhub</Object_Ref>
+					<Object_Ref>erlhub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>other:bsd</Attribute_Ref>
-					<Attribute_Ref>other:openwrt</Attribute_Ref>
-					<Attribute_Ref>other:solaris</Attribute_Ref>
 					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>other:={erlang enabled platform}</Attribute_Ref>
 					<Attribute_Ref>os x</Attribute_Ref>
-					<Attribute_Ref>other:haiku</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_8</Concept_Ref>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -551,40 +487,13 @@
 					<Object_Ref>rushub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>other:solaris</Attribute_Ref>
 					<Attribute_Ref>linux</Attribute_Ref>
 					<Attribute_Ref>os x</Attribute_Ref>
+					<Attribute_Ref>other:={solaris}</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
-					<Concept_Ref>Concept_ctx_11</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_3</ID>
-				<Extent>
-					<Object_Ref>erlhub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>other:erlang enabled platform</Attribute_Ref>
-					<Attribute_Ref>linux</Attribute_Ref>
-					<Attribute_Ref>os x</Attribute_Ref>
-					<Attribute_Ref>windows</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_11</Concept_Ref>
-				</UpperCovers>
-			</Concept>
-			<Concept>
-				<ID>Concept_ctx_2</ID>
-				<Extent>
-					<Object_Ref>starlet adc hub</Object_Ref>
-				</Extent>
-				<Intent>
-					<Attribute_Ref>other:openvms</Attribute_Ref>
-				</Intent>
-				<UpperCovers>
-					<Concept_Ref>Concept_ctx_14</Concept_Ref>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
 				</UpperCovers>
 			</Concept>
 			<Concept>
@@ -593,10 +502,41 @@
 					<Object_Ref>rushub</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>other:solaris</Attribute_Ref>
+					<Attribute_Ref>other:={freebsd,solaris}</Attribute_Ref>
 					<Attribute_Ref>linux</Attribute_Ref>
 					<Attribute_Ref>os x</Attribute_Ref>
-					<Attribute_Ref>other:freebsd</Attribute_Ref>
+					<Attribute_Ref>other:={solaris}</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_8</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_6</ID>
+				<Extent>
+					<Object_Ref>luadch</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>other:={synology nas,gcc enabled platform,raspberry pi}</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>os x</Attribute_Ref>
+					<Attribute_Ref>windows</Attribute_Ref>
+				</Intent>
+				<UpperCovers>
+					<Concept_Ref>Concept_ctx_10</Concept_Ref>
+				</UpperCovers>
+			</Concept>
+			<Concept>
+				<ID>Concept_ctx_4</ID>
+				<Extent>
+					<Object_Ref>uhub</Object_Ref>
+				</Extent>
+				<Intent>
+					<Attribute_Ref>other:={bsd,openwrt,haiku,solaris}</Attribute_Ref>
+					<Attribute_Ref>linux</Attribute_Ref>
+					<Attribute_Ref>os x</Attribute_Ref>
+					<Attribute_Ref>other:={solaris}</Attribute_Ref>
 					<Attribute_Ref>windows</Attribute_Ref>
 				</Intent>
 				<UpperCovers>

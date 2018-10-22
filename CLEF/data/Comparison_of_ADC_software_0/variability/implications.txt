@@ -1,3 +1,0 @@
-(0.5833333333333334)	software license:gpl -> free and open source
-(0.08333333333333333)	software license:proprietary -> active
-(0.08333333333333333)	software license:mit license -> free and open source

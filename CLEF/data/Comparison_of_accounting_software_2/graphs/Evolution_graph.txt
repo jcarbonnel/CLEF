@@ -1,3 +1,0 @@
-first public release date;stable release date;2
-stable release date;development status;2
-development status;first public release date;2

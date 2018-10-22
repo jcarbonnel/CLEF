@@ -1,6 +1,6 @@
 <RCAExplore_Document>
 	<Step nb="0">
-		<Lattice numberObj="8" numberAtt="11" numberCpt="11" >
+		<Lattice numberObj="8" numberAtt="10" numberCpt="11" >
 			<Config algo="fca">
 			</Config>
 			<Name>ctx</Name>
@@ -15,14 +15,13 @@
 			<Attribute>encryption</Attribute>
 			<Attribute>ipv6</Attribute>
 			<Attribute>plugin extendable</Attribute>
-			<Attribute>hash algorithms:tiger tree hash</Attribute>
-			<Attribute>hash algorithms:*</Attribute>
-			<Attribute>adc support:tigr</Attribute>
-			<Attribute>adc support:adcs</Attribute>
-			<Attribute>adc support:any clients</Attribute>
-			<Attribute>adc support:hubs</Attribute>
-			<Attribute>adc support:osnr</Attribute>
-			<Attribute>adc support:*</Attribute>
+			<Attribute>hash algorithms:={tiger tree hash}</Attribute>
+			<Attribute>hash algorithms:=*</Attribute>
+			<Attribute>adc support:={tigr}</Attribute>
+			<Attribute>adc support:={adcs}</Attribute>
+			<Attribute>adc support:={any clients,hubs}</Attribute>
+			<Attribute>adc support:={tigr,adcs}</Attribute>
+			<Attribute>adc support:={osnr,adcs}</Attribute>
 			<Concept>
 				<ID>Concept_ctx_10</ID>
 				<Extent>
@@ -62,17 +61,16 @@
 				<Extent>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>hash algorithms:tiger tree hash</Attribute_Ref>
-					<Attribute_Ref>adc support:adcs</Attribute_Ref>
-					<Attribute_Ref>adc support:tigr</Attribute_Ref>
-					<Attribute_Ref>adc support:*</Attribute_Ref>
 					<Attribute_Ref>encryption</Attribute_Ref>
 					<Attribute_Ref>ipv6</Attribute_Ref>
-					<Attribute_Ref>adc support:osnr</Attribute_Ref>
 					<Attribute_Ref>plugin extendable</Attribute_Ref>
-					<Attribute_Ref>adc support:hubs</Attribute_Ref>
-					<Attribute_Ref>adc support:any clients</Attribute_Ref>
-					<Attribute_Ref>hash algorithms:*</Attribute_Ref>
+					<Attribute_Ref>adc support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>adc support:={osnr,adcs}</Attribute_Ref>
+					<Attribute_Ref>adc support:={adcs}</Attribute_Ref>
+					<Attribute_Ref>adc support:={any clients,hubs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:=*</Attribute_Ref>
+					<Attribute_Ref>adc support:={tigr}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_3</Concept_Ref>
@@ -89,10 +87,10 @@
 					<Object_Ref>flowlib</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>hash algorithms:tiger tree hash</Attribute_Ref>
-					<Attribute_Ref>adc support:tigr</Attribute_Ref>
 					<Attribute_Ref>encryption</Attribute_Ref>
 					<Attribute_Ref>plugin extendable</Attribute_Ref>
+					<Attribute_Ref>adc support:={tigr}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_7</Concept_Ref>
@@ -109,8 +107,8 @@
 					<Object_Ref>flowlib</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>hash algorithms:tiger tree hash</Attribute_Ref>
 					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_8</Concept_Ref>
@@ -129,7 +127,7 @@
 					<Object_Ref>netchatlink</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>hash algorithms:tiger tree hash</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_10</Concept_Ref>
@@ -141,10 +139,10 @@
 					<Object_Ref>announcer bot</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>adc support:adcs</Attribute_Ref>
 					<Attribute_Ref>encryption</Attribute_Ref>
-					<Attribute_Ref>adc support:osnr</Attribute_Ref>
-					<Attribute_Ref>hash algorithms:*</Attribute_Ref>
+					<Attribute_Ref>adc support:={osnr,adcs}</Attribute_Ref>
+					<Attribute_Ref>adc support:={adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:=*</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_4</Concept_Ref>
@@ -161,8 +159,8 @@
 					<Object_Ref>netchatlink</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>hash algorithms:tiger tree hash</Attribute_Ref>
-					<Attribute_Ref>adc support:tigr</Attribute_Ref>
+					<Attribute_Ref>adc support:={tigr}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_9</Concept_Ref>
@@ -175,11 +173,12 @@
 					<Object_Ref>dcwatch</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>hash algorithms:tiger tree hash</Attribute_Ref>
-					<Attribute_Ref>adc support:adcs</Attribute_Ref>
-					<Attribute_Ref>adc support:tigr</Attribute_Ref>
 					<Attribute_Ref>encryption</Attribute_Ref>
 					<Attribute_Ref>plugin extendable</Attribute_Ref>
+					<Attribute_Ref>adc support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>adc support:={adcs}</Attribute_Ref>
+					<Attribute_Ref>adc support:={tigr}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_5</Concept_Ref>
@@ -194,8 +193,8 @@
 					<Object_Ref>announcer bot</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>adc support:adcs</Attribute_Ref>
 					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>adc support:={adcs}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_8</Concept_Ref>
@@ -207,10 +206,9 @@
 					<Object_Ref>dcbouncer</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>hash algorithms:tiger tree hash</Attribute_Ref>
 					<Attribute_Ref>encryption</Attribute_Ref>
-					<Attribute_Ref>adc support:hubs</Attribute_Ref>
-					<Attribute_Ref>adc support:any clients</Attribute_Ref>
+					<Attribute_Ref>adc support:={any clients,hubs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_6</Concept_Ref>
@@ -219,7 +217,7 @@
 		</Lattice>
 	</Step >
 	<Step nb="1">
-		<Lattice numberObj="8" numberAtt="11" numberCpt="11" >
+		<Lattice numberObj="8" numberAtt="10" numberCpt="11" >
 			<Config algo="fca">
 			</Config>
 			<Name>ctx</Name>
@@ -234,14 +232,13 @@
 			<Attribute>encryption</Attribute>
 			<Attribute>ipv6</Attribute>
 			<Attribute>plugin extendable</Attribute>
-			<Attribute>hash algorithms:tiger tree hash</Attribute>
-			<Attribute>hash algorithms:*</Attribute>
-			<Attribute>adc support:tigr</Attribute>
-			<Attribute>adc support:adcs</Attribute>
-			<Attribute>adc support:any clients</Attribute>
-			<Attribute>adc support:hubs</Attribute>
-			<Attribute>adc support:osnr</Attribute>
-			<Attribute>adc support:*</Attribute>
+			<Attribute>hash algorithms:={tiger tree hash}</Attribute>
+			<Attribute>hash algorithms:=*</Attribute>
+			<Attribute>adc support:={tigr}</Attribute>
+			<Attribute>adc support:={adcs}</Attribute>
+			<Attribute>adc support:={any clients,hubs}</Attribute>
+			<Attribute>adc support:={tigr,adcs}</Attribute>
+			<Attribute>adc support:={osnr,adcs}</Attribute>
 			<Concept>
 				<ID>Concept_ctx_10</ID>
 				<Extent>
@@ -281,17 +278,16 @@
 				<Extent>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>hash algorithms:tiger tree hash</Attribute_Ref>
-					<Attribute_Ref>adc support:adcs</Attribute_Ref>
-					<Attribute_Ref>adc support:tigr</Attribute_Ref>
-					<Attribute_Ref>adc support:*</Attribute_Ref>
 					<Attribute_Ref>encryption</Attribute_Ref>
 					<Attribute_Ref>ipv6</Attribute_Ref>
-					<Attribute_Ref>adc support:osnr</Attribute_Ref>
 					<Attribute_Ref>plugin extendable</Attribute_Ref>
-					<Attribute_Ref>adc support:hubs</Attribute_Ref>
-					<Attribute_Ref>adc support:any clients</Attribute_Ref>
-					<Attribute_Ref>hash algorithms:*</Attribute_Ref>
+					<Attribute_Ref>adc support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>adc support:={osnr,adcs}</Attribute_Ref>
+					<Attribute_Ref>adc support:={adcs}</Attribute_Ref>
+					<Attribute_Ref>adc support:={any clients,hubs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:=*</Attribute_Ref>
+					<Attribute_Ref>adc support:={tigr}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_3</Concept_Ref>
@@ -308,10 +304,10 @@
 					<Object_Ref>flowlib</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>hash algorithms:tiger tree hash</Attribute_Ref>
-					<Attribute_Ref>adc support:tigr</Attribute_Ref>
 					<Attribute_Ref>encryption</Attribute_Ref>
 					<Attribute_Ref>plugin extendable</Attribute_Ref>
+					<Attribute_Ref>adc support:={tigr}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_7</Concept_Ref>
@@ -328,8 +324,8 @@
 					<Object_Ref>flowlib</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>hash algorithms:tiger tree hash</Attribute_Ref>
 					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_8</Concept_Ref>
@@ -348,7 +344,7 @@
 					<Object_Ref>netchatlink</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>hash algorithms:tiger tree hash</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_10</Concept_Ref>
@@ -360,10 +356,10 @@
 					<Object_Ref>announcer bot</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>adc support:adcs</Attribute_Ref>
 					<Attribute_Ref>encryption</Attribute_Ref>
-					<Attribute_Ref>adc support:osnr</Attribute_Ref>
-					<Attribute_Ref>hash algorithms:*</Attribute_Ref>
+					<Attribute_Ref>adc support:={osnr,adcs}</Attribute_Ref>
+					<Attribute_Ref>adc support:={adcs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:=*</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_4</Concept_Ref>
@@ -380,8 +376,8 @@
 					<Object_Ref>netchatlink</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>hash algorithms:tiger tree hash</Attribute_Ref>
-					<Attribute_Ref>adc support:tigr</Attribute_Ref>
+					<Attribute_Ref>adc support:={tigr}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_9</Concept_Ref>
@@ -394,11 +390,12 @@
 					<Object_Ref>dcwatch</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>hash algorithms:tiger tree hash</Attribute_Ref>
-					<Attribute_Ref>adc support:adcs</Attribute_Ref>
-					<Attribute_Ref>adc support:tigr</Attribute_Ref>
 					<Attribute_Ref>encryption</Attribute_Ref>
 					<Attribute_Ref>plugin extendable</Attribute_Ref>
+					<Attribute_Ref>adc support:={tigr,adcs}</Attribute_Ref>
+					<Attribute_Ref>adc support:={adcs}</Attribute_Ref>
+					<Attribute_Ref>adc support:={tigr}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_5</Concept_Ref>
@@ -413,8 +410,8 @@
 					<Object_Ref>announcer bot</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>adc support:adcs</Attribute_Ref>
 					<Attribute_Ref>encryption</Attribute_Ref>
+					<Attribute_Ref>adc support:={adcs}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_8</Concept_Ref>
@@ -426,10 +423,9 @@
 					<Object_Ref>dcbouncer</Object_Ref>
 				</Extent>
 				<Intent>
-					<Attribute_Ref>hash algorithms:tiger tree hash</Attribute_Ref>
 					<Attribute_Ref>encryption</Attribute_Ref>
-					<Attribute_Ref>adc support:hubs</Attribute_Ref>
-					<Attribute_Ref>adc support:any clients</Attribute_Ref>
+					<Attribute_Ref>adc support:={any clients,hubs}</Attribute_Ref>
+					<Attribute_Ref>hash algorithms:={tiger tree hash}</Attribute_Ref>
 				</Intent>
 				<UpperCovers>
 					<Concept_Ref>Concept_ctx_6</Concept_Ref>

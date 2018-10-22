@@ -1,2 +1,1 @@
-(0.125)	hash algorithms:* <-> adc support:osnr
-(0.125)	adc support:any clients <-> adc support:hubs
+hash algorithms:=* <-> adc support:={osnr,adcs}

@@ -1,3 +1,0 @@
-implementation language(s);database backend;2
-implementation language(s);server operating system;2
-server operating system;database backend;2

@@ -1,9 +1,0 @@
-programming language;development status;2
-programming language;database;2
-programming language;first public release date;1
-first public release date;database;1
-first public release date;stable release date;1
-first public release date;development status;2
-stable release date;database;1
-stable release date;development status;2
-development status;database;2

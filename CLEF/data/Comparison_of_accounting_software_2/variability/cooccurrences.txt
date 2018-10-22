@@ -1,35 +1,32 @@
-(0.2222222222222222)	programming language:j2ee <-> programming language:jboss
-(0.1111111111111111)	programming language:xml <-> programming language:javascript
-(0.1111111111111111)	latest stable release:3.0 <-> stable release date:2013
-(0.1111111111111111)	first public release date:[2001-2002] <-> stable release date:2008
-(0.05555555555555555)	programming language:scheme <-> programming language:lisp
-(0.05555555555555555)	programming language:scheme <-> latest stable release:2.6.6
-(0.05555555555555555)	programming language:objective-c <-> latest stable release:6.1
-(0.05555555555555555)	programming language:lisp <-> latest stable release:2.6.6
-(0.05555555555555555)	programming language:jdo <-> latest stable release:1.0.1
-(0.05555555555555555)	programming language:groovy <-> stable release date:2014
-(0.05555555555555555)	programming language:groovy <-> latest stable release:12.04.03
-(0.05555555555555555)	programming language:freemarker <-> stable release date:2014
-(0.05555555555555555)	programming language:freemarker <-> programming language:groovy
-(0.05555555555555555)	programming language:freemarker <-> latest stable release:12.04.03
-(0.05555555555555555)	programming language:eclipse rcp <-> programming language:jdo
-(0.05555555555555555)	programming language:eclipse rcp <-> latest stable release:1.0.1
-(0.05555555555555555)	latest stable release:5.0.0 <-> stable release date:2009
-(0.05555555555555555)	latest stable release:4.7.2 <-> database:sql
-(0.05555555555555555)	latest stable release:4.7.2 <-> database:ibm db2
-(0.05555555555555555)	latest stable release:4.07.10 <-> database:innodb
-(0.05555555555555555)	latest stable release:3.2 <-> database:advance server
-(0.05555555555555555)	latest stable release:12.04.03 <-> stable release date:2014
-(0.05555555555555555)	first public release date:2003 <-> latest stable release:4.07.10
-(0.05555555555555555)	first public release date:2003 <-> database:innodb
-(0.05555555555555555)	first public release date:2002 <-> latest stable release:1.4
-(0.05555555555555555)	first public release date:2001 <-> latest stable release:3.2
-(0.05555555555555555)	first public release date:2001 <-> database:advance server
-(0.05555555555555555)	first public release date:2000 <-> latest stable release:4.7.2
-(0.05555555555555555)	first public release date:2000 <-> database:sql
-(0.05555555555555555)	first public release date:2000 <-> database:ibm db2
-(0.05555555555555555)	first public release date:1998 <-> latest stable release:5.0.2
-(0.05555555555555555)	first public release date:1985 <-> latest stable release:2.28.1
-(0.05555555555555555)	first public release date:1982 <-> stable release date:2009
-(0.05555555555555555)	first public release date:1982 <-> latest stable release:5.0.0
-(0.05555555555555555)	database:sql <-> database:ibm db2
+first public release date:=[2003-2003] <-> latest stable release:={4.07.10}
+first public release date:=[2003-2003] <-> database:={mysql,innodb}
+latest stable release:={4.07.10} <-> database:={mysql,innodb}
+programming language:={python,xml,javascript} <-> latest stable release:={7.0}
+first public release date:=[1985-1985] <-> latest stable release:={2.28.1}
+first public release date:=[2000-2000] <-> latest stable release:={4.7.2}
+first public release date:=[2000-2000] <-> database:={ibm db2,oracle,sqlite,postgresql,xml,sql}
+latest stable release:={4.7.2} <-> database:={ibm db2,oracle,sqlite,postgresql,xml,sql}
+programming language:={jboss,eclipse rcp,jdo,j2ee} <-> latest stable release:={1.0.1}
+programming language:={objective c} <-> latest stable release:={6.1}
+first public release date:=[1998-1998] <-> latest stable release:={5.0.2}
+first public release date:=[2002-2002] <-> latest stable release:={1.4}
+programming language:={c,scheme,lisp,perl} <-> latest stable release:={2.6.6}
+programming language:={c,scheme,lisp,perl} <-> database:={sqlite,postgresql,xml,mysql}
+latest stable release:={2.6.6} <-> database:={sqlite,postgresql,xml,mysql}
+first public release date:=[2001-2001] <-> latest stable release:={3.2}
+first public release date:=[2001-2001] <-> database:={ms sql,oracle,postgresql,advance server}
+latest stable release:={3.2} <-> database:={ms sql,oracle,postgresql,advance server}
+programming language:={c,java} <-> first public release date:=[1982-1982]
+programming language:={c,java} <-> latest stable release:={5.0.0}
+programming language:={c,java} <-> stable release date:=[2009-2009]
+first public release date:=[1982-1982] <-> latest stable release:={5.0.0}
+first public release date:=[1982-1982] <-> stable release date:=[2009-2009]
+latest stable release:={5.0.0} <-> stable release date:=[2009-2009]
+programming language:={java,freemarker,groovy,xml,javascript} <-> latest stable release:={12.04.03}
+programming language:={java,freemarker,groovy,xml,javascript} <-> stable release date:=[2014-2014]
+programming language:={java,freemarker,groovy,xml,javascript} <-> database:={ms sql,oracle,postgresql,derby,mysql}
+latest stable release:={12.04.03} <-> stable release date:=[2014-2014]
+latest stable release:={12.04.03} <-> database:={ms sql,oracle,postgresql,derby,mysql}
+stable release date:=[2014-2014] <-> database:={ms sql,oracle,postgresql,derby,mysql}
+latest stable release:={3.0} <-> stable release date:=[2013-2013]
+first public release date:=[2001-2002] <-> stable release date:=[2008-2008]

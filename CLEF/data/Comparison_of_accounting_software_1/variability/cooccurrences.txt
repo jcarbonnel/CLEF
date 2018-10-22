@@ -1,2 +1,0 @@
-(0.07246376811594203)	structure:location <-> structure:terminal server
-(0.043478260869565216)	structure:mobile access <-> structure:cloud hostable

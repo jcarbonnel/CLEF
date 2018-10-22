@@ -1,27 +1,24 @@
-(0.13636363636363635)	cpu support:turion 64 x2 <-> cpu support:athlon 64 x2 mobile
-(0.09090909090909091)	grahic processing unit:radeon hd 4200 <-> southbridge:sb810
-(0.09090909090909091)	cpu support:mobile turion <-> cpu support:mobile athlon
-(0.045454545454545456)	released:* <-> southbridge:sb820m
-(0.045454545454545456)	released:* <-> hyper transport (MHz):2200
-(0.045454545454545456)	released:* <-> cpu support:*
-(0.045454545454545456)	hyper transport (MHz):2200 <-> southbridge:sb820m
-(0.045454545454545456)	fabrication process (nanometer):110 <-> southbridge:uli-m1575
-(0.045454545454545456)	cpu support:mobile sempron <-> grahic processing unit:radeon x1250 (350mhz)
-(0.045454545454545456)	cpu support:athlon 64 <-> southbridge:uli-m1575
-(0.045454545454545456)	cpu support:athlon 64 <-> fabrication process (nanometer):110
-(0.045454545454545456)	cpu support:* <-> southbridge:sb820m
-(0.045454545454545456)	cpu support:* <-> hyper transport (MHz):2200
-(0.045454545454545456)	codename:rs785e <-> southbridge:sb820m
-(0.045454545454545456)	codename:rs785e <-> released:*
-(0.045454545454545456)	codename:rs785e <-> hyper transport (MHz):2200
-(0.045454545454545456)	codename:rs785e <-> cpu support:*
-(0.045454545454545456)	codename:rs780l <-> grahic processing unit:radeon 3000
-(0.045454545454545456)	codename:rs780d <-> grahic processing unit:radeon hd 3300
-(0.045454545454545456)	codename:rs740 <-> grahic processing unit:radeon 2100
-(0.045454545454545456)	codename:rs690mc <-> grahic processing unit:radeon x1200 (350 mhz)
-(0.045454545454545456)	codename:rs690m <-> grahic processing unit:radeon x1250 (350 mhz)
-(0.045454545454545456)	codename:rs690c <-> grahic processing unit:radeon x1200 (350mhz)
-(0.045454545454545456)	codename:rs690 <-> grahic processing unit:radeon x1250 (400mhz)
-(0.045454545454545456)	codename:rd480 <-> southbridge:uli-m1575
-(0.045454545454545456)	codename:rd480 <-> fabrication process (nanometer):110
-(0.045454545454545456)	codename:rd480 <-> cpu support:athlon 64
+codename:={rd780} <-> southbridge:={sb750,sb850,sb600,sb700}
+codename:={rs780d} <-> grahic processing unit:={radeon hd 3300}
+codename:={rs785e} <-> released:=*
+codename:={rs785e} <-> hyper transport (MHz):=[2200-2200]
+codename:={rs785e} <-> southbridge:={sb850,sb810,sb820m}
+released:=* <-> hyper transport (MHz):=[2200-2200]
+released:=* <-> southbridge:={sb850,sb810,sb820m}
+hyper transport (MHz):=[2200-2200] <-> southbridge:={sb850,sb810,sb820m}
+codename:={rs880} <-> southbridge:={sb750,sb850,sb710,sb810}
+codename:={rx780} <-> southbridge:={sb750,sb600,sb710,sb700}
+codename:={rs780l} <-> grahic processing unit:={radeon 3000}
+codename:={rs740} <-> grahic processing unit:={radeon 2100}
+cpu support:={mobile sempron,athlon neo} <-> grahic processing unit:={radeon x1250 (350mhz)}
+codename:={rs690m} <-> grahic processing unit:={radeon x1250 (350 mhz)}
+codename:={rs690mc} <-> grahic processing unit:={radeon x1200 (350 mhz)}
+codename:={rs690} <-> grahic processing unit:={radeon x1250 (400mhz)}
+codename:={rs690c} <-> grahic processing unit:={radeon x1200 (350mhz)}
+codename:={rd480} <-> cpu support:={athlon 64,sempron}
+codename:={rd480} <-> fabrication process (nanometer):=[110-110]
+codename:={rd480} <-> southbridge:={uli-m1575,sb600}
+cpu support:={athlon 64,sempron} <-> fabrication process (nanometer):=[110-110]
+cpu support:={athlon 64,sempron} <-> southbridge:={uli-m1575,sb600}
+fabrication process (nanometer):=[110-110] <-> southbridge:={uli-m1575,sb600}
+grahic processing unit:={radeon hd 4200} <-> southbridge:={sb850,sb810}

@@ -1,0 +1,102 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:32,object number:69,attribute number:32"
+3 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>license:={proprietary,freeware}<br/></td></tr><tr><td>microsoft office accounting<br/></td></tr></table>>];
+30 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td>structure:={remote access,multi-user,stand alone,location,terminal server}<br/></td></tr><tr><td>myob exo business<br/></td></tr></table>>];
+21 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>structure:={stand alone,mobile}<br/></td></tr><tr><td>ibank<br/>moneywiz<br/></td></tr></table>>];
+4 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>license:={software as a service,proprietary}<br/></td></tr><tr><td>acumatica<br/>softline pastel<br/></td></tr></table>>];
+27 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>structure:={multi-user,web access,location,terminal server}<br/></td></tr><tr><td>microsoft dynamics sl<br/></td></tr></table>>];
+28 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>structure:={remote access,multi-user,location,terminal server}<br/></td></tr><tr><td><br/></td></tr></table>>];
+29 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td>structure:={remote access,mobile access,multi-user,web access,cloud hostable}<br/></td></tr><tr><td>microsoft dynamics c5<br/></td></tr></table>>];
+5 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td>license:={software as a service,freeware}<br/></td></tr><tr><td>big4books<br/>nolapro<br/>outright<br/></td></tr></table>>];
+2 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_12</td></tr><tr><td>license:={freeware}<br/></td></tr><tr><td><br/></td></tr></table>>];
+23 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_11</td></tr><tr><td>structure:={web access,stand alone}<br/></td></tr><tr><td>coda<br/>comarch altum<br/>express accounts from nch software<br/>newviews<br/></td></tr></table>>];
+24 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_9</td></tr><tr><td>structure:={remote access,multi-user}<br/></td></tr><tr><td><br/></td></tr></table>>];
+25 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_10</td></tr><tr><td>structure:={multi-user,web access}<br/></td></tr><tr><td><br/></td></tr></table>>];
+17 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_13</td></tr><tr><td>structure:={remote access}<br/></td></tr><tr><td>openda qx<br/></td></tr></table>>];
+26 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_14</td></tr><tr><td>structure:={multi-user,location,terminal server}<br/></td></tr><tr><td>microsoft dynamics ax<br/></td></tr></table>>];
+19 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_15</td></tr><tr><td>structure:={multi-user}<br/></td></tr><tr><td><br/></td></tr></table>>];
+15 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_16</td></tr><tr><td>market focus:={mid-market,high-market,low-market}<br/></td></tr><tr><td>cougar mountain software<br/>myob accountright<br/>nolapro<br/>nosa xp<br/>sage 50 accounting<br/>sage pastel evolution<br/>softline pastel<br/></td></tr></table>>];
+11 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_17</td></tr><tr><td>market focus:={personal}<br/></td></tr><tr><td>fortora fresh finance<br/>microsoft money<br/>mint.com<br/>moneydance<br/>quicken<br/>you need a budget<br/></td></tr></table>>];
+20 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_18</td></tr><tr><td>structure:={web access}<br/></td></tr><tr><td><br/></td></tr></table>>];
+22 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_19</td></tr><tr><td>structure:={web based,stand alone}<br/></td></tr><tr><td>acumatica<br/>baan corporation<br/>cougar mountain software<br/>flexaccount<br/>nolapro<br/>nosa xp<br/>sage 300 erp<br/>sap erp<br/></td></tr></table>>];
+13 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_20</td></tr><tr><td>market focus:={mid-market,high-market}<br/></td></tr><tr><td>flexaccount<br/>microsoft dynamics ax<br/>sap erp<br/></td></tr></table>>];
+10 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_21</td></tr><tr><td>market focus:={high-market}<br/></td></tr><tr><td>oracle e-business suite<br/></td></tr></table>>];
+0 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_22</td></tr><tr><td>license:={software as a service}<br/></td></tr><tr><td>24sevenoffice<br/>brightpearl<br/>cheqbook<br/>financialforce.com<br/>freeagent<br/>freshbooks<br/>gem accounts<br/>intacct<br/>kashflow<br/>kashoo<br/>mint.com<br/>netsuite<br/>saasu<br/>wave accounting<br/>xero<br/></td></tr></table>>];
+16 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_23</td></tr><tr><td>structure:={web based}<br/></td></tr><tr><td>24sevenoffice<br/>aplos software<br/>brightpearl<br/>cheqbook<br/>financialforce.com<br/>freeagent<br/>freshbooks<br/>gem accounts<br/>intacct<br/>kashflow<br/>kashoo<br/>mint.com<br/>netsuite<br/>oracle e-business suite<br/>quickbooks online<br/>saasu<br/>sap business bydesign<br/>wave accounting<br/>xero<br/></td></tr></table>>];
+8 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_24</td></tr><tr><td>linux<br/></td></tr><tr><td>24sevenoffice<br/>aplos software<br/>baan corporation<br/>brightpearl<br/>cgram enterprise<br/>cheqbook<br/>coda<br/>financialforce.com<br/>freeagent<br/>freshbooks<br/>gem accounts<br/>intacct<br/>kashflow<br/>kashoo<br/>mint.com<br/>moneydance<br/>netsuite<br/>open systems accounting software<br/>openda qx<br/>oracle e-business suite<br/>passport software<br/>quickbooks online<br/>saasu<br/>sage 300 erp<br/>sage pfw erp<br/>sap erp<br/>simply accounting<br/>wave accounting<br/>xero<br/></td></tr></table>>];
+14 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_25</td></tr><tr><td>market focus:={mid-market,low-market}<br/></td></tr><tr><td>24sevenoffice<br/>ame accounting software<br/>aplos software<br/>baan corporation<br/>big4books<br/>brightpearl<br/>cgram enterprise<br/>cheqbook<br/>comarch altum<br/>express accounts from nch software<br/>gem accounts<br/>invoiceit<br/>kashflow<br/>newviews<br/>open systems accounting software<br/>openda qx<br/>passport software<br/>quickbooks pro/premier<br/>red wing software<br/>saasu<br/>sap business bydesign<br/>sap business one<br/>traverse<br/>xero<br/></td></tr></table>>];
+7 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_26</td></tr><tr><td>os x<br/></td></tr><tr><td>24sevenoffice<br/>aplos software<br/>baan corporation<br/>brightpearl<br/>cgram enterprise<br/>cheqbook<br/>express accounts from nch software<br/>financialforce.com<br/>fortora fresh finance<br/>freeagent<br/>freshbooks<br/>gem accounts<br/>intacct<br/>kashflow<br/>kashoo<br/>mint.com<br/>moneydance<br/>myob accountright<br/>netsuite<br/>open systems accounting software<br/>oracle e-business suite<br/>quickbooks enterprise solutions<br/>quickbooks online<br/>quickbooks pro/premier<br/>quicken<br/>saasu<br/>sage 300 erp<br/>sap erp<br/>softline pastel<br/>wave accounting<br/>xero<br/>you need a budget<br/></td></tr></table>>];
+18 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_27</td></tr><tr><td>structure:={stand alone}<br/></td></tr><tr><td>the access group<br/>ame accounting software<br/>cgram enterprise<br/>fortora fresh finance<br/>invoiceit<br/>microsoft money<br/>moneydance<br/>open systems accounting software<br/>passport software<br/>pos solutions<br/>quickbooks enterprise solutions<br/>quickbooks pro/premier<br/>quicken<br/>red wing software<br/>sage group<br/>sage line 50<br/>sage pfw erp<br/>sap business one<br/>simply accounting<br/>tally<br/>traverse<br/>you need a budget<br/></td></tr></table>>];
+12 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_28</td></tr><tr><td>market focus:={low-market}<br/></td></tr><tr><td>freeagent<br/>freshbooks<br/>kashoo<br/>quickbooks online<br/>sage line 50<br/>simply accounting<br/>wave accounting<br/></td></tr></table>>];
+9 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_29</td></tr><tr><td>market focus:={mid-market}<br/></td></tr><tr><td>the access group<br/>financialforce.com<br/>intacct<br/>netsuite<br/>quickbooks enterprise solutions<br/>sage pfw erp<br/>tally<br/></td></tr></table>>];
+1 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_30</td></tr><tr><td>license:={proprietary}<br/></td></tr><tr><td>the access group<br/>ame accounting software<br/>aplos software<br/>baan corporation<br/>cgram enterprise<br/>cougar mountain software<br/>flexaccount<br/>fortora fresh finance<br/>invoiceit<br/>microsoft money<br/>moneydance<br/>myob accountright<br/>nosa xp<br/>open systems accounting software<br/>oracle e-business suite<br/>passport software<br/>pos solutions<br/>quickbooks enterprise solutions<br/>quickbooks online<br/>quickbooks pro/premier<br/>quicken<br/>red wing software<br/>sage group<br/>sage 50 accounting<br/>sage 300 erp<br/>sage line 50<br/>sage pastel evolution<br/>sage pfw erp<br/>sap business bydesign<br/>sap business one<br/>sap erp<br/>simply accounting<br/>tally<br/>traverse<br/>you need a budget<br/></td></tr></table>>];
+6 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_31</td></tr><tr><td>windows<br/></td></tr><tr><td>fortora fresh finance<br/>microsoft money<br/>pos solutions<br/>quicken<br/>sage group<br/>you need a budget<br/></td></tr></table>>];
+31 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>structure:={remote access,mobile access,multi-user,web access,location,terminal server,cloud hostable}<br/></td></tr><tr><td>microsoft dynamics gp<br/>microsoft dynamics nav<br/></td></tr></table>>];
+	31:p -> 27:p
+	30:p -> 28:p
+	31:p -> 28:p
+	31:p -> 29:p
+	5:p -> 2:p
+	3:p -> 2:p
+	29:p -> 24:p
+	28:p -> 24:p
+	27:p -> 25:p
+	29:p -> 25:p
+	24:p -> 17:p
+	27:p -> 26:p
+	28:p -> 26:p
+	25:p -> 19:p
+	26:p -> 19:p
+	24:p -> 19:p
+	21:p -> 11:p
+	25:p -> 20:p
+	23:p -> 20:p
+	30:p -> 13:p
+	15:p -> 13:p
+	13:p -> 10:p
+	5:p -> 0:p
+	4:p -> 0:p
+	5:p -> 16:p
+	22:p -> 16:p
+	5:p -> 8:p
+	15:p -> 14:p
+	27:p -> 14:p
+	5:p -> 7:p
+	21:p -> 7:p
+	4:p -> 18:p
+	23:p -> 18:p
+	30:p -> 18:p
+	15:p -> 18:p
+	3:p -> 18:p
+	22:p -> 18:p
+	21:p -> 18:p
+	2:p -> 12:p
+	25:p -> 12:p
+	14:p -> 12:p
+	13:p -> 9:p
+	26:p -> 9:p
+	14:p -> 9:p
+	4:p -> 9:p
+	22:p -> 9:p
+	23:p -> 9:p
+	3:p -> 1:p
+	4:p -> 1:p
+	20:p -> 1:p
+	21:p -> 1:p
+	17:p -> 1:p
+	19:p -> 1:p
+	9:p -> 6:p
+	20:p -> 6:p
+	12:p -> 6:p
+	17:p -> 6:p
+	16:p -> 6:p
+	8:p -> 6:p
+	10:p -> 6:p
+	0:p -> 6:p
+	19:p -> 6:p
+}
