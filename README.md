@@ -30,16 +30,16 @@ This directory contains 4 main packages:
 
 1. A package **main**, containing the class _testExtraction_ having a method main.
 
-2. A package **productdescription**, containing classes to manipulate complex variant descriptions as product comparison matrices.
-A _ProductMatrix_ possesses a list of _Characteristics_, which can be boolean _Feature_ or multi-valued _Attribute_.
+2. A package **multivaluedcontext**, containing classes to manipulate complex variant descriptions such as product comparison matrices.
+A _MultivaluedContext_ possesses a list of _Characteristics_, which can be _BinaryAttribute_ or _MultivaluedAttribute_.
 _CharacteristicType_ represents the 4 type of characteristics: a _Feature_ is mandatorily a type Boolean, and an _Attribute_ can be of type Integer, Double or Literal.
 
-An _Attribute_ possesses an _AbstractOntology_ automatically built on its value set. 
-All _Characteristic_ possess a method _scaling()_ which takes a _ProductMatrix_ and return the same _ProductMatrix_ augmented with new boolean features representing the binary scaling of the current characteristic. 
-If the characteristic is a _Feature_, this feature is added to the returned matrix.
-If the characteristic is an _Attribute_, a feature is created for each value of its associated taxonomy and added to the returned matrix.
+A _MultivaluedAttribute_ possesses an instance of _AbstractSimilarities_, a meet semi-lattice automatically built on its value set. 
+All _Characteristic_ possess a method _scaling()_ which takes a _MultivaluedContext_ and return the same _MultivaluedContext_ augmented with new binary attributes representing the binary scaling of the current characteristic. 
+If the characteristic is a _BinaryAttribute_, this feature is added to the returned matrix.
+If the characteristic is a _MultivaluedAttribute_, a feature is created for each value of its associated meet semi-lattice and added to the returned context.
 
-The binary scaled matrix is then saved in an .RCFT file (i.e., representing a formal context) and the tool RCAExplore is called to compute the assocatied AC-poset.
+The binary scaled context is then saved in an .RCFT file (i.e., representing a formal context) and the tool RCAExplore is called to compute the assocatied AC-poset.
 .RCFT files are saved in CLEF/data/pcm\_name/pcm\_name.rcft, and the computed AC-poset is saved in CLEF/data/pcm\_name/FCA/AC-poset/step0-0.dot.
 
 To obtain a .PDF file representing the AC-poset from the .DOT file:
@@ -48,27 +48,27 @@ To obtain a .PDF file representing the AC-poset from the .DOT file:
 dot -Tpdf step0-0.dot -o ac-poset.pdf
 ```
 
-3. A package **taxonomy** containing classes to automatically build taxonomies based on an _Attribute_ value set.
-The type of the taxonomy depends on the type of the _Attribute_.
+3. A package **similarities** containing classes to automatically build taxonomies based on an _MultivaluedAttribute_ value set.
+The type of the taxonomy depends on the type of the _MultivaluedAttribute_.
 
-4. A package **variabilityextraction**  containing 4 classes to extract variability information from the AC-poset built from the product comparison matrix.
+4. A package **relationshipextraction**  containing 4 classes to extract variability information from the AC-poset built from the multi-valued context.
 
 
 ##### Running CLEF
 
 The main file is  CLEF/src/main/testExtraction.java 
 
-* To initialise a product matrix from a cleaned PCM, one has to indicate the corresponding .CSV file to be processed.
+* To initialise a multi-valued context (product matrix) from a cleaned PCM, one has to indicate the corresponding .CSV file to be processed.
 The .CSV file has to be in CLEF/data/0\_clean\_PCMs/.
-For instance, to initialise a product matrix from the file representing the excerpt of 500 JHipster variants: 
+For instance, to initialise a multi-valued context from the file representing the excerpt of 500 JHipster variants: 
 
 ```java
-ProductMatrix pm = new ProductMatrix("jhipster3.6.1-testresults_500.csv");
+MultivaluedContext pm = new MultivaluedContext("jhipster3.6.1-testresults_500.csv");
 ```
 
-* The method _computeLattice()_ computes the conceptual structures corresponding to the matrix.
-This method first applies the binary scaling on each multi-valued attribute of the matrix to produce an boolean matrix.
-An .RCFT file is computed from the obtained boolean matrix and then saved.
+* The method _computeLattice()_ computes the conceptual structures corresponding to the context.
+This method first applies the binary scaling on each multi-valued attribute of the context to produce a boolean context.
+An .RCFT file is computed from the obtained boolean context and then saved.
 The tool RCAExplore, that computes conceptual structures from .RCFT files is then called.
 
 ```java

@@ -1,20 +1,12 @@
 fighting:={one on one} ->! targeting:={guessfactor targeting,head on targeting,circular targeting}
-fighting:={one on one} ->! targeting:={guessfactor targeting}
-fighting:={one on one} ->! targeting:={multiple choice pattern matcher}
 fighting:={one on one} ->! targeting:={head on targeting,circular targeting,virtual guns,linear targeting}
 fighting:={one on one} ->! targeting:={circular targeting,head on targeting,virtual guns,linear targeting}
-fighting:={one on one} ->! code license:={cc by-nd 3.0}
 fighting:={one on one} ->! targeting:={guessfactor targeting,circular targeting,random targeting}
-fighting:={one on one} ->! movement:={anti gravity movement,minimum risk movement,oscillator movement}
-fighting:={one on one} ->! movement:={anti gravity movement,minimum risk movement,oscillator movement}
 fighting:={one on one} ->! movement:={gilgalads movement}
 fighting:={one on one} ->! targeting:={gilgalads targeting}
 fighting:={one on one} ->! targeting:={dynamic clustering}
-fighting:={one on one} ->! targeting:={single tick pattern matching}
 fighting:={one on one} ->! movement:={exact path predictor}
 fighting:={one on one} ->! targeting:={averaged linear targeting}
-fighting:={one on one} ->! movement:={stop and go,oscillator movement}
-fighting:={one on one} ->! movement:={aggressive movement}
 fighting:={one on one} ->! movement:={go to}
 fighting:={one on one} ->! movement:={danger prediction}
 fighting:={one on one} ->! code license:={accsl}
@@ -36,22 +28,14 @@ fighting:={one on one} ->! movement:={oscillator movement,circular movement}
 fighting:={one on one} ->! targeting:={reduced linear targeting}
 fighting:={one on one} ->! movement:={semi circular movement}
 fighting:={one on one} ->! movement:={wall hug movement}
-code java ->! targeting:={play it forward}
 code java ->! targeting:={neural targeting}
-code java ->! code license:={eclipse public license}
-code java ->! movement:={circular movement}
-code java ->! code license:={nprl}
-code java ->! code license:={cc by-nd 3.0}
-code java ->! fighting:={teams,one on one,melee}
-code java ->! targeting:={angular targeting}
-code java ->! movement:={random movement,pusedo not moving}
 code java ->! movement:={linear movement}
 code java ->! movement:={flat movement}
 code java ->! movement:={exact path predictor}
-code java ->! movement:={perpendicular}
+code java ->! targeting:={averaged bearing offset targeting,angular targeting}
 code java ->! targeting:={guessfactor targeting,anti surfer targeting}
-code java ->! code license:={gcwcd}
 code java ->! movement:={danger prediction}
+code java ->! movement:={minimum risk movement,circular movement}
 code java ->! code license:={accsl}
 code java ->! movement:={fires prediction}
 code java ->! movement:={pathfinding}
@@ -63,6 +47,7 @@ code java ->! targeting:={single guessfactor gun}
 code java ->! movement:={orbital movement,random movement}
 code java ->! targeting:={corner targeting}
 code java ->! movement:={random movement,mosquito}
+code java ->! movement:={perpendicular,multi mode}
 code java ->! movement:={reinforcement learning}
 code java ->! targeting:={wave targeting}
 code java ->! movement:={wave surfing,go to}
@@ -71,30 +56,24 @@ code java ->! movement:={randomwaves}
 code java ->! targeting:={random guessfactor targeting}
 code java ->! movement:={stationary}
 code java ->! targeting:={fire at enemys bullet}
+code java ->! movement:={oscillator movement,circular movement}
 code java ->! code license:={gpl}
 code java ->! targeting:={linear circular targeting}
 code java ->! movement:={pattern movement,pimitive adaptive movement}
+code java ->! targeting:={guessfactor targeting,play it forward,crowd targeting,dynamic clustering}
 code java ->! targeting:={guessfactor targeting,dynamic segmentation}
 code java ->! movement:={semi circular movement}
 code java ->! movement:={wall hug movement}
 code java ->! movement:={ramescape,anti mirror}
 code java ->! targeting:={guessfactor targeting,circular targeting,anti mirror,bullet shielding,linear targeting}
-movement:={wave surfing} ->! code license:={open source}
-movement:={wave surfing} ->! targeting:={play it forward}
 movement:={wave surfing} ->! targeting:={symbolic pattern matching}
 movement:={wave surfing} ->! fighting:={teams}
 movement:={wave surfing} ->! code license:={eclipse public license}
-movement:={wave surfing} ->! code license:={proprietary}
-movement:={wave surfing} ->! targeting:={guessfactor targeting}
-movement:={wave surfing} ->! targeting:={multiple choice pattern matcher}
-movement:={wave surfing} ->! targeting:={neural targeting,guessfactor targeting}
-movement:={wave surfing} ->! code license:={cc by-nd 3.0}
 movement:={wave surfing} ->! targeting:={bullet shielding}
 movement:={wave surfing} ->! targeting:={angular targeting}
 movement:={wave surfing} ->! targeting:={gilgalads targeting}
 movement:={wave surfing} ->! code license:={kpl}
 movement:={wave surfing} ->! targeting:={averaged linear targeting}
-movement:={wave surfing} ->! targeting:={guessfactor}
 movement:={wave surfing} ->! code license:={gcwcd}
 movement:={wave surfing} ->! targeting:={circular targeting,segmented mean}
 movement:={wave surfing} ->! targeting:={heading circular targeting,enemy velocity,averaged velocity,last place i hit}
@@ -111,24 +90,18 @@ movement:={wave surfing} ->! targeting:={pattern matching,singletick}
 movement:={wave surfing} ->! targeting:={random guessfactor targeting}
 movement:={wave surfing} ->! targeting:={fire at enemys bullet}
 movement:={wave surfing} ->! targeting:={head on targeting,mean linear targeting,circular targeting,virtual guns}
+movement:={wave surfing} ->! targeting:={guessfactor targeting,play it forward,crowd targeting,dynamic clustering}
 movement:={wave surfing} ->! targeting:={reduced linear targeting}
-targeting:={guessfactor targeting} ->! code license:={open source}
-targeting:={guessfactor targeting} ->! code license:={closed}
 targeting:={guessfactor targeting} ->! movement:={pattern movement}
 targeting:={guessfactor targeting} ->! movement:={ramming movement}
 targeting:={guessfactor targeting} ->! code license:={eclipse public license}
 targeting:={guessfactor targeting} ->! code license:={proprietary}
-targeting:={guessfactor targeting} ->! movement:={sandbox flattener}
-targeting:={guessfactor targeting} ->! code license:={cc by-nd 3.0}
-targeting:={guessfactor targeting} ->! fighting:={teams,one on one,melee}
 targeting:={guessfactor targeting} ->! movement:={corner movement}
 targeting:={guessfactor targeting} ->! movement:={anti gravity movement,minimum risk movement,oscillator movement}
 targeting:={guessfactor targeting} ->! movement:={anti gravity movement,minimum risk movement,oscillator movement}
 targeting:={guessfactor targeting} ->! movement:={gilgalads movement}
-targeting:={guessfactor targeting} ->! movement:={random movement,pusedo not moving}
 targeting:={guessfactor targeting} ->! code license:={kpl}
 targeting:={guessfactor targeting} ->! movement:={exact path predictor}
-targeting:={guessfactor targeting} ->! movement:={stop and go,oscillator movement}
 targeting:={guessfactor targeting} ->! movement:={perpendicular}
 targeting:={guessfactor targeting} ->! movement:={aggressive movement}
 targeting:={guessfactor targeting} ->! movement:={anti gravity movement,virtual bullet dodging}
@@ -139,6 +112,7 @@ targeting:={guessfactor targeting} ->! movement:={danger prediction}
 targeting:={guessfactor targeting} ->! movement:={minimum risk movement,circular movement}
 targeting:={guessfactor targeting} ->! code license:={accsl}
 targeting:={guessfactor targeting} ->! movement:={fires prediction}
+targeting:={guessfactor targeting} ->! movement:={musashi trick,sandbox flattener}
 targeting:={guessfactor targeting} ->! movement:={behind the snow}
 targeting:={guessfactor targeting} ->! movement:={pathfinding}
 targeting:={guessfactor targeting} ->! movement:={mirror movement}
@@ -167,15 +141,13 @@ targeting:={guessfactor targeting} ->! movement:={provocative movement}
 targeting:={guessfactor targeting} ->! movement:={wall smoothing,random orbital movement}
 targeting:={guessfactor targeting} ->! movement:={semi circular movement}
 targeting:={guessfactor targeting} ->! movement:={wall hug movement}
-fighting:={melee} ->! code license:={closed}
 fighting:={melee} ->! targeting:={head on targeting,linear targeting}
 fighting:={melee} ->! targeting:={head on targeting,linear targeting}
 fighting:={melee} ->! targeting:={circular targeting,linear targeting}
-fighting:={melee} ->! targeting:={guessfactor targeting,circular targeting}
-fighting:={melee} ->! targeting:={guessfactor targeting,circular targeting}
 fighting:={melee} ->! targeting:={symbolic pattern matching}
 fighting:={melee} ->! targeting:={guessfactor targeting,linear targeting}
 fighting:={melee} ->! movement:={wall smoothing}
+fighting:={melee} ->! targeting:={guessfactor targeting,head on targeting,circular targeting}
 fighting:={melee} ->! movement:={musashi trick}
 fighting:={melee} ->! code license:={proprietary}
 fighting:={melee} ->! targeting:={statistical targeting}
@@ -185,6 +157,7 @@ fighting:={melee} ->! code license:={nprl}
 fighting:={melee} ->! movement:={sandbox flattener}
 fighting:={melee} ->! targeting:={neural targeting,guessfactor targeting}
 fighting:={melee} ->! code license:={cc by-nd 3.0}
+fighting:={melee} ->! targeting:={guessfactor targeting,circular targeting,random targeting}
 fighting:={melee} ->! targeting:={head on targeting,circular targeting,random targeting}
 fighting:={melee} ->! targeting:={guessfactor targeting,pattern matching}
 fighting:={melee} ->! targeting:={bullet shielding}
@@ -258,12 +231,14 @@ fighting:={melee} ->! targeting:={guessfactor targeting,dynamic segmentation}
 fighting:={melee} ->! movement:={semi circular movement}
 fighting:={melee} ->! movement:={wall hug movement}
 fighting:={melee} ->! movement:={ramescape,anti mirror}
-fighting:={one on one,melee} ->! targeting:={pattern matching}
-fighting:={one on one,melee} ->! targeting:={pattern matching}
-fighting:={one on one,melee} ->! movement:={oscillator movement}
-fighting:={one on one,melee} ->! movement:={oscillator movement}
-fighting:={one on one,melee} ->! targeting:={neural targeting}
-fighting:={one on one,melee} ->! targeting:={neural targeting}
+fighting:={one on one,melee} ->! targeting:={guessfactor targeting,circular targeting}
+fighting:={one on one,melee} ->! targeting:={guessfactor targeting,circular targeting}
+fighting:={one on one,melee} ->! targeting:={guessfactor targeting,circular targeting}
+fighting:={one on one,melee} ->! targeting:={guessfactor targeting,circular targeting}
+fighting:={one on one,melee} ->! movement:={anti gravity movement,minimum risk movement,oscillator movement}
+fighting:={one on one,melee} ->! movement:={anti gravity movement,minimum risk movement,oscillator movement}
+fighting:={one on one,melee} ->! movement:={anti gravity movement,minimum risk movement,oscillator movement}
+fighting:={one on one,melee} ->! movement:={anti gravity movement,minimum risk movement,oscillator movement}
 code license:={rwpcl} ->! targeting:={virtual guns}
 code license:={rwpcl} ->! movement:={pattern movement}
 code license:={rwpcl} ->! targeting:={play it forward}
@@ -273,14 +248,12 @@ code license:={rwpcl} ->! targeting:={neural targeting}
 code license:={rwpcl} ->! movement:={ramming movement}
 code license:={rwpcl} ->! targeting:={random targeting}
 code license:={rwpcl} ->! movement:={circular movement}
-code license:={rwpcl} ->! targeting:={guessfactor targeting}
 code license:={rwpcl} ->! targeting:={multiple choice pattern matcher}
 code license:={rwpcl} ->! movement:={sandbox flattener}
 code license:={rwpcl} ->! movement:={wave surfing,anti gravity movement}
 code license:={rwpcl} ->! targeting:={bullet shielding}
 code license:={rwpcl} ->! fighting:={teams,one on one,melee}
 code license:={rwpcl} ->! targeting:={visit count stats}
-code license:={rwpcl} ->! targeting:={angular targeting}
 code license:={rwpcl} ->! movement:={corner movement}
 code license:={rwpcl} ->! movement:={gilgalads movement}
 code license:={rwpcl} ->! targeting:={gilgalads targeting}
@@ -290,10 +263,9 @@ code license:={rwpcl} ->! movement:={linear movement}
 code license:={rwpcl} ->! movement:={flat movement}
 code license:={rwpcl} ->! movement:={exact path predictor}
 code license:={rwpcl} ->! movement:={orbital movement}
+code license:={rwpcl} ->! targeting:={averaged bearing offset targeting,angular targeting}
 code license:={rwpcl} ->! movement:={perpendicular}
-code license:={rwpcl} ->! movement:={true surfing}
 code license:={rwpcl} ->! targeting:={guessfactor}
-code license:={rwpcl} ->! movement:={aggressive movement}
 code license:={rwpcl} ->! movement:={go to}
 code license:={rwpcl} ->! targeting:={guessfactor targeting,anti surfer targeting}
 code license:={rwpcl} ->! targeting:={circular targeting,segmented mean}
@@ -335,17 +307,20 @@ code license:={rwpcl} ->! targeting:={bearing offset targeting,segmented last}
 code license:={rwpcl} ->! targeting:={guessfactor targeting,dynamic segmentation}
 code license:={rwpcl} ->! targeting:={reduced linear targeting}
 code license:={rwpcl} ->! movement:={semi circular movement}
+code license:={rwpcl} ->! movement:={wave surfing,true surfing}
 code license:={rwpcl} ->! movement:={wall hug movement}
 code license:={rwpcl} ->! movement:={ramescape,anti mirror}
 movement:={random movement} ->! targeting:={dynamic clustering}
-movement:={random movement} ->! targeting:={linear targeting}
-movement:={random movement} ->! targeting:={head on targeting}
-movement:={random movement} ->! targeting:={circular targeting}
-movement:={random movement} ->! code license:={open source}
-movement:={random movement} ->! code license:={closed}
+movement:={random movement} ->! targeting:={head on targeting,circular targeting}
+movement:={random movement} ->! targeting:={head on targeting,linear targeting}
+movement:={random movement} ->! targeting:={head on targeting,linear targeting}
+movement:={random movement} ->! targeting:={circular targeting,linear targeting}
 movement:={random movement} ->! targeting:={play it forward}
 movement:={random movement} ->! code license:={zlib}
+movement:={random movement} ->! targeting:={guessfactor targeting,circular targeting}
+movement:={random movement} ->! targeting:={guessfactor targeting,circular targeting}
 movement:={random movement} ->! targeting:={neural targeting}
+movement:={random movement} ->! targeting:={guessfactor targeting,linear targeting}
 movement:={random movement} ->! code license:={eclipse public license}
 movement:={random movement} ->! targeting:={random targeting}
 movement:={random movement} ->! code license:={proprietary}
@@ -359,11 +334,11 @@ movement:={random movement} ->! fighting:={teams,one on one,melee}
 movement:={random movement} ->! targeting:={visit count stats}
 movement:={random movement} ->! targeting:={gilgalads targeting}
 movement:={random movement} ->! targeting:={dynamic clustering}
-movement:={random movement} ->! targeting:={single tick pattern matching}
 movement:={random movement} ->! code license:={kpl}
 movement:={random movement} ->! targeting:={averaged linear targeting}
 movement:={random movement} ->! targeting:={guessfactor targeting,anti surfer targeting}
 movement:={random movement} ->! code license:={gcwcd}
+movement:={random movement} ->! targeting:={circular targeting,segmented mean}
 movement:={random movement} ->! targeting:={heading circular targeting,enemy velocity,averaged velocity,last place i hit}
 movement:={random movement} ->! code license:={accsl}
 movement:={random movement} ->! code license:={npl}
@@ -384,9 +359,7 @@ movement:={random movement} ->! targeting:={bearing offset targeting,segmented l
 movement:={random movement} ->! targeting:={guessfactor targeting,dynamic segmentation}
 movement:={random movement} ->! targeting:={reduced linear targeting}
 targeting:={dynamic clustering} ->! movement:={stop and go}
-targeting:={dynamic clustering} ->! code license:={public domain}
 targeting:={dynamic clustering} ->! code license:={open source}
-targeting:={dynamic clustering} ->! code license:={closed}
 targeting:={dynamic clustering} ->! movement:={oscillator movement}
 targeting:={dynamic clustering} ->! movement:={pattern movement}
 targeting:={dynamic clustering} ->! movement:={multi mode}
@@ -440,10 +413,6 @@ targeting:={dynamic clustering} ->! movement:={wall smoothing,random orbital mov
 targeting:={dynamic clustering} ->! movement:={semi circular movement}
 targeting:={dynamic clustering} ->! movement:={wall hug movement}
 targeting:={dynamic clustering} ->! movement:={ramescape,anti mirror}
-targeting:={linear targeting} ->! code license:={rwlpcl}
-targeting:={linear targeting} ->! movement:={stop and go}
-targeting:={linear targeting} ->! code license:={public domain}
-targeting:={linear targeting} ->! movement:={oscillator movement}
 targeting:={linear targeting} ->! movement:={pattern movement}
 targeting:={linear targeting} ->! code license:={zlib}
 targeting:={linear targeting} ->! fighting:={teams}
@@ -457,14 +426,17 @@ targeting:={linear targeting} ->! movement:={sandbox flattener}
 targeting:={linear targeting} ->! movement:={wave surfing,anti gravity movement}
 targeting:={linear targeting} ->! code license:={cc by-nd 3.0}
 targeting:={linear targeting} ->! movement:={corner movement}
+targeting:={linear targeting} ->! movement:={anti gravity movement,minimum risk movement,oscillator movement}
+targeting:={linear targeting} ->! movement:={anti gravity movement,minimum risk movement,oscillator movement}
 targeting:={linear targeting} ->! movement:={gilgalads movement}
-targeting:={linear targeting} ->! movement:={linear movement}
+targeting:={linear targeting} ->! movement:={random movement,pusedo not moving}
 targeting:={linear targeting} ->! movement:={flat movement}
 targeting:={linear targeting} ->! code license:={kpl}
+targeting:={linear targeting} ->! movement:={random movement,multi mode}
 targeting:={linear targeting} ->! movement:={exact path predictor}
 targeting:={linear targeting} ->! movement:={orbital movement}
+targeting:={linear targeting} ->! movement:={stop and go,oscillator movement}
 targeting:={linear targeting} ->! movement:={true surfing}
-targeting:={linear targeting} ->! movement:={aggressive movement}
 targeting:={linear targeting} ->! movement:={go to}
 targeting:={linear targeting} ->! movement:={anti gravity movement,virtual bullet dodging}
 targeting:={linear targeting} ->! movement:={random pattern movement}
@@ -479,12 +451,16 @@ targeting:={linear targeting} ->! movement:={virtual movements array}
 targeting:={linear targeting} ->! movement:={imperceptible}
 targeting:={linear targeting} ->! movement:={adaptive random movement}
 targeting:={linear targeting} ->! movement:={multi buffered wavesurfing}
+targeting:={linear targeting} ->! movement:={random movement,minimum risk movement}
 targeting:={linear targeting} ->! code license:={freebsd}
 targeting:={linear targeting} ->! movement:={statistical aom}
 targeting:={linear targeting} ->! code license:={bsd}
 targeting:={linear targeting} ->! movement:={ocnirpsng movement}
+targeting:={linear targeting} ->! movement:={random movement,mosquito}
+targeting:={linear targeting} ->! movement:={wave surfing,random movement}
 targeting:={linear targeting} ->! movement:={reinforcement learning}
 targeting:={linear targeting} ->! code license:={qkpl}
+targeting:={linear targeting} ->! movement:={ramming movement,random movement,stop and go}
 targeting:={linear targeting} ->! movement:={magictrick,bullet dodging,random bullet dodging}
 targeting:={linear targeting} ->! movement:={ramming movement,maximum risk movement}
 targeting:={linear targeting} ->! movement:={statistical bullet dodging}
@@ -492,6 +468,7 @@ targeting:={linear targeting} ->! movement:={adapting oscillator movement}
 targeting:={linear targeting} ->! movement:={wave surfing,dodging bullets}
 targeting:={linear targeting} ->! movement:={orbital random movement}
 targeting:={linear targeting} ->! movement:={wave surfing,true serving}
+targeting:={linear targeting} ->! movement:={wave surfing,minimum risk movement,linear movement}
 targeting:={linear targeting} ->! movement:={randomwaves}
 targeting:={linear targeting} ->! movement:={stationary}
 targeting:={linear targeting} ->! code license:={gpl}
@@ -499,15 +476,11 @@ targeting:={linear targeting} ->! movement:={provocative movement}
 targeting:={linear targeting} ->! movement:={wall hug movement}
 targeting:={head on targeting} ->! code license:={rwlpcl}
 targeting:={head on targeting} ->! movement:={stop and go}
-targeting:={head on targeting} ->! code license:={open source}
-targeting:={head on targeting} ->! code license:={closed}
 targeting:={head on targeting} ->! movement:={oscillator movement}
 targeting:={head on targeting} ->! code license:={zlib}
 targeting:={head on targeting} ->! fighting:={teams}
 targeting:={head on targeting} ->! movement:={ramming movement}
 targeting:={head on targeting} ->! movement:={wall smoothing}
-targeting:={head on targeting} ->! code license:={eclipse public license}
-targeting:={head on targeting} ->! movement:={circular movement}
 targeting:={head on targeting} ->! movement:={musashi trick}
 targeting:={head on targeting} ->! code license:={proprietary}
 targeting:={head on targeting} ->! code license:={nprl}
@@ -515,9 +488,10 @@ targeting:={head on targeting} ->! movement:={sandbox flattener}
 targeting:={head on targeting} ->! movement:={wave surfing,anti gravity movement}
 targeting:={head on targeting} ->! code license:={cc by-nd 3.0}
 targeting:={head on targeting} ->! movement:={gilgalads movement}
+targeting:={head on targeting} ->! movement:={random movement,pusedo not moving}
 targeting:={head on targeting} ->! movement:={linear movement}
 targeting:={head on targeting} ->! movement:={flat movement}
-targeting:={head on targeting} ->! code license:={kpl}
+targeting:={head on targeting} ->! movement:={random movement,multi mode}
 targeting:={head on targeting} ->! movement:={exact path predictor}
 targeting:={head on targeting} ->! movement:={orbital movement}
 targeting:={head on targeting} ->! movement:={true surfing}
@@ -525,6 +499,7 @@ targeting:={head on targeting} ->! movement:={aggressive movement}
 targeting:={head on targeting} ->! movement:={go to}
 targeting:={head on targeting} ->! code license:={gcwcd}
 targeting:={head on targeting} ->! movement:={adapting stop and go}
+targeting:={head on targeting} ->! movement:={minimum risk movement,circular movement}
 targeting:={head on targeting} ->! code license:={accsl}
 targeting:={head on targeting} ->! movement:={fires prediction}
 targeting:={head on targeting} ->! movement:={behind the snow}
@@ -534,10 +509,13 @@ targeting:={head on targeting} ->! movement:={virtual movements array}
 targeting:={head on targeting} ->! movement:={imperceptible}
 targeting:={head on targeting} ->! movement:={adaptive random movement}
 targeting:={head on targeting} ->! movement:={multi buffered wavesurfing}
+targeting:={head on targeting} ->! movement:={random movement,minimum risk movement}
 targeting:={head on targeting} ->! code license:={freebsd}
 targeting:={head on targeting} ->! movement:={statistical aom}
 targeting:={head on targeting} ->! code license:={bsd}
 targeting:={head on targeting} ->! movement:={ocnirpsng movement}
+targeting:={head on targeting} ->! movement:={random movement,mosquito}
+targeting:={head on targeting} ->! movement:={wave surfing,random movement}
 targeting:={head on targeting} ->! movement:={reinforcement learning}
 targeting:={head on targeting} ->! movement:={magictrick,bullet dodging,random bullet dodging}
 targeting:={head on targeting} ->! movement:={one way}
@@ -556,14 +534,12 @@ targeting:={head on targeting} ->! movement:={semi circular movement}
 targeting:={head on targeting} ->! movement:={ramescape,anti mirror}
 targeting:={circular targeting} ->! movement:={stop and go}
 targeting:={circular targeting} ->! code license:={open source}
-targeting:={circular targeting} ->! code license:={closed}
-targeting:={circular targeting} ->! movement:={oscillator movement}
 targeting:={circular targeting} ->! movement:={pattern movement}
 targeting:={circular targeting} ->! code license:={zlib}
-targeting:={circular targeting} ->! fighting:={teams}
 targeting:={circular targeting} ->! movement:={wall smoothing}
 targeting:={circular targeting} ->! code license:={eclipse public license}
 targeting:={circular targeting} ->! movement:={circular movement}
+targeting:={circular targeting} ->! fighting:={teams,one on one}
 targeting:={circular targeting} ->! movement:={musashi trick}
 targeting:={circular targeting} ->! code license:={proprietary}
 targeting:={circular targeting} ->! code license:={nprl}
@@ -572,12 +548,13 @@ targeting:={circular targeting} ->! movement:={wave surfing,anti gravity movemen
 targeting:={circular targeting} ->! code license:={cc by-nd 3.0}
 targeting:={circular targeting} ->! movement:={corner movement}
 targeting:={circular targeting} ->! movement:={gilgalads movement}
+targeting:={circular targeting} ->! movement:={random movement,pusedo not moving}
 targeting:={circular targeting} ->! movement:={linear movement}
 targeting:={circular targeting} ->! movement:={flat movement}
 targeting:={circular targeting} ->! code license:={kpl}
+targeting:={circular targeting} ->! movement:={random movement,multi mode}
 targeting:={circular targeting} ->! movement:={exact path predictor}
 targeting:={circular targeting} ->! movement:={true surfing}
-targeting:={circular targeting} ->! movement:={aggressive movement}
 targeting:={circular targeting} ->! movement:={go to}
 targeting:={circular targeting} ->! movement:={random pattern movement}
 targeting:={circular targeting} ->! movement:={anti pattern at distance}
@@ -591,9 +568,13 @@ targeting:={circular targeting} ->! movement:={imperceptible}
 targeting:={circular targeting} ->! movement:={adaptive random movement}
 targeting:={circular targeting} ->! movement:={ramming movement,multi mode}
 targeting:={circular targeting} ->! movement:={multi buffered wavesurfing}
+targeting:={circular targeting} ->! movement:={random movement,minimum risk movement}
+targeting:={circular targeting} ->! movement:={orbital movement,random movement}
 targeting:={circular targeting} ->! code license:={freebsd}
 targeting:={circular targeting} ->! movement:={statistical aom}
 targeting:={circular targeting} ->! code license:={bsd}
+targeting:={circular targeting} ->! movement:={random movement,mosquito}
+targeting:={circular targeting} ->! movement:={wave surfing,random movement}
 targeting:={circular targeting} ->! movement:={reinforcement learning}
 targeting:={circular targeting} ->! code license:={qkpl}
 targeting:={circular targeting} ->! movement:={magictrick,bullet dodging,random bullet dodging}
@@ -609,10 +590,7 @@ targeting:={circular targeting} ->! movement:={stationary}
 targeting:={circular targeting} ->! code license:={gpl}
 targeting:={circular targeting} ->! movement:={semi circular movement}
 targeting:={circular targeting} ->! movement:={wall hug movement}
-movement:={minimum risk movement} ->! code license:={rwlpcl}
 movement:={minimum risk movement} ->! code license:={public domain}
-movement:={minimum risk movement} ->! code license:={open source}
-movement:={minimum risk movement} ->! code license:={closed}
 movement:={minimum risk movement} ->! targeting:={virtual guns}
 movement:={minimum risk movement} ->! targeting:={neural targeting}
 movement:={minimum risk movement} ->! targeting:={symbolic pattern matching}
@@ -654,26 +632,27 @@ movement:={minimum risk movement} ->! targeting:={linear circular targeting}
 movement:={minimum risk movement} ->! targeting:={bearing offset targeting,segmented last}
 movement:={minimum risk movement} ->! targeting:={guessfactor targeting,dynamic segmentation}
 movement:={minimum risk movement} ->! targeting:={reduced linear targeting}
-code license:={rwlpcl} ->! targeting:={pattern matching}
-code license:={rwlpcl} ->! targeting:={guessfactor targeting,dynamic clustering}
-code license:={rwlpcl} ->! targeting:={guessfactor targeting,dynamic clustering}
 code license:={rwlpcl} ->! movement:={anti gravity movement}
 code license:={rwlpcl} ->! movement:={oscillator movement}
 code license:={rwlpcl} ->! movement:={pattern movement}
+code license:={rwlpcl} ->! targeting:={circular targeting,linear targeting}
 code license:={rwlpcl} ->! targeting:={play it forward}
+code license:={rwlpcl} ->! movement:={wave surfing,minimum risk movement}
+code license:={rwlpcl} ->! movement:={wave surfing,minimum risk movement}
 code license:={rwlpcl} ->! targeting:={guessfactor targeting,circular targeting}
 code license:={rwlpcl} ->! targeting:={guessfactor targeting,circular targeting}
 code license:={rwlpcl} ->! movement:={multi mode}
 code license:={rwlpcl} ->! targeting:={neural targeting}
+code license:={rwlpcl} ->! targeting:={guessfactor targeting,linear targeting}
 code license:={rwlpcl} ->! fighting:={teams}
 code license:={rwlpcl} ->! targeting:={random targeting}
 code license:={rwlpcl} ->! movement:={circular movement}
-code license:={rwlpcl} ->! movement:={musashi trick}
 code license:={rwlpcl} ->! targeting:={guessfactor targeting}
 code license:={rwlpcl} ->! targeting:={multiple choice pattern matcher}
 code license:={rwlpcl} ->! movement:={random movement,wall smoothing}
 code license:={rwlpcl} ->! movement:={random movement,wall smoothing}
 code license:={rwlpcl} ->! movement:={sandbox flattener}
+code license:={rwlpcl} ->! targeting:={guessfactor targeting,pattern matching}
 code license:={rwlpcl} ->! targeting:={bullet shielding}
 code license:={rwlpcl} ->! targeting:={angular targeting}
 code license:={rwlpcl} ->! movement:={corner movement}
@@ -691,6 +670,7 @@ code license:={rwlpcl} ->! movement:={perpendicular}
 code license:={rwlpcl} ->! movement:={true surfing}
 code license:={rwlpcl} ->! movement:={aggressive movement}
 code license:={rwlpcl} ->! targeting:={guessfactor targeting,anti surfer targeting}
+code license:={rwlpcl} ->! targeting:={guessfactor targeting,crowd targeting,dynamic clustering}
 code license:={rwlpcl} ->! targeting:={circular targeting,segmented mean}
 code license:={rwlpcl} ->! movement:={random pattern movement}
 code license:={rwlpcl} ->! movement:={anti pattern at distance}
@@ -703,10 +683,12 @@ code license:={rwlpcl} ->! movement:={behind the snow}
 code license:={rwlpcl} ->! movement:={pathfinding}
 code license:={rwlpcl} ->! movement:={mirror movement}
 code license:={rwlpcl} ->! movement:={virtual movements array}
+code license:={rwlpcl} ->! targeting:={guessfactor targeting,dynamic clustering,displacement vectors}
 code license:={rwlpcl} ->! movement:={imperceptible}
 code license:={rwlpcl} ->! movement:={adaptive random movement}
 code license:={rwlpcl} ->! movement:={multi buffered wavesurfing}
 code license:={rwlpcl} ->! targeting:={single guessfactor gun}
+code license:={rwlpcl} ->! movement:={random movement,minimum risk movement}
 code license:={rwlpcl} ->! movement:={ocnirpsng movement}
 code license:={rwlpcl} ->! targeting:={corner targeting}
 code license:={rwlpcl} ->! movement:={random movement,mosquito}
@@ -716,7 +698,9 @@ code license:={rwlpcl} ->! movement:={wave surfing,wall smoothing}
 code license:={rwlpcl} ->! movement:={magictrick,bullet dodging,random bullet dodging}
 code license:={rwlpcl} ->! movement:={one way}
 code license:={rwlpcl} ->! movement:={statistical bullet dodging}
+code license:={rwlpcl} ->! targeting:={pattern matching,singletick}
 code license:={rwlpcl} ->! movement:={fluid movement}
+code license:={rwlpcl} ->! targeting:={guessfactor targeting,dynamic clustering,semi circular targeting}
 code license:={rwlpcl} ->! movement:={wave surfing,dodging bullets}
 code license:={rwlpcl} ->! movement:={orbital random movement}
 code license:={rwlpcl} ->! movement:={wave surfing,true serving}
@@ -732,21 +716,18 @@ code license:={rwlpcl} ->! movement:={wall smoothing,random orbital movement}
 code license:={rwlpcl} ->! targeting:={bearing offset targeting,segmented last}
 code license:={rwlpcl} ->! targeting:={guessfactor targeting,dynamic segmentation}
 code license:={rwlpcl} ->! targeting:={reduced linear targeting}
+code license:={rwlpcl} ->! movement:={random movement,stop and go,musashi trick}
 code license:={rwlpcl} ->! movement:={semi circular movement}
 code license:={rwlpcl} ->! movement:={wall hug movement}
 code license:={rwlpcl} ->! movement:={ramescape,anti mirror}
-targeting:={pattern matching} ->! movement:={stop and go}
 targeting:={pattern matching} ->! code license:={public domain}
-targeting:={pattern matching} ->! code license:={open source}
 targeting:={pattern matching} ->! code license:={closed}
 targeting:={pattern matching} ->! movement:={pattern movement}
 targeting:={pattern matching} ->! code license:={zlib}
 targeting:={pattern matching} ->! fighting:={teams}
-targeting:={pattern matching} ->! movement:={ramming movement}
 targeting:={pattern matching} ->! movement:={wall smoothing}
 targeting:={pattern matching} ->! code license:={eclipse public license}
 targeting:={pattern matching} ->! movement:={circular movement}
-targeting:={pattern matching} ->! movement:={musashi trick}
 targeting:={pattern matching} ->! code license:={proprietary}
 targeting:={pattern matching} ->! code license:={nprl}
 targeting:={pattern matching} ->! movement:={sandbox flattener}
@@ -760,8 +741,10 @@ targeting:={pattern matching} ->! movement:={flat movement}
 targeting:={pattern matching} ->! code license:={kpl}
 targeting:={pattern matching} ->! movement:={exact path predictor}
 targeting:={pattern matching} ->! movement:={orbital movement}
+targeting:={pattern matching} ->! movement:={stop and go,oscillator movement}
 targeting:={pattern matching} ->! movement:={perpendicular}
 targeting:={pattern matching} ->! movement:={true surfing}
+targeting:={pattern matching} ->! movement:={ramming movement,stop and go}
 targeting:={pattern matching} ->! movement:={aggressive movement}
 targeting:={pattern matching} ->! movement:={go to}
 targeting:={pattern matching} ->! code license:={gcwcd}
@@ -777,8 +760,10 @@ targeting:={pattern matching} ->! movement:={behind the snow}
 targeting:={pattern matching} ->! movement:={mirror movement}
 targeting:={pattern matching} ->! movement:={virtual movements array}
 targeting:={pattern matching} ->! movement:={imperceptible}
+targeting:={pattern matching} ->! movement:={random movement,stop and go,multi mode}
 targeting:={pattern matching} ->! movement:={anti gravity movement,teasing movement}
 targeting:={pattern matching} ->! movement:={adaptive random movement}
+targeting:={pattern matching} ->! movement:={ramming movement,multi mode}
 targeting:={pattern matching} ->! movement:={multi buffered wavesurfing}
 targeting:={pattern matching} ->! movement:={random movement,minimum risk movement}
 targeting:={pattern matching} ->! code license:={freebsd}
@@ -790,6 +775,7 @@ targeting:={pattern matching} ->! movement:={wave surfing,random movement}
 targeting:={pattern matching} ->! movement:={reinforcement learning}
 targeting:={pattern matching} ->! code license:={qkpl}
 targeting:={pattern matching} ->! movement:={magictrick,bullet dodging,random bullet dodging}
+targeting:={pattern matching} ->! movement:={ramming movement,maximum risk movement}
 targeting:={pattern matching} ->! movement:={one way}
 targeting:={pattern matching} ->! movement:={statistical bullet dodging}
 targeting:={pattern matching} ->! movement:={fluid movement}
@@ -801,6 +787,7 @@ targeting:={pattern matching} ->! movement:={randomwaves}
 targeting:={pattern matching} ->! movement:={stationary}
 targeting:={pattern matching} ->! code license:={gpl}
 targeting:={pattern matching} ->! movement:={provocative movement}
+targeting:={pattern matching} ->! movement:={random movement,stop and go,musashi trick}
 targeting:={pattern matching} ->! movement:={semi circular movement}
 targeting:={pattern matching} ->! movement:={wall hug movement}
 targeting:={pattern matching} ->! movement:={ramescape,anti mirror}
@@ -811,7 +798,7 @@ movement:={stop and go} ->! targeting:={virtual guns}
 movement:={stop and go} ->! targeting:={play it forward}
 movement:={stop and go} ->! code license:={zlib}
 movement:={stop and go} ->! targeting:={neural targeting}
-movement:={stop and go} ->! targeting:={symbolic pattern matching}
+movement:={stop and go} ->! targeting:={guessfactor targeting,linear targeting}
 movement:={stop and go} ->! code license:={eclipse public license}
 movement:={stop and go} ->! targeting:={random targeting}
 movement:={stop and go} ->! code license:={proprietary}
@@ -820,15 +807,15 @@ movement:={stop and go} ->! targeting:={guessfactor targeting}
 movement:={stop and go} ->! targeting:={multiple choice pattern matcher}
 movement:={stop and go} ->! code license:={nprl}
 movement:={stop and go} ->! code license:={cc by-nd 3.0}
+movement:={stop and go} ->! targeting:={guessfactor targeting,pattern matching}
 movement:={stop and go} ->! targeting:={bullet shielding}
 movement:={stop and go} ->! fighting:={teams,one on one,melee}
 movement:={stop and go} ->! targeting:={visit count stats}
-movement:={stop and go} ->! targeting:={angular targeting}
 movement:={stop and go} ->! targeting:={gilgalads targeting}
 movement:={stop and go} ->! targeting:={dynamic clustering}
 movement:={stop and go} ->! targeting:={single tick pattern matching}
 movement:={stop and go} ->! code license:={kpl}
-movement:={stop and go} ->! targeting:={averaged linear targeting}
+movement:={stop and go} ->! targeting:={averaged bearing offset targeting,angular targeting}
 movement:={stop and go} ->! targeting:={guessfactor targeting,anti surfer targeting}
 movement:={stop and go} ->! code license:={gcwcd}
 movement:={stop and go} ->! targeting:={heading circular targeting,enemy velocity,averaged velocity,last place i hit}
@@ -842,6 +829,7 @@ movement:={stop and go} ->! targeting:={corner targeting}
 movement:={stop and go} ->! code license:={qkpl}
 movement:={stop and go} ->! targeting:={self organizing observation log}
 movement:={stop and go} ->! targeting:={wave targeting}
+movement:={stop and go} ->! targeting:={pattern matching,singletick}
 movement:={stop and go} ->! targeting:={random guessfactor targeting}
 movement:={stop and go} ->! targeting:={fire at enemys bullet}
 movement:={stop and go} ->! targeting:={vectorial pattern matching}
@@ -850,23 +838,24 @@ movement:={stop and go} ->! targeting:={linear circular targeting}
 movement:={stop and go} ->! targeting:={bearing offset targeting,segmented last}
 movement:={stop and go} ->! targeting:={guessfactor targeting,dynamic segmentation}
 movement:={stop and go} ->! targeting:={reduced linear targeting}
-code license:={public domain} ->! movement:={oscillator movement}
-code license:={public domain} ->! movement:={pattern movement}
+code license:={public domain} ->! targeting:={guessfactor targeting,dynamic clustering}
+code license:={public domain} ->! targeting:={guessfactor targeting,dynamic clustering}
+code license:={public domain} ->! targeting:={head on targeting,linear targeting}
+code license:={public domain} ->! targeting:={head on targeting,linear targeting}
+code license:={public domain} ->! targeting:={circular targeting,linear targeting}
 code license:={public domain} ->! targeting:={play it forward}
 code license:={public domain} ->! targeting:={guessfactor targeting,circular targeting}
 code license:={public domain} ->! targeting:={guessfactor targeting,circular targeting}
 code license:={public domain} ->! movement:={multi mode}
 code license:={public domain} ->! targeting:={neural targeting}
 code license:={public domain} ->! targeting:={symbolic pattern matching}
+code license:={public domain} ->! targeting:={guessfactor targeting,linear targeting}
 code license:={public domain} ->! fighting:={teams}
-code license:={public domain} ->! movement:={circular movement}
 code license:={public domain} ->! movement:={musashi trick}
 code license:={public domain} ->! targeting:={statistical targeting}
 code license:={public domain} ->! targeting:={guessfactor targeting,random targeting}
 code license:={public domain} ->! targeting:={guessfactor targeting}
 code license:={public domain} ->! targeting:={multiple choice pattern matcher}
-code license:={public domain} ->! movement:={random movement,wall smoothing}
-code license:={public domain} ->! movement:={random movement,wall smoothing}
 code license:={public domain} ->! movement:={sandbox flattener}
 code license:={public domain} ->! targeting:={head on targeting,circular targeting,random targeting}
 code license:={public domain} ->! targeting:={bullet shielding}
@@ -885,7 +874,6 @@ code license:={public domain} ->! targeting:={averaged linear targeting}
 code license:={public domain} ->! movement:={perpendicular}
 code license:={public domain} ->! movement:={true surfing}
 code license:={public domain} ->! targeting:={guessfactor}
-code license:={public domain} ->! movement:={aggressive movement}
 code license:={public domain} ->! movement:={go to}
 code license:={public domain} ->! targeting:={guessfactor targeting,anti surfer targeting}
 code license:={public domain} ->! movement:={anti pattern at distance}
@@ -919,37 +907,41 @@ code license:={public domain} ->! movement:={statistical bullet dodging}
 code license:={public domain} ->! movement:={fluid movement}
 code license:={public domain} ->! movement:={adapting oscillator movement}
 code license:={public domain} ->! movement:={wave surfing,dodging bullets}
+code license:={public domain} ->! movement:={random movement,wall smoothing,adaptive movement}
 code license:={public domain} ->! movement:={orbital random movement}
 code license:={public domain} ->! movement:={wave surfing,true serving}
 code license:={public domain} ->! movement:={randomwaves}
 code license:={public domain} ->! targeting:={random guessfactor targeting}
 code license:={public domain} ->! movement:={stationary}
 code license:={public domain} ->! targeting:={fire at enemys bullet}
+code license:={public domain} ->! movement:={oscillator movement,circular movement}
 code license:={public domain} ->! targeting:={vectorial pattern matching}
 code license:={public domain} ->! targeting:={linear circular targeting}
+code license:={public domain} ->! movement:={pattern movement,pimitive adaptive movement}
 code license:={public domain} ->! targeting:={guessfactor targeting,dynamic segmentation}
 code license:={public domain} ->! targeting:={reduced linear targeting}
 code license:={public domain} ->! movement:={semi circular movement}
 code license:={public domain} ->! movement:={wall hug movement}
 code license:={public domain} ->! movement:={ramescape,anti mirror}
-code license:={open source} ->! movement:={anti gravity movement}
 code license:={open source} ->! movement:={oscillator movement}
 code license:={open source} ->! targeting:={virtual guns}
 code license:={open source} ->! movement:={pattern movement}
 code license:={open source} ->! targeting:={play it forward}
+code license:={open source} ->! movement:={wave surfing,minimum risk movement}
+code license:={open source} ->! movement:={wave surfing,minimum risk movement}
 code license:={open source} ->! movement:={multi mode}
 code license:={open source} ->! targeting:={neural targeting}
 code license:={open source} ->! targeting:={symbolic pattern matching}
+code license:={open source} ->! targeting:={guessfactor targeting,linear targeting}
 code license:={open source} ->! fighting:={teams}
-code license:={open source} ->! movement:={ramming movement}
 code license:={open source} ->! movement:={wall smoothing}
 code license:={open source} ->! targeting:={random targeting}
 code license:={open source} ->! movement:={circular movement}
-code license:={open source} ->! movement:={musashi trick}
 code license:={open source} ->! targeting:={statistical targeting}
 code license:={open source} ->! targeting:={guessfactor targeting}
 code license:={open source} ->! targeting:={multiple choice pattern matcher}
-code license:={open source} ->! movement:={sandbox flattener}
+code license:={open source} ->! movement:={wave surfing,anti gravity movement}
+code license:={open source} ->! targeting:={guessfactor targeting,pattern matching}
 code license:={open source} ->! targeting:={bullet shielding}
 code license:={open source} ->! targeting:={visit count stats}
 code license:={open source} ->! targeting:={angular targeting}
@@ -957,6 +949,7 @@ code license:={open source} ->! movement:={gilgalads movement}
 code license:={open source} ->! targeting:={gilgalads targeting}
 code license:={open source} ->! targeting:={dynamic clustering}
 code license:={open source} ->! targeting:={single tick pattern matching}
+code license:={open source} ->! movement:={random movement,pusedo not moving}
 code license:={open source} ->! movement:={linear movement}
 code license:={open source} ->! movement:={flat movement}
 code license:={open source} ->! targeting:={averaged linear targeting}
@@ -966,6 +959,8 @@ code license:={open source} ->! movement:={true surfing}
 code license:={open source} ->! targeting:={guessfactor}
 code license:={open source} ->! movement:={aggressive movement}
 code license:={open source} ->! movement:={go to}
+code license:={open source} ->! targeting:={guessfactor targeting,anti surfer targeting}
+code license:={open source} ->! movement:={anti gravity movement,virtual bullet dodging}
 code license:={open source} ->! movement:={random pattern movement}
 code license:={open source} ->! movement:={anti pattern at distance}
 code license:={open source} ->! movement:={adapting stop and go}
@@ -973,24 +968,33 @@ code license:={open source} ->! targeting:={heading circular targeting,enemy vel
 code license:={open source} ->! movement:={danger prediction}
 code license:={open source} ->! targeting:={shadow,melee gun}
 code license:={open source} ->! movement:={fires prediction}
+code license:={open source} ->! movement:={musashi trick,sandbox flattener}
 code license:={open source} ->! movement:={behind the snow}
 code license:={open source} ->! movement:={pathfinding}
 code license:={open source} ->! movement:={mirror movement}
 code license:={open source} ->! movement:={virtual movements array}
 code license:={open source} ->! movement:={imperceptible}
+code license:={open source} ->! movement:={anti gravity movement,teasing movement}
 code license:={open source} ->! movement:={adaptive random movement}
 code license:={open source} ->! movement:={multi buffered wavesurfing}
 code license:={open source} ->! targeting:={single guessfactor gun}
+code license:={open source} ->! movement:={random movement,minimum risk movement}
 code license:={open source} ->! movement:={statistical aom}
 code license:={open source} ->! movement:={ocnirpsng movement}
+code license:={open source} ->! movement:={random movement,mosquito}
+code license:={open source} ->! movement:={wave surfing,random movement}
 code license:={open source} ->! movement:={reinforcement learning}
 code license:={open source} ->! targeting:={self organizing observation log}
 code license:={open source} ->! movement:={magictrick,bullet dodging,random bullet dodging}
 code license:={open source} ->! targeting:={wave targeting}
+code license:={open source} ->! movement:={ramming movement,maximum risk movement}
 code license:={open source} ->! movement:={one way}
 code license:={open source} ->! movement:={statistical bullet dodging}
+code license:={open source} ->! targeting:={pattern matching,singletick}
 code license:={open source} ->! movement:={adapting oscillator movement}
+code license:={open source} ->! movement:={wave surfing,dodging bullets}
 code license:={open source} ->! movement:={orbital random movement}
+code license:={open source} ->! movement:={wave surfing,true serving}
 code license:={open source} ->! movement:={randomwaves}
 code license:={open source} ->! targeting:={random guessfactor targeting}
 code license:={open source} ->! movement:={stationary}
@@ -999,17 +1003,24 @@ code license:={open source} ->! targeting:={vectorial pattern matching}
 code license:={open source} ->! targeting:={linear circular targeting}
 code license:={open source} ->! movement:={provocative movement}
 code license:={open source} ->! targeting:={bearing offset targeting,segmented last}
+code license:={open source} ->! targeting:={guessfactor targeting,dynamic segmentation}
 code license:={open source} ->! targeting:={reduced linear targeting}
 code license:={open source} ->! movement:={semi circular movement}
 code license:={open source} ->! movement:={wall hug movement}
 code license:={open source} ->! movement:={ramescape,anti mirror}
-code license:={closed} ->! movement:={anti gravity movement}
 code license:={closed} ->! movement:={oscillator movement}
 code license:={closed} ->! targeting:={virtual guns}
+code license:={closed} ->! targeting:={head on targeting,circular targeting}
+code license:={closed} ->! targeting:={head on targeting,linear targeting}
+code license:={closed} ->! targeting:={head on targeting,linear targeting}
 code license:={closed} ->! movement:={pattern movement}
+code license:={closed} ->! targeting:={circular targeting,linear targeting}
 code license:={closed} ->! targeting:={play it forward}
+code license:={closed} ->! targeting:={guessfactor targeting,circular targeting}
+code license:={closed} ->! targeting:={guessfactor targeting,circular targeting}
 code license:={closed} ->! movement:={multi mode}
 code license:={closed} ->! targeting:={symbolic pattern matching}
+code license:={closed} ->! targeting:={guessfactor targeting,linear targeting}
 code license:={closed} ->! fighting:={teams}
 code license:={closed} ->! movement:={ramming movement}
 code license:={closed} ->! movement:={wall smoothing}
@@ -1020,12 +1031,14 @@ code license:={closed} ->! targeting:={statistical targeting}
 code license:={closed} ->! targeting:={guessfactor targeting}
 code license:={closed} ->! targeting:={multiple choice pattern matcher}
 code license:={closed} ->! movement:={sandbox flattener}
+code license:={closed} ->! movement:={wave surfing,anti gravity movement}
 code license:={closed} ->! targeting:={angular targeting}
 code license:={closed} ->! movement:={corner movement}
 code license:={closed} ->! movement:={gilgalads movement}
 code license:={closed} ->! targeting:={gilgalads targeting}
 code license:={closed} ->! targeting:={dynamic clustering}
 code license:={closed} ->! targeting:={single tick pattern matching}
+code license:={closed} ->! movement:={random movement,pusedo not moving}
 code license:={closed} ->! movement:={linear movement}
 code license:={closed} ->! movement:={flat movement}
 code license:={closed} ->! movement:={exact path predictor}
@@ -1035,7 +1048,12 @@ code license:={closed} ->! movement:={perpendicular}
 code license:={closed} ->! movement:={true surfing}
 code license:={closed} ->! targeting:={guessfactor}
 code license:={closed} ->! movement:={aggressive movement}
+code license:={closed} ->! targeting:={guessfactor targeting,visit count stats}
 code license:={closed} ->! movement:={go to}
+code license:={closed} ->! targeting:={guessfactor targeting,anti surfer targeting}
+code license:={closed} ->! targeting:={guessfactor targeting,crowd targeting,dynamic clustering}
+code license:={closed} ->! targeting:={circular targeting,segmented mean}
+code license:={closed} ->! movement:={anti gravity movement,virtual bullet dodging}
 code license:={closed} ->! movement:={random pattern movement}
 code license:={closed} ->! movement:={anti pattern at distance}
 code license:={closed} ->! movement:={adapting stop and go}
@@ -1047,17 +1065,23 @@ code license:={closed} ->! movement:={behind the snow}
 code license:={closed} ->! movement:={pathfinding}
 code license:={closed} ->! movement:={mirror movement}
 code license:={closed} ->! movement:={virtual movements array}
+code license:={closed} ->! targeting:={guessfactor targeting,dynamic clustering,displacement vectors}
+code license:={closed} ->! movement:={anti gravity movement,teasing movement}
 code license:={closed} ->! movement:={multi buffered wavesurfing}
 code license:={closed} ->! targeting:={single guessfactor gun}
+code license:={closed} ->! movement:={random movement,minimum risk movement}
 code license:={closed} ->! movement:={statistical aom}
 code license:={closed} ->! movement:={ocnirpsng movement}
 code license:={closed} ->! targeting:={corner targeting}
+code license:={closed} ->! movement:={random movement,mosquito}
+code license:={closed} ->! movement:={wave surfing,random movement}
 code license:={closed} ->! movement:={reinforcement learning}
 code license:={closed} ->! targeting:={self organizing observation log}
 code license:={closed} ->! movement:={magictrick,bullet dodging,random bullet dodging}
 code license:={closed} ->! targeting:={wave targeting}
 code license:={closed} ->! movement:={statistical bullet dodging}
 code license:={closed} ->! movement:={fluid movement}
+code license:={closed} ->! targeting:={guessfactor targeting,dynamic clustering,semi circular targeting}
 code license:={closed} ->! movement:={adapting oscillator movement}
 code license:={closed} ->! movement:={wave surfing,dodging bullets}
 code license:={closed} ->! movement:={orbital random movement}
@@ -1070,6 +1094,7 @@ code license:={closed} ->! targeting:={vectorial pattern matching}
 code license:={closed} ->! targeting:={linear circular targeting}
 code license:={closed} ->! movement:={provocative movement}
 code license:={closed} ->! targeting:={bearing offset targeting,segmented last}
+code license:={closed} ->! targeting:={guessfactor targeting,dynamic segmentation}
 code license:={closed} ->! targeting:={reduced linear targeting}
 code license:={closed} ->! movement:={semi circular movement}
 code license:={closed} ->! movement:={wall hug movement}
@@ -1080,6 +1105,10 @@ targeting:={guessfactor targeting,dynamic clustering} ->! movement:={circular mo
 targeting:={guessfactor targeting,dynamic clustering} ->! movement:={circular movement}
 targeting:={guessfactor targeting,dynamic clustering} ->! movement:={musashi trick}
 targeting:={guessfactor targeting,dynamic clustering} ->! movement:={musashi trick}
+targeting:={guessfactor targeting,dynamic clustering} ->! movement:={sandbox flattener}
+targeting:={guessfactor targeting,dynamic clustering} ->! movement:={sandbox flattener}
+movement:={random movement,stop and go} ->! targeting:={angular targeting}
+movement:={random movement,stop and go} ->! targeting:={angular targeting}
 movement:={anti gravity movement} ->! targeting:={play it forward}
 movement:={anti gravity movement} ->! code license:={zlib}
 movement:={anti gravity movement} ->! targeting:={neural targeting}
@@ -1129,11 +1158,12 @@ movement:={anti gravity movement} ->! targeting:={vectorial pattern matching}
 movement:={anti gravity movement} ->! code license:={gpl}
 movement:={anti gravity movement} ->! targeting:={linear circular targeting}
 movement:={anti gravity movement} ->! targeting:={guessfactor targeting,dynamic segmentation}
-movement:={oscillator movement} ->! targeting:={virtual guns}
+movement:={oscillator movement} ->! targeting:={circular targeting,linear targeting}
 movement:={oscillator movement} ->! targeting:={play it forward}
 movement:={oscillator movement} ->! code license:={zlib}
-movement:={oscillator movement} ->! targeting:={neural targeting}
-movement:={oscillator movement} ->! targeting:={symbolic pattern matching}
+movement:={oscillator movement} ->! targeting:={guessfactor targeting,circular targeting}
+movement:={oscillator movement} ->! targeting:={guessfactor targeting,circular targeting}
+movement:={oscillator movement} ->! targeting:={guessfactor targeting,linear targeting}
 movement:={oscillator movement} ->! code license:={eclipse public license}
 movement:={oscillator movement} ->! targeting:={random targeting}
 movement:={oscillator movement} ->! fighting:={teams,one on one}
@@ -1142,6 +1172,7 @@ movement:={oscillator movement} ->! targeting:={statistical targeting}
 movement:={oscillator movement} ->! targeting:={guessfactor targeting}
 movement:={oscillator movement} ->! targeting:={multiple choice pattern matcher}
 movement:={oscillator movement} ->! code license:={nprl}
+movement:={oscillator movement} ->! targeting:={neural targeting,guessfactor targeting}
 movement:={oscillator movement} ->! code license:={cc by-nd 3.0}
 movement:={oscillator movement} ->! targeting:={guessfactor targeting,pattern matching}
 movement:={oscillator movement} ->! targeting:={bullet shielding}
@@ -1155,6 +1186,7 @@ movement:={oscillator movement} ->! targeting:={averaged linear targeting}
 movement:={oscillator movement} ->! targeting:={guessfactor}
 movement:={oscillator movement} ->! targeting:={guessfactor targeting,anti surfer targeting}
 movement:={oscillator movement} ->! code license:={gcwcd}
+movement:={oscillator movement} ->! targeting:={circular targeting,segmented mean}
 movement:={oscillator movement} ->! targeting:={heading circular targeting,enemy velocity,averaged velocity,last place i hit}
 movement:={oscillator movement} ->! code license:={accsl}
 movement:={oscillator movement} ->! code license:={npl}
@@ -1162,6 +1194,7 @@ movement:={oscillator movement} ->! targeting:={shadow,melee gun}
 movement:={oscillator movement} ->! targeting:={single guessfactor gun}
 movement:={oscillator movement} ->! code license:={freebsd}
 movement:={oscillator movement} ->! code license:={bsd}
+movement:={oscillator movement} ->! targeting:={neural targeting,gaffs targeting}
 movement:={oscillator movement} ->! targeting:={corner targeting}
 movement:={oscillator movement} ->! code license:={qkpl}
 movement:={oscillator movement} ->! targeting:={self organizing observation log}
@@ -1175,8 +1208,6 @@ movement:={oscillator movement} ->! targeting:={bearing offset targeting,segment
 movement:={oscillator movement} ->! targeting:={guessfactor targeting,dynamic segmentation}
 movement:={oscillator movement} ->! targeting:={reduced linear targeting}
 targeting:={virtual guns} ->! movement:={pattern movement}
-targeting:={virtual guns} ->! code license:={zlib}
-targeting:={virtual guns} ->! movement:={multi mode}
 targeting:={virtual guns} ->! fighting:={teams}
 targeting:={virtual guns} ->! movement:={ramming movement}
 targeting:={virtual guns} ->! movement:={wall smoothing}
@@ -1194,6 +1225,7 @@ targeting:={virtual guns} ->! movement:={random movement,pusedo not moving}
 targeting:={virtual guns} ->! movement:={linear movement}
 targeting:={virtual guns} ->! movement:={flat movement}
 targeting:={virtual guns} ->! code license:={kpl}
+targeting:={virtual guns} ->! movement:={random movement,multi mode}
 targeting:={virtual guns} ->! movement:={exact path predictor}
 targeting:={virtual guns} ->! movement:={orbital movement}
 targeting:={virtual guns} ->! movement:={perpendicular}
@@ -1276,6 +1308,9 @@ movement:={pattern movement} ->! targeting:={linear circular targeting}
 movement:={pattern movement} ->! targeting:={bearing offset targeting,segmented last}
 movement:={pattern movement} ->! targeting:={reduced linear targeting}
 targeting:={circular targeting,linear targeting} ->! movement:={ramming movement}
+targeting:={circular targeting,linear targeting} ->! movement:={aggressive movement}
+targeting:={play it forward} ->! movement:={wave surfing,minimum risk movement}
+targeting:={play it forward} ->! movement:={wave surfing,minimum risk movement}
 targeting:={play it forward} ->! code license:={zlib}
 targeting:={play it forward} ->! movement:={multi mode}
 targeting:={play it forward} ->! fighting:={teams}
@@ -1285,7 +1320,6 @@ targeting:={play it forward} ->! code license:={eclipse public license}
 targeting:={play it forward} ->! movement:={musashi trick}
 targeting:={play it forward} ->! code license:={proprietary}
 targeting:={play it forward} ->! movement:={sandbox flattener}
-targeting:={play it forward} ->! code license:={cc by-nd 3.0}
 targeting:={play it forward} ->! movement:={corner movement}
 targeting:={play it forward} ->! movement:={gilgalads movement}
 targeting:={play it forward} ->! movement:={linear movement}
@@ -1323,7 +1357,9 @@ targeting:={play it forward} ->! movement:={one way}
 targeting:={play it forward} ->! movement:={statistical bullet dodging}
 targeting:={play it forward} ->! movement:={fluid movement}
 targeting:={play it forward} ->! movement:={adapting oscillator movement}
+targeting:={play it forward} ->! movement:={wave surfing,dodging bullets}
 targeting:={play it forward} ->! movement:={orbital random movement}
+targeting:={play it forward} ->! movement:={wave surfing,true serving}
 targeting:={play it forward} ->! movement:={randomwaves}
 targeting:={play it forward} ->! movement:={stationary}
 targeting:={play it forward} ->! code license:={gpl}
@@ -1412,6 +1448,8 @@ code license:={zlib} ->! movement:={wall hug movement}
 code license:={zlib} ->! movement:={ramescape,anti mirror}
 targeting:={guessfactor targeting,circular targeting} ->! movement:={multi mode}
 targeting:={guessfactor targeting,circular targeting} ->! movement:={multi mode}
+targeting:={guessfactor targeting,circular targeting} ->! fighting:={teams}
+targeting:={guessfactor targeting,circular targeting} ->! fighting:={teams}
 targeting:={guessfactor targeting,circular targeting} ->! movement:={orbital movement}
 targeting:={guessfactor targeting,circular targeting} ->! movement:={orbital movement}
 movement:={multi mode} ->! targeting:={neural targeting}
@@ -1419,6 +1457,7 @@ movement:={multi mode} ->! targeting:={symbolic pattern matching}
 movement:={multi mode} ->! targeting:={guessfactor targeting,linear targeting}
 movement:={multi mode} ->! fighting:={teams}
 movement:={multi mode} ->! code license:={eclipse public license}
+movement:={multi mode} ->! targeting:={head on targeting,circular targeting,virtual guns}
 movement:={multi mode} ->! code license:={proprietary}
 movement:={multi mode} ->! targeting:={statistical targeting}
 movement:={multi mode} ->! targeting:={guessfactor targeting,random targeting}
@@ -1533,6 +1572,7 @@ targeting:={symbolic pattern matching} ->! movement:={flat movement}
 targeting:={symbolic pattern matching} ->! code license:={kpl}
 targeting:={symbolic pattern matching} ->! movement:={exact path predictor}
 targeting:={symbolic pattern matching} ->! movement:={orbital movement}
+targeting:={symbolic pattern matching} ->! movement:={stop and go,oscillator movement}
 targeting:={symbolic pattern matching} ->! movement:={perpendicular}
 targeting:={symbolic pattern matching} ->! movement:={true surfing}
 targeting:={symbolic pattern matching} ->! movement:={aggressive movement}
@@ -1569,6 +1609,7 @@ targeting:={symbolic pattern matching} ->! movement:={provocative movement}
 targeting:={symbolic pattern matching} ->! movement:={semi circular movement}
 targeting:={symbolic pattern matching} ->! movement:={wall hug movement}
 targeting:={symbolic pattern matching} ->! movement:={ramescape,anti mirror}
+targeting:={guessfactor targeting,linear targeting} ->! movement:={linear movement}
 fighting:={teams} ->! movement:={ramming movement}
 fighting:={teams} ->! movement:={wall smoothing}
 fighting:={teams} ->! code license:={eclipse public license}
@@ -1599,10 +1640,10 @@ fighting:={teams} ->! movement:={stop and go,oscillator movement}
 fighting:={teams} ->! movement:={perpendicular}
 fighting:={teams} ->! movement:={true surfing}
 fighting:={teams} ->! targeting:={guessfactor}
-fighting:={teams} ->! movement:={aggressive movement}
 fighting:={teams} ->! movement:={go to}
 fighting:={teams} ->! targeting:={guessfactor targeting,anti surfer targeting}
 fighting:={teams} ->! code license:={gcwcd}
+fighting:={teams} ->! targeting:={circular targeting,segmented mean}
 fighting:={teams} ->! movement:={random pattern movement}
 fighting:={teams} ->! movement:={anti pattern at distance}
 fighting:={teams} ->! movement:={adapting stop and go}
@@ -1679,6 +1720,7 @@ movement:={ramming movement} ->! targeting:={corner targeting}
 movement:={ramming movement} ->! code license:={qkpl}
 movement:={ramming movement} ->! targeting:={self organizing observation log}
 movement:={ramming movement} ->! targeting:={wave targeting}
+movement:={ramming movement} ->! targeting:={pattern matching,singletick}
 movement:={ramming movement} ->! targeting:={random guessfactor targeting}
 movement:={ramming movement} ->! targeting:={fire at enemys bullet}
 movement:={ramming movement} ->! targeting:={vectorial pattern matching}
@@ -1689,13 +1731,10 @@ movement:={ramming movement} ->! targeting:={reduced linear targeting}
 movement:={wall smoothing} ->! code license:={eclipse public license}
 movement:={wall smoothing} ->! code license:={proprietary}
 movement:={wall smoothing} ->! targeting:={statistical targeting}
-movement:={wall smoothing} ->! targeting:={guessfactor targeting,random targeting}
 movement:={wall smoothing} ->! targeting:={guessfactor targeting}
 movement:={wall smoothing} ->! targeting:={multiple choice pattern matcher}
 movement:={wall smoothing} ->! code license:={nprl}
 movement:={wall smoothing} ->! code license:={cc by-nd 3.0}
-movement:={wall smoothing} ->! targeting:={bullet shielding}
-movement:={wall smoothing} ->! targeting:={visit count stats}
 movement:={wall smoothing} ->! targeting:={angular targeting}
 movement:={wall smoothing} ->! targeting:={gilgalads targeting}
 movement:={wall smoothing} ->! targeting:={dynamic clustering}
@@ -1703,6 +1742,7 @@ movement:={wall smoothing} ->! targeting:={single tick pattern matching}
 movement:={wall smoothing} ->! code license:={kpl}
 movement:={wall smoothing} ->! targeting:={averaged linear targeting}
 movement:={wall smoothing} ->! targeting:={guessfactor}
+movement:={wall smoothing} ->! targeting:={guessfactor targeting,visit count stats}
 movement:={wall smoothing} ->! targeting:={guessfactor targeting,anti surfer targeting}
 movement:={wall smoothing} ->! code license:={gcwcd}
 movement:={wall smoothing} ->! targeting:={heading circular targeting,enemy velocity,averaged velocity,last place i hit}
@@ -1793,17 +1833,13 @@ targeting:={random targeting} ->! code license:={proprietary}
 targeting:={random targeting} ->! code license:={nprl}
 targeting:={random targeting} ->! movement:={sandbox flattener}
 targeting:={random targeting} ->! code license:={cc by-nd 3.0}
-targeting:={random targeting} ->! movement:={corner movement}
 targeting:={random targeting} ->! movement:={gilgalads movement}
 targeting:={random targeting} ->! movement:={linear movement}
 targeting:={random targeting} ->! code license:={kpl}
 targeting:={random targeting} ->! movement:={exact path predictor}
-targeting:={random targeting} ->! movement:={orbital movement}
 targeting:={random targeting} ->! movement:={true surfing}
 targeting:={random targeting} ->! movement:={aggressive movement}
-targeting:={random targeting} ->! movement:={go to}
 targeting:={random targeting} ->! code license:={gcwcd}
-targeting:={random targeting} ->! movement:={anti gravity movement,virtual bullet dodging}
 targeting:={random targeting} ->! movement:={random pattern movement}
 targeting:={random targeting} ->! movement:={anti pattern at distance}
 targeting:={random targeting} ->! movement:={adapting stop and go}
@@ -1828,6 +1864,7 @@ targeting:={random targeting} ->! code license:={qkpl}
 targeting:={random targeting} ->! movement:={wave surfing,wall smoothing}
 targeting:={random targeting} ->! movement:={magictrick,bullet dodging,random bullet dodging}
 targeting:={random targeting} ->! movement:={one way}
+targeting:={random targeting} ->! movement:={wave surfing,go to}
 targeting:={random targeting} ->! movement:={statistical bullet dodging}
 targeting:={random targeting} ->! movement:={fluid movement}
 targeting:={random targeting} ->! movement:={adapting oscillator movement}
@@ -1837,7 +1874,9 @@ targeting:={random targeting} ->! movement:={wave surfing,true serving}
 targeting:={random targeting} ->! movement:={randomwaves}
 targeting:={random targeting} ->! movement:={stationary}
 targeting:={random targeting} ->! code license:={gpl}
+targeting:={random targeting} ->! movement:={surfing,go to}
 targeting:={random targeting} ->! movement:={provocative movement}
+targeting:={random targeting} ->! movement:={wave surfing,anti gravity movement,virtual bullet dodging}
 targeting:={random targeting} ->! movement:={semi circular movement}
 targeting:={random targeting} ->! movement:={wall hug movement}
 targeting:={random targeting} ->! movement:={ramescape,anti mirror}
@@ -1878,12 +1917,14 @@ movement:={circular movement} ->! targeting:={linear circular targeting}
 movement:={circular movement} ->! targeting:={bearing offset targeting,segmented last}
 movement:={circular movement} ->! targeting:={guessfactor targeting,dynamic segmentation}
 movement:={circular movement} ->! targeting:={reduced linear targeting}
+fighting:={teams,one on one} ->! movement:={aggressive movement}
 movement:={musashi trick} ->! code license:={proprietary}
 movement:={musashi trick} ->! targeting:={statistical targeting}
 movement:={musashi trick} ->! targeting:={guessfactor targeting}
 movement:={musashi trick} ->! targeting:={multiple choice pattern matcher}
 movement:={musashi trick} ->! code license:={nprl}
 movement:={musashi trick} ->! code license:={cc by-nd 3.0}
+movement:={musashi trick} ->! targeting:={guessfactor targeting,pattern matching}
 movement:={musashi trick} ->! targeting:={bullet shielding}
 movement:={musashi trick} ->! targeting:={visit count stats}
 movement:={musashi trick} ->! targeting:={angular targeting}
@@ -1906,6 +1947,7 @@ movement:={musashi trick} ->! targeting:={corner targeting}
 movement:={musashi trick} ->! code license:={qkpl}
 movement:={musashi trick} ->! targeting:={self organizing observation log}
 movement:={musashi trick} ->! targeting:={wave targeting}
+movement:={musashi trick} ->! targeting:={pattern matching,singletick}
 movement:={musashi trick} ->! targeting:={random guessfactor targeting}
 movement:={musashi trick} ->! targeting:={fire at enemys bullet}
 movement:={musashi trick} ->! targeting:={vectorial pattern matching}
@@ -1961,7 +2003,9 @@ code license:={proprietary} ->! movement:={one way}
 code license:={proprietary} ->! movement:={statistical bullet dodging}
 code license:={proprietary} ->! movement:={fluid movement}
 code license:={proprietary} ->! movement:={adapting oscillator movement}
+code license:={proprietary} ->! movement:={wave surfing,dodging bullets}
 code license:={proprietary} ->! movement:={orbital random movement}
+code license:={proprietary} ->! movement:={wave surfing,true serving}
 code license:={proprietary} ->! movement:={stationary}
 code license:={proprietary} ->! targeting:={fire at enemys bullet}
 code license:={proprietary} ->! targeting:={vectorial pattern matching}
@@ -2031,7 +2075,6 @@ targeting:={guessfactor targeting} ->! movement:={corner movement}
 targeting:={guessfactor targeting} ->! movement:={gilgalads movement}
 targeting:={guessfactor targeting} ->! movement:={linear movement}
 targeting:={guessfactor targeting} ->! movement:={flat movement}
-targeting:={guessfactor targeting} ->! code license:={kpl}
 targeting:={guessfactor targeting} ->! movement:={exact path predictor}
 targeting:={guessfactor targeting} ->! movement:={orbital movement}
 targeting:={guessfactor targeting} ->! movement:={perpendicular}
@@ -2064,7 +2107,9 @@ targeting:={guessfactor targeting} ->! movement:={one way}
 targeting:={guessfactor targeting} ->! movement:={statistical bullet dodging}
 targeting:={guessfactor targeting} ->! movement:={fluid movement}
 targeting:={guessfactor targeting} ->! movement:={adapting oscillator movement}
+targeting:={guessfactor targeting} ->! movement:={wave surfing,dodging bullets}
 targeting:={guessfactor targeting} ->! movement:={orbital random movement}
+targeting:={guessfactor targeting} ->! movement:={wave surfing,true serving}
 targeting:={guessfactor targeting} ->! movement:={randomwaves}
 targeting:={guessfactor targeting} ->! movement:={stationary}
 targeting:={guessfactor targeting} ->! code license:={gpl}
@@ -2112,7 +2157,9 @@ targeting:={multiple choice pattern matcher} ->! movement:={one way}
 targeting:={multiple choice pattern matcher} ->! movement:={statistical bullet dodging}
 targeting:={multiple choice pattern matcher} ->! movement:={fluid movement}
 targeting:={multiple choice pattern matcher} ->! movement:={adapting oscillator movement}
+targeting:={multiple choice pattern matcher} ->! movement:={wave surfing,dodging bullets}
 targeting:={multiple choice pattern matcher} ->! movement:={orbital random movement}
+targeting:={multiple choice pattern matcher} ->! movement:={wave surfing,true serving}
 targeting:={multiple choice pattern matcher} ->! movement:={randomwaves}
 targeting:={multiple choice pattern matcher} ->! movement:={stationary}
 targeting:={multiple choice pattern matcher} ->! code license:={gpl}
@@ -2193,6 +2240,7 @@ movement:={sandbox flattener} ->! targeting:={single tick pattern matching}
 movement:={sandbox flattener} ->! code license:={kpl}
 movement:={sandbox flattener} ->! targeting:={averaged linear targeting}
 movement:={sandbox flattener} ->! targeting:={guessfactor}
+movement:={sandbox flattener} ->! targeting:={guessfactor targeting,anti surfer targeting}
 movement:={sandbox flattener} ->! code license:={gcwcd}
 movement:={sandbox flattener} ->! targeting:={heading circular targeting,enemy velocity,averaged velocity,last place i hit}
 movement:={sandbox flattener} ->! code license:={accsl}
@@ -2211,6 +2259,7 @@ movement:={sandbox flattener} ->! targeting:={vectorial pattern matching}
 movement:={sandbox flattener} ->! code license:={gpl}
 movement:={sandbox flattener} ->! targeting:={linear circular targeting}
 movement:={sandbox flattener} ->! targeting:={bearing offset targeting,segmented last}
+movement:={sandbox flattener} ->! targeting:={guessfactor targeting,dynamic segmentation}
 movement:={sandbox flattener} ->! targeting:={reduced linear targeting}
 code license:={cc by-nd 3.0} ->! targeting:={bullet shielding}
 code license:={cc by-nd 3.0} ->! targeting:={visit count stats}
@@ -2230,6 +2279,7 @@ code license:={cc by-nd 3.0} ->! movement:={true surfing}
 code license:={cc by-nd 3.0} ->! targeting:={guessfactor}
 code license:={cc by-nd 3.0} ->! movement:={aggressive movement}
 code license:={cc by-nd 3.0} ->! movement:={go to}
+code license:={cc by-nd 3.0} ->! targeting:={guessfactor targeting,anti surfer targeting}
 code license:={cc by-nd 3.0} ->! movement:={random pattern movement}
 code license:={cc by-nd 3.0} ->! movement:={anti pattern at distance}
 code license:={cc by-nd 3.0} ->! movement:={adapting stop and go}
@@ -2256,7 +2306,9 @@ code license:={cc by-nd 3.0} ->! movement:={one way}
 code license:={cc by-nd 3.0} ->! movement:={statistical bullet dodging}
 code license:={cc by-nd 3.0} ->! movement:={fluid movement}
 code license:={cc by-nd 3.0} ->! movement:={adapting oscillator movement}
+code license:={cc by-nd 3.0} ->! movement:={wave surfing,dodging bullets}
 code license:={cc by-nd 3.0} ->! movement:={orbital random movement}
+code license:={cc by-nd 3.0} ->! movement:={wave surfing,true serving}
 code license:={cc by-nd 3.0} ->! movement:={randomwaves}
 code license:={cc by-nd 3.0} ->! targeting:={random guessfactor targeting}
 code license:={cc by-nd 3.0} ->! movement:={stationary}
@@ -2265,21 +2317,19 @@ code license:={cc by-nd 3.0} ->! targeting:={vectorial pattern matching}
 code license:={cc by-nd 3.0} ->! targeting:={linear circular targeting}
 code license:={cc by-nd 3.0} ->! movement:={provocative movement}
 code license:={cc by-nd 3.0} ->! targeting:={bearing offset targeting,segmented last}
+code license:={cc by-nd 3.0} ->! targeting:={guessfactor targeting,dynamic segmentation}
 code license:={cc by-nd 3.0} ->! targeting:={reduced linear targeting}
 code license:={cc by-nd 3.0} ->! movement:={semi circular movement}
 code license:={cc by-nd 3.0} ->! movement:={wall hug movement}
 code license:={cc by-nd 3.0} ->! movement:={ramescape,anti mirror}
-targeting:={bullet shielding} ->! movement:={corner movement}
 targeting:={bullet shielding} ->! movement:={gilgalads movement}
 targeting:={bullet shielding} ->! movement:={linear movement}
 targeting:={bullet shielding} ->! movement:={flat movement}
 targeting:={bullet shielding} ->! code license:={kpl}
 targeting:={bullet shielding} ->! movement:={exact path predictor}
-targeting:={bullet shielding} ->! movement:={orbital movement}
 targeting:={bullet shielding} ->! movement:={perpendicular}
 targeting:={bullet shielding} ->! movement:={true surfing}
 targeting:={bullet shielding} ->! movement:={aggressive movement}
-targeting:={bullet shielding} ->! movement:={go to}
 targeting:={bullet shielding} ->! movement:={random pattern movement}
 targeting:={bullet shielding} ->! movement:={anti pattern at distance}
 targeting:={bullet shielding} ->! movement:={adapting stop and go}
@@ -2308,20 +2358,19 @@ targeting:={bullet shielding} ->! movement:={orbital random movement}
 targeting:={bullet shielding} ->! movement:={randomwaves}
 targeting:={bullet shielding} ->! movement:={stationary}
 targeting:={bullet shielding} ->! code license:={gpl}
+targeting:={bullet shielding} ->! movement:={surfing,go to}
 targeting:={bullet shielding} ->! movement:={provocative movement}
+targeting:={bullet shielding} ->! movement:={wall smoothing,random orbital movement}
 targeting:={bullet shielding} ->! movement:={semi circular movement}
 targeting:={bullet shielding} ->! movement:={wall hug movement}
-targeting:={visit count stats} ->! movement:={corner movement}
 targeting:={visit count stats} ->! movement:={gilgalads movement}
 targeting:={visit count stats} ->! movement:={linear movement}
 targeting:={visit count stats} ->! movement:={flat movement}
 targeting:={visit count stats} ->! code license:={kpl}
 targeting:={visit count stats} ->! movement:={exact path predictor}
-targeting:={visit count stats} ->! movement:={orbital movement}
 targeting:={visit count stats} ->! movement:={perpendicular}
 targeting:={visit count stats} ->! movement:={true surfing}
 targeting:={visit count stats} ->! movement:={aggressive movement}
-targeting:={visit count stats} ->! movement:={go to}
 targeting:={visit count stats} ->! code license:={gcwcd}
 targeting:={visit count stats} ->! movement:={random pattern movement}
 targeting:={visit count stats} ->! movement:={anti pattern at distance}
@@ -2342,8 +2391,10 @@ targeting:={visit count stats} ->! code license:={bsd}
 targeting:={visit count stats} ->! movement:={ocnirpsng movement}
 targeting:={visit count stats} ->! movement:={reinforcement learning}
 targeting:={visit count stats} ->! code license:={qkpl}
+targeting:={visit count stats} ->! movement:={wave surfing,wall smoothing}
 targeting:={visit count stats} ->! movement:={magictrick,bullet dodging,random bullet dodging}
 targeting:={visit count stats} ->! movement:={one way}
+targeting:={visit count stats} ->! movement:={wave surfing,go to}
 targeting:={visit count stats} ->! movement:={statistical bullet dodging}
 targeting:={visit count stats} ->! movement:={fluid movement}
 targeting:={visit count stats} ->! movement:={adapting oscillator movement}
@@ -2353,7 +2404,9 @@ targeting:={visit count stats} ->! movement:={wave surfing,true serving}
 targeting:={visit count stats} ->! movement:={randomwaves}
 targeting:={visit count stats} ->! movement:={stationary}
 targeting:={visit count stats} ->! code license:={gpl}
+targeting:={visit count stats} ->! movement:={surfing,go to}
 targeting:={visit count stats} ->! movement:={provocative movement}
+targeting:={visit count stats} ->! movement:={wall smoothing,random orbital movement}
 targeting:={visit count stats} ->! movement:={semi circular movement}
 targeting:={visit count stats} ->! movement:={wall hug movement}
 targeting:={visit count stats} ->! movement:={ramescape,anti mirror}
@@ -2537,6 +2590,7 @@ targeting:={dynamic clustering} ->! movement:={provocative movement}
 targeting:={dynamic clustering} ->! movement:={semi circular movement}
 targeting:={dynamic clustering} ->! movement:={wall hug movement}
 targeting:={dynamic clustering} ->! movement:={ramescape,anti mirror}
+targeting:={single tick pattern matching} ->! movement:={random movement,pusedo not moving}
 targeting:={single tick pattern matching} ->! movement:={linear movement}
 targeting:={single tick pattern matching} ->! movement:={flat movement}
 targeting:={single tick pattern matching} ->! code license:={kpl}
@@ -2564,6 +2618,8 @@ targeting:={single tick pattern matching} ->! code license:={freebsd}
 targeting:={single tick pattern matching} ->! movement:={statistical aom}
 targeting:={single tick pattern matching} ->! code license:={bsd}
 targeting:={single tick pattern matching} ->! movement:={ocnirpsng movement}
+targeting:={single tick pattern matching} ->! movement:={random movement,mosquito}
+targeting:={single tick pattern matching} ->! movement:={wave surfing,random movement}
 targeting:={single tick pattern matching} ->! movement:={reinforcement learning}
 targeting:={single tick pattern matching} ->! code license:={qkpl}
 targeting:={single tick pattern matching} ->! movement:={magictrick,bullet dodging,random bullet dodging}
@@ -2743,6 +2799,7 @@ targeting:={averaged linear targeting} ->! movement:={semi circular movement}
 targeting:={averaged linear targeting} ->! movement:={wall hug movement}
 targeting:={averaged linear targeting} ->! movement:={ramescape,anti mirror}
 movement:={orbital movement} ->! targeting:={guessfactor}
+movement:={orbital movement} ->! targeting:={guessfactor targeting,visit count stats}
 movement:={orbital movement} ->! targeting:={guessfactor targeting,anti surfer targeting}
 movement:={orbital movement} ->! code license:={gcwcd}
 movement:={orbital movement} ->! targeting:={circular targeting,segmented mean}
@@ -2833,6 +2890,7 @@ targeting:={guessfactor} ->! movement:={statistical aom}
 targeting:={guessfactor} ->! code license:={bsd}
 targeting:={guessfactor} ->! movement:={ocnirpsng movement}
 targeting:={guessfactor} ->! movement:={random movement,mosquito}
+targeting:={guessfactor} ->! movement:={wave surfing,random movement}
 targeting:={guessfactor} ->! movement:={reinforcement learning}
 targeting:={guessfactor} ->! code license:={qkpl}
 targeting:={guessfactor} ->! movement:={magictrick,bullet dodging,random bullet dodging}
@@ -2841,7 +2899,9 @@ targeting:={guessfactor} ->! movement:={one way}
 targeting:={guessfactor} ->! movement:={statistical bullet dodging}
 targeting:={guessfactor} ->! movement:={fluid movement}
 targeting:={guessfactor} ->! movement:={adapting oscillator movement}
+targeting:={guessfactor} ->! movement:={wave surfing,dodging bullets}
 targeting:={guessfactor} ->! movement:={orbital random movement}
+targeting:={guessfactor} ->! movement:={wave surfing,true serving}
 targeting:={guessfactor} ->! movement:={randomwaves}
 targeting:={guessfactor} ->! movement:={stationary}
 targeting:={guessfactor} ->! code license:={gpl}
@@ -2850,6 +2910,7 @@ targeting:={guessfactor} ->! movement:={semi circular movement}
 targeting:={guessfactor} ->! movement:={wall hug movement}
 targeting:={guessfactor} ->! movement:={ramescape,anti mirror}
 movement:={aggressive movement} ->! code license:={gcwcd}
+movement:={aggressive movement} ->! targeting:={circular targeting,segmented mean}
 movement:={aggressive movement} ->! targeting:={heading circular targeting,enemy velocity,averaged velocity,last place i hit}
 movement:={aggressive movement} ->! code license:={accsl}
 movement:={aggressive movement} ->! code license:={npl}
@@ -2868,13 +2929,14 @@ movement:={aggressive movement} ->! code license:={gpl}
 movement:={aggressive movement} ->! targeting:={linear circular targeting}
 movement:={aggressive movement} ->! targeting:={bearing offset targeting,segmented last}
 movement:={aggressive movement} ->! targeting:={reduced linear targeting}
+targeting:={guessfactor targeting,visit count stats} ->! movement:={go to}
 movement:={go to} ->! targeting:={guessfactor targeting,anti surfer targeting}
-movement:={go to} ->! targeting:={guessfactor targeting,crowd targeting,dynamic clustering}
 movement:={go to} ->! code license:={gcwcd}
 movement:={go to} ->! targeting:={heading circular targeting,enemy velocity,averaged velocity,last place i hit}
 movement:={go to} ->! code license:={accsl}
 movement:={go to} ->! code license:={npl}
 movement:={go to} ->! targeting:={shadow,melee gun}
+movement:={go to} ->! targeting:={guessfactor targeting,swarm targeting,dynamic clustering,random targeting}
 movement:={go to} ->! targeting:={guessfactor targeting,dynamic clustering,displacement vectors}
 movement:={go to} ->! targeting:={single guessfactor gun}
 movement:={go to} ->! code license:={freebsd}
@@ -2901,6 +2963,7 @@ targeting:={guessfactor targeting,anti surfer targeting} ->! movement:={wave sur
 targeting:={guessfactor targeting,anti surfer targeting} ->! code license:={gpl}
 targeting:={guessfactor targeting,anti surfer targeting} ->! movement:={ramescape,anti mirror}
 targeting:={guessfactor targeting,crowd targeting,dynamic clustering} ->! movement:={wave surfing,true serving}
+targeting:={guessfactor targeting,crowd targeting,dynamic clustering} ->! movement:={surfing,go to}
 code license:={gcwcd} ->! targeting:={circular targeting,segmented mean}
 code license:={gcwcd} ->! movement:={random pattern movement}
 code license:={gcwcd} ->! movement:={anti pattern at distance}

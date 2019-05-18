@@ -1,0 +1,315 @@
+company:={zemana} -> price:={trialware}
+country of origin:={turkey} -> price:={trialware}
+company:={virusblokada} -> price:={non-free}
+country of origin:={belarus} -> price:={non-free}
+company:={symantec (originally pc tools)} -> country of origin:={united states}
+company:={symantec (originally pc tools)} -> av test
+company:={symantec (originally pc tools)} -> web protection
+company:={symantec (originally pc tools)} -> price:={non-free}
+company:={symantec (originally pc tools)} -> virus bulletin vb100
+company:={strayspark computing} -> country of origin:={united kingdom}
+company:={strayspark computing} -> price:={non-free}
+company:={strayspark computing} -> support
+company:={cisco (originally immunet)} -> price:={free}
+company:={cisco (originally immunet)} -> country of origin:={united states}
+company:={cisco (originally immunet)} -> cloudav
+company:={cisco (originally immunet)} -> email security
+company:={quick heal} -> country of origin:={india}
+company:={quick heal} -> antispam
+company:={quick heal} -> ids
+company:={quick heal} -> firewall
+company:={quick heal} -> boot-time scans
+company:={quick heal} -> virus bulletin vb100
+company:={qihoo 360} -> country of origin:={china}
+company:={qihoo 360} -> price:={free}
+company:={qihoo 360} -> cloudav
+company:={qihoo 360} -> macro protection
+company:={qihoo 360} -> boot-time scans
+company:={qihoo 360} -> web protection
+company:={psafe} -> price:={free}
+country of origin:={brazil} -> price:={free}
+company:={psafe} -> av comparatives
+country of origin:={brazil} -> av comparatives
+company:={psafe} -> macro protection
+country of origin:={brazil} -> macro protection
+company:={psafe} -> web protection
+country of origin:={brazil} -> web protection
+company:={psafe} -> heuristics
+country of origin:={brazil} -> heuristics
+company:={psafe} -> support
+country of origin:={brazil} -> support
+company:={nano security} -> country of origin:={russia}
+company:={nano security} -> price:={free}
+company:={nano security} -> macro protection
+company:={nano security} -> email security
+company:={nano security} -> web protection
+company:={nano security} -> heuristics
+company:={microsoft} -> price:={free}
+company:={microsoft} -> country of origin:={united states}
+company:={microsoft} -> virus bulletin vb100
+company:={microsoft} -> support
+company:={kingsoft} -> country of origin:={china}
+price:={shareware} -> country of origin:={china}
+company:={kingsoft} -> firewall
+price:={shareware} -> firewall
+company:={is3} -> price:={trialware}
+company:={is3} -> country of origin:={united states}
+company:={iolo technologies} -> country of origin:={united states}
+company:={iolo technologies} -> price:={non-free}
+company:={iolo technologies} -> support
+company:={iobit} -> price:={free}
+company:={iobit} -> country of origin:={united states}
+company:={ikarus} -> country of origin:={australia}
+company:={ikarus} -> av comparatives
+company:={ikarus} -> web protection
+company:={ikarus} -> price:={non-free}
+company:={ikarus} -> virus bulletin vb100
+company:={ikarus} -> support
+company:={fortinet} -> country of origin:={united states}
+company:={fortinet} -> price:={non-free}
+company:={fortinet} -> support
+company:={frisk software} -> price:={trialware}
+country of origin:={iceland} -> price:={trialware}
+company:={frisk software} -> macro protection
+country of origin:={iceland} -> macro protection
+company:={frisk software} -> boot-time scans
+country of origin:={iceland} -> boot-time scans
+company:={frisk software} -> email security
+country of origin:={iceland} -> email security
+company:={frisk software} -> virus bulletin vb100
+country of origin:={iceland} -> virus bulletin vb100
+company:={cysec} -> country of origin:={united kingdom}
+company:={cysec} -> price:={free}
+company:={cysec} -> email security
+company:={clamwin} -> country of origin:={australia}
+license:={gnu gpl} -> country of origin:={australia}
+company:={clamwin} -> price:={free}
+license:={gnu gpl} -> price:={free}
+company:={clamwin} -> boot-time scans
+license:={gnu gpl} -> boot-time scans
+company:={ahnlab} -> av comparatives
+country of origin:={south korea} -> av comparatives
+company:={ahnlab} -> email security
+country of origin:={south korea} -> email security
+company:={ahnlab} -> web protection
+country of origin:={south korea} -> web protection
+company:={ahnlab} -> price:={non-free}
+country of origin:={south korea} -> price:={non-free}
+company:={ahnlab} -> virus bulletin vb100
+country of origin:={south korea} -> virus bulletin vb100
+company:={ahnlab} -> heuristics
+country of origin:={south korea} -> heuristics
+company:={ahnlab} -> support
+country of origin:={south korea} -> support
+company:={webroot} -> country of origin:={united states}
+company:={webroot} -> av comparatives
+company:={webroot} -> virus bulletin vb100
+company:={webroot} -> support
+company:={trustport} -> country of origin:={czech republic}
+company:={trend micro} -> av comparatives
+country of origin:={japan} -> av comparatives
+company:={trend micro} -> boot-time scans
+country of origin:={japan} -> boot-time scans
+company:={trend micro} -> price:={non-free}
+country of origin:={japan} -> price:={non-free}
+company:={trend micro} -> virus bulletin vb100
+country of origin:={japan} -> virus bulletin vb100
+company:={trend micro} -> support
+country of origin:={japan} -> support
+company:={tg soft} -> country of origin:={italy}
+company:={tg soft} -> ids
+company:={tg soft} -> macro protection
+company:={symantec} -> country of origin:={united states}
+company:={symantec} -> boot-time scans
+company:={symantec} -> av test
+company:={symantec} -> email security
+company:={symantec} -> price:={non-free}
+company:={symantec} -> virus bulletin vb100
+company:={symantec} -> support
+company:={sophos} -> country of origin:={united kingdom}
+company:={sophos} -> ids
+company:={sophos} -> firewall
+company:={sophos} -> cloudav
+company:={sophos} -> av comparatives
+company:={sophos} -> macro protection
+company:={sophos} -> boot-time scans
+company:={sophos} -> email security
+company:={sophos} -> price:={non-free}
+company:={sophos} -> virus bulletin vb100
+company:={scandium security} -> virus bulletin vb100
+country of origin:={cyprus} -> virus bulletin vb100
+company:={panda security} -> firewall
+country of origin:={spain} -> firewall
+company:={panda security} -> cloudav
+country of origin:={spain} -> cloudav
+company:={panda security} -> av comparatives
+country of origin:={spain} -> av comparatives
+company:={panda security} -> macro protection
+country of origin:={spain} -> macro protection
+company:={panda security} -> boot-time scans
+country of origin:={spain} -> boot-time scans
+company:={panda security} -> price:={non-free}
+country of origin:={spain} -> price:={non-free}
+company:={panda security} -> virus bulletin vb100
+country of origin:={spain} -> virus bulletin vb100
+company:={mcafee} -> country of origin:={united states}
+company:={mcafee} -> av comparatives
+company:={mcafee} -> macro protection
+company:={mcafee} -> boot-time scans
+company:={mcafee} -> email security
+company:={mcafee} -> price:={non-free}
+company:={mcafee} -> virus bulletin vb100
+company:={mcafee} -> support
+country of origin:={china} -> av comparatives
+country of origin:={china} -> virus bulletin vb100
+company:={kaspersky lab} -> country of origin:={russia}
+company:={kaspersky lab} -> av comparatives
+company:={kaspersky lab} -> boot-time scans
+company:={kaspersky lab} -> email security
+company:={kaspersky lab} -> web protection
+company:={kaspersky lab} -> price:={non-free}
+company:={kaspersky lab} -> virus bulletin vb100
+company:={k7 computing} -> country of origin:={india}
+company:={k7 computing} -> email security
+company:={gfi software} -> ips
+country of origin:={malta} -> ips
+company:={gfi software} -> antispam
+country of origin:={malta} -> antispam
+company:={gfi software} -> firewall
+country of origin:={malta} -> firewall
+company:={gfi software} -> cloudav
+country of origin:={malta} -> cloudav
+company:={gfi software} -> av comparatives
+country of origin:={malta} -> av comparatives
+company:={gfi software} -> macro protection
+country of origin:={malta} -> macro protection
+company:={gfi software} -> web protection
+country of origin:={malta} -> web protection
+company:={gfi software} -> virus bulletin vb100
+country of origin:={malta} -> virus bulletin vb100
+company:={g data software} -> country of origin:={germany}
+company:={g data software} -> price:={non-free}
+company:={f-secure} -> av comparatives
+country of origin:={finland} -> av comparatives
+company:={f-secure} -> macro protection
+country of origin:={finland} -> macro protection
+company:={f-secure} -> boot-time scans
+country of origin:={finland} -> boot-time scans
+company:={f-secure} -> email security
+country of origin:={finland} -> email security
+company:={f-secure} -> price:={non-free}
+country of origin:={finland} -> price:={non-free}
+company:={f-secure} -> virus bulletin vb100
+country of origin:={finland} -> virus bulletin vb100
+company:={f-secure} -> support
+country of origin:={finland} -> support
+company:={eset} -> price:={trialware}
+country of origin:={slovakia} -> price:={trialware}
+company:={eset} -> cloudav
+country of origin:={slovakia} -> cloudav
+company:={eset} -> macro protection
+country of origin:={slovakia} -> macro protection
+company:={eset} -> boot-time scans
+country of origin:={slovakia} -> boot-time scans
+company:={eset} -> email security
+country of origin:={slovakia} -> email security
+company:={eset} -> web protection
+country of origin:={slovakia} -> web protection
+company:={eset} -> virus bulletin vb100
+country of origin:={slovakia} -> virus bulletin vb100
+company:={dr. web} -> country of origin:={russia}
+country of origin:={australia} -> email security
+country of origin:={australia} -> heuristics
+company:={check point} -> ips
+company:={check point} -> country of origin:={united states}
+company:={check point} -> firewall
+company:={check point} -> price:={non-free}
+company:={check point} -> virus bulletin vb100
+company:={bullguard} -> country of origin:={united kingdom}
+company:={bullguard} -> av comparatives
+company:={bullguard} -> boot-time scans
+company:={bullguard} -> price:={non-free}
+company:={bullguard} -> virus bulletin vb100
+company:={bullguard} -> support
+company:={avira} -> country of origin:={germany}
+company:={avira} -> antispam
+company:={avira} -> email security
+company:={avetix} -> country of origin:={italy}
+company:={avetix} -> virus bulletin vb100
+company:={avetix} -> support
+company:={agnitum} -> country of origin:={russia}
+company:={agnitum} -> ips
+company:={agnitum} -> macro protection
+company:={agnitum} -> boot-time scans
+company:={agnitum} -> email security
+company:={agnitum} -> price:={non-free}
+country of origin:={india} -> macro protection
+country of origin:={india} -> price:={non-free}
+country of origin:={india} -> support
+company:={comodo group} -> country of origin:={united states}
+company:={comodo group} -> live update
+company:={bitdefender} -> cloudav
+country of origin:={romania} -> cloudav
+company:={bitdefender} -> boot-time scans
+country of origin:={romania} -> boot-time scans
+company:={bitdefender} -> web protection
+country of origin:={romania} -> web protection
+company:={bitdefender} -> virus bulletin vb100
+country of origin:={romania} -> virus bulletin vb100
+company:={avg technologies (grisoft)} -> country of origin:={czech republic}
+company:={avg technologies (grisoft)} -> av comparatives
+company:={avg technologies (grisoft)} -> macro protection
+company:={avg technologies (grisoft)} -> boot-time scans
+company:={avg technologies (grisoft)} -> web protection
+company:={avg technologies (grisoft)} -> virus bulletin vb100
+country of origin:={germany} -> av comparatives
+country of origin:={germany} -> macro protection
+country of origin:={germany} -> boot-time scans
+country of origin:={germany} -> web protection
+country of origin:={germany} -> virus bulletin vb100
+country of origin:={germany} -> support
+country of origin:={italy} -> web protection
+country of origin:={italy} -> heuristics
+company:={avast} -> country of origin:={czech republic}
+company:={avast} -> ids
+company:={avast} -> cloudav
+company:={avast} -> macro protection
+company:={avast} -> boot-time scans
+company:={avast} -> email security
+company:={avast} -> web protection
+country of origin:={united kingdom} -> live update
+country of origin:={united kingdom} -> license:={proprietary}
+country of origin:={russia} -> support
+country of origin:={czech republic} -> support
+price:={trialware} -> support
+ips -> ids
+ips -> support
+price:={free} -> on-demand scan
+price:={free} -> on-access scan
+country of origin:={united states} -> license:={proprietary}
+antispam -> heuristics
+antispam -> support
+ids -> live update
+ids -> license:={proprietary}
+firewall -> live update
+firewall -> license:={proprietary}
+cloudav -> support
+av comparatives -> av test
+macro protection -> live update
+macro protection -> license:={proprietary}
+av test -> live update
+av test -> license:={proprietary}
+boot-time scans -> heuristics
+email security -> live update
+web protection -> live update
+web protection -> license:={proprietary}
+price:={non-free} -> license:={proprietary}
+virus bulletin vb100 -> live update
+virus bulletin vb100 -> license:={proprietary}
+heuristics -> live update
+support -> live update
+support -> license:={proprietary}
+live update -> on-demand scan
+live update -> on-access scan
+license:={proprietary} -> on-demand scan
+license:={proprietary} -> on-access scan

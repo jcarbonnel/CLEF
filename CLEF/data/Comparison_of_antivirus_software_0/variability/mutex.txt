@@ -1,0 +1,1615 @@
+license:={proprietary} ->! company:={clamwin}
+live update ->! company:={iobit}
+live update ->! company:={virusblokada}
+live update ->! country of origin:={belarus}
+support ->! company:={tg soft}
+support ->! company:={clamwin}
+support ->! license:={gnu gpl}
+support ->! company:={cysec}
+support ->! company:={iobit}
+support ->! company:={kingsoft}
+support ->! price:={shareware}
+support ->! company:={symantec (originally pc tools)}
+support ->! company:={virusblokada}
+support ->! country of origin:={belarus}
+heuristics ->! company:={check point}
+heuristics ->! company:={dr. web}
+heuristics ->! company:={k7 computing}
+heuristics ->! company:={scandium security}
+heuristics ->! country of origin:={cyprus}
+heuristics ->! company:={trustport}
+heuristics ->! company:={webroot}
+heuristics ->! company:={cysec}
+heuristics ->! company:={fortinet}
+heuristics ->! company:={iobit}
+heuristics ->! company:={iolo technologies}
+heuristics ->! company:={is3}
+heuristics ->! company:={kingsoft}
+heuristics ->! price:={shareware}
+heuristics ->! company:={microsoft}
+heuristics ->! company:={cisco (originally immunet)}
+heuristics ->! company:={strayspark computing}
+heuristics ->! company:={symantec (originally pc tools)}
+heuristics ->! company:={virusblokada}
+heuristics ->! country of origin:={belarus}
+heuristics ->! company:={zemana}
+heuristics ->! country of origin:={turkey}
+virus bulletin vb100 ->! company:={comodo group}
+virus bulletin vb100 ->! company:={dr. web}
+virus bulletin vb100 ->! company:={k7 computing}
+virus bulletin vb100 ->! company:={tg soft}
+virus bulletin vb100 ->! company:={trustport}
+virus bulletin vb100 ->! company:={clamwin}
+virus bulletin vb100 ->! license:={gnu gpl}
+virus bulletin vb100 ->! company:={cysec}
+virus bulletin vb100 ->! company:={fortinet}
+virus bulletin vb100 ->! company:={iobit}
+virus bulletin vb100 ->! company:={iolo technologies}
+virus bulletin vb100 ->! company:={is3}
+virus bulletin vb100 ->! company:={nano security}
+virus bulletin vb100 ->! company:={psafe}
+virus bulletin vb100 ->! country of origin:={brazil}
+virus bulletin vb100 ->! company:={cisco (originally immunet)}
+virus bulletin vb100 ->! company:={strayspark computing}
+virus bulletin vb100 ->! company:={virusblokada}
+virus bulletin vb100 ->! country of origin:={belarus}
+virus bulletin vb100 ->! company:={zemana}
+virus bulletin vb100 ->! country of origin:={turkey}
+price:={non-free} ->! country of origin:={czech republic}
+price:={non-free} ->! company:={avast}
+price:={non-free} ->! country of origin:={italy}
+price:={non-free} ->! company:={eset}
+price:={non-free} ->! country of origin:={slovakia}
+price:={non-free} ->! country of origin:={china}
+price:={non-free} ->! company:={clamwin}
+price:={non-free} ->! license:={gnu gpl}
+price:={non-free} ->! company:={cysec}
+price:={non-free} ->! company:={frisk software}
+price:={non-free} ->! country of origin:={iceland}
+price:={non-free} ->! company:={iobit}
+price:={non-free} ->! company:={is3}
+price:={non-free} ->! company:={kingsoft}
+price:={non-free} ->! company:={microsoft}
+price:={non-free} ->! company:={nano security}
+price:={non-free} ->! company:={psafe}
+price:={non-free} ->! country of origin:={brazil}
+price:={non-free} ->! company:={qihoo 360}
+price:={non-free} ->! company:={cisco (originally immunet)}
+price:={non-free} ->! company:={zemana}
+price:={non-free} ->! country of origin:={turkey}
+web protection ->! country of origin:={united kingdom}
+web protection ->! country of origin:={india}
+web protection ->! company:={clamwin}
+web protection ->! license:={gnu gpl}
+web protection ->! company:={cysec}
+web protection ->! company:={frisk software}
+web protection ->! country of origin:={iceland}
+web protection ->! company:={fortinet}
+web protection ->! company:={iobit}
+web protection ->! company:={iolo technologies}
+web protection ->! company:={is3}
+web protection ->! company:={kingsoft}
+web protection ->! price:={shareware}
+web protection ->! company:={microsoft}
+web protection ->! company:={quick heal}
+web protection ->! company:={cisco (originally immunet)}
+web protection ->! company:={strayspark computing}
+web protection ->! company:={virusblokada}
+web protection ->! country of origin:={belarus}
+web protection ->! company:={zemana}
+web protection ->! country of origin:={turkey}
+email security ->! country of origin:={italy}
+email security ->! company:={comodo group}
+email security ->! company:={avetix}
+email security ->! company:={dr. web}
+email security ->! country of origin:={china}
+email security ->! company:={trend micro}
+email security ->! country of origin:={japan}
+email security ->! company:={fortinet}
+email security ->! company:={iobit}
+email security ->! company:={iolo technologies}
+email security ->! company:={is3}
+email security ->! company:={kingsoft}
+email security ->! price:={shareware}
+email security ->! company:={microsoft}
+email security ->! company:={psafe}
+email security ->! country of origin:={brazil}
+email security ->! company:={qihoo 360}
+email security ->! company:={quick heal}
+email security ->! company:={strayspark computing}
+email security ->! company:={symantec (originally pc tools)}
+email security ->! company:={virusblokada}
+email security ->! country of origin:={belarus}
+email security ->! company:={zemana}
+email security ->! country of origin:={turkey}
+boot-time scans ->! company:={comodo group}
+boot-time scans ->! company:={avetix}
+boot-time scans ->! company:={check point}
+boot-time scans ->! company:={dr. web}
+boot-time scans ->! company:={gfi software}
+boot-time scans ->! country of origin:={malta}
+boot-time scans ->! company:={k7 computing}
+boot-time scans ->! company:={scandium security}
+boot-time scans ->! country of origin:={cyprus}
+boot-time scans ->! company:={tg soft}
+boot-time scans ->! company:={trustport}
+boot-time scans ->! company:={webroot}
+boot-time scans ->! company:={ahnlab}
+boot-time scans ->! country of origin:={south korea}
+boot-time scans ->! company:={cysec}
+boot-time scans ->! company:={fortinet}
+boot-time scans ->! company:={ikarus}
+boot-time scans ->! company:={iobit}
+boot-time scans ->! company:={iolo technologies}
+boot-time scans ->! company:={is3}
+boot-time scans ->! company:={kingsoft}
+boot-time scans ->! price:={shareware}
+boot-time scans ->! company:={microsoft}
+boot-time scans ->! company:={nano security}
+boot-time scans ->! company:={psafe}
+boot-time scans ->! country of origin:={brazil}
+boot-time scans ->! company:={cisco (originally immunet)}
+boot-time scans ->! company:={strayspark computing}
+boot-time scans ->! company:={symantec (originally pc tools)}
+boot-time scans ->! company:={virusblokada}
+boot-time scans ->! country of origin:={belarus}
+boot-time scans ->! company:={zemana}
+boot-time scans ->! country of origin:={turkey}
+av test ->! country of origin:={italy}
+av test ->! company:={bitdefender}
+av test ->! country of origin:={romania}
+av test ->! company:={comodo group}
+av test ->! country of origin:={india}
+av test ->! company:={agnitum}
+av test ->! company:={avetix}
+av test ->! company:={check point}
+av test ->! company:={dr. web}
+av test ->! company:={eset}
+av test ->! country of origin:={slovakia}
+av test ->! company:={k7 computing}
+av test ->! company:={scandium security}
+av test ->! country of origin:={cyprus}
+av test ->! company:={tg soft}
+av test ->! company:={trustport}
+av test ->! company:={clamwin}
+av test ->! license:={gnu gpl}
+av test ->! company:={cysec}
+av test ->! company:={frisk software}
+av test ->! country of origin:={iceland}
+av test ->! company:={fortinet}
+av test ->! company:={iobit}
+av test ->! company:={iolo technologies}
+av test ->! company:={is3}
+av test ->! company:={microsoft}
+av test ->! company:={nano security}
+av test ->! company:={quick heal}
+av test ->! company:={cisco (originally immunet)}
+av test ->! company:={strayspark computing}
+av test ->! company:={virusblokada}
+av test ->! country of origin:={belarus}
+av test ->! company:={zemana}
+av test ->! country of origin:={turkey}
+macro protection ->! company:={bitdefender}
+macro protection ->! country of origin:={romania}
+macro protection ->! company:={comodo group}
+macro protection ->! company:={avetix}
+macro protection ->! company:={bullguard}
+macro protection ->! company:={check point}
+macro protection ->! country of origin:={australia}
+macro protection ->! company:={dr. web}
+macro protection ->! company:={scandium security}
+macro protection ->! country of origin:={cyprus}
+macro protection ->! company:={symantec}
+macro protection ->! company:={trend micro}
+macro protection ->! country of origin:={japan}
+macro protection ->! company:={trustport}
+macro protection ->! company:={webroot}
+macro protection ->! company:={ahnlab}
+macro protection ->! country of origin:={south korea}
+macro protection ->! company:={clamwin}
+macro protection ->! license:={gnu gpl}
+macro protection ->! company:={cysec}
+macro protection ->! company:={fortinet}
+macro protection ->! company:={ikarus}
+macro protection ->! company:={iobit}
+macro protection ->! company:={iolo technologies}
+macro protection ->! company:={is3}
+macro protection ->! company:={kingsoft}
+macro protection ->! price:={shareware}
+macro protection ->! company:={microsoft}
+macro protection ->! company:={cisco (originally immunet)}
+macro protection ->! company:={strayspark computing}
+macro protection ->! company:={symantec (originally pc tools)}
+macro protection ->! company:={virusblokada}
+macro protection ->! country of origin:={belarus}
+macro protection ->! company:={zemana}
+macro protection ->! country of origin:={turkey}
+av comparatives ->! price:={trialware}
+av comparatives ->! country of origin:={italy}
+av comparatives ->! company:={comodo group}
+av comparatives ->! country of origin:={india}
+av comparatives ->! company:={agnitum}
+av comparatives ->! company:={avetix}
+av comparatives ->! company:={check point}
+av comparatives ->! company:={dr. web}
+av comparatives ->! company:={k7 computing}
+av comparatives ->! company:={scandium security}
+av comparatives ->! country of origin:={cyprus}
+av comparatives ->! company:={symantec}
+av comparatives ->! company:={tg soft}
+av comparatives ->! company:={trustport}
+av comparatives ->! company:={clamwin}
+av comparatives ->! license:={gnu gpl}
+av comparatives ->! company:={cysec}
+av comparatives ->! company:={frisk software}
+av comparatives ->! country of origin:={iceland}
+av comparatives ->! company:={fortinet}
+av comparatives ->! company:={iobit}
+av comparatives ->! company:={iolo technologies}
+av comparatives ->! company:={is3}
+av comparatives ->! company:={microsoft}
+av comparatives ->! company:={nano security}
+av comparatives ->! company:={quick heal}
+av comparatives ->! company:={cisco (originally immunet)}
+av comparatives ->! company:={strayspark computing}
+av comparatives ->! company:={symantec (originally pc tools)}
+av comparatives ->! company:={virusblokada}
+av comparatives ->! country of origin:={belarus}
+av comparatives ->! company:={zemana}
+av comparatives ->! country of origin:={turkey}
+cloudav ->! country of origin:={russia}
+cloudav ->! country of origin:={italy}
+cloudav ->! country of origin:={germany}
+cloudav ->! company:={comodo group}
+cloudav ->! country of origin:={india}
+cloudav ->! company:={agnitum}
+cloudav ->! company:={avetix}
+cloudav ->! company:={avira}
+cloudav ->! company:={bullguard}
+cloudav ->! company:={check point}
+cloudav ->! country of origin:={australia}
+cloudav ->! company:={dr. web}
+cloudav ->! company:={k7 computing}
+cloudav ->! company:={scandium security}
+cloudav ->! country of origin:={cyprus}
+cloudav ->! company:={trustport}
+cloudav ->! company:={webroot}
+cloudav ->! company:={ahnlab}
+cloudav ->! country of origin:={south korea}
+cloudav ->! company:={clamwin}
+cloudav ->! license:={gnu gpl}
+cloudav ->! company:={cysec}
+cloudav ->! company:={frisk software}
+cloudav ->! country of origin:={iceland}
+cloudav ->! company:={fortinet}
+cloudav ->! company:={ikarus}
+cloudav ->! company:={iobit}
+cloudav ->! company:={iolo technologies}
+cloudav ->! company:={is3}
+cloudav ->! company:={kingsoft}
+cloudav ->! price:={shareware}
+cloudav ->! company:={microsoft}
+cloudav ->! company:={nano security}
+cloudav ->! company:={psafe}
+cloudav ->! country of origin:={brazil}
+cloudav ->! company:={quick heal}
+cloudav ->! company:={strayspark computing}
+cloudav ->! company:={symantec (originally pc tools)}
+cloudav ->! company:={virusblokada}
+cloudav ->! country of origin:={belarus}
+cloudav ->! company:={zemana}
+cloudav ->! country of origin:={turkey}
+firewall ->! price:={free}
+firewall ->! country of origin:={czech republic}
+firewall ->! country of origin:={russia}
+firewall ->! country of origin:={italy}
+firewall ->! country of origin:={germany}
+firewall ->! company:={avetix}
+firewall ->! company:={avira}
+firewall ->! country of origin:={australia}
+firewall ->! company:={k7 computing}
+firewall ->! company:={scandium security}
+firewall ->! country of origin:={cyprus}
+firewall ->! company:={trend micro}
+firewall ->! country of origin:={japan}
+firewall ->! company:={trustport}
+firewall ->! company:={webroot}
+firewall ->! company:={ahnlab}
+firewall ->! country of origin:={south korea}
+firewall ->! company:={clamwin}
+firewall ->! license:={gnu gpl}
+firewall ->! company:={cysec}
+firewall ->! company:={frisk software}
+firewall ->! country of origin:={iceland}
+firewall ->! company:={fortinet}
+firewall ->! company:={ikarus}
+firewall ->! company:={iobit}
+firewall ->! company:={iolo technologies}
+firewall ->! company:={is3}
+firewall ->! company:={microsoft}
+firewall ->! company:={nano security}
+firewall ->! company:={psafe}
+firewall ->! country of origin:={brazil}
+firewall ->! company:={qihoo 360}
+firewall ->! company:={cisco (originally immunet)}
+firewall ->! company:={strayspark computing}
+firewall ->! company:={symantec (originally pc tools)}
+firewall ->! company:={virusblokada}
+firewall ->! country of origin:={belarus}
+firewall ->! company:={zemana}
+firewall ->! country of origin:={turkey}
+ids ->! price:={free}
+ids ->! price:={trialware}
+ids ->! country of origin:={germany}
+ids ->! company:={avg technologies (grisoft)}
+ids ->! company:={bitdefender}
+ids ->! country of origin:={romania}
+ids ->! company:={comodo group}
+ids ->! company:={avetix}
+ids ->! company:={avira}
+ids ->! company:={bullguard}
+ids ->! country of origin:={australia}
+ids ->! company:={dr. web}
+ids ->! company:={eset}
+ids ->! country of origin:={slovakia}
+ids ->! company:={f-secure}
+ids ->! country of origin:={finland}
+ids ->! company:={k7 computing}
+ids ->! company:={kaspersky lab}
+ids ->! country of origin:={china}
+ids ->! company:={mcafee}
+ids ->! company:={panda security}
+ids ->! country of origin:={spain}
+ids ->! company:={scandium security}
+ids ->! country of origin:={cyprus}
+ids ->! company:={symantec}
+ids ->! company:={trend micro}
+ids ->! country of origin:={japan}
+ids ->! company:={trustport}
+ids ->! company:={webroot}
+ids ->! company:={ahnlab}
+ids ->! country of origin:={south korea}
+ids ->! company:={clamwin}
+ids ->! license:={gnu gpl}
+ids ->! company:={cysec}
+ids ->! company:={frisk software}
+ids ->! country of origin:={iceland}
+ids ->! company:={fortinet}
+ids ->! company:={ikarus}
+ids ->! company:={iobit}
+ids ->! company:={iolo technologies}
+ids ->! company:={is3}
+ids ->! company:={kingsoft}
+ids ->! price:={shareware}
+ids ->! company:={microsoft}
+ids ->! company:={nano security}
+ids ->! company:={psafe}
+ids ->! country of origin:={brazil}
+ids ->! company:={qihoo 360}
+ids ->! company:={cisco (originally immunet)}
+ids ->! company:={strayspark computing}
+ids ->! company:={symantec (originally pc tools)}
+ids ->! company:={virusblokada}
+ids ->! country of origin:={belarus}
+ids ->! company:={zemana}
+ids ->! country of origin:={turkey}
+antispam ->! country of origin:={united states}
+antispam ->! price:={free}
+antispam ->! country of origin:={czech republic}
+antispam ->! country of origin:={russia}
+antispam ->! country of origin:={united kingdom}
+antispam ->! country of origin:={italy}
+antispam ->! company:={comodo group}
+antispam ->! company:={agnitum}
+antispam ->! company:={avetix}
+antispam ->! company:={check point}
+antispam ->! country of origin:={australia}
+antispam ->! company:={dr. web}
+antispam ->! company:={k7 computing}
+antispam ->! country of origin:={china}
+antispam ->! company:={scandium security}
+antispam ->! country of origin:={cyprus}
+antispam ->! company:={tg soft}
+antispam ->! company:={trustport}
+antispam ->! company:={webroot}
+antispam ->! company:={ahnlab}
+antispam ->! country of origin:={south korea}
+antispam ->! company:={clamwin}
+antispam ->! license:={gnu gpl}
+antispam ->! company:={cysec}
+antispam ->! company:={frisk software}
+antispam ->! country of origin:={iceland}
+antispam ->! company:={fortinet}
+antispam ->! company:={ikarus}
+antispam ->! company:={iobit}
+antispam ->! company:={iolo technologies}
+antispam ->! company:={is3}
+antispam ->! company:={kingsoft}
+antispam ->! price:={shareware}
+antispam ->! company:={microsoft}
+antispam ->! company:={nano security}
+antispam ->! company:={psafe}
+antispam ->! country of origin:={brazil}
+antispam ->! company:={qihoo 360}
+antispam ->! company:={cisco (originally immunet)}
+antispam ->! company:={strayspark computing}
+antispam ->! company:={symantec (originally pc tools)}
+antispam ->! company:={virusblokada}
+antispam ->! country of origin:={belarus}
+antispam ->! company:={zemana}
+antispam ->! country of origin:={turkey}
+country of origin:={united states} ->! company:={avast}
+country of origin:={united states} ->! company:={avg technologies (grisoft)}
+country of origin:={united states} ->! company:={bitdefender}
+country of origin:={united states} ->! company:={agnitum}
+country of origin:={united states} ->! company:={avetix}
+country of origin:={united states} ->! company:={avira}
+country of origin:={united states} ->! company:={bullguard}
+country of origin:={united states} ->! company:={dr. web}
+country of origin:={united states} ->! company:={eset}
+country of origin:={united states} ->! company:={f-secure}
+country of origin:={united states} ->! company:={g data software}
+country of origin:={united states} ->! company:={gfi software}
+country of origin:={united states} ->! company:={k7 computing}
+country of origin:={united states} ->! company:={kaspersky lab}
+country of origin:={united states} ->! company:={panda security}
+country of origin:={united states} ->! company:={scandium security}
+country of origin:={united states} ->! company:={sophos}
+country of origin:={united states} ->! company:={tg soft}
+country of origin:={united states} ->! company:={trend micro}
+country of origin:={united states} ->! company:={trustport}
+country of origin:={united states} ->! company:={ahnlab}
+country of origin:={united states} ->! company:={clamwin}
+country of origin:={united states} ->! license:={gnu gpl}
+country of origin:={united states} ->! company:={cysec}
+country of origin:={united states} ->! company:={frisk software}
+country of origin:={united states} ->! company:={ikarus}
+country of origin:={united states} ->! company:={kingsoft}
+country of origin:={united states} ->! price:={shareware}
+country of origin:={united states} ->! company:={nano security}
+country of origin:={united states} ->! company:={psafe}
+country of origin:={united states} ->! company:={qihoo 360}
+country of origin:={united states} ->! company:={quick heal}
+country of origin:={united states} ->! company:={strayspark computing}
+country of origin:={united states} ->! company:={virusblokada}
+country of origin:={united states} ->! company:={zemana}
+price:={free} ->! ips
+price:={free} ->! country of origin:={czech republic}
+price:={free} ->! country of origin:={italy}
+price:={free} ->! country of origin:={germany}
+price:={free} ->! country of origin:={india}
+price:={free} ->! company:={agnitum}
+price:={free} ->! company:={bullguard}
+price:={free} ->! company:={check point}
+price:={free} ->! company:={dr. web}
+price:={free} ->! company:={eset}
+price:={free} ->! country of origin:={slovakia}
+price:={free} ->! company:={f-secure}
+price:={free} ->! country of origin:={finland}
+price:={free} ->! company:={g data software}
+price:={free} ->! company:={gfi software}
+price:={free} ->! country of origin:={malta}
+price:={free} ->! company:={k7 computing}
+price:={free} ->! company:={kaspersky lab}
+price:={free} ->! company:={mcafee}
+price:={free} ->! company:={panda security}
+price:={free} ->! country of origin:={spain}
+price:={free} ->! company:={sophos}
+price:={free} ->! company:={symantec}
+price:={free} ->! company:={trend micro}
+price:={free} ->! country of origin:={japan}
+price:={free} ->! company:={trustport}
+price:={free} ->! company:={webroot}
+price:={free} ->! company:={ahnlab}
+price:={free} ->! country of origin:={south korea}
+price:={free} ->! company:={frisk software}
+price:={free} ->! country of origin:={iceland}
+price:={free} ->! company:={fortinet}
+price:={free} ->! company:={ikarus}
+price:={free} ->! company:={iolo technologies}
+price:={free} ->! company:={is3}
+price:={free} ->! company:={kingsoft}
+price:={free} ->! company:={quick heal}
+price:={free} ->! company:={strayspark computing}
+price:={free} ->! company:={symantec (originally pc tools)}
+price:={free} ->! company:={virusblokada}
+price:={free} ->! country of origin:={belarus}
+price:={free} ->! company:={zemana}
+price:={free} ->! country of origin:={turkey}
+ips ->! price:={trialware}
+ips ->! country of origin:={czech republic}
+ips ->! country of origin:={united kingdom}
+ips ->! company:={avast}
+ips ->! country of origin:={italy}
+ips ->! country of origin:={germany}
+ips ->! company:={comodo group}
+ips ->! country of origin:={india}
+ips ->! company:={avetix}
+ips ->! company:={avira}
+ips ->! company:={bullguard}
+ips ->! country of origin:={australia}
+ips ->! company:={dr. web}
+ips ->! company:={g data software}
+ips ->! company:={k7 computing}
+ips ->! country of origin:={china}
+ips ->! company:={scandium security}
+ips ->! country of origin:={cyprus}
+ips ->! company:={tg soft}
+ips ->! company:={trend micro}
+ips ->! country of origin:={japan}
+ips ->! company:={trustport}
+ips ->! company:={webroot}
+ips ->! company:={ahnlab}
+ips ->! country of origin:={south korea}
+ips ->! company:={clamwin}
+ips ->! license:={gnu gpl}
+ips ->! company:={cysec}
+ips ->! company:={frisk software}
+ips ->! country of origin:={iceland}
+ips ->! company:={fortinet}
+ips ->! company:={ikarus}
+ips ->! company:={iobit}
+ips ->! company:={iolo technologies}
+ips ->! company:={is3}
+ips ->! company:={kingsoft}
+ips ->! price:={shareware}
+ips ->! company:={microsoft}
+ips ->! company:={nano security}
+ips ->! company:={psafe}
+ips ->! country of origin:={brazil}
+ips ->! company:={qihoo 360}
+ips ->! company:={quick heal}
+ips ->! company:={cisco (originally immunet)}
+ips ->! company:={strayspark computing}
+ips ->! company:={symantec (originally pc tools)}
+ips ->! company:={virusblokada}
+ips ->! country of origin:={belarus}
+ips ->! company:={zemana}
+ips ->! country of origin:={turkey}
+price:={trialware} ->! country of origin:={czech republic}
+price:={trialware} ->! country of origin:={russia}
+price:={trialware} ->! country of origin:={united kingdom}
+price:={trialware} ->! country of origin:={italy}
+price:={trialware} ->! country of origin:={germany}
+price:={trialware} ->! company:={avg technologies (grisoft)}
+price:={trialware} ->! company:={bitdefender}
+price:={trialware} ->! country of origin:={romania}
+price:={trialware} ->! company:={comodo group}
+price:={trialware} ->! country of origin:={india}
+price:={trialware} ->! company:={agnitum}
+price:={trialware} ->! company:={avetix}
+price:={trialware} ->! company:={avira}
+price:={trialware} ->! company:={bullguard}
+price:={trialware} ->! company:={check point}
+price:={trialware} ->! country of origin:={australia}
+price:={trialware} ->! company:={f-secure}
+price:={trialware} ->! country of origin:={finland}
+price:={trialware} ->! company:={g data software}
+price:={trialware} ->! company:={k7 computing}
+price:={trialware} ->! company:={kaspersky lab}
+price:={trialware} ->! country of origin:={china}
+price:={trialware} ->! company:={mcafee}
+price:={trialware} ->! company:={panda security}
+price:={trialware} ->! country of origin:={spain}
+price:={trialware} ->! company:={scandium security}
+price:={trialware} ->! country of origin:={cyprus}
+price:={trialware} ->! company:={sophos}
+price:={trialware} ->! company:={symantec}
+price:={trialware} ->! company:={tg soft}
+price:={trialware} ->! company:={trend micro}
+price:={trialware} ->! country of origin:={japan}
+price:={trialware} ->! company:={ahnlab}
+price:={trialware} ->! country of origin:={south korea}
+price:={trialware} ->! company:={clamwin}
+price:={trialware} ->! license:={gnu gpl}
+price:={trialware} ->! company:={cysec}
+price:={trialware} ->! company:={fortinet}
+price:={trialware} ->! company:={ikarus}
+price:={trialware} ->! company:={iobit}
+price:={trialware} ->! company:={iolo technologies}
+price:={trialware} ->! company:={kingsoft}
+price:={trialware} ->! company:={microsoft}
+price:={trialware} ->! company:={nano security}
+price:={trialware} ->! company:={psafe}
+price:={trialware} ->! country of origin:={brazil}
+price:={trialware} ->! company:={qihoo 360}
+price:={trialware} ->! company:={quick heal}
+price:={trialware} ->! company:={cisco (originally immunet)}
+price:={trialware} ->! company:={strayspark computing}
+price:={trialware} ->! company:={symantec (originally pc tools)}
+price:={trialware} ->! company:={virusblokada}
+price:={trialware} ->! country of origin:={belarus}
+country of origin:={czech republic} ->! company:={bitdefender}
+country of origin:={czech republic} ->! company:={comodo group}
+country of origin:={czech republic} ->! company:={agnitum}
+country of origin:={czech republic} ->! company:={avetix}
+country of origin:={czech republic} ->! company:={avira}
+country of origin:={czech republic} ->! company:={bullguard}
+country of origin:={czech republic} ->! company:={check point}
+country of origin:={czech republic} ->! company:={dr. web}
+country of origin:={czech republic} ->! company:={eset}
+country of origin:={czech republic} ->! company:={f-secure}
+country of origin:={czech republic} ->! company:={g data software}
+country of origin:={czech republic} ->! company:={gfi software}
+country of origin:={czech republic} ->! company:={k7 computing}
+country of origin:={czech republic} ->! company:={kaspersky lab}
+country of origin:={czech republic} ->! company:={mcafee}
+country of origin:={czech republic} ->! company:={panda security}
+country of origin:={czech republic} ->! company:={scandium security}
+country of origin:={czech republic} ->! company:={sophos}
+country of origin:={czech republic} ->! company:={symantec}
+country of origin:={czech republic} ->! company:={tg soft}
+country of origin:={czech republic} ->! company:={trend micro}
+country of origin:={czech republic} ->! company:={webroot}
+country of origin:={czech republic} ->! company:={ahnlab}
+country of origin:={czech republic} ->! company:={clamwin}
+country of origin:={czech republic} ->! license:={gnu gpl}
+country of origin:={czech republic} ->! company:={cysec}
+country of origin:={czech republic} ->! company:={frisk software}
+country of origin:={czech republic} ->! company:={fortinet}
+country of origin:={czech republic} ->! company:={ikarus}
+country of origin:={czech republic} ->! company:={iobit}
+country of origin:={czech republic} ->! company:={iolo technologies}
+country of origin:={czech republic} ->! company:={is3}
+country of origin:={czech republic} ->! company:={kingsoft}
+country of origin:={czech republic} ->! price:={shareware}
+country of origin:={czech republic} ->! company:={microsoft}
+country of origin:={czech republic} ->! company:={nano security}
+country of origin:={czech republic} ->! company:={psafe}
+country of origin:={czech republic} ->! company:={qihoo 360}
+country of origin:={czech republic} ->! company:={quick heal}
+country of origin:={czech republic} ->! company:={cisco (originally immunet)}
+country of origin:={czech republic} ->! company:={strayspark computing}
+country of origin:={czech republic} ->! company:={symantec (originally pc tools)}
+country of origin:={czech republic} ->! company:={virusblokada}
+country of origin:={czech republic} ->! company:={zemana}
+country of origin:={russia} ->! company:={avast}
+country of origin:={russia} ->! company:={avg technologies (grisoft)}
+country of origin:={russia} ->! company:={bitdefender}
+country of origin:={russia} ->! company:={comodo group}
+country of origin:={russia} ->! company:={avetix}
+country of origin:={russia} ->! company:={avira}
+country of origin:={russia} ->! company:={bullguard}
+country of origin:={russia} ->! company:={check point}
+country of origin:={russia} ->! company:={eset}
+country of origin:={russia} ->! company:={f-secure}
+country of origin:={russia} ->! company:={g data software}
+country of origin:={russia} ->! company:={gfi software}
+country of origin:={russia} ->! company:={k7 computing}
+country of origin:={russia} ->! company:={mcafee}
+country of origin:={russia} ->! company:={panda security}
+country of origin:={russia} ->! company:={scandium security}
+country of origin:={russia} ->! company:={sophos}
+country of origin:={russia} ->! company:={symantec}
+country of origin:={russia} ->! company:={tg soft}
+country of origin:={russia} ->! company:={trend micro}
+country of origin:={russia} ->! company:={trustport}
+country of origin:={russia} ->! company:={webroot}
+country of origin:={russia} ->! company:={ahnlab}
+country of origin:={russia} ->! company:={clamwin}
+country of origin:={russia} ->! license:={gnu gpl}
+country of origin:={russia} ->! company:={cysec}
+country of origin:={russia} ->! company:={frisk software}
+country of origin:={russia} ->! company:={fortinet}
+country of origin:={russia} ->! company:={ikarus}
+country of origin:={russia} ->! company:={iobit}
+country of origin:={russia} ->! company:={iolo technologies}
+country of origin:={russia} ->! company:={is3}
+country of origin:={russia} ->! company:={kingsoft}
+country of origin:={russia} ->! price:={shareware}
+country of origin:={russia} ->! company:={microsoft}
+country of origin:={russia} ->! company:={psafe}
+country of origin:={russia} ->! company:={qihoo 360}
+country of origin:={russia} ->! company:={quick heal}
+country of origin:={russia} ->! company:={cisco (originally immunet)}
+country of origin:={russia} ->! company:={strayspark computing}
+country of origin:={russia} ->! company:={symantec (originally pc tools)}
+country of origin:={russia} ->! company:={virusblokada}
+country of origin:={russia} ->! company:={zemana}
+country of origin:={united kingdom} ->! company:={avast}
+country of origin:={united kingdom} ->! company:={avg technologies (grisoft)}
+country of origin:={united kingdom} ->! company:={bitdefender}
+country of origin:={united kingdom} ->! company:={comodo group}
+country of origin:={united kingdom} ->! company:={agnitum}
+country of origin:={united kingdom} ->! company:={avetix}
+country of origin:={united kingdom} ->! company:={avira}
+country of origin:={united kingdom} ->! company:={check point}
+country of origin:={united kingdom} ->! company:={dr. web}
+country of origin:={united kingdom} ->! company:={eset}
+country of origin:={united kingdom} ->! company:={f-secure}
+country of origin:={united kingdom} ->! company:={g data software}
+country of origin:={united kingdom} ->! company:={gfi software}
+country of origin:={united kingdom} ->! company:={k7 computing}
+country of origin:={united kingdom} ->! company:={kaspersky lab}
+country of origin:={united kingdom} ->! company:={mcafee}
+country of origin:={united kingdom} ->! company:={panda security}
+country of origin:={united kingdom} ->! company:={scandium security}
+country of origin:={united kingdom} ->! company:={symantec}
+country of origin:={united kingdom} ->! company:={tg soft}
+country of origin:={united kingdom} ->! company:={trend micro}
+country of origin:={united kingdom} ->! company:={trustport}
+country of origin:={united kingdom} ->! company:={webroot}
+country of origin:={united kingdom} ->! company:={ahnlab}
+country of origin:={united kingdom} ->! company:={clamwin}
+country of origin:={united kingdom} ->! license:={gnu gpl}
+country of origin:={united kingdom} ->! company:={frisk software}
+country of origin:={united kingdom} ->! company:={fortinet}
+country of origin:={united kingdom} ->! company:={ikarus}
+country of origin:={united kingdom} ->! company:={iobit}
+country of origin:={united kingdom} ->! company:={iolo technologies}
+country of origin:={united kingdom} ->! company:={is3}
+country of origin:={united kingdom} ->! company:={kingsoft}
+country of origin:={united kingdom} ->! price:={shareware}
+country of origin:={united kingdom} ->! company:={microsoft}
+country of origin:={united kingdom} ->! company:={nano security}
+country of origin:={united kingdom} ->! company:={psafe}
+country of origin:={united kingdom} ->! company:={qihoo 360}
+country of origin:={united kingdom} ->! company:={quick heal}
+country of origin:={united kingdom} ->! company:={cisco (originally immunet)}
+country of origin:={united kingdom} ->! company:={symantec (originally pc tools)}
+country of origin:={united kingdom} ->! company:={virusblokada}
+country of origin:={united kingdom} ->! company:={zemana}
+company:={avast} ->! country of origin:={italy}
+company:={avast} ->! country of origin:={germany}
+company:={avast} ->! country of origin:={romania}
+company:={avast} ->! country of origin:={india}
+company:={avast} ->! country of origin:={australia}
+company:={avast} ->! country of origin:={slovakia}
+company:={avast} ->! country of origin:={finland}
+company:={avast} ->! country of origin:={malta}
+company:={avast} ->! country of origin:={china}
+company:={avast} ->! country of origin:={spain}
+company:={avast} ->! country of origin:={cyprus}
+company:={avast} ->! country of origin:={japan}
+company:={avast} ->! country of origin:={south korea}
+company:={avast} ->! license:={gnu gpl}
+company:={avast} ->! country of origin:={iceland}
+company:={avast} ->! price:={shareware}
+company:={avast} ->! country of origin:={brazil}
+company:={avast} ->! country of origin:={belarus}
+company:={avast} ->! country of origin:={turkey}
+country of origin:={italy} ->! company:={avg technologies (grisoft)}
+country of origin:={italy} ->! company:={bitdefender}
+country of origin:={italy} ->! company:={comodo group}
+country of origin:={italy} ->! company:={agnitum}
+country of origin:={italy} ->! company:={avira}
+country of origin:={italy} ->! company:={bullguard}
+country of origin:={italy} ->! company:={check point}
+country of origin:={italy} ->! company:={dr. web}
+country of origin:={italy} ->! company:={eset}
+country of origin:={italy} ->! company:={f-secure}
+country of origin:={italy} ->! company:={g data software}
+country of origin:={italy} ->! company:={gfi software}
+country of origin:={italy} ->! company:={k7 computing}
+country of origin:={italy} ->! company:={kaspersky lab}
+country of origin:={italy} ->! company:={mcafee}
+country of origin:={italy} ->! company:={panda security}
+country of origin:={italy} ->! company:={scandium security}
+country of origin:={italy} ->! company:={sophos}
+country of origin:={italy} ->! company:={symantec}
+country of origin:={italy} ->! company:={trend micro}
+country of origin:={italy} ->! company:={trustport}
+country of origin:={italy} ->! company:={webroot}
+country of origin:={italy} ->! company:={ahnlab}
+country of origin:={italy} ->! company:={clamwin}
+country of origin:={italy} ->! license:={gnu gpl}
+country of origin:={italy} ->! company:={cysec}
+country of origin:={italy} ->! company:={frisk software}
+country of origin:={italy} ->! company:={fortinet}
+country of origin:={italy} ->! company:={ikarus}
+country of origin:={italy} ->! company:={iobit}
+country of origin:={italy} ->! company:={iolo technologies}
+country of origin:={italy} ->! company:={is3}
+country of origin:={italy} ->! company:={kingsoft}
+country of origin:={italy} ->! price:={shareware}
+country of origin:={italy} ->! company:={microsoft}
+country of origin:={italy} ->! company:={nano security}
+country of origin:={italy} ->! company:={psafe}
+country of origin:={italy} ->! company:={qihoo 360}
+country of origin:={italy} ->! company:={quick heal}
+country of origin:={italy} ->! company:={cisco (originally immunet)}
+country of origin:={italy} ->! company:={strayspark computing}
+country of origin:={italy} ->! company:={symantec (originally pc tools)}
+country of origin:={italy} ->! company:={virusblokada}
+country of origin:={italy} ->! company:={zemana}
+country of origin:={germany} ->! company:={avg technologies (grisoft)}
+country of origin:={germany} ->! company:={bitdefender}
+country of origin:={germany} ->! company:={comodo group}
+country of origin:={germany} ->! company:={agnitum}
+country of origin:={germany} ->! company:={avetix}
+country of origin:={germany} ->! company:={bullguard}
+country of origin:={germany} ->! company:={check point}
+country of origin:={germany} ->! company:={dr. web}
+country of origin:={germany} ->! company:={eset}
+country of origin:={germany} ->! company:={f-secure}
+country of origin:={germany} ->! company:={gfi software}
+country of origin:={germany} ->! company:={k7 computing}
+country of origin:={germany} ->! company:={kaspersky lab}
+country of origin:={germany} ->! company:={mcafee}
+country of origin:={germany} ->! company:={panda security}
+country of origin:={germany} ->! company:={scandium security}
+country of origin:={germany} ->! company:={sophos}
+country of origin:={germany} ->! company:={symantec}
+country of origin:={germany} ->! company:={tg soft}
+country of origin:={germany} ->! company:={trend micro}
+country of origin:={germany} ->! company:={trustport}
+country of origin:={germany} ->! company:={webroot}
+country of origin:={germany} ->! company:={ahnlab}
+country of origin:={germany} ->! company:={clamwin}
+country of origin:={germany} ->! license:={gnu gpl}
+country of origin:={germany} ->! company:={cysec}
+country of origin:={germany} ->! company:={frisk software}
+country of origin:={germany} ->! company:={fortinet}
+country of origin:={germany} ->! company:={ikarus}
+country of origin:={germany} ->! company:={iobit}
+country of origin:={germany} ->! company:={iolo technologies}
+country of origin:={germany} ->! company:={is3}
+country of origin:={germany} ->! company:={kingsoft}
+country of origin:={germany} ->! price:={shareware}
+country of origin:={germany} ->! company:={microsoft}
+country of origin:={germany} ->! company:={nano security}
+country of origin:={germany} ->! company:={psafe}
+country of origin:={germany} ->! company:={qihoo 360}
+country of origin:={germany} ->! company:={quick heal}
+country of origin:={germany} ->! company:={cisco (originally immunet)}
+country of origin:={germany} ->! company:={strayspark computing}
+country of origin:={germany} ->! company:={symantec (originally pc tools)}
+country of origin:={germany} ->! company:={virusblokada}
+country of origin:={germany} ->! company:={zemana}
+company:={avg technologies (grisoft)} ->! country of origin:={romania}
+company:={avg technologies (grisoft)} ->! country of origin:={india}
+company:={avg technologies (grisoft)} ->! country of origin:={australia}
+company:={avg technologies (grisoft)} ->! country of origin:={slovakia}
+company:={avg technologies (grisoft)} ->! country of origin:={finland}
+company:={avg technologies (grisoft)} ->! country of origin:={malta}
+company:={avg technologies (grisoft)} ->! country of origin:={china}
+company:={avg technologies (grisoft)} ->! country of origin:={spain}
+company:={avg technologies (grisoft)} ->! country of origin:={cyprus}
+company:={avg technologies (grisoft)} ->! country of origin:={japan}
+company:={avg technologies (grisoft)} ->! country of origin:={south korea}
+company:={avg technologies (grisoft)} ->! license:={gnu gpl}
+company:={avg technologies (grisoft)} ->! country of origin:={iceland}
+company:={avg technologies (grisoft)} ->! price:={shareware}
+company:={avg technologies (grisoft)} ->! country of origin:={brazil}
+company:={avg technologies (grisoft)} ->! country of origin:={belarus}
+company:={avg technologies (grisoft)} ->! country of origin:={turkey}
+country of origin:={romania} ->! company:={comodo group}
+company:={bitdefender} ->! country of origin:={india}
+country of origin:={romania} ->! company:={agnitum}
+country of origin:={romania} ->! company:={avetix}
+country of origin:={romania} ->! company:={avira}
+country of origin:={romania} ->! company:={bullguard}
+country of origin:={romania} ->! company:={check point}
+company:={bitdefender} ->! country of origin:={australia}
+country of origin:={romania} ->! company:={dr. web}
+company:={bitdefender} ->! country of origin:={slovakia}
+country of origin:={romania} ->! company:={eset}
+company:={bitdefender} ->! country of origin:={finland}
+country of origin:={romania} ->! company:={f-secure}
+country of origin:={romania} ->! company:={g data software}
+company:={bitdefender} ->! country of origin:={malta}
+country of origin:={romania} ->! company:={gfi software}
+country of origin:={romania} ->! company:={k7 computing}
+country of origin:={romania} ->! company:={kaspersky lab}
+company:={bitdefender} ->! country of origin:={china}
+country of origin:={romania} ->! company:={mcafee}
+company:={bitdefender} ->! country of origin:={spain}
+country of origin:={romania} ->! company:={panda security}
+company:={bitdefender} ->! country of origin:={cyprus}
+country of origin:={romania} ->! company:={scandium security}
+country of origin:={romania} ->! company:={sophos}
+country of origin:={romania} ->! company:={symantec}
+country of origin:={romania} ->! company:={tg soft}
+company:={bitdefender} ->! country of origin:={japan}
+country of origin:={romania} ->! company:={trend micro}
+country of origin:={romania} ->! company:={trustport}
+country of origin:={romania} ->! company:={webroot}
+company:={bitdefender} ->! country of origin:={south korea}
+country of origin:={romania} ->! company:={ahnlab}
+company:={bitdefender} ->! license:={gnu gpl}
+country of origin:={romania} ->! company:={clamwin}
+country of origin:={romania} ->! license:={gnu gpl}
+country of origin:={romania} ->! company:={cysec}
+company:={bitdefender} ->! country of origin:={iceland}
+country of origin:={romania} ->! company:={frisk software}
+country of origin:={romania} ->! company:={fortinet}
+country of origin:={romania} ->! company:={ikarus}
+country of origin:={romania} ->! company:={iobit}
+country of origin:={romania} ->! company:={iolo technologies}
+country of origin:={romania} ->! company:={is3}
+company:={bitdefender} ->! price:={shareware}
+country of origin:={romania} ->! company:={kingsoft}
+country of origin:={romania} ->! price:={shareware}
+country of origin:={romania} ->! company:={microsoft}
+country of origin:={romania} ->! company:={nano security}
+company:={bitdefender} ->! country of origin:={brazil}
+country of origin:={romania} ->! company:={psafe}
+country of origin:={romania} ->! company:={qihoo 360}
+country of origin:={romania} ->! company:={quick heal}
+country of origin:={romania} ->! company:={cisco (originally immunet)}
+country of origin:={romania} ->! company:={strayspark computing}
+country of origin:={romania} ->! company:={symantec (originally pc tools)}
+company:={bitdefender} ->! country of origin:={belarus}
+country of origin:={romania} ->! company:={virusblokada}
+company:={bitdefender} ->! country of origin:={turkey}
+country of origin:={romania} ->! company:={zemana}
+company:={comodo group} ->! country of origin:={india}
+company:={comodo group} ->! country of origin:={australia}
+company:={comodo group} ->! country of origin:={slovakia}
+company:={comodo group} ->! country of origin:={finland}
+company:={comodo group} ->! country of origin:={malta}
+company:={comodo group} ->! country of origin:={china}
+company:={comodo group} ->! country of origin:={spain}
+company:={comodo group} ->! country of origin:={cyprus}
+company:={comodo group} ->! country of origin:={japan}
+company:={comodo group} ->! country of origin:={south korea}
+company:={comodo group} ->! license:={gnu gpl}
+company:={comodo group} ->! country of origin:={iceland}
+company:={comodo group} ->! price:={shareware}
+company:={comodo group} ->! country of origin:={brazil}
+company:={comodo group} ->! country of origin:={belarus}
+company:={comodo group} ->! country of origin:={turkey}
+country of origin:={india} ->! company:={agnitum}
+country of origin:={india} ->! company:={avetix}
+country of origin:={india} ->! company:={avira}
+country of origin:={india} ->! company:={bullguard}
+country of origin:={india} ->! company:={check point}
+country of origin:={india} ->! company:={dr. web}
+country of origin:={india} ->! company:={eset}
+country of origin:={india} ->! company:={f-secure}
+country of origin:={india} ->! company:={g data software}
+country of origin:={india} ->! company:={gfi software}
+country of origin:={india} ->! company:={kaspersky lab}
+country of origin:={india} ->! company:={mcafee}
+country of origin:={india} ->! company:={panda security}
+country of origin:={india} ->! company:={scandium security}
+country of origin:={india} ->! company:={sophos}
+country of origin:={india} ->! company:={symantec}
+country of origin:={india} ->! company:={tg soft}
+country of origin:={india} ->! company:={trend micro}
+country of origin:={india} ->! company:={trustport}
+country of origin:={india} ->! company:={webroot}
+country of origin:={india} ->! company:={ahnlab}
+country of origin:={india} ->! company:={clamwin}
+country of origin:={india} ->! license:={gnu gpl}
+country of origin:={india} ->! company:={cysec}
+country of origin:={india} ->! company:={frisk software}
+country of origin:={india} ->! company:={fortinet}
+country of origin:={india} ->! company:={ikarus}
+country of origin:={india} ->! company:={iobit}
+country of origin:={india} ->! company:={iolo technologies}
+country of origin:={india} ->! company:={is3}
+country of origin:={india} ->! company:={kingsoft}
+country of origin:={india} ->! price:={shareware}
+country of origin:={india} ->! company:={microsoft}
+country of origin:={india} ->! company:={nano security}
+country of origin:={india} ->! company:={psafe}
+country of origin:={india} ->! company:={qihoo 360}
+country of origin:={india} ->! company:={cisco (originally immunet)}
+country of origin:={india} ->! company:={strayspark computing}
+country of origin:={india} ->! company:={symantec (originally pc tools)}
+country of origin:={india} ->! company:={virusblokada}
+country of origin:={india} ->! company:={zemana}
+company:={agnitum} ->! country of origin:={australia}
+company:={agnitum} ->! country of origin:={slovakia}
+company:={agnitum} ->! country of origin:={finland}
+company:={agnitum} ->! country of origin:={malta}
+company:={agnitum} ->! country of origin:={china}
+company:={agnitum} ->! country of origin:={spain}
+company:={agnitum} ->! country of origin:={cyprus}
+company:={agnitum} ->! country of origin:={japan}
+company:={agnitum} ->! country of origin:={south korea}
+company:={agnitum} ->! license:={gnu gpl}
+company:={agnitum} ->! country of origin:={iceland}
+company:={agnitum} ->! price:={shareware}
+company:={agnitum} ->! country of origin:={brazil}
+company:={agnitum} ->! country of origin:={belarus}
+company:={agnitum} ->! country of origin:={turkey}
+company:={avetix} ->! country of origin:={australia}
+company:={avetix} ->! country of origin:={slovakia}
+company:={avetix} ->! country of origin:={finland}
+company:={avetix} ->! country of origin:={malta}
+company:={avetix} ->! country of origin:={china}
+company:={avetix} ->! country of origin:={spain}
+company:={avetix} ->! country of origin:={cyprus}
+company:={avetix} ->! country of origin:={japan}
+company:={avetix} ->! country of origin:={south korea}
+company:={avetix} ->! license:={gnu gpl}
+company:={avetix} ->! country of origin:={iceland}
+company:={avetix} ->! price:={shareware}
+company:={avetix} ->! country of origin:={brazil}
+company:={avetix} ->! country of origin:={belarus}
+company:={avetix} ->! country of origin:={turkey}
+company:={avira} ->! country of origin:={australia}
+company:={avira} ->! country of origin:={slovakia}
+company:={avira} ->! country of origin:={finland}
+company:={avira} ->! country of origin:={malta}
+company:={avira} ->! country of origin:={china}
+company:={avira} ->! country of origin:={spain}
+company:={avira} ->! country of origin:={cyprus}
+company:={avira} ->! country of origin:={japan}
+company:={avira} ->! country of origin:={south korea}
+company:={avira} ->! license:={gnu gpl}
+company:={avira} ->! country of origin:={iceland}
+company:={avira} ->! price:={shareware}
+company:={avira} ->! country of origin:={brazil}
+company:={avira} ->! country of origin:={belarus}
+company:={avira} ->! country of origin:={turkey}
+company:={bullguard} ->! country of origin:={australia}
+company:={bullguard} ->! country of origin:={slovakia}
+company:={bullguard} ->! country of origin:={finland}
+company:={bullguard} ->! country of origin:={malta}
+company:={bullguard} ->! country of origin:={china}
+company:={bullguard} ->! country of origin:={spain}
+company:={bullguard} ->! country of origin:={cyprus}
+company:={bullguard} ->! country of origin:={japan}
+company:={bullguard} ->! country of origin:={south korea}
+company:={bullguard} ->! license:={gnu gpl}
+company:={bullguard} ->! country of origin:={iceland}
+company:={bullguard} ->! price:={shareware}
+company:={bullguard} ->! country of origin:={brazil}
+company:={bullguard} ->! country of origin:={belarus}
+company:={bullguard} ->! country of origin:={turkey}
+company:={check point} ->! country of origin:={australia}
+company:={check point} ->! country of origin:={slovakia}
+company:={check point} ->! country of origin:={finland}
+company:={check point} ->! country of origin:={malta}
+company:={check point} ->! country of origin:={china}
+company:={check point} ->! country of origin:={spain}
+company:={check point} ->! country of origin:={cyprus}
+company:={check point} ->! country of origin:={japan}
+company:={check point} ->! country of origin:={south korea}
+company:={check point} ->! license:={gnu gpl}
+company:={check point} ->! country of origin:={iceland}
+company:={check point} ->! price:={shareware}
+company:={check point} ->! country of origin:={brazil}
+company:={check point} ->! country of origin:={belarus}
+company:={check point} ->! country of origin:={turkey}
+country of origin:={australia} ->! company:={dr. web}
+country of origin:={australia} ->! company:={eset}
+country of origin:={australia} ->! company:={f-secure}
+country of origin:={australia} ->! company:={g data software}
+country of origin:={australia} ->! company:={gfi software}
+country of origin:={australia} ->! company:={k7 computing}
+country of origin:={australia} ->! company:={kaspersky lab}
+country of origin:={australia} ->! company:={mcafee}
+country of origin:={australia} ->! company:={panda security}
+country of origin:={australia} ->! company:={scandium security}
+country of origin:={australia} ->! company:={sophos}
+country of origin:={australia} ->! company:={symantec}
+country of origin:={australia} ->! company:={tg soft}
+country of origin:={australia} ->! company:={trend micro}
+country of origin:={australia} ->! company:={trustport}
+country of origin:={australia} ->! company:={webroot}
+country of origin:={australia} ->! company:={ahnlab}
+country of origin:={australia} ->! company:={cysec}
+country of origin:={australia} ->! company:={frisk software}
+country of origin:={australia} ->! company:={fortinet}
+country of origin:={australia} ->! company:={iobit}
+country of origin:={australia} ->! company:={iolo technologies}
+country of origin:={australia} ->! company:={is3}
+country of origin:={australia} ->! company:={kingsoft}
+country of origin:={australia} ->! price:={shareware}
+country of origin:={australia} ->! company:={microsoft}
+country of origin:={australia} ->! company:={nano security}
+country of origin:={australia} ->! company:={psafe}
+country of origin:={australia} ->! company:={qihoo 360}
+country of origin:={australia} ->! company:={quick heal}
+country of origin:={australia} ->! company:={cisco (originally immunet)}
+country of origin:={australia} ->! company:={strayspark computing}
+country of origin:={australia} ->! company:={symantec (originally pc tools)}
+country of origin:={australia} ->! company:={virusblokada}
+country of origin:={australia} ->! company:={zemana}
+company:={dr. web} ->! country of origin:={slovakia}
+company:={dr. web} ->! country of origin:={finland}
+company:={dr. web} ->! country of origin:={malta}
+company:={dr. web} ->! country of origin:={china}
+company:={dr. web} ->! country of origin:={spain}
+company:={dr. web} ->! country of origin:={cyprus}
+company:={dr. web} ->! country of origin:={japan}
+company:={dr. web} ->! country of origin:={south korea}
+company:={dr. web} ->! license:={gnu gpl}
+company:={dr. web} ->! country of origin:={iceland}
+company:={dr. web} ->! price:={shareware}
+company:={dr. web} ->! country of origin:={brazil}
+company:={dr. web} ->! country of origin:={belarus}
+company:={dr. web} ->! country of origin:={turkey}
+company:={eset} ->! country of origin:={finland}
+country of origin:={slovakia} ->! company:={f-secure}
+country of origin:={slovakia} ->! company:={g data software}
+company:={eset} ->! country of origin:={malta}
+country of origin:={slovakia} ->! company:={gfi software}
+country of origin:={slovakia} ->! company:={k7 computing}
+country of origin:={slovakia} ->! company:={kaspersky lab}
+company:={eset} ->! country of origin:={china}
+country of origin:={slovakia} ->! company:={mcafee}
+company:={eset} ->! country of origin:={spain}
+country of origin:={slovakia} ->! company:={panda security}
+company:={eset} ->! country of origin:={cyprus}
+country of origin:={slovakia} ->! company:={scandium security}
+country of origin:={slovakia} ->! company:={sophos}
+country of origin:={slovakia} ->! company:={symantec}
+country of origin:={slovakia} ->! company:={tg soft}
+company:={eset} ->! country of origin:={japan}
+country of origin:={slovakia} ->! company:={trend micro}
+country of origin:={slovakia} ->! company:={trustport}
+country of origin:={slovakia} ->! company:={webroot}
+company:={eset} ->! country of origin:={south korea}
+country of origin:={slovakia} ->! company:={ahnlab}
+company:={eset} ->! license:={gnu gpl}
+country of origin:={slovakia} ->! company:={clamwin}
+country of origin:={slovakia} ->! license:={gnu gpl}
+country of origin:={slovakia} ->! company:={cysec}
+company:={eset} ->! country of origin:={iceland}
+country of origin:={slovakia} ->! company:={frisk software}
+country of origin:={slovakia} ->! company:={fortinet}
+country of origin:={slovakia} ->! company:={ikarus}
+country of origin:={slovakia} ->! company:={iobit}
+country of origin:={slovakia} ->! company:={iolo technologies}
+country of origin:={slovakia} ->! company:={is3}
+company:={eset} ->! price:={shareware}
+country of origin:={slovakia} ->! company:={kingsoft}
+country of origin:={slovakia} ->! price:={shareware}
+country of origin:={slovakia} ->! company:={microsoft}
+country of origin:={slovakia} ->! company:={nano security}
+company:={eset} ->! country of origin:={brazil}
+country of origin:={slovakia} ->! company:={psafe}
+country of origin:={slovakia} ->! company:={qihoo 360}
+country of origin:={slovakia} ->! company:={quick heal}
+country of origin:={slovakia} ->! company:={cisco (originally immunet)}
+country of origin:={slovakia} ->! company:={strayspark computing}
+country of origin:={slovakia} ->! company:={symantec (originally pc tools)}
+company:={eset} ->! country of origin:={belarus}
+country of origin:={slovakia} ->! company:={virusblokada}
+company:={eset} ->! country of origin:={turkey}
+country of origin:={slovakia} ->! company:={zemana}
+country of origin:={finland} ->! company:={g data software}
+company:={f-secure} ->! country of origin:={malta}
+country of origin:={finland} ->! company:={gfi software}
+country of origin:={finland} ->! company:={k7 computing}
+country of origin:={finland} ->! company:={kaspersky lab}
+company:={f-secure} ->! country of origin:={china}
+country of origin:={finland} ->! company:={mcafee}
+company:={f-secure} ->! country of origin:={spain}
+country of origin:={finland} ->! company:={panda security}
+company:={f-secure} ->! country of origin:={cyprus}
+country of origin:={finland} ->! company:={scandium security}
+country of origin:={finland} ->! company:={sophos}
+country of origin:={finland} ->! company:={symantec}
+country of origin:={finland} ->! company:={tg soft}
+company:={f-secure} ->! country of origin:={japan}
+country of origin:={finland} ->! company:={trend micro}
+country of origin:={finland} ->! company:={trustport}
+country of origin:={finland} ->! company:={webroot}
+company:={f-secure} ->! country of origin:={south korea}
+country of origin:={finland} ->! company:={ahnlab}
+company:={f-secure} ->! license:={gnu gpl}
+country of origin:={finland} ->! company:={clamwin}
+country of origin:={finland} ->! license:={gnu gpl}
+country of origin:={finland} ->! company:={cysec}
+company:={f-secure} ->! country of origin:={iceland}
+country of origin:={finland} ->! company:={frisk software}
+country of origin:={finland} ->! company:={fortinet}
+country of origin:={finland} ->! company:={ikarus}
+country of origin:={finland} ->! company:={iobit}
+country of origin:={finland} ->! company:={iolo technologies}
+country of origin:={finland} ->! company:={is3}
+company:={f-secure} ->! price:={shareware}
+country of origin:={finland} ->! company:={kingsoft}
+country of origin:={finland} ->! price:={shareware}
+country of origin:={finland} ->! company:={microsoft}
+country of origin:={finland} ->! company:={nano security}
+company:={f-secure} ->! country of origin:={brazil}
+country of origin:={finland} ->! company:={psafe}
+country of origin:={finland} ->! company:={qihoo 360}
+country of origin:={finland} ->! company:={quick heal}
+country of origin:={finland} ->! company:={cisco (originally immunet)}
+country of origin:={finland} ->! company:={strayspark computing}
+country of origin:={finland} ->! company:={symantec (originally pc tools)}
+company:={f-secure} ->! country of origin:={belarus}
+country of origin:={finland} ->! company:={virusblokada}
+company:={f-secure} ->! country of origin:={turkey}
+country of origin:={finland} ->! company:={zemana}
+company:={g data software} ->! country of origin:={malta}
+company:={g data software} ->! country of origin:={china}
+company:={g data software} ->! country of origin:={spain}
+company:={g data software} ->! country of origin:={cyprus}
+company:={g data software} ->! country of origin:={japan}
+company:={g data software} ->! country of origin:={south korea}
+company:={g data software} ->! license:={gnu gpl}
+company:={g data software} ->! country of origin:={iceland}
+company:={g data software} ->! price:={shareware}
+company:={g data software} ->! country of origin:={brazil}
+company:={g data software} ->! country of origin:={belarus}
+company:={g data software} ->! country of origin:={turkey}
+country of origin:={malta} ->! company:={k7 computing}
+country of origin:={malta} ->! company:={kaspersky lab}
+company:={gfi software} ->! country of origin:={china}
+country of origin:={malta} ->! company:={mcafee}
+company:={gfi software} ->! country of origin:={spain}
+country of origin:={malta} ->! company:={panda security}
+company:={gfi software} ->! country of origin:={cyprus}
+country of origin:={malta} ->! company:={scandium security}
+country of origin:={malta} ->! company:={sophos}
+country of origin:={malta} ->! company:={symantec}
+country of origin:={malta} ->! company:={tg soft}
+company:={gfi software} ->! country of origin:={japan}
+country of origin:={malta} ->! company:={trend micro}
+country of origin:={malta} ->! company:={trustport}
+country of origin:={malta} ->! company:={webroot}
+company:={gfi software} ->! country of origin:={south korea}
+country of origin:={malta} ->! company:={ahnlab}
+company:={gfi software} ->! license:={gnu gpl}
+country of origin:={malta} ->! company:={clamwin}
+country of origin:={malta} ->! license:={gnu gpl}
+country of origin:={malta} ->! company:={cysec}
+company:={gfi software} ->! country of origin:={iceland}
+country of origin:={malta} ->! company:={frisk software}
+country of origin:={malta} ->! company:={fortinet}
+country of origin:={malta} ->! company:={ikarus}
+country of origin:={malta} ->! company:={iobit}
+country of origin:={malta} ->! company:={iolo technologies}
+country of origin:={malta} ->! company:={is3}
+company:={gfi software} ->! price:={shareware}
+country of origin:={malta} ->! company:={kingsoft}
+country of origin:={malta} ->! price:={shareware}
+country of origin:={malta} ->! company:={microsoft}
+country of origin:={malta} ->! company:={nano security}
+company:={gfi software} ->! country of origin:={brazil}
+country of origin:={malta} ->! company:={psafe}
+country of origin:={malta} ->! company:={qihoo 360}
+country of origin:={malta} ->! company:={quick heal}
+country of origin:={malta} ->! company:={cisco (originally immunet)}
+country of origin:={malta} ->! company:={strayspark computing}
+country of origin:={malta} ->! company:={symantec (originally pc tools)}
+company:={gfi software} ->! country of origin:={belarus}
+country of origin:={malta} ->! company:={virusblokada}
+company:={gfi software} ->! country of origin:={turkey}
+country of origin:={malta} ->! company:={zemana}
+company:={k7 computing} ->! country of origin:={china}
+company:={k7 computing} ->! country of origin:={spain}
+company:={k7 computing} ->! country of origin:={cyprus}
+company:={k7 computing} ->! country of origin:={japan}
+company:={k7 computing} ->! country of origin:={south korea}
+company:={k7 computing} ->! license:={gnu gpl}
+company:={k7 computing} ->! country of origin:={iceland}
+company:={k7 computing} ->! price:={shareware}
+company:={k7 computing} ->! country of origin:={brazil}
+company:={k7 computing} ->! country of origin:={belarus}
+company:={k7 computing} ->! country of origin:={turkey}
+company:={kaspersky lab} ->! country of origin:={china}
+company:={kaspersky lab} ->! country of origin:={spain}
+company:={kaspersky lab} ->! country of origin:={cyprus}
+company:={kaspersky lab} ->! country of origin:={japan}
+company:={kaspersky lab} ->! country of origin:={south korea}
+company:={kaspersky lab} ->! license:={gnu gpl}
+company:={kaspersky lab} ->! country of origin:={iceland}
+company:={kaspersky lab} ->! price:={shareware}
+company:={kaspersky lab} ->! country of origin:={brazil}
+company:={kaspersky lab} ->! country of origin:={belarus}
+company:={kaspersky lab} ->! country of origin:={turkey}
+country of origin:={china} ->! company:={mcafee}
+country of origin:={china} ->! company:={panda security}
+country of origin:={china} ->! company:={scandium security}
+country of origin:={china} ->! company:={sophos}
+country of origin:={china} ->! company:={symantec}
+country of origin:={china} ->! company:={tg soft}
+country of origin:={china} ->! company:={trend micro}
+country of origin:={china} ->! company:={trustport}
+country of origin:={china} ->! company:={webroot}
+country of origin:={china} ->! company:={ahnlab}
+country of origin:={china} ->! company:={clamwin}
+country of origin:={china} ->! license:={gnu gpl}
+country of origin:={china} ->! company:={cysec}
+country of origin:={china} ->! company:={frisk software}
+country of origin:={china} ->! company:={fortinet}
+country of origin:={china} ->! company:={ikarus}
+country of origin:={china} ->! company:={iobit}
+country of origin:={china} ->! company:={iolo technologies}
+country of origin:={china} ->! company:={is3}
+country of origin:={china} ->! company:={microsoft}
+country of origin:={china} ->! company:={nano security}
+country of origin:={china} ->! company:={psafe}
+country of origin:={china} ->! company:={quick heal}
+country of origin:={china} ->! company:={cisco (originally immunet)}
+country of origin:={china} ->! company:={strayspark computing}
+country of origin:={china} ->! company:={symantec (originally pc tools)}
+country of origin:={china} ->! company:={virusblokada}
+country of origin:={china} ->! company:={zemana}
+company:={mcafee} ->! country of origin:={spain}
+company:={mcafee} ->! country of origin:={cyprus}
+company:={mcafee} ->! country of origin:={japan}
+company:={mcafee} ->! country of origin:={south korea}
+company:={mcafee} ->! license:={gnu gpl}
+company:={mcafee} ->! country of origin:={iceland}
+company:={mcafee} ->! price:={shareware}
+company:={mcafee} ->! country of origin:={brazil}
+company:={mcafee} ->! country of origin:={belarus}
+company:={mcafee} ->! country of origin:={turkey}
+company:={panda security} ->! country of origin:={cyprus}
+country of origin:={spain} ->! company:={scandium security}
+country of origin:={spain} ->! company:={sophos}
+country of origin:={spain} ->! company:={symantec}
+country of origin:={spain} ->! company:={tg soft}
+company:={panda security} ->! country of origin:={japan}
+country of origin:={spain} ->! company:={trend micro}
+country of origin:={spain} ->! company:={trustport}
+country of origin:={spain} ->! company:={webroot}
+company:={panda security} ->! country of origin:={south korea}
+country of origin:={spain} ->! company:={ahnlab}
+company:={panda security} ->! license:={gnu gpl}
+country of origin:={spain} ->! company:={clamwin}
+country of origin:={spain} ->! license:={gnu gpl}
+country of origin:={spain} ->! company:={cysec}
+company:={panda security} ->! country of origin:={iceland}
+country of origin:={spain} ->! company:={frisk software}
+country of origin:={spain} ->! company:={fortinet}
+country of origin:={spain} ->! company:={ikarus}
+country of origin:={spain} ->! company:={iobit}
+country of origin:={spain} ->! company:={iolo technologies}
+country of origin:={spain} ->! company:={is3}
+company:={panda security} ->! price:={shareware}
+country of origin:={spain} ->! company:={kingsoft}
+country of origin:={spain} ->! price:={shareware}
+country of origin:={spain} ->! company:={microsoft}
+country of origin:={spain} ->! company:={nano security}
+company:={panda security} ->! country of origin:={brazil}
+country of origin:={spain} ->! company:={psafe}
+country of origin:={spain} ->! company:={qihoo 360}
+country of origin:={spain} ->! company:={quick heal}
+country of origin:={spain} ->! company:={cisco (originally immunet)}
+country of origin:={spain} ->! company:={strayspark computing}
+country of origin:={spain} ->! company:={symantec (originally pc tools)}
+company:={panda security} ->! country of origin:={belarus}
+country of origin:={spain} ->! company:={virusblokada}
+company:={panda security} ->! country of origin:={turkey}
+country of origin:={spain} ->! company:={zemana}
+country of origin:={cyprus} ->! company:={sophos}
+country of origin:={cyprus} ->! company:={symantec}
+country of origin:={cyprus} ->! company:={tg soft}
+company:={scandium security} ->! country of origin:={japan}
+country of origin:={cyprus} ->! company:={trend micro}
+country of origin:={cyprus} ->! company:={trustport}
+country of origin:={cyprus} ->! company:={webroot}
+company:={scandium security} ->! country of origin:={south korea}
+country of origin:={cyprus} ->! company:={ahnlab}
+company:={scandium security} ->! license:={gnu gpl}
+country of origin:={cyprus} ->! company:={clamwin}
+country of origin:={cyprus} ->! license:={gnu gpl}
+country of origin:={cyprus} ->! company:={cysec}
+company:={scandium security} ->! country of origin:={iceland}
+country of origin:={cyprus} ->! company:={frisk software}
+country of origin:={cyprus} ->! company:={fortinet}
+country of origin:={cyprus} ->! company:={ikarus}
+country of origin:={cyprus} ->! company:={iobit}
+country of origin:={cyprus} ->! company:={iolo technologies}
+country of origin:={cyprus} ->! company:={is3}
+company:={scandium security} ->! price:={shareware}
+country of origin:={cyprus} ->! company:={kingsoft}
+country of origin:={cyprus} ->! price:={shareware}
+country of origin:={cyprus} ->! company:={microsoft}
+country of origin:={cyprus} ->! company:={nano security}
+company:={scandium security} ->! country of origin:={brazil}
+country of origin:={cyprus} ->! company:={psafe}
+country of origin:={cyprus} ->! company:={qihoo 360}
+country of origin:={cyprus} ->! company:={quick heal}
+country of origin:={cyprus} ->! company:={cisco (originally immunet)}
+country of origin:={cyprus} ->! company:={strayspark computing}
+country of origin:={cyprus} ->! company:={symantec (originally pc tools)}
+company:={scandium security} ->! country of origin:={belarus}
+country of origin:={cyprus} ->! company:={virusblokada}
+company:={scandium security} ->! country of origin:={turkey}
+country of origin:={cyprus} ->! company:={zemana}
+company:={sophos} ->! country of origin:={japan}
+company:={sophos} ->! country of origin:={south korea}
+company:={sophos} ->! license:={gnu gpl}
+company:={sophos} ->! country of origin:={iceland}
+company:={sophos} ->! price:={shareware}
+company:={sophos} ->! country of origin:={brazil}
+company:={sophos} ->! country of origin:={belarus}
+company:={sophos} ->! country of origin:={turkey}
+company:={symantec} ->! country of origin:={japan}
+company:={symantec} ->! country of origin:={south korea}
+company:={symantec} ->! license:={gnu gpl}
+company:={symantec} ->! country of origin:={iceland}
+company:={symantec} ->! price:={shareware}
+company:={symantec} ->! country of origin:={brazil}
+company:={symantec} ->! country of origin:={belarus}
+company:={symantec} ->! country of origin:={turkey}
+company:={tg soft} ->! country of origin:={japan}
+company:={tg soft} ->! country of origin:={south korea}
+company:={tg soft} ->! license:={gnu gpl}
+company:={tg soft} ->! country of origin:={iceland}
+company:={tg soft} ->! price:={shareware}
+company:={tg soft} ->! country of origin:={brazil}
+company:={tg soft} ->! country of origin:={belarus}
+company:={tg soft} ->! country of origin:={turkey}
+country of origin:={japan} ->! company:={trustport}
+country of origin:={japan} ->! company:={webroot}
+company:={trend micro} ->! country of origin:={south korea}
+country of origin:={japan} ->! company:={ahnlab}
+company:={trend micro} ->! license:={gnu gpl}
+country of origin:={japan} ->! company:={clamwin}
+country of origin:={japan} ->! license:={gnu gpl}
+country of origin:={japan} ->! company:={cysec}
+company:={trend micro} ->! country of origin:={iceland}
+country of origin:={japan} ->! company:={frisk software}
+country of origin:={japan} ->! company:={fortinet}
+country of origin:={japan} ->! company:={ikarus}
+country of origin:={japan} ->! company:={iobit}
+country of origin:={japan} ->! company:={iolo technologies}
+country of origin:={japan} ->! company:={is3}
+company:={trend micro} ->! price:={shareware}
+country of origin:={japan} ->! company:={kingsoft}
+country of origin:={japan} ->! price:={shareware}
+country of origin:={japan} ->! company:={microsoft}
+country of origin:={japan} ->! company:={nano security}
+company:={trend micro} ->! country of origin:={brazil}
+country of origin:={japan} ->! company:={psafe}
+country of origin:={japan} ->! company:={qihoo 360}
+country of origin:={japan} ->! company:={quick heal}
+country of origin:={japan} ->! company:={cisco (originally immunet)}
+country of origin:={japan} ->! company:={strayspark computing}
+country of origin:={japan} ->! company:={symantec (originally pc tools)}
+company:={trend micro} ->! country of origin:={belarus}
+country of origin:={japan} ->! company:={virusblokada}
+company:={trend micro} ->! country of origin:={turkey}
+country of origin:={japan} ->! company:={zemana}
+company:={trustport} ->! country of origin:={south korea}
+company:={trustport} ->! license:={gnu gpl}
+company:={trustport} ->! country of origin:={iceland}
+company:={trustport} ->! price:={shareware}
+company:={trustport} ->! country of origin:={brazil}
+company:={trustport} ->! country of origin:={belarus}
+company:={trustport} ->! country of origin:={turkey}
+company:={webroot} ->! country of origin:={south korea}
+company:={webroot} ->! license:={gnu gpl}
+company:={webroot} ->! country of origin:={iceland}
+company:={webroot} ->! price:={shareware}
+company:={webroot} ->! country of origin:={brazil}
+company:={webroot} ->! country of origin:={belarus}
+company:={webroot} ->! country of origin:={turkey}
+company:={ahnlab} ->! license:={gnu gpl}
+country of origin:={south korea} ->! company:={clamwin}
+country of origin:={south korea} ->! license:={gnu gpl}
+country of origin:={south korea} ->! company:={cysec}
+company:={ahnlab} ->! country of origin:={iceland}
+country of origin:={south korea} ->! company:={frisk software}
+country of origin:={south korea} ->! company:={fortinet}
+country of origin:={south korea} ->! company:={ikarus}
+country of origin:={south korea} ->! company:={iobit}
+country of origin:={south korea} ->! company:={iolo technologies}
+country of origin:={south korea} ->! company:={is3}
+company:={ahnlab} ->! price:={shareware}
+country of origin:={south korea} ->! company:={kingsoft}
+country of origin:={south korea} ->! price:={shareware}
+country of origin:={south korea} ->! company:={microsoft}
+country of origin:={south korea} ->! company:={nano security}
+company:={ahnlab} ->! country of origin:={brazil}
+country of origin:={south korea} ->! company:={psafe}
+country of origin:={south korea} ->! company:={qihoo 360}
+country of origin:={south korea} ->! company:={quick heal}
+country of origin:={south korea} ->! company:={cisco (originally immunet)}
+country of origin:={south korea} ->! company:={strayspark computing}
+country of origin:={south korea} ->! company:={symantec (originally pc tools)}
+company:={ahnlab} ->! country of origin:={belarus}
+country of origin:={south korea} ->! company:={virusblokada}
+company:={ahnlab} ->! country of origin:={turkey}
+country of origin:={south korea} ->! company:={zemana}
+license:={gnu gpl} ->! company:={cysec}
+company:={clamwin} ->! country of origin:={iceland}
+license:={gnu gpl} ->! company:={frisk software}
+license:={gnu gpl} ->! country of origin:={iceland}
+license:={gnu gpl} ->! company:={fortinet}
+license:={gnu gpl} ->! company:={ikarus}
+license:={gnu gpl} ->! company:={iobit}
+license:={gnu gpl} ->! company:={iolo technologies}
+license:={gnu gpl} ->! company:={is3}
+company:={clamwin} ->! price:={shareware}
+license:={gnu gpl} ->! company:={kingsoft}
+license:={gnu gpl} ->! price:={shareware}
+license:={gnu gpl} ->! company:={microsoft}
+license:={gnu gpl} ->! company:={nano security}
+company:={clamwin} ->! country of origin:={brazil}
+license:={gnu gpl} ->! company:={psafe}
+license:={gnu gpl} ->! country of origin:={brazil}
+license:={gnu gpl} ->! company:={qihoo 360}
+license:={gnu gpl} ->! company:={quick heal}
+license:={gnu gpl} ->! company:={cisco (originally immunet)}
+license:={gnu gpl} ->! company:={strayspark computing}
+license:={gnu gpl} ->! company:={symantec (originally pc tools)}
+company:={clamwin} ->! country of origin:={belarus}
+license:={gnu gpl} ->! company:={virusblokada}
+license:={gnu gpl} ->! country of origin:={belarus}
+company:={clamwin} ->! country of origin:={turkey}
+license:={gnu gpl} ->! company:={zemana}
+license:={gnu gpl} ->! country of origin:={turkey}
+company:={cysec} ->! country of origin:={iceland}
+company:={cysec} ->! price:={shareware}
+company:={cysec} ->! country of origin:={brazil}
+company:={cysec} ->! country of origin:={belarus}
+company:={cysec} ->! country of origin:={turkey}
+country of origin:={iceland} ->! company:={fortinet}
+country of origin:={iceland} ->! company:={ikarus}
+country of origin:={iceland} ->! company:={iobit}
+country of origin:={iceland} ->! company:={iolo technologies}
+country of origin:={iceland} ->! company:={is3}
+company:={frisk software} ->! price:={shareware}
+country of origin:={iceland} ->! company:={kingsoft}
+country of origin:={iceland} ->! price:={shareware}
+country of origin:={iceland} ->! company:={microsoft}
+country of origin:={iceland} ->! company:={nano security}
+company:={frisk software} ->! country of origin:={brazil}
+country of origin:={iceland} ->! company:={psafe}
+country of origin:={iceland} ->! company:={qihoo 360}
+country of origin:={iceland} ->! company:={quick heal}
+country of origin:={iceland} ->! company:={cisco (originally immunet)}
+country of origin:={iceland} ->! company:={strayspark computing}
+country of origin:={iceland} ->! company:={symantec (originally pc tools)}
+company:={frisk software} ->! country of origin:={belarus}
+country of origin:={iceland} ->! company:={virusblokada}
+company:={frisk software} ->! country of origin:={turkey}
+country of origin:={iceland} ->! company:={zemana}
+company:={fortinet} ->! price:={shareware}
+company:={fortinet} ->! country of origin:={brazil}
+company:={fortinet} ->! country of origin:={belarus}
+company:={fortinet} ->! country of origin:={turkey}
+company:={ikarus} ->! price:={shareware}
+company:={ikarus} ->! country of origin:={brazil}
+company:={ikarus} ->! country of origin:={belarus}
+company:={ikarus} ->! country of origin:={turkey}
+company:={iobit} ->! price:={shareware}
+company:={iobit} ->! country of origin:={brazil}
+company:={iobit} ->! country of origin:={belarus}
+company:={iobit} ->! country of origin:={turkey}
+company:={iolo technologies} ->! price:={shareware}
+company:={iolo technologies} ->! country of origin:={brazil}
+company:={iolo technologies} ->! country of origin:={belarus}
+company:={iolo technologies} ->! country of origin:={turkey}
+company:={is3} ->! price:={shareware}
+company:={is3} ->! country of origin:={brazil}
+company:={is3} ->! country of origin:={belarus}
+company:={is3} ->! country of origin:={turkey}
+price:={shareware} ->! company:={microsoft}
+price:={shareware} ->! company:={nano security}
+company:={kingsoft} ->! country of origin:={brazil}
+price:={shareware} ->! company:={psafe}
+price:={shareware} ->! country of origin:={brazil}
+price:={shareware} ->! company:={qihoo 360}
+price:={shareware} ->! company:={quick heal}
+price:={shareware} ->! company:={cisco (originally immunet)}
+price:={shareware} ->! company:={strayspark computing}
+price:={shareware} ->! company:={symantec (originally pc tools)}
+company:={kingsoft} ->! country of origin:={belarus}
+price:={shareware} ->! company:={virusblokada}
+price:={shareware} ->! country of origin:={belarus}
+company:={kingsoft} ->! country of origin:={turkey}
+price:={shareware} ->! company:={zemana}
+price:={shareware} ->! country of origin:={turkey}
+company:={microsoft} ->! country of origin:={brazil}
+company:={microsoft} ->! country of origin:={belarus}
+company:={microsoft} ->! country of origin:={turkey}
+company:={nano security} ->! country of origin:={brazil}
+company:={nano security} ->! country of origin:={belarus}
+company:={nano security} ->! country of origin:={turkey}
+country of origin:={brazil} ->! company:={qihoo 360}
+country of origin:={brazil} ->! company:={quick heal}
+country of origin:={brazil} ->! company:={cisco (originally immunet)}
+country of origin:={brazil} ->! company:={strayspark computing}
+country of origin:={brazil} ->! company:={symantec (originally pc tools)}
+company:={psafe} ->! country of origin:={belarus}
+country of origin:={brazil} ->! company:={virusblokada}
+company:={psafe} ->! country of origin:={turkey}
+country of origin:={brazil} ->! company:={zemana}
+company:={qihoo 360} ->! country of origin:={belarus}
+company:={qihoo 360} ->! country of origin:={turkey}
+company:={quick heal} ->! country of origin:={belarus}
+company:={quick heal} ->! country of origin:={turkey}
+company:={cisco (originally immunet)} ->! country of origin:={belarus}
+company:={cisco (originally immunet)} ->! country of origin:={turkey}
+company:={strayspark computing} ->! country of origin:={belarus}
+company:={strayspark computing} ->! country of origin:={turkey}
+company:={symantec (originally pc tools)} ->! country of origin:={belarus}
+company:={symantec (originally pc tools)} ->! country of origin:={turkey}
+company:={virusblokada} ->! country of origin:={turkey}
+country of origin:={belarus} ->! company:={zemana}

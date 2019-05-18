@@ -1,0 +1,330 @@
+digraph G { 
+	rankdir=BT;
+	margin=0;
+	node [margin="0.03,0.03",fontname="DejaVu Sans"];
+	ranksep=0.3;
+	nodesep=0.2;
+//graph[label="name:ctx,concept number:74,object number:75,attribute number:89"
+0 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_16</td></tr><tr><td>company:={frisk software}<br/>country of origin:={iceland}<br/></td></tr><tr><td>f-prot antivirus<br/></td></tr></table>>];
+11 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_6</td></tr><tr><td>company:={qihoo 360}<br/></td></tr><tr><td>360 total security<br/></td></tr></table>>];
+15 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_1</td></tr><tr><td>company:={virusblokada}<br/>country of origin:={belarus}<br/></td></tr><tr><td>vba32 antivirus<br/></td></tr></table>>];
+17 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_3</td></tr><tr><td>company:={strayspark computing}<br/></td></tr><tr><td>element anti-virus<br/></td></tr></table>>];
+19 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_5</td></tr><tr><td>company:={quick heal}<br/></td></tr><tr><td>quick heal total security 2015<br/></td></tr></table>>];
+2 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_0</td></tr><tr><td>company:={zemana}<br/>country of origin:={turkey}<br/></td></tr><tr><td>zemana antilogger and antimalware<br/></td></tr></table>>];
+21 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_13</td></tr><tr><td>company:={iobit}<br/></td></tr><tr><td>advanced systemcare<br/></td></tr></table>>];
+23 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_7</td></tr><tr><td>company:={psafe}<br/>country of origin:={brazil}<br/></td></tr><tr><td>psafe total windows<br/></td></tr></table>>];
+24 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_12</td></tr><tr><td>company:={iolo technologies}<br/></td></tr><tr><td>iolo system shield antivirus & antispyware<br/></td></tr></table>>];
+26 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_10</td></tr><tr><td>company:={kingsoft}<br/>price:={shareware}<br/></td></tr><tr><td>kingsoft antivirus<br/></td></tr></table>>];
+27 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_4</td></tr><tr><td>company:={cisco (originally immunet)}<br/></td></tr><tr><td>immunet<br/></td></tr></table>>];
+30 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_17</td></tr><tr><td>company:={cysec}<br/></td></tr><tr><td>cysec antivirus free<br/></td></tr></table>>];
+34 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_19</td></tr><tr><td>company:={ahnlab}<br/>country of origin:={south korea}<br/></td></tr><tr><td>ahnlab v3 internet security<br/></td></tr></table>>];
+35 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_8</td></tr><tr><td>company:={nano security}<br/></td></tr><tr><td>nano antivirus<br/></td></tr></table>>];
+38 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_15</td></tr><tr><td>company:={fortinet}<br/></td></tr><tr><td>fortinet antivirus and anti-spyware<br/></td></tr></table>>];
+4 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_11</td></tr><tr><td>company:={is3}<br/></td></tr><tr><td>stopzilla antimalware<br/></td></tr></table>>];
+40 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_18</td></tr><tr><td>company:={clamwin}<br/>license:={gnu gpl}<br/></td></tr><tr><td>clamwin<br/></td></tr></table>>];
+41 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_2</td></tr><tr><td>company:={symantec (originally pc tools)}<br/></td></tr><tr><td>spyware doctor with antivirus<br/></td></tr></table>>];
+6 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_9</td></tr><tr><td>company:={microsoft}<br/></td></tr><tr><td>windows defender<br/></td></tr></table>>];
+9 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_14</td></tr><tr><td>company:={ikarus}<br/></td></tr><tr><td>ikarus anti.virus<br/></td></tr></table>>];
+1 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_33</td></tr><tr><td>company:={g data software}<br/></td></tr><tr><td>g data antivirus<br/>g data internetsecurity<br/></td></tr></table>>];
+10 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_20</td></tr><tr><td>company:={webroot}<br/></td></tr><tr><td>secureanywhere antivirus<br/>secureanywhere internet security plus<br/></td></tr></table>>];
+12 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_22</td></tr><tr><td>company:={trend micro}<br/>country of origin:={japan}<br/></td></tr><tr><td>titanium antivirus plus<br/>titanium internet security<br/></td></tr></table>>];
+14 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_34</td></tr><tr><td>company:={f-secure}<br/>country of origin:={finland}<br/></td></tr><tr><td>f-secure antivirus<br/>f-secure internet security<br/></td></tr></table>>];
+16 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_39</td></tr><tr><td>company:={bullguard}<br/></td></tr><tr><td>bullguard antivirus<br/>bullguard internet security<br/></td></tr></table>>];
+18 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_24</td></tr><tr><td>company:={symantec}<br/></td></tr><tr><td>norton antivirus<br/>norton internet security<br/></td></tr></table>>];
+20 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_26</td></tr><tr><td>company:={scandium security}<br/>country of origin:={cyprus}<br/></td></tr><tr><td>unthreat professional antivirus<br/>unthreat internet security<br/></td></tr></table>>];
+22 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_30</td></tr><tr><td>company:={kaspersky lab}<br/></td></tr><tr><td>kaspersky anti-virus<br/>kaspersky internet security<br/></td></tr></table>>];
+28 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_41</td></tr><tr><td>company:={avetix}<br/></td></tr><tr><td>avetix free<br/>avetix pro<br/></td></tr></table>>];
+3 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_36</td></tr><tr><td>company:={dr. web}<br/></td></tr><tr><td>dr. web anti-virus (formerly spiderweb)<br/>dr. web security space<br/></td></tr></table>>];
+31 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_35</td></tr><tr><td>company:={eset}<br/>country of origin:={slovakia}<br/></td></tr><tr><td>eset nod32 antivirus<br/>eset smart security<br/></td></tr></table>>];
+32 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_42</td></tr><tr><td>company:={agnitum}<br/></td></tr><tr><td>outpost antivirus pro<br/>outpost security suite<br/></td></tr></table>>];
+33 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_32</td></tr><tr><td>company:={gfi software}<br/>country of origin:={malta}<br/></td></tr><tr><td>vipre antivirus<br/>vipre internet security<br/></td></tr></table>>];
+36 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_25</td></tr><tr><td>company:={sophos}<br/></td></tr><tr><td>sophos anti-virus<br/>sophos enduser protection<br/></td></tr></table>>];
+37 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_38</td></tr><tr><td>company:={check point}<br/></td></tr><tr><td>zonealarm pro antivirus + firewall<br/>zonealarm internet security suite<br/></td></tr></table>>];
+39 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_31</td></tr><tr><td>company:={k7 computing}<br/></td></tr><tr><td>k7 antivirus plus<br/>k7 total security<br/></td></tr></table>>];
+42 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_23</td></tr><tr><td>company:={tg soft}<br/></td></tr><tr><td>virit explorer lite<br/>virit explorer pro<br/></td></tr></table>>];
+44 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_28</td></tr><tr><td>company:={mcafee}<br/></td></tr><tr><td>mcafee antivirus<br/>mcafee internet security<br/></td></tr></table>>];
+5 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_27</td></tr><tr><td>company:={panda security}<br/>country of origin:={spain}<br/></td></tr><tr><td>panda antivirus pro<br/>panda internet security<br/></td></tr></table>>];
+68 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_37</td></tr><tr><td>country of origin:={australia}<br/></td></tr><tr><td><br/></td></tr></table>>];
+7 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_21</td></tr><tr><td>company:={trustport}<br/></td></tr><tr><td>trustport antivirus<br/>trustport internet security<br/></td></tr></table>>];
+72 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_29</td></tr><tr><td>country of origin:={china}<br/></td></tr><tr><td><br/></td></tr></table>>];
+8 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_40</td></tr><tr><td>company:={avira}<br/></td></tr><tr><td>avira antivirus free (formerly antivir)<br/>avira internet security<br/></td></tr></table>>];
+13 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_46</td></tr><tr><td>company:={avg technologies (grisoft)}<br/></td></tr><tr><td>avg antivirus free<br/>avg antivirus<br/>avg internet security<br/></td></tr></table>>];
+29 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_44</td></tr><tr><td>company:={comodo group}<br/></td></tr><tr><td>comodo antivirus<br/>comodo antivirus advanced<br/>comodo internet security<br/></td></tr></table>>];
+43 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_45</td></tr><tr><td>company:={bitdefender}<br/>country of origin:={romania}<br/></td></tr><tr><td>bitdefender antivirus free<br/>bitdefender antivirus plus<br/>bitdefender internet security<br/></td></tr></table>>];
+69 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_43</td></tr><tr><td>country of origin:={india}<br/></td></tr><tr><td><br/></td></tr></table>>];
+25 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_49</td></tr><tr><td>company:={avast}<br/></td></tr><tr><td>avast free antivirus<br/>avast pro antivirus<br/>avast internet security<br/>avast premier<br/></td></tr></table>>];
+66 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_47</td></tr><tr><td>country of origin:={germany}<br/></td></tr><tr><td><br/></td></tr></table>>];
+73 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_48</td></tr><tr><td>country of origin:={italy}<br/></td></tr><tr><td><br/></td></tr></table>>];
+65 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_50</td></tr><tr><td>country of origin:={united kingdom}<br/></td></tr><tr><td><br/></td></tr></table>>];
+71 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_51</td></tr><tr><td>country of origin:={russia}<br/></td></tr><tr><td><br/></td></tr></table>>];
+70 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_52</td></tr><tr><td>country of origin:={czech republic}<br/></td></tr><tr><td><br/></td></tr></table>>];
+62 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_53</td></tr><tr><td>price:={trialware}<br/></td></tr><tr><td>avast pro antivirus<br/>avast internet security<br/>avast premier<br/>dr. web anti-virus (formerly spiderweb)<br/>vipre antivirus<br/>trustport antivirus<br/>secureanywhere antivirus<br/></td></tr></table>>];
+51 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_54</td></tr><tr><td>ips<br/></td></tr><tr><td>avg internet security<br/>bitdefender internet security<br/>eset smart security<br/>f-secure internet security<br/>kaspersky internet security<br/>mcafee internet security<br/>panda internet security<br/>sophos enduser protection<br/>norton internet security<br/></td></tr></table>>];
+64 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_55</td></tr><tr><td>price:={free}<br/></td></tr><tr><td>avast free antivirus<br/>avetix free<br/>avg antivirus free<br/>avira antivirus free (formerly antivir)<br/>bitdefender antivirus free<br/>comodo antivirus<br/>unthreat professional antivirus<br/>virit explorer lite<br/></td></tr></table>>];
+67 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_56</td></tr><tr><td>country of origin:={united states}<br/></td></tr><tr><td><br/></td></tr></table>>];
+53 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_57</td></tr><tr><td>antispam<br/></td></tr><tr><td>avast internet security<br/>avast premier<br/>avg internet security<br/>bitdefender internet security<br/>bullguard internet security<br/>eset smart security<br/>f-secure internet security<br/>g data internetsecurity<br/>kaspersky internet security<br/>mcafee internet security<br/>panda internet security<br/>sophos enduser protection<br/>norton internet security<br/>titanium antivirus plus<br/></td></tr></table>>];
+50 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_58</td></tr><tr><td>ids<br/></td></tr><tr><td>g data internetsecurity<br/></td></tr></table>>];
+49 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_59</td></tr><tr><td>firewall<br/></td></tr><tr><td>outpost security suite<br/>avast internet security<br/>avast premier<br/>avg internet security<br/>bitdefender internet security<br/>bullguard internet security<br/>comodo internet security<br/>dr. web security space<br/>eset smart security<br/>f-secure internet security<br/>g data internetsecurity<br/>kaspersky internet security<br/>mcafee internet security<br/>norton internet security<br/>virit explorer pro<br/></td></tr></table>>];
+48 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_60</td></tr><tr><td>cloudav<br/></td></tr><tr><td>avg antivirus<br/>avg internet security<br/>f-secure internet security<br/>g data internetsecurity<br/>kaspersky internet security<br/>mcafee internet security<br/>norton internet security<br/>virit explorer pro<br/>titanium internet security<br/></td></tr></table>>];
+59 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_61</td></tr><tr><td>av comparatives<br/></td></tr><tr><td>avast free antivirus<br/>bitdefender antivirus plus<br/>bitdefender internet security<br/>eset smart security<br/></td></tr></table>>];
+55 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_62</td></tr><tr><td>macro protection<br/></td></tr><tr><td>kaspersky internet security<br/></td></tr></table>>];
+46 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_64</td></tr><tr><td>boot-time scans<br/></td></tr><tr><td><br/></td></tr></table>>];
+60 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_63</td></tr><tr><td>av test<br/></td></tr><tr><td>avast pro antivirus<br/></td></tr></table>>];
+52 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_65</td></tr><tr><td>email security<br/></td></tr><tr><td>avg antivirus<br/>avg internet security<br/>bitdefender internet security<br/>bullguard internet security<br/>zonealarm internet security suite<br/>g data internetsecurity<br/>vipre internet security<br/>panda internet security<br/>unthreat internet security<br/>virit explorer pro<br/>trustport internet security<br/>secureanywhere internet security plus<br/></td></tr></table>>];
+54 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_66</td></tr><tr><td>web protection<br/></td></tr><tr><td>outpost security suite<br/>bullguard internet security<br/>zonealarm internet security suite<br/>comodo antivirus advanced<br/>comodo internet security<br/>dr. web security space<br/>f-secure internet security<br/>k7 total security<br/>mcafee internet security<br/>panda internet security<br/>unthreat internet security<br/>sophos enduser protection<br/>norton internet security<br/>titanium internet security<br/>trustport internet security<br/>secureanywhere internet security plus<br/></td></tr></table>>];
+63 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_67</td></tr><tr><td>price:={non-free}<br/></td></tr><tr><td>avetix pro<br/>avg antivirus<br/>avg internet security<br/>avira internet security<br/>bitdefender antivirus plus<br/>bitdefender internet security<br/>comodo antivirus advanced<br/>comodo internet security<br/>dr. web security space<br/>vipre internet security<br/>unthreat internet security<br/>virit explorer pro<br/>trustport internet security<br/>secureanywhere internet security plus<br/></td></tr></table>>];
+58 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_68</td></tr><tr><td>virus bulletin vb100<br/></td></tr><tr><td>outpost security suite<br/>avast free antivirus<br/>avast pro antivirus<br/></td></tr></table>>];
+47 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_69</td></tr><tr><td>heuristics<br/></td></tr><tr><td>comodo antivirus advanced<br/>comodo internet security<br/></td></tr></table>>];
+57 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_70</td></tr><tr><td>support<br/></td></tr><tr><td>comodo internet security<br/>unthreat internet security<br/></td></tr></table>>];
+56 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_71</td></tr><tr><td>live update<br/></td></tr><tr><td><br/></td></tr></table>>];
+61 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_72</td></tr><tr><td>license:={proprietary}<br/></td></tr><tr><td><br/></td></tr></table>>];
+45 [shape=none,label=<<table border="0" cellborder="1" cellspacing="0" port="p"><tr><td>Concept_ctx_73</td></tr><tr><td>on-demand scan<br/>on-access scan<br/></td></tr><tr><td><br/></td></tr></table>>];
+	9:p -> 68:p
+	40:p -> 68:p
+	26:p -> 72:p
+	11:p -> 72:p
+	19:p -> 69:p
+	39:p -> 69:p
+	8:p -> 66:p
+	1:p -> 66:p
+	28:p -> 73:p
+	42:p -> 73:p
+	30:p -> 65:p
+	16:p -> 65:p
+	36:p -> 65:p
+	17:p -> 65:p
+	35:p -> 71:p
+	22:p -> 71:p
+	32:p -> 71:p
+	3:p -> 71:p
+	13:p -> 70:p
+	7:p -> 70:p
+	25:p -> 70:p
+	2:p -> 62:p
+	31:p -> 62:p
+	0:p -> 62:p
+	4:p -> 62:p
+	32:p -> 51:p
+	37:p -> 51:p
+	33:p -> 51:p
+	27:p -> 64:p
+	30:p -> 64:p
+	35:p -> 64:p
+	21:p -> 64:p
+	11:p -> 64:p
+	6:p -> 64:p
+	23:p -> 64:p
+	40:p -> 64:p
+	24:p -> 67:p
+	27:p -> 67:p
+	44:p -> 67:p
+	10:p -> 67:p
+	41:p -> 67:p
+	21:p -> 67:p
+	4:p -> 67:p
+	18:p -> 67:p
+	29:p -> 67:p
+	6:p -> 67:p
+	37:p -> 67:p
+	38:p -> 67:p
+	8:p -> 53:p
+	19:p -> 53:p
+	33:p -> 53:p
+	36:p -> 50:p
+	19:p -> 50:p
+	51:p -> 50:p
+	42:p -> 50:p
+	25:p -> 50:p
+	36:p -> 49:p
+	37:p -> 49:p
+	19:p -> 49:p
+	26:p -> 49:p
+	33:p -> 49:p
+	5:p -> 49:p
+	27:p -> 48:p
+	36:p -> 48:p
+	11:p -> 48:p
+	25:p -> 48:p
+	31:p -> 48:p
+	43:p -> 48:p
+	33:p -> 48:p
+	5:p -> 48:p
+	16:p -> 59:p
+	13:p -> 59:p
+	66:p -> 59:p
+	72:p -> 59:p
+	44:p -> 59:p
+	9:p -> 59:p
+	23:p -> 59:p
+	22:p -> 59:p
+	14:p -> 59:p
+	33:p -> 59:p
+	5:p -> 59:p
+	36:p -> 59:p
+	10:p -> 59:p
+	12:p -> 59:p
+	34:p -> 59:p
+	35:p -> 55:p
+	13:p -> 55:p
+	66:p -> 55:p
+	44:p -> 55:p
+	0:p -> 55:p
+	42:p -> 55:p
+	25:p -> 55:p
+	31:p -> 55:p
+	23:p -> 55:p
+	32:p -> 55:p
+	14:p -> 55:p
+	33:p -> 55:p
+	5:p -> 55:p
+	36:p -> 55:p
+	69:p -> 55:p
+	11:p -> 55:p
+	16:p -> 46:p
+	13:p -> 46:p
+	66:p -> 46:p
+	44:p -> 46:p
+	0:p -> 46:p
+	25:p -> 46:p
+	31:p -> 46:p
+	43:p -> 46:p
+	22:p -> 46:p
+	32:p -> 46:p
+	14:p -> 46:p
+	5:p -> 46:p
+	36:p -> 46:p
+	19:p -> 46:p
+	11:p -> 46:p
+	12:p -> 46:p
+	18:p -> 46:p
+	40:p -> 46:p
+	59:p -> 60:p
+	18:p -> 60:p
+	41:p -> 60:p
+	27:p -> 52:p
+	30:p -> 52:p
+	35:p -> 52:p
+	44:p -> 52:p
+	39:p -> 52:p
+	0:p -> 52:p
+	25:p -> 52:p
+	68:p -> 52:p
+	31:p -> 52:p
+	22:p -> 52:p
+	32:p -> 52:p
+	14:p -> 52:p
+	36:p -> 52:p
+	8:p -> 52:p
+	18:p -> 52:p
+	34:p -> 52:p
+	35:p -> 54:p
+	13:p -> 54:p
+	66:p -> 54:p
+	41:p -> 54:p
+	25:p -> 54:p
+	73:p -> 54:p
+	31:p -> 54:p
+	43:p -> 54:p
+	9:p -> 54:p
+	23:p -> 54:p
+	22:p -> 54:p
+	33:p -> 54:p
+	11:p -> 54:p
+	34:p -> 54:p
+	24:p -> 63:p
+	16:p -> 63:p
+	44:p -> 63:p
+	41:p -> 63:p
+	15:p -> 63:p
+	9:p -> 63:p
+	1:p -> 63:p
+	22:p -> 63:p
+	32:p -> 63:p
+	14:p -> 63:p
+	5:p -> 63:p
+	36:p -> 63:p
+	69:p -> 63:p
+	12:p -> 63:p
+	18:p -> 63:p
+	37:p -> 63:p
+	38:p -> 63:p
+	17:p -> 63:p
+	34:p -> 63:p
+	44:p -> 58:p
+	41:p -> 58:p
+	0:p -> 58:p
+	31:p -> 58:p
+	43:p -> 58:p
+	5:p -> 58:p
+	36:p -> 58:p
+	10:p -> 58:p
+	19:p -> 58:p
+	28:p -> 58:p
+	18:p -> 58:p
+	37:p -> 58:p
+	20:p -> 58:p
+	34:p -> 58:p
+	16:p -> 58:p
+	13:p -> 58:p
+	66:p -> 58:p
+	72:p -> 58:p
+	9:p -> 58:p
+	6:p -> 58:p
+	22:p -> 58:p
+	14:p -> 58:p
+	33:p -> 58:p
+	12:p -> 58:p
+	35:p -> 47:p
+	46:p -> 47:p
+	68:p -> 47:p
+	73:p -> 47:p
+	53:p -> 47:p
+	23:p -> 47:p
+	34:p -> 47:p
+	44:p -> 57:p
+	48:p -> 57:p
+	70:p -> 57:p
+	10:p -> 57:p
+	69:p -> 57:p
+	28:p -> 57:p
+	18:p -> 57:p
+	38:p -> 57:p
+	34:p -> 57:p
+	24:p -> 57:p
+	16:p -> 57:p
+	66:p -> 57:p
+	62:p -> 57:p
+	51:p -> 57:p
+	53:p -> 57:p
+	9:p -> 57:p
+	6:p -> 57:p
+	23:p -> 57:p
+	14:p -> 57:p
+	12:p -> 57:p
+	17:p -> 57:p
+	71:p -> 57:p
+	47:p -> 56:p
+	49:p -> 56:p
+	29:p -> 56:p
+	57:p -> 56:p
+	52:p -> 56:p
+	55:p -> 56:p
+	65:p -> 56:p
+	60:p -> 56:p
+	54:p -> 56:p
+	50:p -> 56:p
+	58:p -> 56:p
+	65:p -> 61:p
+	67:p -> 61:p
+	60:p -> 61:p
+	49:p -> 61:p
+	54:p -> 61:p
+	57:p -> 61:p
+	50:p -> 61:p
+	55:p -> 61:p
+	63:p -> 61:p
+	58:p -> 61:p
+	64:p -> 45:p
+	56:p -> 45:p
+	61:p -> 45:p
+}

@@ -1,10 +1,4 @@
-windows ->! market focus:={personal}
 windows ->! structure:={stand alone,mobile}
-license:={proprietary} ->! linux
-license:={proprietary} ->! structure:={web based}
-license:={proprietary} ->! market focus:={mid-market,high-market,low-market}
-market focus:={mid-market} ->! os x
-market focus:={mid-market} ->! linux
 market focus:={mid-market} ->! license:={freeware}
 market focus:={mid-market} ->! structure:={stand alone,mobile}
 market focus:={low-market} ->! structure:={web based,stand alone}
@@ -12,42 +6,42 @@ market focus:={low-market} ->! structure:={web access,stand alone}
 market focus:={low-market} ->! license:={software as a service,proprietary}
 market focus:={low-market} ->! structure:={stand alone,mobile}
 market focus:={low-market} ->! structure:={remote access,multi-user,stand alone,location,terminal server}
-structure:={stand alone} ->! linux
 structure:={stand alone} ->! license:={software as a service,freeware}
-os x ->! market focus:={high-market}
-os x ->! structure:={web based,stand alone}
 os x ->! structure:={web access}
 os x ->! structure:={multi-user}
 os x ->! structure:={remote access}
-os x ->! license:={software as a service,proprietary}
 os x ->! license:={proprietary,freeware}
-market focus:={mid-market,low-market} ->! structure:={web based}
-market focus:={mid-market,low-market} ->! license:={software as a service}
-linux ->! market focus:={high-market}
 linux ->! structure:={web access}
-linux ->! market focus:={personal}
+linux ->! market focus:={mid-market,high-market,low-market}
 linux ->! structure:={multi-user}
-linux ->! structure:={remote access}
-structure:={web based} ->! market focus:={high-market}
-structure:={web based} ->! market focus:={personal}
+linux ->! license:={software as a service,proprietary}
+linux ->! structure:={stand alone,mobile}
+linux ->! license:={proprietary,freeware}
+structure:={web based} ->! market focus:={mid-market,high-market}
+structure:={web based} ->! license:={software as a service,proprietary}
+structure:={web based} ->! license:={proprietary,freeware}
 license:={software as a service} ->! market focus:={high-market}
 license:={software as a service} ->! structure:={web based,stand alone}
 license:={software as a service} ->! structure:={web access}
-license:={software as a service} ->! market focus:={personal}
 license:={software as a service} ->! structure:={multi-user}
 license:={software as a service} ->! structure:={remote access}
 license:={software as a service} ->! structure:={stand alone,mobile}
+market focus:={high-market} ->! structure:={web based,stand alone}
 market focus:={high-market} ->! structure:={web access}
 market focus:={high-market} ->! license:={freeware}
 market focus:={high-market} ->! structure:={stand alone,mobile}
+structure:={web based,stand alone} ->! market focus:={personal}
 structure:={web based,stand alone} ->! license:={freeware}
 structure:={web access} ->! market focus:={personal}
-structure:={web access} ->! license:={freeware}
+structure:={web access} ->! license:={proprietary,freeware}
 market focus:={personal} ->! structure:={multi-user}
 market focus:={personal} ->! structure:={remote access}
 market focus:={personal} ->! license:={freeware}
+market focus:={personal} ->! license:={software as a service,proprietary}
 market focus:={mid-market,high-market,low-market} ->! structure:={multi-user}
 market focus:={mid-market,high-market,low-market} ->! structure:={remote access}
-structure:={multi-user} ->! license:={freeware}
+structure:={multi-user} ->! license:={proprietary,freeware}
+structure:={multi-user,location,terminal server} ->! license:={freeware}
 structure:={remote access} ->! license:={freeware}
+license:={freeware} ->! structure:={web access,stand alone}
 license:={freeware} ->! structure:={stand alone,mobile}

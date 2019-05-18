@@ -1,4 +1,3 @@
-gui ->! programming language:={lua}
 gui ->! programming language:={c#}
 gui ->! cli
 gui ->! programming language:={java}

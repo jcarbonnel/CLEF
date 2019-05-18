@@ -29,12 +29,10 @@ point of sale ->! online banking
 point of sale ->! language:={c}
 point of sale ->! stock option commodity trade
 point of sale ->! structure:={stand alone,client-server}
-manufacturing/bill of materials ->! market focus:={personal}
 manufacturing/bill of materials ->! language:={c}
 manufacturing/bill of materials ->! stock option commodity trade
 manufacturing/bill of materials ->! market focus:={mid-market,high-market}
 manufacturing/bill of materials ->! structure:={web based,stand alone}
-inventory management ->! market focus:={personal}
 inventory management ->! license:={gpl2}
 inventory management ->! language:={c}
 inventory management ->! stock option commodity trade
@@ -50,9 +48,7 @@ structure:={web based} ->! license:={cpal}
 structure:={web based} ->! language:={delphi}
 license:={gpl} ->! business intelligence
 license:={gpl} ->! human ressource management
-license:={gpl} ->! payroll
 license:={gpl} ->! tax form
-license:={gpl} ->! language:={php}
 license:={gpl} ->! structure:={web based,client-server}
 license:={gpl} ->! language:={c++}
 license:={gpl} ->! structure:={multi-user,web access,cloud hostable}
@@ -61,7 +57,6 @@ license:={gpl} ->! structure:={web based,saas,on demand,on-premise}
 distribution/warehouse management system ->! language:={php}
 distribution/warehouse management system ->! language:={c}
 distribution/warehouse management system ->! stock option commodity trade
-distribution/warehouse management system ->! language:={perl}
 distribution/warehouse management system ->! license:={gpl3}
 distribution/warehouse management system ->! license:={mpl}
 distribution/warehouse management system ->! structure:={web based,saas,on demand,on-premise}
@@ -71,8 +66,6 @@ market focus:={low-market} ->! language:={perl}
 market focus:={low-market} ->! language:={java ee}
 market focus:={low-market} ->! license:={mpl}
 market focus:={low-market} ->! structure:={web based,saas,on demand,on-premise}
-multiuser ->! market focus:={personal}
-multico ->! market focus:={personal}
 multiuser ->! license:={gpl2}
 multico ->! license:={gpl2}
 multiuser ->! language:={c}
@@ -96,13 +89,11 @@ supply chain management ->! stock option commodity trade
 supply chain management ->! market focus:={mid-market,high-market}
 supply chain management ->! structure:={web based,stand alone}
 supply chain management ->! language:={c++}
-supply chain management ->! language:={perl}
 supply chain management ->! language:={java ee}
 supply chain management ->! license:={mpl}
 supply chain management ->! structure:={web based,saas,on demand,on-premise}
 supply chain management ->! license:={cpal}
 supply chain management ->! language:={delphi}
-e-commerce ->! market focus:={personal}
 e-commerce ->! license:={gpl2}
 e-commerce ->! language:={php}
 e-commerce ->! language:={c}
@@ -113,17 +104,17 @@ e-commerce ->! language:={perl}
 e-commerce ->! language:={java ee}
 e-commerce ->! license:={gpl3}
 e-commerce ->! language:={delphi}
-business intelligence ->! structure:={stand alone}
-business intelligence ->! market focus:={personal}
 business intelligence ->! online banking
 business intelligence ->! license:={gpl2}
 business intelligence ->! language:={php}
 business intelligence ->! language:={c}
 business intelligence ->! stock option commodity trade
 business intelligence ->! market focus:={mid-market,high-market}
+business intelligence ->! structure:={web based,stand alone}
 business intelligence ->! language:={perl}
 business intelligence ->! language:={java ee}
 business intelligence ->! license:={gpl3}
+business intelligence ->! structure:={stand alone,client-server}
 business intelligence ->! language:={delphi}
 structure:={stand alone} ->! human ressource management
 structure:={stand alone} ->! payroll
@@ -144,7 +135,6 @@ human ressource management ->! license:={gpl2}
 human ressource management ->! language:={php}
 human ressource management ->! language:={c}
 human ressource management ->! stock option commodity trade
-human ressource management ->! market focus:={mid-market,high-market}
 human ressource management ->! language:={c++}
 human ressource management ->! language:={perl}
 human ressource management ->! language:={java ee}
@@ -153,7 +143,6 @@ human ressource management ->! license:={cpal}
 human ressource management ->! language:={delphi}
 language:={java} ->! online banking
 language:={java} ->! structure:={client-server}
-language:={java} ->! license:={gpl2}
 language:={java} ->! stock option commodity trade
 language:={java} ->! license:={gpl3}
 language:={java} ->! license:={agpl}
@@ -173,11 +162,11 @@ payroll ->! language:={java ee}
 payroll ->! license:={gpl3}
 payroll ->! license:={cpal}
 payroll ->! language:={delphi}
-market focus:={personal} ->! structure:={client-server}
 market focus:={personal} ->! tax form
 market focus:={personal} ->! language:={python}
 market focus:={personal} ->! license:={gpl2}
 market focus:={personal} ->! language:={php}
+market focus:={personal} ->! structure:={web based,client-server}
 market focus:={personal} ->! language:={c++}
 market focus:={personal} ->! language:={perl}
 market focus:={personal} ->! license:={apache}
@@ -188,13 +177,12 @@ market focus:={personal} ->! license:={mpl}
 market focus:={personal} ->! structure:={web based,saas,on demand,on-premise}
 market focus:={personal} ->! license:={agpl}
 market focus:={personal} ->! license:={cpal}
+market focus:={personal} ->! structure:={stand alone,client-server}
 market focus:={personal} ->! language:={delphi}
-online banking ->! tax form
 online banking ->! license:={gpl2}
 online banking ->! language:={php}
 online banking ->! market focus:={mid-market,high-market}
 online banking ->! language:={c++}
-online banking ->! language:={perl}
 online banking ->! license:={apache}
 online banking ->! structure:={multi-user,web access,cloud hostable}
 online banking ->! language:={java ee}
@@ -222,7 +210,6 @@ tax form ->! language:={c}
 tax form ->! stock option commodity trade
 tax form ->! market focus:={mid-market,high-market}
 tax form ->! language:={c++}
-tax form ->! language:={perl}
 tax form ->! language:={java ee}
 tax form ->! license:={gpl3}
 tax form ->! license:={agpl}
@@ -230,8 +217,6 @@ tax form ->! license:={cpal}
 tax form ->! language:={delphi}
 language:={python} ->! license:={gpl2}
 language:={python} ->! stock option commodity trade
-language:={python} ->! market focus:={mid-market,high-market}
-language:={python} ->! structure:={web based,stand alone}
 language:={python} ->! license:={apache}
 language:={python} ->! structure:={multi-user,web access,cloud hostable}
 language:={python} ->! license:={gpl3}
@@ -261,7 +246,6 @@ language:={c} ->! license:={gpl3}
 language:={c} ->! license:={mpl}
 language:={c} ->! license:={agpl}
 language:={c} ->! license:={cpal}
-stock option commodity trade ->! language:={c++}
 stock option commodity trade ->! language:={perl}
 stock option commodity trade ->! license:={apache}
 stock option commodity trade ->! structure:={multi-user,web access,cloud hostable}

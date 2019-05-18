@@ -5,7 +5,6 @@ release date:=[2001-2014] ->! creator:={seeburger ag}
 release date:=[2001-2014] ->! creator:={talend}
 release date:=[2001-2014] ->! software license:={gpl,apache software license}
 release date:=[2007-2015] ->! creator:={progress software}
-release date:=[2003-2014] ->! software license:={gpl}
 release date:=[2008-2015] ->! creator:={fusesource}
 release date:=[2008-2015] ->! creator:={informatica}
 release date:=[2010-2015] ->! creator:={jitterbit}
@@ -20,7 +19,6 @@ release date:=[2011-2015] ->! creator:={apache software foundation}
 release date:=[2011-2015] ->! creator:={ibm}
 release date:=[2011-2015] ->! creator:={flow software ltd}
 release date:=[2011-2015] ->! creator:={engineering group}
-software license:={proprietary} ->! cost:={commercial support available,free}
 software license:={proprietary} ->! creator:={apache software foundation}
 software license:={proprietary} ->! creator:={jboss}
 software license:={proprietary} ->! creator:={adroitlogic}
@@ -44,8 +42,6 @@ release date:=[2001-2012] ->! creator:={wso2}
 release date:=[2001-2011] ->! creator:={adeptia}
 release date:=[2001-2011] ->! creator:={magic software enterprises}
 release date:=[2001-2011] ->! creator:={automation centre}
-release date:=[2008-2012] ->! software license:={apache software license}
-release date:=[2012-2015] ->! software license:={lgpl}
 release date:=[2012-2015] ->! creator:={jboss}
 release date:=[2012-2015] ->! creator:={adroitlogic}
 release date:=[2012-2015] ->! software license:={agpl}
@@ -58,7 +54,6 @@ cost:={non-free} ->! software license:={apache software license}
 cost:={non-free} ->! software license:={lgpl}
 cost:={non-free} ->! creator:={apache software foundation}
 cost:={non-free} ->! creator:={progress software}
-cost:={non-free} ->! creator:={microsoft}
 cost:={non-free} ->! creator:={jboss}
 cost:={non-free} ->! creator:={adroitlogic}
 cost:={non-free} ->! software license:={agpl}
@@ -80,12 +75,9 @@ cost:={non-free} ->! creator:={talend}
 cost:={non-free} ->! creator:={unify corporation}
 cost:={non-free} ->! release date:=*
 cost:={non-free} ->! creator:={wso2}
-release date:=[2011-2013] ->! cost:={non-free,free}
-open source ->! release date:=[2012-2012]
 open source ->! creator:={ibm}
 open source ->! creator:={progress software}
 open source ->! creator:={microsoft}
-open source ->! cost:={non-free,free}
 open source ->! creator:={oracle corporation}
 open source ->! creator:={adeptia}
 open source ->! release date:=[2003-2003]
@@ -106,13 +98,12 @@ open source ->! creator:={software ag}
 release date:=[2013-2015] ->! creator:={adeptia}
 release date:=[2013-2015] ->! creator:={magic software enterprises}
 release date:=[2013-2015] ->! creator:={automation centre}
-cost:={free} ->! release date:=[2001-2008]
-cost:={free} ->! release date:=[2012-2012]
 cost:={free} ->! creator:={ibm}
 cost:={free} ->! creator:={progress software}
 cost:={free} ->! creator:={microsoft}
 cost:={free} ->! creator:={oracle corporation}
 cost:={free} ->! creator:={adeptia}
+cost:={free} ->! release date:=[2003-2003]
 cost:={free} ->! creator:={astera software}
 cost:={free} ->! creator:={automation anywhere}
 cost:={free} ->! software license:={proprietary,saas}
@@ -127,6 +118,7 @@ cost:={free} ->! creator:={openesb community}
 cost:={free} ->! software license:={cddl}
 cost:={free} ->! creator:={seeburger ag}
 cost:={free} ->! creator:={openlink software}
+cost:={free} ->! release date:=[2001-2001]
 cost:={free} ->! software license:={gpl,proprietary}
 cost:={free} ->! creator:={sap ag}
 cost:={free} ->! creator:={sun microsystems}
@@ -153,15 +145,21 @@ release date:=[2014-2015] ->! creator:={openesb community}
 release date:=[2014-2015] ->! software license:={cddl}
 release date:=[2014-2015] ->! creator:={software ag}
 release date:=[2014-2015] ->! creator:={wso2}
+release date:=[2011-2011] ->! software license:={apache software license}
+release date:=[2011-2011] ->! cost:={non-free,free}
+release date:=[2011-2011] ->! software license:={gpl}
 release date:=[2014-2014] ->! software license:={apache software license}
+release date:=[2014-2014] ->! software license:={lgpl}
+release date:=[2014-2014] ->! software license:={gpl}
+software license:={apache software license} ->! release date:=[2010-2010]
 software license:={apache software license} ->! creator:={ibm}
-software license:={apache software license} ->! release date:=[2001-2003]
 software license:={apache software license} ->! creator:={progress software}
 software license:={apache software license} ->! creator:={microsoft}
 software license:={apache software license} ->! creator:={jboss}
 software license:={apache software license} ->! creator:={oracle corporation}
 software license:={apache software license} ->! creator:={adeptia}
 software license:={apache software license} ->! creator:={adroitlogic}
+software license:={apache software license} ->! release date:=[2003-2003]
 software license:={apache software license} ->! creator:={astera software}
 software license:={apache software license} ->! creator:={automation anywhere}
 software license:={apache software license} ->! creator:={flow software ltd}
@@ -174,6 +172,7 @@ software license:={apache software license} ->! creator:={mulesoft}
 software license:={apache software license} ->! creator:={openesb community}
 software license:={apache software license} ->! creator:={seeburger ag}
 software license:={apache software license} ->! creator:={openlink software}
+software license:={apache software license} ->! release date:=[2001-2001]
 software license:={apache software license} ->! creator:={ow2 consortium}
 software license:={apache software license} ->! creator:={sap ag}
 software license:={apache software license} ->! creator:={engineering group}
@@ -182,10 +181,13 @@ software license:={apache software license} ->! creator:={automation centre}
 software license:={apache software license} ->! creator:={unify corporation}
 software license:={apache software license} ->! release date:=*
 software license:={apache software license} ->! creator:={software ag}
-release date:=[2001-2008] ->! software license:={lgpl}
+release date:=[2010-2010] ->! software license:={gpl}
 release date:=[2001-2008] ->! creator:={ibm}
 release date:=[2001-2008] ->! creator:={flow software ltd}
 release date:=[2001-2008] ->! creator:={engineering group}
+release date:=[2013-2013] ->! software license:={lgpl}
+release date:=[2013-2013] ->! cost:={non-free,free}
+release date:=[2013-2013] ->! software license:={gpl}
 release date:=[2001-2007] ->! creator:={jitterbit}
 release date:=[2001-2007] ->! software license:={jpl}
 release date:=[2001-2007] ->! creator:={sun microsystems}
@@ -196,6 +198,7 @@ software license:={lgpl} ->! creator:={microsoft}
 software license:={lgpl} ->! creator:={oracle corporation}
 software license:={lgpl} ->! creator:={adeptia}
 software license:={lgpl} ->! creator:={adroitlogic}
+software license:={lgpl} ->! release date:=[2003-2003]
 software license:={lgpl} ->! creator:={astera software}
 software license:={lgpl} ->! creator:={automation anywhere}
 software license:={lgpl} ->! creator:={flow software ltd}
@@ -209,6 +212,7 @@ software license:={lgpl} ->! creator:={mulesoft}
 software license:={lgpl} ->! creator:={openesb community}
 software license:={lgpl} ->! creator:={seeburger ag}
 software license:={lgpl} ->! creator:={openlink software}
+software license:={lgpl} ->! release date:=[2001-2001]
 software license:={lgpl} ->! creator:={sap ag}
 software license:={lgpl} ->! creator:={sun microsystems}
 software license:={lgpl} ->! creator:={talend}
@@ -250,8 +254,6 @@ creator:={microsoft} ->! software license:={mit}
 creator:={microsoft} ->! software license:={cpal}
 creator:={microsoft} ->! software license:={cddl}
 creator:={microsoft} ->! release date:=*
-cost:={non-free,free} ->! release date:=[2015-2015]
-cost:={non-free,free} ->! software license:={gpl}
 creator:={jboss} ->! software license:={gpl}
 creator:={jboss} ->! software license:={agpl}
 creator:={jboss} ->! software license:={jpl}
@@ -266,6 +268,7 @@ release date:=[2015-2015] ->! software license:={cpal}
 software license:={gpl} ->! creator:={oracle corporation}
 software license:={gpl} ->! creator:={adeptia}
 software license:={gpl} ->! creator:={adroitlogic}
+software license:={gpl} ->! release date:=[2003-2003]
 software license:={gpl} ->! creator:={astera software}
 software license:={gpl} ->! creator:={automation anywhere}
 software license:={gpl} ->! creator:={flow software ltd}

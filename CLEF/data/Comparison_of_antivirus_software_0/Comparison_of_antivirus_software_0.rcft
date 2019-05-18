@@ -1,0 +1,78 @@
+FormalContext ctx
+algo fca
+| |company:={frisk software}|company:={g data software}|company:={zemana}|company:={dr. web}|company:={is3}|company:={panda security}|company:={microsoft}|company:={trustport}|company:={avira}|company:={ikarus}|company:={webroot}|company:={qihoo 360}|company:={trend micro}|company:={avg technologies (grisoft)}|company:={f-secure}|company:={virusblokada}|company:={bullguard}|company:={strayspark computing}|company:={symantec}|company:={quick heal}|company:={scandium security}|company:={iobit}|company:={kaspersky lab}|company:={psafe}|company:={iolo technologies}|company:={avast}|company:={kingsoft}|company:={cisco (originally immunet)}|company:={avetix}|company:={comodo group}|company:={cysec}|company:={eset}|company:={agnitum}|company:={gfi software}|company:={ahnlab}|company:={nano security}|company:={sophos}|company:={check point}|company:={fortinet}|company:={k7 computing}|company:={clamwin}|company:={symantec (originally pc tools)}|company:={tg soft}|company:={bitdefender}|company:={mcafee}|on-demand scan|on-access scan|boot-time scans|heuristics|cloudav|firewall|ids|ips|email security|antispam|web protection|macro protection|live update|support|virus bulletin vb100|av comparatives|av test|license:={proprietary}|license:={gnu gpl}|price:={trialware}|price:={non-free}|price:={free}|price:={shareware}|country of origin:={spain}|country of origin:={brazil}|country of origin:={belarus}|country of origin:={japan}|country of origin:={united kingdom}|country of origin:={germany}|country of origin:={malta}|country of origin:={south korea}|country of origin:={united states}|country of origin:={iceland}|country of origin:={australia}|country of origin:={romania}|country of origin:={india}|country of origin:={czech republic}|country of origin:={russia}|country of origin:={china}|country of origin:={turkey}|country of origin:={cyprus}|country of origin:={slovakia}|country of origin:={italy}|country of origin:={finland}|
+|outpost antivirus pro|||||||||||||||||||||||||||||||||x|||||||||||||x|x|x|x|||x|x|x|||x|x|x||||x|||x|||||||||||||||||x|||||||
+|outpost security suite|||||||||||||||||||||||||||||||||x|||||||||||||x|x|x|x||x|x|x|x||x|x|x|x|x|||x|||x|||||||||||||||||x|||||||
+|ahnlab v3 internet security|||||||||||||||||||||||||||||||||||x|||||||||||x|x||x|||||x||x||x|x|x|x|x|x|||x||||||||||x||||||||||||||
+|avast free antivirus||||||||||||||||||||||||||x||||||||||||||||||||x|x|x|x|x||x||x||x|x|x|x|x|x|x|x||||x|||||||||||||||x||||||||
+|avast pro antivirus||||||||||||||||||||||||||x||||||||||||||||||||x|x|x|x|x||x||x||x|x|x|x|x||x|x||x|||||||||||||||||x||||||||
+|avast internet security||||||||||||||||||||||||||x||||||||||||||||||||x|x|x|x|x|x|x||x|x|x|x|x|x||||x||x|||||||||||||||||x||||||||
+|avast premier||||||||||||||||||||||||||x||||||||||||||||||||x|x|x|x|x|x|x||x|x|x|x|x|x||||x||x|||||||||||||||||x||||||||
+|avetix free|||||||||||||||||||||||||||||x|||||||||||||||||x|x||x|||||||x||x|x|x|||x||||x|||||||||||||||||||||x||
+|avetix pro|||||||||||||||||||||||||||||x|||||||||||||||||x|x||x|||||||x||x|x|x|||x|||x||||||||||||||||||||||x||
+|avg antivirus free||||||||||||||x||||||||||||||||||||||||||||||||x|x|x|x|||||||x|x|x|x|x|x|x|x||||x|||||||||||||||x||||||||
+|avg antivirus||||||||||||||x||||||||||||||||||||||||||||||||x|x|x|x|x||||x||x|x|x|x|x|x|x|x|||x||||||||||||||||x||||||||
+|avg internet security||||||||||||||x||||||||||||||||||||||||||||||||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|||x||||||||||||||||x||||||||
+|avira antivirus free (formerly antivir)|||||||||x|||||||||||||||||||||||||||||||||||||x|x|x|x|||||x|x|x|x|x|x|x|x|x|x||||x|||||||x||||||||||||||||
+|avira internet security|||||||||x|||||||||||||||||||||||||||||||||||||x|x|x|x|||||x|x|x|x|x|x|x|x|x|x|||x||||||||x||||||||||||||||
+|bitdefender antivirus free||||||||||||||||||||||||||||||||||||||||||||x||x|x|x|x|x||||||x||x|x|x|||x||||x|||||||||||||x||||||||||
+|bitdefender antivirus plus||||||||||||||||||||||||||||||||||||||||||||x||x|x|x|x|x||||||x||x|x|x|x|x|x|||x||||||||||||||x||||||||||
+|bitdefender internet security||||||||||||||||||||||||||||||||||||||||||||x||x|x|x|x|x|x|x|x|x|x|x||x|x|x|x|x|x|||x||||||||||||||x||||||||||
+|bullguard antivirus|||||||||||||||||x|||||||||||||||||||||||||||||x|x|x|x|||||||||x|x|x|x|x|x|||x|||||||x|||||||||||||||||
+|bullguard internet security|||||||||||||||||x|||||||||||||||||||||||||||||x|x|x|x||x|||x|x|x||x|x|x|x|x|x|||x|||||||x|||||||||||||||||
+|zonealarm pro antivirus + firewall||||||||||||||||||||||||||||||||||||||x||||||||x|x||||x|x|x|||||x|x|x|||x|||x|||||||||||x|||||||||||||
+|zonealarm internet security suite||||||||||||||||||||||||||||||||||||||x||||||||x|x||||x|x|x|x||x||x|x|x|||x|||x|||||||||||x|||||||||||||
+|clamwin|||||||||||||||||||||||||||||||||||||||||x|||||x|x|x|x|||||x||||x||||||x|||x||||||||||||x|||||||||||
+|comodo antivirus||||||||||||||||||||||||||||||x||||||||||||||||x|x|||||||||||x|||||x||||x||||||||||x|||||||||||||
+|comodo antivirus advanced||||||||||||||||||||||||||||||x||||||||||||||||x|x||x|||||||x||x|||||x|||x|||||||||||x|||||||||||||
+|cysec antivirus free|||||||||||||||||||||||||||||||x|||||||||||||||x|x|||||||x||||x|||||x||||x||||||x|||||||||||||||||
+|comodo internet security||||||||||||||||||||||||||||||x||||||||||||||||x|x||x||x|||||x||x|x||||x|||x|||||||||||x|||||||||||||
+|dr. web anti-virus (formerly spiderweb)||||x||||||||||||||||||||||||||||||||||||||||||x|x|||||||||||x|x||||x||x||||||||||||||||||x|||||||
+|dr. web security space||||x||||||||||||||||||||||||||||||||||||||||||x|x||||x|||||x||x|x||||x|||x|||||||||||||||||x|||||||
+|eset nod32 antivirus||||||||||||||||||||||||||||||||x||||||||||||||x|x|x|x|x||||x||x|x|x|x|x|||x||x||||||||||||||||||||||x|||
+|eset smart security||||||||||||||||||||||||||||||||x||||||||||||||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x||x||||||||||||||||||||||x|||
+|f-secure antivirus|||||||||||||||x|||||||||||||||||||||||||||||||x|x|x|x|||||x|||x|x|x|x|x|x|x|||x|||||||||||||||||||||||x|
+|f-secure internet security|||||||||||||||x|||||||||||||||||||||||||||||||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|||x|||||||||||||||||||||||x|
+|f-prot antivirus|x|||||||||||||||||||||||||||||||||||||||||||||x|x|x|x|||||x|||x|x|x|x|||x||x|||||||||||||x||||||||||||
+|fortinet antivirus and anti-spyware|||||||||||||||||||||||||||||||||||||||x|||||||x|x|||||||||||x|x||||x|||x|||||||||||x|||||||||||||
+|g data antivirus||x||||||||||||||||||||||||||||||||||||||||||||x|x|x|x|||||||x|x|x|x|x|x|x|x|||x||||||||x||||||||||||||||
+|g data internetsecurity||x||||||||||||||||||||||||||||||||||||||||||||x|x|x|x|x|x|x||x|x|x|x|x|x|x|x|x|x|||x||||||||x||||||||||||||||
+|vipre antivirus||||||||||||||||||||||||||||||||||x||||||||||||x|x||x|x|x|x|x||x|x|x|x|x|x|x|x|x||x||||||||||x|||||||||||||||
+|vipre internet security||||||||||||||||||||||||||||||||||x||||||||||||x|x||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|||x|||||||||x|||||||||||||||
+|ikarus anti.virus||||||||||x||||||||||||||||||||||||||||||||||||x|x||x|||||x||x||x|x|x|x|x|x|||x|||||||||||||x|||||||||||
+|advanced systemcare||||||||||||||||||||||x||||||||||||||||||||||||x|x||||||||||||||||x||||x||||||||||x|||||||||||||
+|iolo system shield antivirus & antispyware|||||||||||||||||||||||||x|||||||||||||||||||||x|x|||||||||||x|x||||x|||x|||||||||||x|||||||||||||
+|stopzilla antimalware|||||x|||||||||||||||||||||||||||||||||||||||||x|x|||||||||||x|x||||x||x||||||||||||x|||||||||||||
+|k7 antivirus plus||||||||||||||||||||||||||||||||||||||||x||||||x|x|||||||x|||x|x|x||||x|||x|||||||||||||||x|||||||||
+|k7 total security||||||||||||||||||||||||||||||||||||||||x||||||x|x|||||||x||x|x|x|x||||x|||x|||||||||||||||x|||||||||
+|kaspersky anti-virus|||||||||||||||||||||||x|||||||||||||||||||||||x|x|x|x|||||x||x||x|x|x|x|x|x|||x|||||||||||||||||x|||||||
+|kaspersky internet security|||||||||||||||||||||||x|||||||||||||||||||||||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|||x|||||||||||||||||x|||||||
+|kingsoft antivirus|||||||||||||||||||||||||||x|||||||||||||||||||x|x||||x|||||||x||x|x|x|x|||||x||||||||||||||||x||||||
+|mcafee antivirus|||||||||||||||||||||||||||||||||||||||||||||x|x|x|x|x|||||x|||x|x|x|x|x|x|x|||x|||||||||||x|||||||||||||
+|mcafee internet security|||||||||||||||||||||||||||||||||||||||||||||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|||x|||||||||||x|||||||||||||
+|windows defender|||||||x|||||||||||||||||||||||||||||||||||||||x|x|||||||||||x|x|x|||x||||x||||||||||x|||||||||||||
+|nano antivirus||||||||||||||||||||||||||||||||||||x||||||||||x|x||x|||||x||x|x|x|x||||x||||x||||||||||||||||x|||||||
+|panda antivirus pro||||||x||||||||||||||||||||||||||||||||||||||||x|x|x|x|x|x||||||x|x|x|x|x|x|x|||x|||x|||||||||||||||||||||
+|panda internet security||||||x||||||||||||||||||||||||||||||||||||||||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|||x|||x|||||||||||||||||||||
+|psafe total windows||||||||||||||||||||||||x||||||||||||||||||||||x|x||x|||||||x|x|x|x||x|x|x||||x|||x||||||||||||||||||||
+|360 total security||||||||||||x||||||||||||||||||||||||||||||||||x|x|x|x|x||||||x|x|x|x|x|x|x|x||||x|||||||||||||||||x||||||
+|quick heal total security 2015||||||||||||||||||||x||||||||||||||||||||||||||x|x|x|x||x|x|||x||x|x|x|x|||x|||x|||||||||||||||x|||||||||
+|unthreat professional antivirus|||||||||||||||||||||x|||||||||||||||||||||||||x|x|||||||||||x||x|||x||||x|||||||||||||||||||x||||
+|unthreat internet security|||||||||||||||||||||x|||||||||||||||||||||||||x|x|||||||x||x||x|x|x|||x|||x||||||||||||||||||||x||||
+|sophos anti-virus|||||||||||||||||||||||||||||||||||||x|||||||||x|x|x|x|x|x|x||x|||x|x|x|x|x|x|x|||x|||||||x|||||||||||||||||
+|sophos enduser protection|||||||||||||||||||||||||||||||||||||x|||||||||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|||x|||||||x|||||||||||||||||
+|immunet||||||||||||||||||||||||||||x||||||||||||||||||x|x|||x||||x||||x|x||||x||||x||||||||||x|||||||||||||
+|element anti-virus||||||||||||||||||x||||||||||||||||||||||||||||x|x|||||||||||x|x||||x|||x|||||||x|||||||||||||||||
+|norton antivirus|||||||||||||||||||x|||||||||||||||||||||||||||x|x|x|x|||||x||||x|x|x||x|x|||x|||||||||||x|||||||||||||
+|norton internet security|||||||||||||||||||x|||||||||||||||||||||||||||x|x|x|x|x|x|x|x|x|x|x||x|x|x||x|x|||x|||||||||||x|||||||||||||
+|spyware doctor with antivirus||||||||||||||||||||||||||||||||||||||||||x||||x|x|||||||||x||x||x||x|x|||x|||||||||||x|||||||||||||
+|virit explorer lite|||||||||||||||||||||||||||||||||||||||||||x|||x|x||x|||x||||x|x|x|||||x||||x|||||||||||||||||||||x||
+|virit explorer pro|||||||||||||||||||||||||||||||||||||||||||x|||x|x||x|x|x|x||x||x|x|x|x||||x|||x||||||||||||||||||||||x||
+|titanium antivirus plus|||||||||||||x|||||||||||||||||||||||||||||||||x|x|x|x||||||x|||x|x|x|x|x|x|||x||||||x||||||||||||||||||
+|titanium internet security|||||||||||||x|||||||||||||||||||||||||||||||||x|x|x|x|x||||||x||x|x|x|x|x|x|||x||||||x||||||||||||||||||
+|trustport antivirus||||||||x||||||||||||||||||||||||||||||||||||||x|x|||||||||||x|x||||x||x|||||||||||||||||x||||||||
+|trustport internet security||||||||x||||||||||||||||||||||||||||||||||||||x|x|||||||x||x||x|x||||x|||x||||||||||||||||x||||||||
+|vba32 antivirus||||||||||||||||x||||||||||||||||||||||||||||||x|x||||||||||||||||x|||x|||||x|||||||||||||||||||
+|secureanywhere antivirus|||||||||||x|||||||||||||||||||||||||||||||||||x|x|||||||||||x|x|x|x|x|x||x||||||||||||x|||||||||||||
+|secureanywhere internet security plus|||||||||||x|||||||||||||||||||||||||||||||||||x|x|||||||x||x||x|x|x|x|x|x|||x|||||||||||x|||||||||||||
+|zemana antilogger and antimalware|||x|||||||||||||||||||||||||||||||||||||||||||x|x|||||||||||x|x||||x||x||||||||||||||||||||x|||||

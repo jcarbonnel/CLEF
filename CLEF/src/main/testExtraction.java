@@ -1,21 +1,23 @@
 package main;
 
-import productdescription.ProductMatrix;
-import variabilityextraction.AllBinaryImplicationExtractor;
-import variabilityextraction.BinaryImplicationExtractor;
-import variabilityextraction.CooccurrenceExtractor;
-import variabilityextraction.MutexExtractor;
+import multivaluedcontext.MultivaluedContext;
+import relationshipextraction.AllBinaryImplicationExtractor;
+import relationshipextraction.BinaryImplicationExtractor;
+import relationshipextraction.CooccurrenceExtractor;
+import relationshipextraction.MutexExtractor;
 
 public class testExtraction {
 
 	public static void main(String[] args) {
 		long currentTime = java.lang.System.currentTimeMillis();
 
-		ProductMatrix pm = new ProductMatrix("jhipster3.6.1-testresults_2000.csv");
+		MultivaluedContext pm = new MultivaluedContext("RobocodeSPL_botsDocumentedInRobowiki.csv");
 		
 		String path = "data/" + pm.getName() + "/";
 		
 		pm.computeLattice();
+		
+		//pm.printContext();
 		
 		long timeToComputeACposet = java.lang.System.currentTimeMillis() - currentTime;
 		

@@ -1,118 +1,101 @@
 development status:={5  production / stable} ->! programming language:={jboss,eclipse rcp,jdo,j2ee}
 development status:={5  production / stable} ->! latest stable release:={1.0.1}
 development status:={5  production / stable} ->! latest stable release:={3.0.2}
-stable release date:=[2009-2015] ->! first public release date:=[2001-2002]
+stable release date:=[2009-2015] ->! first public release date:=[2001-2001]
 stable release date:=[2009-2015] ->! latest stable release:={3.2}
 stable release date:=[2009-2015] ->! database:={ms sql,oracle,postgresql,advance server}
+stable release date:=[2009-2015] ->! first public release date:=[2002-2002]
 stable release date:=[2009-2015] ->! latest stable release:={1.4}
 stable release date:=[2010-2015] ->! programming language:={c,java}
 stable release date:=[2010-2015] ->! first public release date:=[1982-1982]
 stable release date:=[2010-2015] ->! latest stable release:={5.0.0}
-first public release date:=[1982-2008] ->! database:={ms sql,derby}
-first public release date:=[1982-2008] ->! programming language:={xml,javascript}
-first public release date:=[1982-2008] ->! development status:=*
+first public release date:=[1982-2008] ->! programming language:={java,freemarker,groovy,xml,javascript}
 first public release date:=[1982-2008] ->! latest stable release:={12.04.03}
 first public release date:=[1982-2008] ->! stable release date:=[2014-2014]
+first public release date:=[1982-2008] ->! database:={ms sql,oracle,postgresql,derby,mysql}
 first public release date:=[1982-2008] ->! latest stable release:={2.3.24}
 first public release date:=[1982-2008] ->! programming language:={jboss,eclipse rcp,jdo,j2ee}
 first public release date:=[1982-2008] ->! latest stable release:={1.0.1}
+first public release date:=[1982-2008] ->! programming language:={python,xml,javascript}
 first public release date:=[1982-2008] ->! latest stable release:={7.0}
 first public release date:=[1982-2008] ->! latest stable release:={3.0.2}
 stable release date:=[2012-2015] ->! programming language:={jboss,j2ee}
 stable release date:=[2012-2015] ->! latest stable release:={3.6}
 stable release date:=[2012-2015] ->! latest stable release:={1.0.1}
-database:={postgresql} ->! programming language:={php}
-database:={postgresql} ->! first public release date:=[1985-1998]
 database:={postgresql} ->! latest stable release:={2.3.24}
+database:={postgresql} ->! first public release date:=[1998-1998]
 database:={postgresql} ->! latest stable release:={5.0.2}
 database:={postgresql} ->! programming language:={objective c}
 database:={postgresql} ->! latest stable release:={6.1}
 database:={postgresql} ->! programming language:={jboss,eclipse rcp,jdo,j2ee}
 database:={postgresql} ->! latest stable release:={1.0.1}
+database:={postgresql} ->! first public release date:=[1985-1985]
 database:={postgresql} ->! latest stable release:={2.28.1}
 database:={postgresql} ->! first public release date:=[2003-2003]
 database:={postgresql} ->! latest stable release:={4.07.10}
-stable release date:=[2008-2014] ->! database:={xml}
-stable release date:=[2008-2014] ->! first public release date:=[1985-1998]
-stable release date:=[2008-2014] ->! programming language:={c++}
 stable release date:=[2008-2014] ->! latest stable release:={2.3.24}
 stable release date:=[2008-2014] ->! programming language:={c,scheme,lisp,perl}
 stable release date:=[2008-2014] ->! latest stable release:={2.6.6}
+stable release date:=[2008-2014] ->! database:={sqlite,postgresql,xml,mysql}
+stable release date:=[2008-2014] ->! first public release date:=[1998-1998]
 stable release date:=[2008-2014] ->! latest stable release:={5.0.2}
 stable release date:=[2008-2014] ->! first public release date:=[2000-2000]
 stable release date:=[2008-2014] ->! latest stable release:={4.7.2}
+stable release date:=[2008-2014] ->! database:={ibm db2,oracle,sqlite,postgresql,xml,sql}
 stable release date:=[2008-2014] ->! latest stable release:={1.4.11}
+stable release date:=[2008-2014] ->! first public release date:=[1985-1985]
 stable release date:=[2008-2014] ->! latest stable release:={2.28.1}
-first public release date:=[1982-2006] ->! stable release date:=[2013-2014]
 first public release date:=[1982-2006] ->! latest stable release:={3.0}
-first public release date:=[1985-2008] ->! programming language:={java}
+first public release date:=[1982-2006] ->! stable release date:=[2013-2013]
+first public release date:=[1985-2008] ->! programming language:={c,java}
 first public release date:=[1985-2008] ->! latest stable release:={5.0.0}
 first public release date:=[1985-2008] ->! stable release date:=[2009-2009]
 stable release date:=[2008-2013] ->! programming language:={java,freemarker,groovy,xml,javascript}
 stable release date:=[2008-2013] ->! latest stable release:={12.04.03}
 stable release date:=[2008-2013] ->! database:={ms sql,oracle,postgresql,derby,mysql}
 first public release date:=[1998-2008] ->! latest stable release:={2.28.1}
-stable release date:=[2009-2014] ->! first public release date:=[2000-2002]
 first public release date:=[1999-2008] ->! latest stable release:={5.0.2}
-stable release date:=[2010-2014] ->! programming language:={c}
-stable release date:=[2010-2014] ->! first public release date:=[1982-1998]
-stable release date:=[2008-2012] ->! database:={postgresql,mysql}
-stable release date:=[2008-2012] ->! database:={postgresql,sqlite}
 stable release date:=[2008-2012] ->! latest stable release:={3.0}
 stable release date:=[2008-2012] ->! first public release date:=[2008-2008]
-stable release date:=[2009-2013] ->! database:={ms sql,oracle,postgresql}
-stable release date:=[2013-2015] ->! first public release date:=[2001-2003]
-stable release date:=[2013-2015] ->! development status:=*
 stable release date:=[2013-2015] ->! programming language:={objective c}
 stable release date:=[2013-2015] ->! latest stable release:={6.1}
 stable release date:=[2013-2015] ->! programming language:={python,xml,javascript}
 stable release date:=[2013-2015] ->! latest stable release:={7.0}
 stable release date:=[2013-2015] ->! latest stable release:={3.0.2}
+stable release date:=[2013-2015] ->! first public release date:=[2003-2003]
 stable release date:=[2013-2015] ->! latest stable release:={4.07.10}
 stable release date:=[2013-2015] ->! database:={mysql,innodb}
-first public release date:=[1982-2003] ->! stable release date:=[2010-2010]
 first public release date:=[1982-2003] ->! latest stable release:={3.6}
 first public release date:=[1982-2003] ->! latest stable release:={1.4.11}
-first public release date:=[2000-2008] ->! programming language:={c}
+first public release date:=[2000-2008] ->! programming language:={c,scheme,lisp,perl}
 first public release date:=[2000-2008] ->! latest stable release:={2.6.6}
 first public release date:=[2000-2008] ->! database:={sqlite,postgresql,xml,mysql}
 first public release date:=[2000-2008] ->! programming language:={objective c}
 first public release date:=[2000-2008] ->! latest stable release:={6.1}
-stable release date:=[2010-2013] ->! programming language:={java}
-first public release date:=[1982-2002] ->! programming language:={php}
 first public release date:=[1982-2002] ->! latest stable release:={4.07.10}
 first public release date:=[1982-2002] ->! database:={mysql,innodb}
-first public release date:=[1985-2003] ->! stable release date:=[2009-2010]
-first public release date:=[2000-2006] ->! database:={postgresql,mysql}
-first public release date:=[2001-2008] ->! database:={xml}
-first public release date:=[2001-2008] ->! programming language:={c++}
 first public release date:=[2001-2008] ->! latest stable release:={4.7.2}
-stable release date:=[2014-2015] ->! programming language:={python}
+first public release date:=[2001-2008] ->! database:={ibm db2,oracle,sqlite,postgresql,xml,sql}
 stable release date:=[2014-2015] ->! latest stable release:={3.0}
 stable release date:=[2014-2015] ->! first public release date:=[2008-2008]
 stable release date:=[2012-2014] ->! first public release date:=[2006-2006]
-first public release date:=[1982-2001] ->! programming language:={python}
 first public release date:=[1982-2001] ->! latest stable release:={1.4}
-first public release date:=[2001-2006] ->! database:={postgresql,sqlite}
-first public release date:=[2002-2008] ->! database:={ms sql}
 first public release date:=[2002-2008] ->! latest stable release:={3.2}
+first public release date:=[2002-2008] ->! database:={ms sql,oracle,postgresql,advance server}
 first public release date:=[1982-2000] ->! programming language:={jboss,j2ee}
-first public release date:=[1982-2000] ->! database:={ms sql}
-first public release date:=[1982-2000] ->! stable release date:=[2008-2008]
 first public release date:=[1982-2000] ->! latest stable release:={3.2}
-stable release date:=[2015-2015] ->! database:={ms sql}
-stable release date:=[2015-2015] ->! programming language:={java}
-stable release date:=[2015-2015] ->! programming language:={xml,javascript}
+first public release date:=[1982-2000] ->! database:={ms sql,oracle,postgresql,advance server}
+stable release date:=[2015-2015] ->! programming language:={java,freemarker,groovy,xml,javascript}
 stable release date:=[2015-2015] ->! latest stable release:={12.04.03}
+stable release date:=[2015-2015] ->! database:={ms sql,oracle,postgresql,derby,mysql}
 stable release date:=[2012-2013] ->! database:={oracle,postgresql}
-stable release date:=[2012-2013] ->! database:={ms sql}
 database:={oracle,postgresql} ->! first public release date:=[1982-1999]
 database:={oracle,postgresql} ->! programming language:={c}
 database:={oracle,postgresql} ->! programming language:={perl}
 database:={oracle,postgresql} ->! programming language:={python}
+database:={oracle,postgresql} ->! programming language:={php}
 database:={oracle,postgresql} ->! first public release date:=[2002-2003]
 database:={oracle,postgresql} ->! development status:=*
-database:={oracle,postgresql} ->! latest stable release:={3.0}
 database:={oracle,postgresql} ->! latest stable release:={5.0.0}
 database:={oracle,postgresql} ->! stable release date:=[2009-2009]
 database:={oracle,postgresql} ->! latest stable release:={2.6.6}
@@ -121,57 +104,56 @@ database:={oracle,postgresql} ->! latest stable release:={1.4.11}
 database:={oracle,postgresql} ->! latest stable release:={7.0}
 database:={oracle,postgresql} ->! latest stable release:={3.0.2}
 database:={oracle,postgresql} ->! first public release date:=[2008-2008]
-stable release date:=[2008-2010] ->! database:={mysql}
-stable release date:=[2008-2010] ->! first public release date:=[1985-2000]
-stable release date:=[2008-2010] ->! programming language:={perl}
-stable release date:=[2008-2010] ->! programming language:={xml,javascript}
-stable release date:=[2008-2010] ->! programming language:={php}
 stable release date:=[2008-2010] ->! programming language:={objective c}
 stable release date:=[2008-2010] ->! latest stable release:={6.1}
+stable release date:=[2008-2010] ->! programming language:={python,xml,javascript}
 stable release date:=[2008-2010] ->! latest stable release:={7.0}
 stable release date:=[2008-2010] ->! latest stable release:={3.0.2}
 stable release date:=[2008-2010] ->! first public release date:=[2003-2003]
 stable release date:=[2008-2010] ->! latest stable release:={4.07.10}
-first public release date:=[2003-2008] ->! stable release date:=[2008-2009]
+stable release date:=[2008-2010] ->! database:={mysql,innodb}
 first public release date:=[2003-2008] ->! latest stable release:={1.4}
 database:={mysql} ->! programming language:={jboss,j2ee}
 database:={mysql} ->! first public release date:=[2006-2006]
-database:={mysql} ->! first public release date:=[1982-1998]
-database:={mysql} ->! first public release date:=[2000-2002]
-database:={mysql} ->! development status:=*
-database:={mysql} ->! programming language:={c++}
 database:={mysql} ->! latest stable release:={3.6}
 database:={mysql} ->! programming language:={c,java}
+database:={mysql} ->! first public release date:=[1982-1982]
 database:={mysql} ->! latest stable release:={5.0.0}
+database:={mysql} ->! stable release date:=[2009-2009]
+database:={mysql} ->! first public release date:=[2001-2001]
 database:={mysql} ->! latest stable release:={3.2}
+database:={mysql} ->! first public release date:=[2002-2002]
 database:={mysql} ->! latest stable release:={1.4}
+database:={mysql} ->! first public release date:=[1998-1998]
 database:={mysql} ->! latest stable release:={5.0.2}
 database:={mysql} ->! programming language:={objective c}
 database:={mysql} ->! latest stable release:={6.1}
 database:={mysql} ->! latest stable release:={1.0.1}
+database:={mysql} ->! first public release date:=[2000-2000]
 database:={mysql} ->! latest stable release:={4.7.2}
 database:={mysql} ->! latest stable release:={1.4.11}
+database:={mysql} ->! first public release date:=[1985-1985]
 database:={mysql} ->! latest stable release:={2.28.1}
 database:={mysql} ->! programming language:={python,xml,javascript}
 database:={mysql} ->! latest stable release:={7.0}
 database:={mysql} ->! latest stable release:={3.0.2}
-first public release date:=* ->! stable release date:=[2008-2009]
-first public release date:=* ->! programming language:={c}
-first public release date:=* ->! database:={xml}
-first public release date:=* ->! database:={postgresql,sqlite}
-first public release date:=* ->! programming language:={c++}
 first public release date:=* ->! latest stable release:={3.0}
 first public release date:=* ->! stable release date:=[2013-2013]
 first public release date:=* ->! latest stable release:={3.6}
+first public release date:=* ->! programming language:={c,java}
 first public release date:=* ->! latest stable release:={5.0.0}
+first public release date:=* ->! stable release date:=[2009-2009]
 first public release date:=* ->! latest stable release:={3.2}
 first public release date:=* ->! database:={ms sql,oracle,postgresql,advance server}
+first public release date:=* ->! programming language:={c,scheme,lisp,perl}
 first public release date:=* ->! latest stable release:={2.6.6}
+first public release date:=* ->! database:={sqlite,postgresql,xml,mysql}
 first public release date:=* ->! latest stable release:={1.4}
 first public release date:=* ->! latest stable release:={5.0.2}
 first public release date:=* ->! programming language:={objective c}
 first public release date:=* ->! latest stable release:={6.1}
 first public release date:=* ->! latest stable release:={4.7.2}
+first public release date:=* ->! database:={ibm db2,oracle,sqlite,postgresql,xml,sql}
 first public release date:=* ->! latest stable release:={1.4.11}
 first public release date:=* ->! latest stable release:={2.28.1}
 first public release date:=* ->! latest stable release:={4.07.10}
@@ -180,7 +162,6 @@ first public release date:=[1982-1999] ->! latest stable release:={4.7.2}
 programming language:={jboss,j2ee} ->! database:={xml}
 programming language:={jboss,j2ee} ->! database:={postgresql,sqlite}
 programming language:={jboss,j2ee} ->! first public release date:=[2002-2003]
-programming language:={jboss,j2ee} ->! latest stable release:={3.0}
 programming language:={jboss,j2ee} ->! latest stable release:={12.04.03}
 programming language:={jboss,j2ee} ->! latest stable release:={5.0.0}
 programming language:={jboss,j2ee} ->! stable release date:=[2009-2009]
@@ -196,221 +177,321 @@ programming language:={jboss,j2ee} ->! latest stable release:={7.0}
 programming language:={jboss,j2ee} ->! latest stable release:={3.0.2}
 programming language:={jboss,j2ee} ->! first public release date:=[2008-2008]
 programming language:={jboss,j2ee} ->! latest stable release:={4.07.10}
-first public release date:=[2006-2008] ->! stable release date:=[2012-2012]
-first public release date:=[2006-2008] ->! programming language:={php}
 first public release date:=[2006-2008] ->! latest stable release:={4.07.10}
 first public release date:=[2006-2008] ->! database:={mysql,innodb}
-first public release date:=[2003-2006] ->! programming language:={python}
-first public release date:=[2000-2003] ->! programming language:={perl}
-stable release date:=[2009-2010] ->! programming language:={python}
-database:={ms sql} ->! programming language:={c}
-database:={ms sql} ->! programming language:={perl}
-database:={ms sql} ->! programming language:={python}
-database:={ms sql} ->! programming language:={php}
-database:={ms sql} ->! programming language:={c++}
+first public release date:=[2006-2006] ->! database:={ms sql}
+first public release date:=[2006-2006] ->! stable release date:=[2008-2009]
+first public release date:=[2006-2006] ->! programming language:={c}
+first public release date:=[2006-2006] ->! database:={xml}
+first public release date:=[2006-2006] ->! database:={postgresql,sqlite}
+first public release date:=[2006-2006] ->! programming language:={python}
+first public release date:=[2006-2006] ->! programming language:={java}
+first public release date:=[2006-2006] ->! programming language:={xml,javascript}
+first public release date:=[2006-2006] ->! programming language:={php}
+first public release date:=[2006-2006] ->! development status:=*
+first public release date:=[2006-2006] ->! programming language:={c++}
 database:={ms sql} ->! latest stable release:={3.0}
+database:={ms sql} ->! stable release date:=[2013-2013]
 database:={ms sql} ->! latest stable release:={3.6}
+database:={ms sql} ->! programming language:={c,java}
+database:={ms sql} ->! first public release date:=[1982-1982]
 database:={ms sql} ->! latest stable release:={5.0.0}
 database:={ms sql} ->! stable release date:=[2009-2009]
 database:={ms sql} ->! latest stable release:={2.3.24}
+database:={ms sql} ->! programming language:={c,scheme,lisp,perl}
 database:={ms sql} ->! latest stable release:={2.6.6}
+database:={ms sql} ->! first public release date:=[2002-2002]
 database:={ms sql} ->! latest stable release:={1.4}
+database:={ms sql} ->! first public release date:=[1998-1998]
 database:={ms sql} ->! latest stable release:={5.0.2}
 database:={ms sql} ->! programming language:={objective c}
 database:={ms sql} ->! latest stable release:={6.1}
+database:={ms sql} ->! first public release date:=[2000-2000]
 database:={ms sql} ->! latest stable release:={4.7.2}
 database:={ms sql} ->! latest stable release:={1.4.11}
+database:={ms sql} ->! first public release date:=[1985-1985]
 database:={ms sql} ->! latest stable release:={2.28.1}
+database:={ms sql} ->! programming language:={python,xml,javascript}
 database:={ms sql} ->! latest stable release:={7.0}
 database:={ms sql} ->! latest stable release:={3.0.2}
+database:={ms sql} ->! first public release date:=[2008-2008]
+database:={ms sql} ->! first public release date:=[2003-2003]
 database:={ms sql} ->! latest stable release:={4.07.10}
-stable release date:=[2013-2014] ->! programming language:={perl}
-stable release date:=[2013-2014] ->! programming language:={php}
-stable release date:=[2008-2009] ->! database:={ms sql,derby}
-stable release date:=[2008-2009] ->! development status:=*
 stable release date:=[2008-2009] ->! latest stable release:={3.6}
 stable release date:=[2008-2009] ->! programming language:={jboss,eclipse rcp,jdo,j2ee}
 stable release date:=[2008-2009] ->! latest stable release:={1.0.1}
-programming language:={c} ->! stable release date:=[2008-2008]
-programming language:={c} ->! development status:=*
 programming language:={c} ->! latest stable release:={3.0}
+programming language:={c} ->! stable release date:=[2013-2013]
 programming language:={c} ->! latest stable release:={3.6}
 programming language:={c} ->! latest stable release:={12.04.03}
+programming language:={c} ->! stable release date:=[2014-2014]
+programming language:={c} ->! first public release date:=[2001-2001]
 programming language:={c} ->! latest stable release:={3.2}
 programming language:={c} ->! latest stable release:={2.3.24}
+programming language:={c} ->! first public release date:=[2002-2002]
 programming language:={c} ->! latest stable release:={1.4}
 programming language:={c} ->! latest stable release:={6.1}
 programming language:={c} ->! latest stable release:={1.0.1}
+programming language:={c} ->! first public release date:=[2000-2000]
 programming language:={c} ->! latest stable release:={4.7.2}
 programming language:={c} ->! latest stable release:={1.4.11}
 programming language:={c} ->! first public release date:=[1985-1985]
 programming language:={c} ->! latest stable release:={2.28.1}
 programming language:={c} ->! latest stable release:={7.0}
 programming language:={c} ->! latest stable release:={3.0.2}
+programming language:={c} ->! first public release date:=[2008-2008]
+programming language:={c} ->! first public release date:=[2003-2003]
 programming language:={c} ->! latest stable release:={4.07.10}
 programming language:={c} ->! database:={mysql,innodb}
-first public release date:=[1982-1998] ->! database:={postgresql,sqlite}
-first public release date:=[1982-1998] ->! programming language:={perl}
+first public release date:=[1982-1998] ->! programming language:={c,scheme,lisp,perl}
 first public release date:=[1982-1998] ->! latest stable release:={2.6.6}
+first public release date:=[1982-1998] ->! database:={sqlite,postgresql,xml,mysql}
 first public release date:=[1982-1998] ->! programming language:={objective c}
 first public release date:=[1982-1998] ->! latest stable release:={6.1}
-first public release date:=[1998-1999] ->! programming language:={c++}
-database:={xml} ->! programming language:={python}
-database:={xml} ->! programming language:={java}
-database:={xml} ->! programming language:={xml,javascript}
-database:={xml} ->! first public release date:=[1982-1985]
-database:={xml} ->! programming language:={php}
-database:={xml} ->! development status:=*
 database:={xml} ->! latest stable release:={3.0}
+database:={xml} ->! stable release date:=[2013-2013]
 database:={xml} ->! latest stable release:={3.6}
+database:={xml} ->! programming language:={java,freemarker,groovy,xml,javascript}
 database:={xml} ->! latest stable release:={12.04.03}
+database:={xml} ->! stable release date:=[2014-2014]
+database:={xml} ->! programming language:={c,java}
+database:={xml} ->! first public release date:=[1982-1982]
 database:={xml} ->! latest stable release:={5.0.0}
+database:={xml} ->! stable release date:=[2009-2009]
+database:={xml} ->! first public release date:=[2001-2001]
 database:={xml} ->! latest stable release:={3.2}
 database:={xml} ->! latest stable release:={2.3.24}
+database:={xml} ->! first public release date:=[2002-2002]
 database:={xml} ->! latest stable release:={1.4}
 database:={xml} ->! programming language:={objective c}
 database:={xml} ->! latest stable release:={6.1}
 database:={xml} ->! latest stable release:={1.0.1}
 database:={xml} ->! latest stable release:={1.4.11}
+database:={xml} ->! first public release date:=[1985-1985]
 database:={xml} ->! latest stable release:={2.28.1}
+database:={xml} ->! programming language:={python,xml,javascript}
 database:={xml} ->! latest stable release:={7.0}
 database:={xml} ->! latest stable release:={3.0.2}
+database:={xml} ->! first public release date:=[2008-2008]
+database:={xml} ->! first public release date:=[2003-2003]
 database:={xml} ->! latest stable release:={4.07.10}
-database:={postgresql,sqlite} ->! programming language:={java}
-database:={postgresql,sqlite} ->! programming language:={xml,javascript}
-database:={postgresql,sqlite} ->! development status:=*
 database:={postgresql,sqlite} ->! latest stable release:={3.6}
+database:={postgresql,sqlite} ->! programming language:={java,freemarker,groovy,xml,javascript}
 database:={postgresql,sqlite} ->! latest stable release:={12.04.03}
 database:={postgresql,sqlite} ->! stable release date:=[2014-2014]
+database:={postgresql,sqlite} ->! programming language:={c,java}
+database:={postgresql,sqlite} ->! first public release date:=[1982-1982]
 database:={postgresql,sqlite} ->! latest stable release:={5.0.0}
+database:={postgresql,sqlite} ->! stable release date:=[2009-2009]
+database:={postgresql,sqlite} ->! first public release date:=[2001-2001]
 database:={postgresql,sqlite} ->! latest stable release:={3.2}
+database:={postgresql,sqlite} ->! first public release date:=[2002-2002]
 database:={postgresql,sqlite} ->! latest stable release:={1.4}
 database:={postgresql,sqlite} ->! latest stable release:={1.4.11}
+database:={postgresql,sqlite} ->! programming language:={python,xml,javascript}
 database:={postgresql,sqlite} ->! latest stable release:={7.0}
 database:={postgresql,sqlite} ->! latest stable release:={3.0.2}
 programming language:={perl} ->! latest stable release:={3.0}
+programming language:={perl} ->! stable release date:=[2013-2013]
 programming language:={perl} ->! latest stable release:={3.6}
 programming language:={perl} ->! latest stable release:={12.04.03}
+programming language:={perl} ->! stable release date:=[2014-2014]
+programming language:={perl} ->! first public release date:=[1982-1982]
 programming language:={perl} ->! latest stable release:={5.0.0}
+programming language:={perl} ->! stable release date:=[2009-2009]
+programming language:={perl} ->! first public release date:=[2001-2001]
 programming language:={perl} ->! latest stable release:={3.2}
 programming language:={perl} ->! latest stable release:={2.3.24}
+programming language:={perl} ->! first public release date:=[2002-2002]
 programming language:={perl} ->! latest stable release:={1.4}
+programming language:={perl} ->! first public release date:=[1998-1998]
 programming language:={perl} ->! latest stable release:={5.0.2}
 programming language:={perl} ->! latest stable release:={6.1}
 programming language:={perl} ->! latest stable release:={1.0.1}
+programming language:={perl} ->! first public release date:=[2000-2000]
 programming language:={perl} ->! latest stable release:={4.7.2}
+programming language:={perl} ->! first public release date:=[1985-1985]
 programming language:={perl} ->! latest stable release:={2.28.1}
 programming language:={perl} ->! latest stable release:={7.0}
 programming language:={perl} ->! first public release date:=[2008-2008]
+programming language:={perl} ->! first public release date:=[2003-2003]
 programming language:={perl} ->! latest stable release:={4.07.10}
 programming language:={perl} ->! database:={mysql,innodb}
-programming language:={python} ->! development status:=*
 programming language:={python} ->! latest stable release:={3.6}
 programming language:={python} ->! latest stable release:={12.04.03}
+programming language:={python} ->! stable release date:=[2014-2014]
+programming language:={python} ->! first public release date:=[1982-1982]
 programming language:={python} ->! latest stable release:={5.0.0}
+programming language:={python} ->! stable release date:=[2009-2009]
+programming language:={python} ->! first public release date:=[2001-2001]
 programming language:={python} ->! latest stable release:={3.2}
 programming language:={python} ->! latest stable release:={2.3.24}
 programming language:={python} ->! latest stable release:={2.6.6}
+programming language:={python} ->! database:={sqlite,postgresql,xml,mysql}
+programming language:={python} ->! first public release date:=[1998-1998]
 programming language:={python} ->! latest stable release:={5.0.2}
 programming language:={python} ->! latest stable release:={6.1}
 programming language:={python} ->! latest stable release:={1.0.1}
+programming language:={python} ->! first public release date:=[2000-2000]
 programming language:={python} ->! latest stable release:={4.7.2}
 programming language:={python} ->! latest stable release:={1.4.11}
+programming language:={python} ->! first public release date:=[1985-1985]
 programming language:={python} ->! latest stable release:={2.28.1}
 programming language:={python} ->! latest stable release:={3.0.2}
+programming language:={python} ->! first public release date:=[2003-2003]
 programming language:={python} ->! latest stable release:={4.07.10}
 programming language:={python} ->! database:={mysql,innodb}
-programming language:={java} ->! stable release date:=[2008-2008]
-programming language:={java} ->! development status:=*
 programming language:={java} ->! latest stable release:={3.0}
+programming language:={java} ->! stable release date:=[2013-2013]
 programming language:={java} ->! latest stable release:={3.6}
+programming language:={java} ->! first public release date:=[2001-2001]
 programming language:={java} ->! latest stable release:={3.2}
 programming language:={java} ->! database:={ms sql,oracle,postgresql,advance server}
 programming language:={java} ->! latest stable release:={2.3.24}
 programming language:={java} ->! latest stable release:={2.6.6}
+programming language:={java} ->! database:={sqlite,postgresql,xml,mysql}
+programming language:={java} ->! first public release date:=[2002-2002]
 programming language:={java} ->! latest stable release:={1.4}
+programming language:={java} ->! first public release date:=[1998-1998]
 programming language:={java} ->! latest stable release:={5.0.2}
 programming language:={java} ->! latest stable release:={6.1}
 programming language:={java} ->! latest stable release:={1.0.1}
+programming language:={java} ->! first public release date:=[2000-2000]
 programming language:={java} ->! latest stable release:={4.7.2}
+programming language:={java} ->! database:={ibm db2,oracle,sqlite,postgresql,xml,sql}
 programming language:={java} ->! latest stable release:={1.4.11}
+programming language:={java} ->! first public release date:=[1985-1985]
 programming language:={java} ->! latest stable release:={2.28.1}
 programming language:={java} ->! latest stable release:={7.0}
 programming language:={java} ->! latest stable release:={3.0.2}
+programming language:={java} ->! first public release date:=[2008-2008]
+programming language:={java} ->! first public release date:=[2003-2003]
 programming language:={java} ->! latest stable release:={4.07.10}
 programming language:={java} ->! database:={mysql,innodb}
+database:={ms sql,derby} ->! first public release date:=[2001-2001]
 database:={ms sql,derby} ->! latest stable release:={3.2}
-programming language:={xml,javascript} ->! development status:=*
 programming language:={xml,javascript} ->! latest stable release:={3.0}
 programming language:={xml,javascript} ->! stable release date:=[2013-2013]
 programming language:={xml,javascript} ->! latest stable release:={3.6}
+programming language:={xml,javascript} ->! first public release date:=[1982-1982]
 programming language:={xml,javascript} ->! latest stable release:={5.0.0}
+programming language:={xml,javascript} ->! stable release date:=[2009-2009]
+programming language:={xml,javascript} ->! first public release date:=[2001-2001]
 programming language:={xml,javascript} ->! latest stable release:={3.2}
 programming language:={xml,javascript} ->! database:={ms sql,oracle,postgresql,advance server}
 programming language:={xml,javascript} ->! latest stable release:={2.3.24}
 programming language:={xml,javascript} ->! latest stable release:={2.6.6}
+programming language:={xml,javascript} ->! database:={sqlite,postgresql,xml,mysql}
+programming language:={xml,javascript} ->! first public release date:=[2002-2002]
 programming language:={xml,javascript} ->! latest stable release:={1.4}
+programming language:={xml,javascript} ->! first public release date:=[1998-1998]
 programming language:={xml,javascript} ->! latest stable release:={5.0.2}
 programming language:={xml,javascript} ->! latest stable release:={6.1}
 programming language:={xml,javascript} ->! latest stable release:={1.0.1}
+programming language:={xml,javascript} ->! first public release date:=[2000-2000]
 programming language:={xml,javascript} ->! latest stable release:={4.7.2}
+programming language:={xml,javascript} ->! database:={ibm db2,oracle,sqlite,postgresql,xml,sql}
 programming language:={xml,javascript} ->! latest stable release:={1.4.11}
+programming language:={xml,javascript} ->! first public release date:=[1985-1985]
 programming language:={xml,javascript} ->! latest stable release:={2.28.1}
 programming language:={xml,javascript} ->! latest stable release:={3.0.2}
+programming language:={xml,javascript} ->! first public release date:=[2008-2008]
+programming language:={xml,javascript} ->! first public release date:=[2003-2003]
 programming language:={xml,javascript} ->! latest stable release:={4.07.10}
 programming language:={xml,javascript} ->! database:={mysql,innodb}
 first public release date:=[1982-1985] ->! latest stable release:={5.0.2}
+stable release date:=[2008-2008] ->! programming language:={c,java}
+stable release date:=[2008-2008] ->! first public release date:=[1982-1982]
 stable release date:=[2008-2008] ->! latest stable release:={5.0.0}
-programming language:={php} ->! development status:=*
 programming language:={php} ->! latest stable release:={3.0}
+programming language:={php} ->! stable release date:=[2013-2013]
 programming language:={php} ->! latest stable release:={3.6}
 programming language:={php} ->! latest stable release:={12.04.03}
+programming language:={php} ->! stable release date:=[2014-2014]
+programming language:={php} ->! first public release date:=[1982-1982]
 programming language:={php} ->! latest stable release:={5.0.0}
+programming language:={php} ->! stable release date:=[2009-2009]
+programming language:={php} ->! first public release date:=[2001-2001]
 programming language:={php} ->! latest stable release:={3.2}
 programming language:={php} ->! latest stable release:={2.6.6}
+programming language:={php} ->! database:={sqlite,postgresql,xml,mysql}
+programming language:={php} ->! first public release date:=[2002-2002]
 programming language:={php} ->! latest stable release:={1.4}
+programming language:={php} ->! first public release date:=[1998-1998]
 programming language:={php} ->! latest stable release:={5.0.2}
 programming language:={php} ->! latest stable release:={6.1}
 programming language:={php} ->! latest stable release:={1.0.1}
+programming language:={php} ->! first public release date:=[2000-2000]
 programming language:={php} ->! latest stable release:={4.7.2}
 programming language:={php} ->! latest stable release:={1.4.11}
+programming language:={php} ->! first public release date:=[1985-1985]
 programming language:={php} ->! latest stable release:={2.28.1}
 programming language:={php} ->! latest stable release:={7.0}
 programming language:={php} ->! latest stable release:={3.0.2}
-development status:=* ->! programming language:={c++}
+programming language:={php} ->! first public release date:=[2008-2008]
 development status:=* ->! latest stable release:={3.0}
+development status:=* ->! stable release date:=[2013-2013]
 development status:=* ->! latest stable release:={3.6}
+development status:=* ->! programming language:={java,freemarker,groovy,xml,javascript}
 development status:=* ->! latest stable release:={12.04.03}
+development status:=* ->! stable release date:=[2014-2014]
+development status:=* ->! programming language:={c,java}
+development status:=* ->! first public release date:=[1982-1982]
 development status:=* ->! latest stable release:={5.0.0}
+development status:=* ->! stable release date:=[2009-2009]
+development status:=* ->! first public release date:=[2001-2001]
 development status:=* ->! latest stable release:={3.2}
 development status:=* ->! latest stable release:={2.3.24}
+development status:=* ->! programming language:={c,scheme,lisp,perl}
 development status:=* ->! latest stable release:={2.6.6}
+development status:=* ->! database:={sqlite,postgresql,xml,mysql}
+development status:=* ->! first public release date:=[2002-2002]
 development status:=* ->! latest stable release:={1.4}
+development status:=* ->! first public release date:=[1998-1998]
 development status:=* ->! latest stable release:={5.0.2}
 development status:=* ->! programming language:={objective c}
 development status:=* ->! latest stable release:={6.1}
+development status:=* ->! first public release date:=[2000-2000]
 development status:=* ->! latest stable release:={4.7.2}
 development status:=* ->! latest stable release:={1.4.11}
+development status:=* ->! first public release date:=[1985-1985]
 development status:=* ->! latest stable release:={2.28.1}
+development status:=* ->! programming language:={python,xml,javascript}
 development status:=* ->! latest stable release:={7.0}
+development status:=* ->! first public release date:=[2008-2008]
+development status:=* ->! first public release date:=[2003-2003]
 development status:=* ->! latest stable release:={4.07.10}
+development status:=* ->! database:={mysql,innodb}
 programming language:={c++} ->! latest stable release:={3.0}
+programming language:={c++} ->! stable release date:=[2013-2013]
 programming language:={c++} ->! latest stable release:={3.6}
 programming language:={c++} ->! latest stable release:={12.04.03}
+programming language:={c++} ->! stable release date:=[2014-2014]
+programming language:={c++} ->! database:={ms sql,oracle,postgresql,derby,mysql}
 programming language:={c++} ->! first public release date:=[1982-1982]
 programming language:={c++} ->! latest stable release:={5.0.0}
+programming language:={c++} ->! stable release date:=[2009-2009]
+programming language:={c++} ->! first public release date:=[2001-2001]
 programming language:={c++} ->! latest stable release:={3.2}
+programming language:={c++} ->! database:={ms sql,oracle,postgresql,advance server}
 programming language:={c++} ->! latest stable release:={2.3.24}
 programming language:={c++} ->! latest stable release:={2.6.6}
+programming language:={c++} ->! database:={sqlite,postgresql,xml,mysql}
+programming language:={c++} ->! first public release date:=[2002-2002]
 programming language:={c++} ->! latest stable release:={1.4}
+programming language:={c++} ->! first public release date:=[1998-1998]
 programming language:={c++} ->! latest stable release:={5.0.2}
 programming language:={c++} ->! latest stable release:={6.1}
 programming language:={c++} ->! latest stable release:={1.0.1}
 programming language:={c++} ->! latest stable release:={1.4.11}
 programming language:={c++} ->! latest stable release:={7.0}
 programming language:={c++} ->! latest stable release:={3.0.2}
+programming language:={c++} ->! first public release date:=[2008-2008]
+programming language:={c++} ->! first public release date:=[2003-2003]
 programming language:={c++} ->! latest stable release:={4.07.10}
+programming language:={c++} ->! database:={mysql,innodb}
 latest stable release:={3.0} ->! programming language:={objective c}
+latest stable release:={3.0} ->! programming language:={jboss,eclipse rcp,jdo,j2ee}
 latest stable release:={3.0} ->! database:={mysql,innodb}
 latest stable release:={3.6} ->! programming language:={objective c}
 latest stable release:={3.6} ->! programming language:={jboss,eclipse rcp,jdo,j2ee}

@@ -1,6 +1,6 @@
 # Similarity Operator
 
-## IntegerIntervalSimilarityOperator
+## DefaultIntegerSimilarities
 
 This operator is defined for attribute values of type Integer.
 It defines the similarity of two Integers _x_ and _y_ by the interval \[x,y\].
@@ -11,7 +11,7 @@ For instance, the computed similarities for the values "2004", "2006", "2014" an
 
 ![Similarities integer interval](./images/msl-integerinterval.png)
 
-## StringDefaultSimilarityOperator
+## LiteralSimilarities
 
 This operator is defined for attribute values of type String.
 It defines that there is no similarity between two values (i.e., the similarity returned is *)
@@ -20,10 +20,10 @@ For instance, the computed similarities for the values "JavaScript", "Java EE" a
 
 ![Similarities String default](./images/msl-stringdefault.png)
 
-## DoubleIntervalSimilarityOperator
+## DefaultDoubleSimilarities
 
 This operator is defined for attribute values of type Double.
-First it computes the number of class intervals using the Sturgis formula.
+First it computes the number of class intervals using the Sturges formula.
 Then it creates the corresponding class intervals.
 The initial Double values are not kept in the set of similarities, only the computed intervals.
 

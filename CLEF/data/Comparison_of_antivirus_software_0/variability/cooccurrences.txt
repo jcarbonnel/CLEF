@@ -1,0 +1,15 @@
+company:={zemana} <-> country of origin:={turkey}
+company:={virusblokada} <-> country of origin:={belarus}
+company:={psafe} <-> country of origin:={brazil}
+company:={kingsoft} <-> price:={shareware}
+company:={frisk software} <-> country of origin:={iceland}
+company:={clamwin} <-> license:={gnu gpl}
+company:={ahnlab} <-> country of origin:={south korea}
+company:={trend micro} <-> country of origin:={japan}
+company:={scandium security} <-> country of origin:={cyprus}
+company:={panda security} <-> country of origin:={spain}
+company:={gfi software} <-> country of origin:={malta}
+company:={f-secure} <-> country of origin:={finland}
+company:={eset} <-> country of origin:={slovakia}
+company:={bitdefender} <-> country of origin:={romania}
+on-demand scan <-> on-access scan
